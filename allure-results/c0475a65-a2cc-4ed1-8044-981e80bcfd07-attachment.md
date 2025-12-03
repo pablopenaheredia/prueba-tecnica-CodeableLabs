@@ -1,0 +1,1155 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region [ref=e2]:
+    - generic [ref=e3]:
+      - paragraph [ref=e5]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e6] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e7]:
+        - button "Aceptar cookies" [ref=e8] [cursor=pointer]
+        - button "Configurar cookies" [ref=e9] [cursor=pointer]
+  - banner [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - navigation "Menú de métodos abreviados" [ref=e13]:
+          - heading "Saltar a" [level=2]
+          - list "Saltar a" [ref=e14]:
+            - listitem:
+              - link "Saltar el contenido" [ref=e15] [cursor=pointer]:
+                - /url: "#root-app"
+            - listitem:
+              - link "Comentar sobre accesibilidad" [ref=e16] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - separator [ref=e17]
+          - heading "Métodos abreviados de teclado" [level=2]
+          - list "Métodos abreviados de teclado" [ref=e18]:
+            - listitem:
+              - link "Buscar /" [ref=e19] [cursor=pointer]:
+                - /url: "#cb1-edit"
+                - generic:
+                  - generic: Buscar
+                  - generic [ref=e21]: /
+            - listitem:
+              - link "Mis compras P" [ref=e22] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list
+                - generic:
+                  - generic: Mis compras
+                  - generic [ref=e24]: P
+            - listitem:
+              - link "Carrito C" [ref=e25] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/gz/cart
+                - generic:
+                  - generic: Carrito
+                  - generic [ref=e27]: C
+            - listitem:
+              - link "Descripción D" [ref=e28] [cursor=pointer]:
+                - /url: "#description"
+                - generic:
+                  - generic: Descripción
+                  - generic [ref=e30]: D
+            - listitem:
+              - link "Preguntas Q" [ref=e31] [cursor=pointer]:
+                - /url: "#questions"
+                - generic:
+                  - generic: Preguntas
+                  - generic [ref=e33]: Q
+            - listitem:
+              - link "Calificaciones R" [ref=e34] [cursor=pointer]:
+                - /url: "#reviews_capability_v3"
+                - generic:
+                  - generic: Calificaciones
+                  - generic [ref=e36]: R
+            - listitem:
+              - link "Abrir/cerrar el menú de métodos abreviados Z" [ref=e37] [cursor=pointer]:
+                - /url: "#"
+                - generic:
+                  - generic: Abrir/cerrar el menú de métodos abreviados
+                  - generic [ref=e39]: Z
+          - generic [ref=e42]: Para moverte entre elementos, usa las flechas arriba o abajo del teclado.
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e43] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e45]:
+        - generic [ref=e46]: Ingresá lo que quieras encontrar
+        - combobox "Ingresá lo que quieras encontrar" [ref=e47]
+        - button "Buscar" [ref=e48] [cursor=pointer]:
+          - img "Buscar" [ref=e49]: 
+        - text: Tiendas oficiales
+      - link "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e51] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/suscripciones/melimas?#origin=bannermenu-acq-melimas&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N1A5_BNR_MENU_349&me.flow=146&me.logic=campaigns&me.position=0
+        - img "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e52]
+      - button " Enviar a Córdoba 5013" [ref=e55] [cursor=pointer]:
+        - text: 
+        - generic [ref=e56]: Enviar a
+        - generic [ref=e57]: Córdoba 5013
+      - list [ref=e60]:
+        - listitem [ref=e61]:
+          - button "Categorías" [ref=e62] [cursor=pointer]
+        - listitem [ref=e63]:
+          - link "Ofertas" [ref=e64] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e65]:
+          - link "Cupones" [ref=e66] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e67]:
+          - link "Supermercado" [ref=e68] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e69]:
+          - link "Moda" [ref=e70] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e71]:
+          - link "Mercado Play Gratis" [ref=e72] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e73]: Gratis
+        - listitem [ref=e74]:
+          - link "Vender" [ref=e75] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e76]:
+          - link "Ayuda" [ref=e77] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e78]:
+        - navigation "Menú de usuario" [ref=e79]:
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - button "Pablo, menú" [ref=e84] [cursor=pointer]:
+                - generic [ref=e85]:
+                  - generic [ref=e88]: P
+                  - generic [ref=e89]: Pablo
+            - listitem [ref=e91]:
+              - link "Mis compras" [ref=e92] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+              - button "Favoritos" [ref=e93] [cursor=pointer]:
+                - generic [ref=e94]: Favoritos
+              - button "Notificaciones" [ref=e95] [cursor=pointer]:
+                - generic [ref=e96]: 
+            - listitem
+        - link " 0 productos en tu carrito" [ref=e97] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e98]: 
+          - generic [ref=e99]: 0 productos en tu carrito
+          - generic [ref=e100]: "3"
+  - main [ref=e101]:
+    - generic [ref=e102]:
+      - generic [ref=e105]:
+        - list [ref=e107]:
+          - listitem [ref=e108]: "También puede interesarte :"
+          - listitem [ref=e109]:
+            - link "zapatillas topper duke" [ref=e110] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-duke#topkeyword
+          - listitem [ref=e111]:
+            - text: "-"
+            - link "zapatillas topper mujer" [ref=e112] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-mujer#topkeyword
+          - listitem [ref=e113]:
+            - text: "-"
+            - link "zapatillas topper nena 23" [ref=e114] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-nena-23#topkeyword
+          - listitem [ref=e115]:
+            - text: "-"
+            - link "zapatillas topper urbanas" [ref=e116] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-urbanas#topkeyword
+          - listitem [ref=e117]:
+            - text: "-"
+            - link "zapatillas topper costa" [ref=e118] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-costa#topkeyword
+          - listitem [ref=e119]:
+            - text: "-"
+            - link "zapatillas topper de vestir" [ref=e120] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-de-vestir#topkeyword
+          - listitem [ref=e121]:
+            - text: "-"
+            - link "zapatillas topper warp" [ref=e122] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-warp#topkeyword
+        - generic [ref=e123]:
+          - navigation [ref=e125]:
+            - list [ref=e126]:
+              - listitem [ref=e127]:
+                - link "Ropa y Accesorios" [ref=e128] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios
+                - img [ref=e130]
+              - listitem [ref=e132]:
+                - link "Calzado" [ref=e133] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/
+                - img [ref=e135]
+              - listitem [ref=e137]:
+                - link "Zapatillas" [ref=e138] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/
+                - img [ref=e140]
+              - listitem [ref=e142]:
+                - link "Zapatillas Urbanas" [ref=e143] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/zapatillas-urbanas
+          - link "Vender uno igual" [ref=e145] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list/equals?itemId=MLA1475074077
+          - button "Compartir" [ref=e149] [cursor=pointer]:
+            - generic [ref=e150]: Compartir
+      - generic [ref=e152]:
+        - generic [ref=e154]:
+          - generic [ref=e156]:
+            - link "Ver más productos marca Topper" [ref=e158] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/nuevo/_BRAND_415948_GENDER_110461?recos_ids=MLA1475074077,MLA1464759379,MLA2000026214,MLA1486246381,MLA1483851415,MLA1562298921,MLA1974014858,MLA1974014620,MLA1998530132,MLA1464869989,MLA2011480578,MLA2022588734,MLA2611655546,MLA1975168046,MLA2123766894,MLA2012238888,MLA2040613750,MLA2171832402,MLA2052484684,MLA1525997484
+              - paragraph [ref=e160]: Ver más productos marca Topper
+            - generic [ref=e162]:
+              - generic [ref=e163]: Nuevo | +1000 vendidos
+              - generic [ref=e164]:
+                - heading "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [level=1] [ref=e165]
+                - switch "Agregar a favoritos" [ref=e166] [cursor=pointer]:
+                  - img [ref=e167]
+                  - img
+                  - generic [ref=e170]: Agregar a favoritos
+              - link "Calificación 4.7 de 5. 245 opiniones." [ref=e172] [cursor=pointer]:
+                - /url: /noindex/catalog/reviews/MLA1475074077?noIndex=true&access=view_all&modal=true&show_fae=true&source_platform=/web/desktop&device_id_variant=6dd1ad68-4682-4cb8-ba11-459fd2446653
+                - generic [ref=e173]: "4.7"
+                - generic [ref=e174]:
+                  - img [ref=e175]
+                  - img [ref=e177]
+                  - img [ref=e179]
+                  - img [ref=e181]
+                  - img [ref=e183]
+                - generic [ref=e185]: Calificación 4.7 de 5. 245 opiniones.
+                - generic [ref=e186]: (245)
+            - generic [ref=e188]:
+              - figure [ref=e190]:
+                - img [ref=e191]
+              - generic [ref=e193]: OFERTA IMPERDIBLE
+            - generic [ref=e195]:
+              - generic [ref=e196]:
+                - 'img "Antes: 89999 pesos" [ref=e198]':
+                  - generic [ref=e199]: $
+                  - generic [ref=e200]: "89.999"
+                - generic [ref=e201]:
+                  - img "52379 pesos con 42 centavos" [ref=e203]:
+                    - generic [ref=e204]: $
+                    - generic [ref=e205]: "52.379"
+                    - generic [ref=e206]: ","
+                    - generic [ref=e207]: "42"
+                  - generic [ref=e209]: 41% OFF
+                - group [ref=e210]:
+                  - paragraph [ref=e211]:
+                    - text: Cuota promocionada en 6 cuotas de
+                    - img "9992 pesos con 25 centavos" [ref=e213]:
+                      - generic [ref=e214]: $
+                      - generic [ref=e215]: "9.992"
+                      - generic [ref=e216]: ","
+                      - generic [ref=e217]: "25"
+                  - paragraph [ref=e218]:
+                    - text: "Precio sin impuestos nacionales:"
+                    - img "43289 pesos" [ref=e220]:
+                      - generic [ref=e221]: $
+                      - generic [ref=e222]: "43.289"
+              - link "Ver los medios de pago" [ref=e226] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1475074077/payments?new_version=true&modal=false&newIndex=true
+                - generic [ref=e227]: Ver los medios de pago
+            - generic [ref=e228]:
+              - generic [ref=e233]:
+                - generic [ref=e234]:
+                  - generic [ref=e235]: Llega gratis el sábado
+                  - text: por ser tu
+                  - generic [ref=e236]: primera compra
+                - link "Más detalles y formas de entrega" [ref=e238] [cursor=pointer]:
+                  - generic [ref=e239]: Más detalles y formas de entrega
+              - generic [ref=e243]:
+                - generic [ref=e244]: Devolución gratis
+                - paragraph [ref=e245]: Tenés 30 días desde que lo recibís.
+                - link "Conocer más" [ref=e249] [cursor=pointer]:
+                  - /url: https://articulo.mercadolibre.com.ar/noindex/freeReturn/fashion?itemId=MLA1475074077&quantity=1&new_version=true&modal=false&controlled=true
+            - generic [ref=e251]:
+              - generic [ref=e252]:
+                - paragraph [ref=e253]: Color:Oliva Night Negro
+                - button "Botón 1 de 1, Oliva Night Negro" [ref=e255] [cursor=pointer]:
+                  - img "Oliva Night Negro" [ref=e256]
+              - generic [ref=e257]:
+                - paragraph [ref=e258]: Talle:Elegí
+                - 'button "Talle: Elegí" [ref=e261] [cursor=pointer]':
+                  - generic [ref=e262]: Elegí
+                  - img [ref=e264]
+                - generic [ref=e266]:
+                  - link "Guía de talles" [ref=e271] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.ar/moda/noindex/guia-de-talles/603624?is_new_size_chart=true&app=vip&modal=false#tp=af
+                    - img [ref=e273]
+                    - generic [ref=e275]: Guía de talles
+                  - button "Al 95% le quedó como esperaba" [ref=e279] [cursor=pointer]:
+                    - text: Al
+                    - generic [ref=e280]: 95%
+                    - text: le quedó como esperaba
+                    - img [ref=e281]
+            - paragraph [ref=e286]: Stock disponible
+            - combobox [ref=e292] [cursor=pointer]:
+              - generic [ref=e293]:
+                - generic [ref=e294]: "Cantidad:"
+                - generic [ref=e295]: 1 unidad
+                - img [ref=e297]
+                - generic [ref=e299]: (+25 disponibles)
+            - generic [ref=e302]:
+              - generic [ref=e303]:
+                - button "Comprar ahora . Elegí Talle para continuar con tu compra." [ref=e305]:
+                  - generic [ref=e306]:
+                    - text: Comprar ahora
+                    - generic [ref=e307]: . Elegí Talle para continuar con tu compra.
+                - generic [ref=e308]: Elegí Talle para continuar con tu compra.
+              - generic [ref=e309]:
+                - button "Cart A2C Agregar al carrito . Elegí Talle para continuar con tu compra." [ref=e311]:
+                  - generic [ref=e312]:
+                    - img "Cart A2C" [ref=e314]
+                    - text: Agregar al carrito
+                    - generic [ref=e316]: . Elegí Talle para continuar con tu compra.
+                - generic [ref=e317]: Elegí Talle para continuar con tu compra.
+            - generic [ref=e320]:
+              - button "Vendido porGamati Calzados" [ref=e323] [cursor=pointer]
+              - paragraph [ref=e325]:
+                - text: MercadoLíder
+                - generic [ref=e326]: "|"
+                - generic [ref=e327]: +100mil ventas
+            - list [ref=e329]:
+              - listitem [ref=e330]:
+                - generic [ref=e331]:
+                  - figure [ref=e332]:
+                    - img [ref=e333]
+                  - generic [ref=e336]:
+                    - link "Compra Protegida Se abrirá en una nueva ventana" [ref=e337] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/compra-protegida
+                      - text: Compra Protegida
+                      - generic [ref=e338]: Se abrirá en una nueva ventana
+                    - text: . Recibí el producto que esperabas o te devolvemos tu dinero.
+              - listitem [ref=e339]:
+                - generic [ref=e340]:
+                  - figure [ref=e341]:
+                    - img [ref=e342]
+                  - generic [ref=e345]: 30 días de garantía de fábrica.
+            - generic "Incluir ticket de cambio para regalo." [ref=e346]:
+              - checkbox [ref=e349] [cursor=pointer]
+              - generic [ref=e353]:
+                - generic [ref=e355]: Incluir ticket de cambio para regalo.
+                - button "Ver más" [ref=e357] [cursor=pointer]:
+                  - generic [ref=e358]: Ver más
+              - img [ref=e360]
+            - button "Agregar a una lista" [ref=e373] [cursor=pointer]:
+              - generic [ref=e374]: Agregar a una lista
+              - img [ref=e376]
+          - generic [ref=e380]:
+            - generic [ref=e382]:
+              - link "Ir a la página del vendedor" [ref=e384] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/pagina/gamaticalzados?item_id=MLA1475074077&category_id=MLA109027&seller_id=432145923&client=recoview-selleritems&recos_listing=true#origin=vip&component=sellerData&typeSeller=eshop
+                - generic [ref=e386]:
+                  - img [ref=e387]
+                  - generic [ref=e388]: Ir a la página del vendedor
+              - generic [ref=e389]:
+                - generic [ref=e391]:
+                  - heading "Gamati Calzados" [level=2] [ref=e393]
+                  - button "Seguir vendedor" [ref=e395] [cursor=pointer]:
+                    - generic [ref=e396]: Seguir
+                - generic [ref=e399]:
+                  - paragraph [ref=e400]:
+                    - generic [ref=e401]: +5mil
+                    - text: Seguidores
+                  - paragraph [ref=e402]:
+                    - generic [ref=e403]: "+500"
+                    - text: Productos
+            - generic [ref=e405]:
+              - generic [ref=e408]:
+                - paragraph [ref=e409]: MercadoLíder Platinum
+                - paragraph [ref=e410]: ¡Uno de los mejores del sitio!
+              - list [ref=e411]:
+                - listitem [ref=e412]
+                - listitem [ref=e413]
+                - listitem [ref=e414]
+                - listitem [ref=e415]
+                - listitem [ref=e416]
+              - generic [ref=e417]:
+                - generic [ref=e418]:
+                  - paragraph [ref=e419]: +100mil
+                  - paragraph [ref=e420]: Ventas
+                - paragraph [ref=e423]: Buena atención
+                - paragraph [ref=e426]: Entrega a tiempo
+            - link "Ir a la página del vendedor" [ref=e429] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/pagina/gamaticalzados?item_id=MLA1475074077&category_id=MLA109027&seller_id=432145923&client=recoview-selleritems&recos_listing=true#origin=vip&component=sellerData&typeSeller=eshop
+              - generic [ref=e430]: Ir a la página del vendedor
+          - generic [ref=e433]:
+            - heading "Medios de pago" [level=2] [ref=e434]
+            - generic [ref=e435]:
+              - paragraph [ref=e436]: Cuotas sin Tarjeta
+              - img "Mercado Crédito" [ref=e440]
+              - paragraph [ref=e441]: Tarjetas de crédito
+              - generic [ref=e442]:
+                - img "Visa" [ref=e445]
+                - img "American Express" [ref=e448]
+                - img "Mastercard" [ref=e451]
+                - img "Naranja" [ref=e454]
+              - paragraph [ref=e455]: Tarjetas de débito
+              - generic [ref=e456]:
+                - img "Visa Débito" [ref=e459]
+                - img "Maestro" [ref=e462]
+                - img "Cabal Débito" [ref=e465]
+                - img "Mastercard Débito" [ref=e468]
+              - paragraph [ref=e469]: Efectivo
+              - generic [ref=e470]:
+                - img "PagoFacil" [ref=e473]
+                - img "Rapipago" [ref=e476]
+            - link "Conocé otros medios de pago" [ref=e480] [cursor=pointer]:
+              - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1475074077/payments?new_version=true&modal=false&newIndex=true
+        - generic [ref=e484]:
+          - group "Galería de fotos, Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e488]:
+            - generic [ref=e489]:
+              - generic [ref=e490]:
+                - button "Imagen 1 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e492] [cursor=pointer]:
+                  - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e493]
+                - figure [ref=e494]:
+                  - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e495]
+              - button "Imagen 2 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e498] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e499]
+              - button "Imagen 3 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e502] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e503]
+              - button "Imagen 4 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e506] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e507]
+              - button "Imagen 5 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e510] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e511]
+          - generic [ref=e512]:
+            - generic [ref=e514]:
+              - heading "Características del producto" [level=2] [ref=e516]
+              - generic [ref=e518]:
+                - generic [ref=e519]:
+                  - generic [ref=e521]:
+                    - img [ref=e523]
+                    - paragraph [ref=e525]:
+                      - generic [ref=e526]: "Marca:"
+                      - generic [ref=e527]: Topper
+                  - generic [ref=e529]:
+                    - img [ref=e531]
+                    - paragraph [ref=e533]:
+                      - generic [ref=e534]: "Materiales de la suela:"
+                      - generic [ref=e535]: Goma
+                - generic [ref=e536]:
+                  - generic [ref=e538]:
+                    - img [ref=e540]
+                    - paragraph [ref=e542]:
+                      - generic [ref=e543]: "Materiales del exterior:"
+                      - generic [ref=e544]: Textil
+                  - generic [ref=e546]:
+                    - img [ref=e548]
+                    - paragraph [ref=e550]:
+                      - generic [ref=e551]: "Deportes recomendados:"
+                      - generic [ref=e552]: Urbano
+              - generic [ref=e554]:
+                - generic [ref=e556]:
+                  - generic [ref=e558]:
+                    - heading "Características generales" [level=3] [ref=e559]
+                    - table [ref=e560]:
+                      - rowgroup [ref=e561]:
+                        - row "Marca Topper" [ref=e562]:
+                          - rowheader "Marca" [ref=e563]:
+                            - generic [ref=e564]: Marca
+                          - cell "Topper" [ref=e565]:
+                            - generic [ref=e566]: Topper
+                        - row "Modelo T.350 MESH" [ref=e567]:
+                          - rowheader "Modelo" [ref=e568]:
+                            - generic [ref=e569]: Modelo
+                          - cell "T.350 MESH" [ref=e570]:
+                            - generic [ref=e571]: T.350 MESH
+                        - row "Género Sin género" [ref=e572]:
+                          - rowheader "Género" [ref=e573]:
+                            - generic [ref=e574]: Género
+                          - cell "Sin género" [ref=e575]:
+                            - generic [ref=e576]: Sin género
+                        - row "Edad Adultos" [ref=e577]:
+                          - rowheader "Edad" [ref=e578]:
+                            - generic [ref=e579]: Edad
+                          - cell "Adultos" [ref=e580]:
+                            - generic [ref=e581]: Adultos
+                        - row "Tipo de ancho Estándar" [ref=e582]:
+                          - rowheader "Tipo de ancho" [ref=e583]:
+                            - generic [ref=e584]: Tipo de ancho
+                          - cell "Estándar" [ref=e585]:
+                            - generic [ref=e586]: Estándar
+                  - generic [ref=e587]:
+                    - generic [ref=e588]:
+                      - heading "Diseño" [level=3] [ref=e589]
+                      - table [ref=e590]:
+                        - rowgroup [ref=e591]:
+                          - row "Tipos de ajuste Cordones" [ref=e592]:
+                            - rowheader "Tipos de ajuste" [ref=e593]:
+                              - generic [ref=e594]: Tipos de ajuste
+                            - cell "Cordones" [ref=e595]:
+                              - generic [ref=e596]: Cordones
+                    - generic [ref=e597]:
+                      - heading "Materiales" [level=3] [ref=e598]
+                      - table [ref=e599]:
+                        - rowgroup [ref=e600]:
+                          - row "Materiales del exterior Textil" [ref=e601]:
+                            - rowheader "Materiales del exterior" [ref=e602]:
+                              - generic [ref=e603]: Materiales del exterior
+                            - cell "Textil" [ref=e604]:
+                              - generic [ref=e605]: Textil
+                          - row "Materiales del interior Textil" [ref=e606]:
+                            - rowheader "Materiales del interior" [ref=e607]:
+                              - generic [ref=e608]: Materiales del interior
+                            - cell "Textil" [ref=e609]:
+                              - generic [ref=e610]: Textil
+                          - row "Materiales de la suela Goma" [ref=e611]:
+                            - rowheader "Materiales de la suela" [ref=e612]:
+                              - generic [ref=e613]: Materiales de la suela
+                            - cell "Goma" [ref=e614]:
+                              - generic [ref=e615]: Goma
+                    - generic [ref=e616]:
+                      - heading "Especificaciones" [level=3] [ref=e617]
+                      - table [ref=e618]:
+                        - rowgroup [ref=e619]:
+                          - row "Usos recomendados Urbano" [ref=e620]:
+                            - rowheader "Usos recomendados" [ref=e621]:
+                              - generic [ref=e622]: Usos recomendados
+                            - cell "Urbano" [ref=e623]:
+                              - generic [ref=e624]: Urbano
+                - button "Ver todas las características" [ref=e625] [cursor=pointer]:
+                  - text: Ver todas las características
+                  - img [ref=e626]
+            - generic [ref=e629]:
+              - generic [ref=e631]:
+                - heading "Descripción" [level=2] [ref=e632]
+                - paragraph [ref=e633]: "Calzado liviano y confortable de diseño deportivo. Desarrollado para ser usado en el día a día. Capellada compuesto en mesh de doble densidad y materiales sintéticos. Entresuela con tecnología Superaction en EVA que amortigua el impacto en cada pisada, intensificando el confort durante su uso. Plantilla interna con tecnología Superfoam, es una espuma con memoria que se adapta al formato de su pie durante la pisada y volviendo a su forma original. CÓMO ENCONTRAR TU TALLE No te midas el pie por la mañana, porque la actividad que realices durante el día hará que tu pie se ensanche ligeramente. Es mejor que te midas el pie al acabar el día. Para saber qué número de pie calzas, segui los siguientes pasos: 1. MEDÍ DEL TALÓN A LA PUNTA DEL DEDO Coloca un trozo de papel en el suelo con uno de los bordes pegado a la pared. Pisa el papel con el talón pegado a la pared. Con un lápiz, hace una marca justo donde llega el dedo pulgar. En el papel, medí la distancia que marcaste hasta el borde del papel y compárala en nuestra guía de talles. ENCONTRAR EL TALLE CORRECTO Esto es más fácil de explicar que de hacer. Porque, ¿y si estás justo entre dos talles? En ese caso, te recomendamos que elijas el talle más grande. ¿Y si no es tu talle? ¡No te preocupes! Podes realizar el cambio de los artículos fácilmente *PREGUNTAS FRECUENTES -AUTENTICIDAD: todos los productos comercializados son 100% originales. -ENVÍO: entregamos tu pedido por medio de MERCADOENVÍOS, una vez realizada la compra recibirás un código para hacer el seguimiento de la entrega. -CAMBIOS: Tienes 30 días corridos a partir de la acreditación de tu pago para generar el cambio. Los cambios se realizan exclusivamente con previo envio de mail al correo que indica cuando realizaste la compra. El producto debe preservar su estado original, sin uso, con sus etiquetas originales, caja original. Podrán solicitar un cambio asumiendo los costos de envíos correspondientes. En caso que quieras cambiar de talle y no se encuentra en existencia el que necesites, podes cambiarlo por otro producto de nuestra tienda. -STOCK: SI ESTÁ PUBLICADO, TENEMOS STOCK! -FACTURA: enviamos factura consumidor final. Consultar por diferentes tipos de facturas. -PAGOS: podes pagar con tarjeta de crédito, RapiPago y PagoFácil a través de MERCADO PAGO. -POSTVENTA: Ante cualquier consulta nuestro equipo de \"Atención al Cliente\" está disponible para resolver tu inquietud."
+              - button "Ver descripción completa" [ref=e634] [cursor=pointer]:
+                - text: Ver descripción completa
+                - img [ref=e635]
+            - generic [ref=e639]:
+              - heading "Preguntas y respuestas" [level=2] [ref=e640]
+              - generic [ref=e643]:
+                - textbox "Escribí tu pregunta..." [ref=e647]
+                - button "Preguntar" [ref=e649] [cursor=pointer]:
+                  - generic [ref=e651]:
+                    - img [ref=e652]
+                    - generic [ref=e654]: Preguntar
+              - link "Ver todas las preguntas" [ref=e660] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.ar/noindex/questions/MLA1475074077?scroll_to_question=1&new_version=true&modal=false&parent_origin=undefined
+            - generic [ref=e664]:
+              - heading "Opiniones del producto" [level=2] [ref=e667]
+              - generic [ref=e668]:
+                - generic [ref=e669]:
+                  - generic [ref=e670]:
+                    - generic [ref=e671]:
+                      - paragraph [ref=e673]: "4.7"
+                      - generic [ref=e674]:
+                        - generic [ref=e676]:
+                          - img [ref=e677]
+                          - img [ref=e679]
+                          - img [ref=e681]
+                          - img [ref=e683]
+                          - img [ref=e685]
+                          - paragraph [ref=e687]: Calificación 4.7 de 5. 245 opiniones.
+                        - paragraph [ref=e689]: 245 calificaciones
+                    - list [ref=e691]:
+                      - listitem [ref=e692]:
+                        - generic [ref=e697]:
+                          - generic [ref=e698]: "5"
+                          - img [ref=e700]
+                      - listitem [ref=e702]:
+                        - generic [ref=e707]:
+                          - generic [ref=e708]: "4"
+                          - img [ref=e710]
+                      - listitem [ref=e712]:
+                        - generic [ref=e717]:
+                          - generic [ref=e718]: "3"
+                          - img [ref=e720]
+                      - listitem [ref=e722]:
+                        - generic [ref=e727]:
+                          - generic [ref=e728]: "2"
+                          - img [ref=e730]
+                      - listitem [ref=e732]:
+                        - generic [ref=e737]:
+                          - generic [ref=e738]: "1"
+                          - img [ref=e740]
+                  - button "Al 95% le quedó como esperaba" [ref=e745] [cursor=pointer]:
+                    - text: Al 95% le quedó como esperaba
+                    - img [ref=e746]
+                  - generic [ref=e748]:
+                    - paragraph [ref=e749]: Calificación de características
+                    - table [ref=e750]:
+                      - rowgroup [ref=e751]:
+                        - row "Relación precio-calidad Calificación 4.7 de 5" [ref=e752]:
+                          - cell "Relación precio-calidad" [ref=e753]
+                          - cell "Calificación 4.7 de 5" [ref=e754]:
+                            - generic [ref=e755]:
+                              - img [ref=e756]
+                              - img [ref=e758]
+                              - img [ref=e760]
+                              - img [ref=e762]
+                              - img [ref=e764]
+                              - paragraph [ref=e766]: Calificación 4.7 de 5
+                        - row "Es liviano Calificación 4.7 de 5" [ref=e767]:
+                          - cell "Es liviano" [ref=e768]
+                          - cell "Calificación 4.7 de 5" [ref=e769]:
+                            - generic [ref=e770]:
+                              - img [ref=e771]
+                              - img [ref=e773]
+                              - img [ref=e775]
+                              - img [ref=e777]
+                              - img [ref=e779]
+                              - paragraph [ref=e781]: Calificación 4.7 de 5
+                        - row "Comodidad Calificación 4.6 de 5" [ref=e782]:
+                          - cell "Comodidad" [ref=e783]
+                          - cell "Calificación 4.6 de 5" [ref=e784]:
+                            - generic [ref=e785]:
+                              - img [ref=e786]
+                              - img [ref=e788]
+                              - img [ref=e790]
+                              - img [ref=e792]
+                              - img [ref=e794]
+                              - paragraph [ref=e796]: Calificación 4.6 de 5
+                        - row "Calidad de los materiales Calificación 4.6 de 5" [ref=e797]:
+                          - cell "Calidad de los materiales" [ref=e798]
+                          - cell "Calificación 4.6 de 5" [ref=e799]:
+                            - generic [ref=e800]:
+                              - img [ref=e801]
+                              - img [ref=e803]
+                              - img [ref=e805]
+                              - img [ref=e807]
+                              - img [ref=e809]
+                              - paragraph [ref=e811]: Calificación 4.6 de 5
+                - generic [ref=e812]:
+                  - generic [ref=e813]:
+                    - heading "Opiniones con fotos" [level=3] [ref=e814]
+                    - region "Fotos del producto compartidas por los compradores" [ref=e815]:
+                      - generic [ref=e816]:
+                        - generic [ref=e818]:
+                          - group "1 de 8" [ref=e819] [cursor=pointer]:
+                            - generic [ref=e820]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 1 de 8" [ref=e821]
+                          - group "2 de 8" [ref=e822] [cursor=pointer]:
+                            - generic [ref=e823]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 2 de 8" [ref=e824]
+                          - group "3 de 8" [ref=e825] [cursor=pointer]:
+                            - generic [ref=e826]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 3 de 8" [ref=e827]
+                          - group "4 de 8" [ref=e828] [cursor=pointer]:
+                            - generic [ref=e829]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 4 de 8" [ref=e830]
+                          - group [ref=e831] [cursor=pointer]:
+                            - generic [ref=e832]:
+                              - generic:
+                                - generic:
+                                  - generic: "5"
+                                  - img
+                              - img [ref=e833]
+                          - group [ref=e834] [cursor=pointer]:
+                            - generic [ref=e835]:
+                              - generic:
+                                - generic:
+                                  - generic: "5"
+                                  - img
+                              - img [ref=e836]
+                          - group [ref=e837] [cursor=pointer]:
+                            - generic [ref=e838]:
+                              - generic:
+                                - generic:
+                                  - generic: "5"
+                                  - img
+                              - img [ref=e839]
+                          - group [ref=e840] [cursor=pointer]:
+                            - generic [ref=e841]:
+                              - img [ref=e842]
+                              - generic:
+                                - generic: "+7"
+                        - button "Siguiente" [ref=e843] [cursor=pointer]:
+                          - img [ref=e844]
+                  - generic [ref=e846]:
+                    - generic [ref=e847]:
+                      - button "Ordenar" [ref=e850] [cursor=pointer]:
+                        - generic [ref=e851]:
+                          - text: Ordenar
+                          - img [ref=e852]
+                      - button "Calificación" [ref=e856] [cursor=pointer]:
+                        - generic [ref=e857]:
+                          - text: Calificación
+                          - img [ref=e858]
+                    - generic [ref=e860]:
+                      - heading "Opiniones destacadas" [level=3] [ref=e861]
+                      - generic [ref=e862]: 114 comentarios
+                      - generic [ref=e863]:
+                        - paragraph [ref=e865]: Las zapatillas destacan por su comodidad y excelente calidad. Son livianas y tienen un diseño atractivo con un color agradable. Además, se ajustan bien y son ideales para uso urbano.
+                        - generic [ref=e866]:
+                          - img [ref=e867]
+                          - generic [ref=e870]: Resumen de opiniones generado por IA
+                      - generic [ref=e871]:
+                        - article [ref=e873]:
+                          - generic [ref=e875]:
+                            - generic [ref=e876]:
+                              - img [ref=e877]
+                              - img [ref=e879]
+                              - img [ref=e881]
+                              - img [ref=e883]
+                              - img [ref=e885]
+                              - paragraph [ref=e887]: Calificación 5 de 5
+                            - generic [ref=e888]: 20 feb. 2025
+                          - group "1 de 1" [ref=e894] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 1" [ref=e896]
+                          - text: Es lo que esperaba ,10 puntos. Gracias.
+                          - generic [ref=e897]:
+                            - switch "Marcar como útil, 4 personas marcaron esta opinión como útil." [ref=e899] [cursor=pointer]:
+                              - generic [ref=e900]:
+                                - generic [ref=e901]: Es útil
+                                - img [ref=e902]
+                                - paragraph [ref=e904]: "4"
+                            - button "Más opciones" [ref=e907] [cursor=pointer]:
+                              - button "Más opciones" [ref=e909]
+                        - article [ref=e914]:
+                          - generic [ref=e916]:
+                            - generic [ref=e917]:
+                              - img [ref=e918]
+                              - img [ref=e920]
+                              - img [ref=e922]
+                              - img [ref=e924]
+                              - img [ref=e926]
+                              - paragraph [ref=e928]: Calificación 5 de 5
+                            - generic [ref=e929]: 19 abr. 2025
+                          - group "1 de 1" [ref=e935] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 1" [ref=e937]
+                          - text: Excelente muy conforme gracias.
+                          - generic [ref=e938]:
+                            - switch "Marcar como útil, 3 personas marcaron esta opinión como útil." [ref=e940] [cursor=pointer]:
+                              - generic [ref=e941]:
+                                - generic [ref=e942]: Es útil
+                                - img [ref=e943]
+                                - paragraph [ref=e945]: "3"
+                            - button "Más opciones" [ref=e948] [cursor=pointer]:
+                              - button "Más opciones" [ref=e950]
+                        - article [ref=e955]:
+                          - generic [ref=e957]:
+                            - generic [ref=e958]:
+                              - img [ref=e959]
+                              - img [ref=e961]
+                              - img [ref=e963]
+                              - img [ref=e965]
+                              - img [ref=e967]
+                              - paragraph [ref=e969]: Calificación 5 de 5
+                            - generic [ref=e970]: 20 oct. 2025
+                          - generic [ref=e975]:
+                            - group "1 de 2" [ref=e976] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 1 de 2" [ref=e978]
+                            - group "2 de 2" [ref=e979] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 2 de 2" [ref=e981]
+                          - text: Muy bueno.
+                          - generic [ref=e982]:
+                            - switch "Marcar como útil, 2 personas marcaron esta opinión como útil." [ref=e984] [cursor=pointer]:
+                              - generic [ref=e985]:
+                                - generic [ref=e986]: Es útil
+                                - img [ref=e987]
+                                - paragraph [ref=e989]: "2"
+                            - button "Más opciones" [ref=e992] [cursor=pointer]:
+                              - button "Más opciones" [ref=e994]
+                        - article [ref=e999]:
+                          - generic [ref=e1001]:
+                            - generic [ref=e1002]:
+                              - img [ref=e1003]
+                              - img [ref=e1005]
+                              - img [ref=e1007]
+                              - img [ref=e1009]
+                              - img [ref=e1011]
+                              - paragraph [ref=e1013]: Calificación 5 de 5
+                            - generic [ref=e1014]: 18 nov. 2025
+                          - generic [ref=e1019]:
+                            - group "1 de 3" [ref=e1020] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 1 de 3" [ref=e1022]
+                            - group "2 de 3" [ref=e1023] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 2 de 3" [ref=e1025]
+                            - group "3 de 3" [ref=e1026] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 3 de 3" [ref=e1028]
+                          - text: Muy bnas. Comodas. Buenas terminaciones.
+                          - generic [ref=e1029]:
+                            - switch "Marcar como útil, 1 personas marcaron esta opinión como útil." [ref=e1031] [cursor=pointer]:
+                              - generic [ref=e1032]:
+                                - generic [ref=e1033]: Es útil
+                                - img [ref=e1034]
+                                - paragraph [ref=e1036]: "1"
+                            - button "Más opciones" [ref=e1039] [cursor=pointer]:
+                              - button "Más opciones" [ref=e1041]
+                        - article [ref=e1046]:
+                          - generic [ref=e1048]:
+                            - generic [ref=e1049]:
+                              - img [ref=e1050]
+                              - img [ref=e1052]
+                              - img [ref=e1054]
+                              - img [ref=e1056]
+                              - img [ref=e1058]
+                              - paragraph [ref=e1060]: Calificación 5 de 5
+                            - generic [ref=e1061]: 18 nov. 2025
+                          - group "1 de 1" [ref=e1067] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 1" [ref=e1069]
+                          - text: Lo que esperaba.
+                          - generic [ref=e1070]:
+                            - switch "Marcar como útil, 1 personas marcaron esta opinión como útil." [ref=e1072] [cursor=pointer]:
+                              - generic [ref=e1073]:
+                                - generic [ref=e1074]: Es útil
+                                - img [ref=e1075]
+                                - paragraph [ref=e1077]: "1"
+                            - button "Más opciones" [ref=e1080] [cursor=pointer]:
+                              - button "Más opciones" [ref=e1082]
+                  - button "Mostrar todas las opiniones" [ref=e1087] [cursor=pointer]
+        - generic [ref=e1088]:
+          - generic [ref=e1089]:
+            - heading "Encontrá lo que buscás en las Tiendas oficiales" [level=2] [ref=e1090]
+            - link "Ver todas las Tiendas oficiales" [ref=e1091] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/tiendas-oficiales/show?category=MLA1430&source=PERSONALIZED&name=Ropa y Accesorios#origin=carousel_to&item_id=MLA1475074077
+              - paragraph [ref=e1092]: Ver todas las Tiendas oficiales
+          - generic [ref=e1095]:
+            - generic [ref=e1097]:
+              - group "1 de 21" [ref=e1098]:
+                - link "Topper Topper Ir a la Tienda oficial" [ref=e1099] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/topper#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1100]:
+                    - img "Topper" [ref=e1105]
+                    - generic [ref=e1106]:
+                      - paragraph [ref=e1108]: Topper
+                      - paragraph [ref=e1109]: Ir a la Tienda oficial
+              - group "2 de 21" [ref=e1110]:
+                - link "PUMA PUMA Ir a la Tienda oficial" [ref=e1111] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/puma#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1112]:
+                    - img "PUMA" [ref=e1117]
+                    - generic [ref=e1118]:
+                      - paragraph [ref=e1120]: PUMA
+                      - paragraph [ref=e1121]: Ir a la Tienda oficial
+              - group "3 de 21" [ref=e1122]:
+                - link "adidas adidas Ir a la Tienda oficial" [ref=e1123] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/adidas#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1124]:
+                    - img "adidas" [ref=e1129]
+                    - generic [ref=e1130]:
+                      - paragraph [ref=e1132]: adidas
+                      - paragraph [ref=e1133]: Ir a la Tienda oficial
+              - group "4 de 21" [ref=e1134]:
+                - link "Nike Nike Ir a la Tienda oficial" [ref=e1135] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/nike#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1136]:
+                    - img "Nike" [ref=e1141]
+                    - generic [ref=e1142]:
+                      - paragraph [ref=e1144]: Nike
+                      - paragraph [ref=e1145]: Ir a la Tienda oficial
+              - group [ref=e1146]:
+                - link [ref=e1147] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/new-balance#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1148]:
+                    - img [ref=e1153]
+                    - generic [ref=e1154]:
+                      - paragraph [ref=e1156]: New Balance
+                      - paragraph [ref=e1157]: Ir a la Tienda oficial
+              - group [ref=e1158]:
+                - link [ref=e1159] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/under-armour#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1160]:
+                    - img [ref=e1165]
+                    - generic [ref=e1166]:
+                      - paragraph [ref=e1168]: Under Armour
+                      - paragraph [ref=e1169]: Ir a la Tienda oficial
+              - group [ref=e1170]:
+                - link [ref=e1171] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/john-foos#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1172]:
+                    - img [ref=e1177]
+                    - generic [ref=e1178]:
+                      - paragraph [ref=e1180]: John Foos
+                      - paragraph [ref=e1181]: Ir a la Tienda oficial
+              - group [ref=e1182]:
+                - link [ref=e1183] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/lape#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1184]:
+                    - img [ref=e1189]
+                    - generic [ref=e1190]:
+                      - paragraph [ref=e1192]: Lape
+                      - paragraph [ref=e1193]: Ir a la Tienda oficial
+              - group [ref=e1194]:
+                - link [ref=e1195] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/_Tienda_head#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1196]:
+                    - img [ref=e1201]
+                    - generic [ref=e1202]:
+                      - paragraph [ref=e1204]: HEAD
+                      - paragraph [ref=e1205]: Ir a la Tienda oficial
+              - group [ref=e1206]:
+                - link [ref=e1207] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/jaguar#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1208]:
+                    - img [ref=e1213]
+                    - generic [ref=e1214]:
+                      - paragraph [ref=e1216]: Jaguar
+                      - paragraph [ref=e1217]: Ir a la Tienda oficial
+              - group [ref=e1218]:
+                - link [ref=e1219] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/_Tienda_converse#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1220]:
+                    - img [ref=e1225]
+                    - generic [ref=e1226]:
+                      - paragraph [ref=e1228]: Converse
+                      - paragraph [ref=e1229]: Ir a la Tienda oficial
+              - group [ref=e1230]:
+                - link [ref=e1231] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/toot#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1232]:
+                    - img [ref=e1237]
+                    - generic [ref=e1238]:
+                      - paragraph [ref=e1240]: Toot
+                      - paragraph [ref=e1241]: Ir a la Tienda oficial
+              - group [ref=e1242]:
+                - link [ref=e1243] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/_Tienda_athix#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1244]:
+                    - img [ref=e1249]
+                    - generic [ref=e1250]:
+                      - paragraph [ref=e1252]: ATHIX
+                      - paragraph [ref=e1253]: Ir a la Tienda oficial
+              - group [ref=e1254]:
+                - link [ref=e1255] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/briganti#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1256]:
+                    - img [ref=e1261]
+                    - generic [ref=e1262]:
+                      - paragraph [ref=e1264]: Briganti
+                      - paragraph [ref=e1265]: Ir a la Tienda oficial
+              - group [ref=e1266]:
+                - link [ref=e1267] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/reebok#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1268]:
+                    - img [ref=e1273]
+                    - generic [ref=e1274]:
+                      - paragraph [ref=e1276]: Reebok
+                      - paragraph [ref=e1277]: Ir a la Tienda oficial
+              - group [ref=e1278]:
+                - link [ref=e1279] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/becca-shoes#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1280]:
+                    - img [ref=e1285]
+                    - generic [ref=e1286]:
+                      - paragraph [ref=e1288]: Becca Shoes
+                      - paragraph [ref=e1289]: Ir a la Tienda oficial
+              - group [ref=e1290]:
+                - link [ref=e1291] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/diadora#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1292]:
+                    - img [ref=e1297]
+                    - generic [ref=e1298]:
+                      - paragraph [ref=e1300]: Diadora
+                      - paragraph [ref=e1301]: Ir a la Tienda oficial
+              - group [ref=e1302]:
+                - link [ref=e1303] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/salomon#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1304]:
+                    - img [ref=e1309]
+                    - generic [ref=e1310]:
+                      - paragraph [ref=e1312]: Salomon
+                      - paragraph [ref=e1313]: Ir a la Tienda oficial
+              - group [ref=e1314]:
+                - link [ref=e1315] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/kioshi#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1316]:
+                    - img [ref=e1321]
+                    - generic [ref=e1322]:
+                      - paragraph [ref=e1324]: Kioshi
+                      - paragraph [ref=e1325]: Ir a la Tienda oficial
+              - group [ref=e1326]:
+                - link [ref=e1327] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/atomik#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1328]:
+                    - img [ref=e1333]
+                    - generic [ref=e1334]:
+                      - paragraph [ref=e1336]: Atomik
+                      - paragraph [ref=e1337]: Ir a la Tienda oficial
+              - group [ref=e1338]:
+                - link [ref=e1339] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/marta-sixto#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e1340]:
+                    - img [ref=e1345]
+                    - generic [ref=e1346]:
+                      - paragraph [ref=e1348]: Marta Sixto
+                      - paragraph [ref=e1349]: Ir a la Tienda oficial
+            - button "Siguiente" [ref=e1350] [cursor=pointer]:
+              - img [ref=e1351]
+      - generic [ref=e1353]:
+        - generic [ref=e1355]:
+          - paragraph [ref=e1356]:
+            - text: Publicación
+            - generic [ref=e1357]: "#1475074077"
+          - link "Denunciar Se abrirá en una nueva ventana" [ref=e1358] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/noindex/denounce?item_id=MLA1475074077&element_type=ITM
+            - generic [ref=e1359]: Denunciar
+            - generic [ref=e1360]: Se abrirá en una nueva ventana
+        - generic [ref=e1366]:
+          - heading "Destacado en Ropa y Accesorios" [level=2] [ref=e1368]
+          - generic [ref=e1369]:
+            - generic [ref=e1370]:
+              - heading "Pantalones" [level=4] [ref=e1371]:
+                - link "Pantalones" [ref=e1372] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/pantalones#headterms
+              - list [ref=e1373]:
+                - listitem [ref=e1374]:
+                  - link "Jeans" [ref=e1375] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans#headterms
+                - listitem [ref=e1376]:
+                  - link "Jeans hombre" [ref=e1377] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans-hombre#headterms
+                - listitem [ref=e1378]:
+                  - link "Jeans mujer" [ref=e1379] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans-mujer#headterms
+                - listitem [ref=e1380]:
+                  - link "Jeans wide leg" [ref=e1381] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans-wide-leg#headterms
+                - listitem [ref=e1382]:
+                  - link "Joggers hombre" [ref=e1383] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/joggers-hombre#headterms
+                - listitem [ref=e1384]:
+                  - link "Jogging" [ref=e1385] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jogging#headterms
+                - listitem [ref=e1386]:
+                  - link "Jogging hombre" [ref=e1387] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jogging-hombre#headterms
+              - button "Ver todo" [ref=e1388] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e1389]
+            - generic [ref=e1391]:
+              - heading "Mochilas" [level=4] [ref=e1392]:
+                - link "Mochilas" [ref=e1393] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/mochilas#headterms
+              - list [ref=e1394]:
+                - listitem [ref=e1395]:
+                  - link "Fjallraven kanken" [ref=e1396] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/fjallraven-kanken#headterms
+                - listitem [ref=e1397]:
+                  - link "Mochila adidas" [ref=e1398] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-adidas#headterms
+                - listitem [ref=e1399]:
+                  - link "Mochila antirrobo" [ref=e1400] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-antirrobo#headterms
+                - listitem [ref=e1401]:
+                  - link "Mochila carrito" [ref=e1402] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-carrito#headterms
+                - listitem [ref=e1403]:
+                  - link "Mochila cuero mujer" [ref=e1404] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-cuero-mujer#headterms
+                - listitem [ref=e1405]:
+                  - link "Mochila everlast" [ref=e1406] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-everlast#headterms
+                - listitem [ref=e1407]:
+                  - link "Mochila oreiro" [ref=e1408] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-oreiro#headterms
+              - button "Ver todo" [ref=e1409] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e1410]
+            - generic [ref=e1412]:
+              - heading "Zapatillas" [level=4] [ref=e1413]:
+                - link "Zapatillas" [ref=e1414] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/zapatillas#headterms
+              - list [ref=e1415]:
+                - listitem [ref=e1416]:
+                  - link "Adidas samba" [ref=e1417] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/adidas-samba#headterms
+                - listitem [ref=e1418]:
+                  - link "Adidas superstar" [ref=e1419] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/adidas-superstar#headterms
+                - listitem [ref=e1420]:
+                  - link "Converse all star" [ref=e1421] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/converse-all-star#headterms
+                - listitem [ref=e1422]:
+                  - link "Nike air force" [ref=e1423] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/nike-air-force#headterms
+                - listitem [ref=e1424]:
+                  - link "Vans knu skool" [ref=e1425] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/vans-knu-skool#headterms
+                - listitem [ref=e1426]:
+                  - link "Zapatillas adidas" [ref=e1427] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/zapatillas-adidas#headterms
+                - listitem [ref=e1428]:
+                  - link "Zapatillas adidas hombre" [ref=e1429] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/zapatillas-adidas-hombre#headterms
+              - button "Ver todo" [ref=e1430] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e1431]
+            - generic [ref=e1433]:
+              - heading "Abrigos" [level=4] [ref=e1434]:
+                - link "Abrigos" [ref=e1435] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/abrigos#headterms
+              - list [ref=e1436]:
+                - listitem [ref=e1437]:
+                  - link "Blazer mujer" [ref=e1438] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/blazer-mujer#headterms
+                - listitem [ref=e1439]:
+                  - link "Campera columbia hombre" [ref=e1440] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-columbia-hombre#headterms
+                - listitem [ref=e1441]:
+                  - link "Campera de cuero hombre" [ref=e1442] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-de-cuero-hombre#headterms
+                - listitem [ref=e1443]:
+                  - link "Campera de cuero mujer" [ref=e1444] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-de-cuero-mujer#headterms
+                - listitem [ref=e1445]:
+                  - link "Campera hombre" [ref=e1446] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-hombre#headterms
+                - listitem [ref=e1447]:
+                  - link "Campera montagne mujer" [ref=e1448] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-montagne-mujer#headterms
+                - listitem [ref=e1449]:
+                  - link "Campera mujer" [ref=e1450] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-mujer#headterms
+              - button "Ver todo" [ref=e1451] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e1452]
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e1454] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e1455]: 
+  - contentinfo [ref=e1456]:
+    - generic [ref=e1458]:
+      - generic [ref=e1459]:
+        - generic [ref=e1460]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e1461]:
+          - list [ref=e1462]:
+            - listitem [ref=e1463]:
+              - link "Trabajá con nosotros" [ref=e1464] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e1465]:
+              - link "Términos y condiciones" [ref=e1466] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e1467]:
+              - link "Promociones" [ref=e1468] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e1469]:
+              - link "Cómo cuidamos tu privacidad" [ref=e1470] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e1471]:
+              - link "Accesibilidad" [ref=e1472] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e1473]:
+              - link "Información al usuario financiero" [ref=e1474] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e1475]:
+              - link "Ayuda" [ref=e1476] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e1477]:
+              - link "Defensa del Consumidor" [ref=e1478] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e1479]:
+              - link "Información sobre seguros" [ref=e1480] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e1481]:
+              - link "Libro de quejas online" [ref=e1482] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e1483]:
+              - link "Programa de Afiliados" [ref=e1484] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e1485]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e1486] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+```

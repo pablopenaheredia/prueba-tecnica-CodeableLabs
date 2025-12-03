@@ -1,0 +1,2707 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region [ref=e2]:
+    - generic [ref=e3]:
+      - paragraph [ref=e5]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e6] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e7]:
+        - button "Aceptar cookies" [ref=e8] [cursor=pointer]
+        - button "Configurar cookies" [ref=e9] [cursor=pointer]
+  - banner [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - navigation "Menú de métodos abreviados" [ref=e13]:
+          - heading "Saltar a" [level=2]
+          - list "Saltar a" [ref=e14]:
+            - listitem:
+              - link "Saltar el contenido" [ref=e15] [cursor=pointer]:
+                - /url: "#root-app"
+            - listitem:
+              - link "Comentar sobre accesibilidad" [ref=e16] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - separator [ref=e17]
+          - heading "Métodos abreviados de teclado" [level=2]
+          - list "Métodos abreviados de teclado" [ref=e18]:
+            - listitem:
+              - link "Buscar /" [ref=e19] [cursor=pointer]:
+                - /url: "#cb1-edit"
+                - generic:
+                  - generic: Buscar
+                  - generic [ref=e21]: /
+            - listitem:
+              - link "Mis compras P" [ref=e22] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list
+                - generic:
+                  - generic: Mis compras
+                  - generic [ref=e24]: P
+            - listitem:
+              - link "Carrito C" [ref=e25] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/gz/cart
+                - generic:
+                  - generic: Carrito
+                  - generic [ref=e27]: C
+            - listitem:
+              - link "Descripción D" [ref=e28] [cursor=pointer]:
+                - /url: "#description"
+                - generic:
+                  - generic: Descripción
+                  - generic [ref=e30]: D
+            - listitem:
+              - link "Preguntas Q" [ref=e31] [cursor=pointer]:
+                - /url: "#questions"
+                - generic:
+                  - generic: Preguntas
+                  - generic [ref=e33]: Q
+            - listitem:
+              - link "Calificaciones R" [ref=e34] [cursor=pointer]:
+                - /url: "#reviews_capability_v3"
+                - generic:
+                  - generic: Calificaciones
+                  - generic [ref=e36]: R
+            - listitem:
+              - link "Abrir/cerrar el menú de métodos abreviados Z" [ref=e37] [cursor=pointer]:
+                - /url: "#"
+                - generic:
+                  - generic: Abrir/cerrar el menú de métodos abreviados
+                  - generic [ref=e39]: Z
+          - generic [ref=e42]: Para moverte entre elementos, usa las flechas arriba o abajo del teclado.
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e43] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e45]:
+        - generic [ref=e46]: Ingresá lo que quieras encontrar
+        - combobox "Ingresá lo que quieras encontrar" [ref=e47]
+        - button "Buscar" [ref=e48] [cursor=pointer]:
+          - img "Buscar" [ref=e49]: 
+        - text: Tiendas oficiales
+      - link "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e51] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/suscripciones/melimas?#origin=bannermenu-acq-melimas&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N1A5_BNR_MENU_349&me.flow=146&me.logic=campaigns&me.position=0
+        - img "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e52]
+      - button " Enviar a Córdoba 5013" [ref=e55] [cursor=pointer]:
+        - text: 
+        - generic [ref=e56]: Enviar a
+        - generic [ref=e57]: Córdoba 5013
+      - list [ref=e60]:
+        - listitem [ref=e61]:
+          - button "Categorías" [ref=e62] [cursor=pointer]
+        - listitem [ref=e63]:
+          - link "Ofertas" [ref=e64] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e65]:
+          - link "Cupones" [ref=e66] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e67]:
+          - link "Supermercado" [ref=e68] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e69]:
+          - link "Moda" [ref=e70] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e71]:
+          - link "Mercado Play Gratis" [ref=e72] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e73]: Gratis
+        - listitem [ref=e74]:
+          - link "Vender" [ref=e75] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e76]:
+          - link "Ayuda" [ref=e77] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e78]:
+        - navigation "Menú de usuario" [ref=e79]:
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - button "Pablo, menú" [ref=e84] [cursor=pointer]:
+                - generic [ref=e85]:
+                  - generic [ref=e88]: P
+                  - generic [ref=e89]: Pablo
+            - listitem [ref=e91]:
+              - link "Mis compras" [ref=e92] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+              - button "Favoritos" [ref=e93] [cursor=pointer]:
+                - generic [ref=e94]: Favoritos
+              - button "Notificaciones" [ref=e95] [cursor=pointer]:
+                - generic [ref=e96]: 
+            - listitem
+        - link " 0 productos en tu carrito" [ref=e97] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e98]: 
+          - generic [ref=e99]: 0 productos en tu carrito
+          - generic [ref=e100]: 9+
+  - main [ref=e101]:
+    - generic [ref=e102]:
+      - generic [ref=e105]:
+        - list [ref=e107]:
+          - listitem [ref=e108]: "También puede interesarte :"
+          - listitem [ref=e109]:
+            - link "zapatillas topper duke" [ref=e110] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-duke#topkeyword
+          - listitem [ref=e111]:
+            - text: "-"
+            - link "zapatillas topper mujer" [ref=e112] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-mujer#topkeyword
+          - listitem [ref=e113]:
+            - text: "-"
+            - link "zapatillas topper nena 23" [ref=e114] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-nena-23#topkeyword
+          - listitem [ref=e115]:
+            - text: "-"
+            - link "zapatillas topper urbanas" [ref=e116] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-urbanas#topkeyword
+          - listitem [ref=e117]:
+            - text: "-"
+            - link "zapatillas topper costa" [ref=e118] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-costa#topkeyword
+          - listitem [ref=e119]:
+            - text: "-"
+            - link "zapatillas topper de vestir" [ref=e120] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-de-vestir#topkeyword
+          - listitem [ref=e121]:
+            - text: "-"
+            - link "zapatillas topper warp" [ref=e122] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/zapatillas-topper-warp#topkeyword
+        - generic [ref=e123]:
+          - navigation [ref=e125]:
+            - list [ref=e126]:
+              - listitem [ref=e127]:
+                - link "Ropa y Accesorios" [ref=e128] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios
+                - img [ref=e130]
+              - listitem [ref=e132]:
+                - link "Calzado" [ref=e133] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/
+                - img [ref=e135]
+              - listitem [ref=e137]:
+                - link "Zapatillas" [ref=e138] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/
+                - img [ref=e140]
+              - listitem [ref=e142]:
+                - link "Zapatillas Urbanas" [ref=e143] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/zapatillas-urbanas
+          - link "Vender uno igual" [ref=e145] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list/equals?itemId=MLA1475074077
+          - button "Compartir" [ref=e149] [cursor=pointer]:
+            - generic [ref=e150]: Compartir
+      - generic [ref=e152]:
+        - generic [ref=e154]:
+          - generic [ref=e156]:
+            - link "Ver más productos marca Topper" [ref=e158] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/nuevo/_BRAND_415948_GENDER_110461?recos_ids=MLA1475074077,MLA1464759379,MLA2000026214,MLA1486246381,MLA1483851415,MLA1562298921,MLA1974014858,MLA1974014620,MLA1998530132,MLA1464869989,MLA2011480578,MLA2022588734,MLA2611655546,MLA1975168046,MLA2123766894,MLA2012238888,MLA2040613750,MLA2171832402,MLA2052484684,MLA1525997484
+              - paragraph [ref=e160]: Ver más productos marca Topper
+            - generic [ref=e162]:
+              - generic [ref=e163]: Nuevo | +1000 vendidos
+              - generic [ref=e164]:
+                - heading "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [level=1] [ref=e165]
+                - switch "Agregar a favoritos" [ref=e166] [cursor=pointer]:
+                  - img [ref=e167]
+                  - img
+                  - generic [ref=e170]: Agregar a favoritos
+              - link "Calificación 4.7 de 5. 246 opiniones." [ref=e172] [cursor=pointer]:
+                - /url: /noindex/catalog/reviews/MLA1475074077?noIndex=true&access=view_all&modal=true&show_fae=true&source_platform=/web/desktop&device_id_variant=6dd1ad68-4682-4cb8-ba11-459fd2446653
+                - generic [ref=e173]: "4.7"
+                - generic [ref=e174]:
+                  - img [ref=e175]
+                  - img [ref=e177]
+                  - img [ref=e179]
+                  - img [ref=e181]
+                  - img [ref=e183]
+                - generic [ref=e185]: Calificación 4.7 de 5. 246 opiniones.
+                - generic [ref=e186]: (246)
+            - generic [ref=e188]:
+              - figure [ref=e190]:
+                - img [ref=e191]
+              - generic [ref=e193]: OFERTA IMPERDIBLE
+            - generic [ref=e195]:
+              - generic [ref=e196]:
+                - 'img "Antes: 89999 pesos" [ref=e198]':
+                  - generic [ref=e199]: $
+                  - generic [ref=e200]: "89.999"
+                - generic [ref=e201]:
+                  - img "52379 pesos con 42 centavos" [ref=e203]:
+                    - generic [ref=e204]: $
+                    - generic [ref=e205]: "52.379"
+                    - generic [ref=e206]: ","
+                    - generic [ref=e207]: "42"
+                  - generic [ref=e209]: 41% OFF
+                - group [ref=e210]:
+                  - paragraph [ref=e211]:
+                    - text: Cuota promocionada en 6 cuotas de
+                    - img "9992 pesos con 25 centavos" [ref=e213]:
+                      - generic [ref=e214]: $
+                      - generic [ref=e215]: "9.992"
+                      - generic [ref=e216]: ","
+                      - generic [ref=e217]: "25"
+                  - paragraph [ref=e218]:
+                    - text: "Precio sin impuestos nacionales:"
+                    - img "43289 pesos" [ref=e220]:
+                      - generic [ref=e221]: $
+                      - generic [ref=e222]: "43.289"
+              - link "Ver los medios de pago" [ref=e226] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1475074077/payments?new_version=true&modal=false&newIndex=true
+                - generic [ref=e227]: Ver los medios de pago
+            - generic [ref=e228]:
+              - generic [ref=e233]:
+                - generic [ref=e234]:
+                  - generic [ref=e235]: Llega gratis el sábado
+                  - text: por ser tu
+                  - generic [ref=e236]: primera compra
+                - link "Más detalles y formas de entrega" [ref=e238] [cursor=pointer]:
+                  - generic [ref=e239]: Más detalles y formas de entrega
+              - generic [ref=e243]:
+                - generic [ref=e244]: Devolución gratis
+                - paragraph [ref=e245]: Tenés 30 días desde que lo recibís.
+                - link "Conocer más" [ref=e249] [cursor=pointer]:
+                  - /url: https://articulo.mercadolibre.com.ar/noindex/freeReturn/fashion?itemId=MLA1475074077&quantity=1&new_version=true&modal=false&controlled=true
+            - generic [ref=e251]:
+              - generic [ref=e252]:
+                - paragraph [ref=e253]: Color:Oliva Night Negro
+                - button "Botón 1 de 1, Oliva Night Negro" [ref=e255] [cursor=pointer]:
+                  - img "Oliva Night Negro" [ref=e256]
+              - generic [ref=e257]:
+                - paragraph [ref=e258]: Talle:Elegí
+                - 'button "Talle: Elegí" [ref=e261] [cursor=pointer]':
+                  - generic [ref=e262]: Elegí
+                  - img [ref=e264]
+                - generic [ref=e266]:
+                  - link "Guía de talles" [ref=e271] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.ar/moda/noindex/guia-de-talles/603624?is_new_size_chart=true&app=vip&modal=false#tp=af
+                    - img [ref=e273]
+                    - generic [ref=e275]: Guía de talles
+                  - button "Al 95% le quedó como esperaba" [ref=e279] [cursor=pointer]:
+                    - text: Al
+                    - generic [ref=e280]: 95%
+                    - text: le quedó como esperaba
+                    - img [ref=e281]
+            - paragraph [ref=e286]: Stock disponible
+            - combobox [ref=e292] [cursor=pointer]:
+              - generic [ref=e293]:
+                - generic [ref=e294]: "Cantidad:"
+                - generic [ref=e295]: 1 unidad
+                - img [ref=e297]
+                - generic [ref=e299]: (+25 disponibles)
+            - generic [ref=e302]:
+              - generic [ref=e303]:
+                - button "Comprar ahora . Elegí Talle para continuar con tu compra." [ref=e305]:
+                  - generic [ref=e306]:
+                    - text: Comprar ahora
+                    - generic [ref=e307]: . Elegí Talle para continuar con tu compra.
+                - generic [ref=e308]: Elegí Talle para continuar con tu compra.
+              - generic [ref=e309]:
+                - button "Cart A2C Agregar al carrito . Elegí Talle para continuar con tu compra." [ref=e311]:
+                  - generic [ref=e312]:
+                    - img "Cart A2C" [ref=e314]
+                    - text: Agregar al carrito
+                    - generic [ref=e316]: . Elegí Talle para continuar con tu compra.
+                - generic [ref=e317]: Elegí Talle para continuar con tu compra.
+            - generic [ref=e320]:
+              - button "Vendido porGamati Calzados" [ref=e323] [cursor=pointer]
+              - paragraph [ref=e325]:
+                - text: MercadoLíder
+                - generic [ref=e326]: "|"
+                - generic [ref=e327]: +100mil ventas
+            - list [ref=e329]:
+              - listitem [ref=e330]:
+                - generic [ref=e331]:
+                  - figure [ref=e332]:
+                    - img [ref=e333]
+                  - generic [ref=e336]:
+                    - link "Compra Protegida Se abrirá en una nueva ventana" [ref=e337] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/compra-protegida
+                      - text: Compra Protegida
+                      - generic [ref=e338]: Se abrirá en una nueva ventana
+                    - text: . Recibí el producto que esperabas o te devolvemos tu dinero.
+              - listitem [ref=e339]:
+                - generic [ref=e340]:
+                  - figure [ref=e341]:
+                    - img [ref=e342]
+                  - generic [ref=e345]: 30 días de garantía de fábrica.
+            - generic "Incluir ticket de cambio para regalo." [ref=e346]:
+              - checkbox [ref=e349] [cursor=pointer]
+              - generic [ref=e353]:
+                - generic [ref=e355]: Incluir ticket de cambio para regalo.
+                - button "Ver más" [ref=e357] [cursor=pointer]:
+                  - generic [ref=e358]: Ver más
+              - img [ref=e360]
+            - button "Agregar a una lista" [ref=e373] [cursor=pointer]:
+              - generic [ref=e374]: Agregar a una lista
+              - img [ref=e376]
+          - generic [ref=e380]:
+            - generic [ref=e382]:
+              - link "Ir a la página del vendedor" [ref=e384] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/pagina/gamaticalzados?item_id=MLA1475074077&category_id=MLA109027&seller_id=432145923&client=recoview-selleritems&recos_listing=true#origin=vip&component=sellerData&typeSeller=eshop
+                - generic [ref=e386]:
+                  - img [ref=e387]
+                  - generic [ref=e388]: Ir a la página del vendedor
+              - generic [ref=e389]:
+                - generic [ref=e391]:
+                  - heading "Gamati Calzados" [level=2] [ref=e393]
+                  - button "Seguir vendedor" [ref=e395] [cursor=pointer]:
+                    - generic [ref=e396]: Seguir
+                - generic [ref=e399]:
+                  - paragraph [ref=e400]:
+                    - generic [ref=e401]: +5mil
+                    - text: Seguidores
+                  - paragraph [ref=e402]:
+                    - generic [ref=e403]: "+500"
+                    - text: Productos
+            - generic [ref=e405]:
+              - generic [ref=e408]:
+                - paragraph [ref=e409]: MercadoLíder Platinum
+                - paragraph [ref=e410]: ¡Uno de los mejores del sitio!
+              - list [ref=e411]:
+                - listitem [ref=e412]
+                - listitem [ref=e413]
+                - listitem [ref=e414]
+                - listitem [ref=e415]
+                - listitem [ref=e416]
+              - generic [ref=e417]:
+                - generic [ref=e418]:
+                  - paragraph [ref=e419]: +100mil
+                  - paragraph [ref=e420]: Ventas
+                - paragraph [ref=e423]: Buena atención
+                - paragraph [ref=e426]: Entrega a tiempo
+            - link "Ir a la página del vendedor" [ref=e429] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/pagina/gamaticalzados?item_id=MLA1475074077&category_id=MLA109027&seller_id=432145923&client=recoview-selleritems&recos_listing=true#origin=vip&component=sellerData&typeSeller=eshop
+              - generic [ref=e430]: Ir a la página del vendedor
+          - generic [ref=e433]:
+            - heading "Medios de pago" [level=2] [ref=e434]
+            - generic [ref=e435]:
+              - paragraph [ref=e436]: Cuotas sin Tarjeta
+              - img "Mercado Crédito" [ref=e440]
+              - paragraph [ref=e441]: Tarjetas de crédito
+              - generic [ref=e442]:
+                - img "Visa" [ref=e445]
+                - img "American Express" [ref=e448]
+                - img "Mastercard" [ref=e451]
+                - img "Naranja" [ref=e454]
+              - paragraph [ref=e455]: Tarjetas de débito
+              - generic [ref=e456]:
+                - img "Visa Débito" [ref=e459]
+                - img "Maestro" [ref=e462]
+                - img "Cabal Débito" [ref=e465]
+                - img "Mastercard Débito" [ref=e468]
+              - paragraph [ref=e469]: Efectivo
+              - generic [ref=e470]:
+                - img "PagoFacil" [ref=e473]
+                - img "Rapipago" [ref=e476]
+            - link "Conocé otros medios de pago" [ref=e480] [cursor=pointer]:
+              - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1475074077/payments?new_version=true&modal=false&newIndex=true
+        - generic [ref=e481]:
+          - group "Galería de fotos, Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e485]:
+            - generic [ref=e486]:
+              - generic [ref=e487]:
+                - button "Imagen 1 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e489] [cursor=pointer]:
+                  - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e490]
+                - figure [ref=e491]:
+                  - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e492]
+              - button "Imagen 2 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e495] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e496]
+              - button "Imagen 3 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e499] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e500]
+              - button "Imagen 4 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e503] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e504]
+              - button "Imagen 5 de 5 de Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e507] [cursor=pointer]:
+                - img "Zapatillas Urbanas Topper T.350 Mesh 26887 35 Al 45 - Gamati" [ref=e508]
+          - generic [ref=e509]:
+            - generic [ref=e511]:
+              - generic [ref=e512]:
+                - heading "Productos relacionados" [level=2] [ref=e515]
+                - generic [ref=e518]: Ad
+              - region "Productos relacionados" [ref=e519]:
+                - generic [ref=e520]:
+                  - generic [ref=e522]:
+                    - group "1 de 50" [ref=e523]:
+                      - generic [ref=e524]:
+                        - img [ref=e526]
+                        - generic [ref=e527]:
+                          - link "Zapatillas De Moda Mujer, Hombre Unisex Busted" [ref=e528] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=shuJkMFQ1Ce%2FCYKhFuWJTDzgmCovpU6q5Ah4hwRHWpoW2r6f3JCcg6JEWhVthq2GnuVd3%2F8HZjC5HZg%2By7N92FXgbJcZh38wB6yHE4b44PWDW1IXjR94iUp%2BJ3L5HIIa%2BbT%2F0iSbKGYCkwPBeL4g8on57%2BFRY%2FwmnA3wGdIY8ZmWqe3kYP1ApfPvYaZkYnxS5UTiY%2Fcjew7byZ6rDSwjFJdXhEL1Wg4%2Ffu4NZyb20R8kJ%2F945GgVKt4nOjELCA1DNUj8RI4tQUqlvFjR7u0BI9SnuRzukVX%2FNOta7EW1PTKzhUa1EgcUGe4wFBOl4LzUb9NUlNxZpkWYcuaFa9kAiMAdcKJMJB7qqWjD3qBnskutXixeTVBnPyS2uXls3XJVWxVJwj38ZpvuXRd0hCXVcK%2BENVh6LWGmq1ENW4HHtg6PTB7%2Bn4Befpt1Z1wxd%2FsgY76CGLSuH5mCPD8wlmYAUBrAy9f8vIeV%2BI%2BulfaYjFFJmlnY2h%2BTshQ0Djll2ad7CKftUO7iZSqY1BTApM7vyWiI8QAmIoDME4riiTngfEhDZIgfWtCfKWxnIWAeECAfNg31PbUulSuWV6M%2FzK%2B90QjTGHeGNpb5o%2BGtuUcpKCRxuuUoTs3tfrWkZ5DJJhA2ZeoaULUy%2FWl0ZIDQ%2BEKdjlOvCmyYmbPemb5MG81SFE8ESGMmKNU7ROF1gTekrHUdLDoPOak2v9gilgHzrIcL6WJ7kzSBRWZt75IYOszDaLOXSkQNNst077zgMRFGxcmjfftsWiY71%2Fl%2Bbvry7COxiHvYmtzrvgTzipAz8aO12%2BbR0dcHs8Kf1HeT5nkxLpNZmopzRLoYXIphlZbWcavXmFkK9zxidq7dgKTlZK%2Bn5Bq5M42L915E5LnR5YJJRmNDJZeErQaYmWHtXnboI%2B%2F%2Fc7zd1ZdDz1GynN1gyA%3D%3D
+                          - generic [ref=e529]:
+                            - 'img "Antes: 79999 pesos argentinos" [ref=e530]':
+                              - generic [ref=e531]: $
+                              - generic [ref=e532]: "79.999"
+                            - generic [ref=e533]:
+                              - 'img "Ahora: 39999 pesos argentinos" [ref=e534]':
+                                - generic [ref=e535]: $
+                                - generic [ref=e536]: "39.999"
+                              - generic [ref=e537]: 50% OFF
+                            - generic [ref=e538]:
+                              - text: 3 cuotas de
+                              - img "16586 pesos argentinos" [ref=e539]:
+                                - generic [ref=e540]: $
+                                - generic [ref=e541]: "16.586"
+                          - generic [ref=e542]: Envío gratispor ser tu primera compra
+                    - group "2 de 50" [ref=e543]:
+                      - generic [ref=e544]:
+                        - img [ref=e546]
+                        - generic [ref=e547]:
+                          - link "Zapatillas Trekking Hombre Mujer Trabajo Reforzadas" [ref=e548] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=roiaJQGzV14LvStsvnV5wVntf9239S1A8tC%2FaW%2B%2BkH0QypL51VeNpd2iNqEHm9lWZ%2BxN%2FCNi6f8a1NXdvFvzdmlkjaqbacWpLNexs%2FlJZRapxrBv%2BylFH%2FO3wgFEQpL9bCcNPvsyMahtAnu4vfixxvp1QVYLOYe1u9y9u2HTNnmR%2Be0OwPm2nRekVuSewYi2qHIT50gk%2FFA7gvfCdRUySLbPN9K2QWU8EeQA3fPZiV8fJbadKNPAENoveESEVTfXFaw3MJXAh6dwN1H3FqwgPtkTs1Ch1YIvsAGwZizUkBBfXONWTgPbEhWzgYn%2BrNI8OtNcT9b5g%2F5v%2Bb54IxYrP2bFX4pwg5WBXLVKYGotVJ81Lyfo4nrMDIuMfA%2Bv8n%2F1UpmPh5PvZK9Za2AmgvIX5gruMJr8uCv2a8ihKEvOGJMm91GCS4DORDGGRE4d1U62kclpwPgfRl0k6ePwIMlwFmAn4xd2hkdFCYqaoFzJoUA1uvorgi2oi4zqUckePReTSr71SEtSivV1AKHD0EdiU%2B5w%2BYGku4MpOKtmKWsvIH7T%2FfoJLKIHDyUk2GviZ9sWe4cAHlJS2ZN3bXNQmsQXAuZ5oCForJGdXZy0lZ%2FIkVhQgwJl5nvS9i1QK875JvYGQG8Vy%2BFsuHpA84mefgv%2FZKcpwXVkLyBaTl6toQQjtXRvdT%2FcYg6CibmHaO8RNmm%2FPDiVfSr5YpOlGeRm5zOB9fDyn%2Fqt2M%2FQEIGtER%2FZ2g8tAF7phTDcN9nJnXV8HhBCuGxTkElRuYmjDGpi9ndwn0DJvSIAYcyR9LJnvgkB1Tc0hz6rQ5q5gHzz3%2BxmEsx%2FxNPqg2InMM1dRhEXiSAyYoj03LTpfSb9kbSM9qSm%2B%2F1m13Zv2l9r%2BFAgrrYj6nqSldH%2B6KGCdBpS4FmyCPSn7xWPDxCWAdUJmh8vJyZ%2Bmq9HyA%3D%3D
+                          - generic [ref=e549]:
+                            - 'img "Antes: 49999 pesos argentinos" [ref=e550]':
+                              - generic [ref=e551]: $
+                              - generic [ref=e552]: "49.999"
+                            - generic [ref=e553]:
+                              - 'img "Ahora: 40109 pesos argentinos" [ref=e554]':
+                                - generic [ref=e555]: $
+                                - generic [ref=e556]: "40.109"
+                              - generic [ref=e557]: 19% OFF
+                            - generic [ref=e558]:
+                              - text: Mismo precio 6 cuotas de
+                              - img "6684 pesos argentinos" [ref=e559]:
+                                - generic [ref=e560]: $
+                                - generic [ref=e561]: "6.684"
+                          - generic [ref=e562]: Envío gratispor ser tu primera compra
+                    - group "3 de 50" [ref=e563]:
+                      - generic [ref=e564]:
+                        - img [ref=e566]
+                        - generic [ref=e567]:
+                          - 'link "Zapatillas Jaguar Oficial Art. #8074 34 Al 44 Hombre Y Mujer" [ref=e568] [cursor=pointer]':
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=xPXr6A8munvKAoJZukXPIet%2BiKbTab2vJO6xqBsQFKts%2B3Nl8r6q84EsSHjd90M13NIXlwEWFgIR89H6pRuQNduuslFthsV7gfJlgG18C6AIQXuQW1qW%2Bbv81G2pJT5kNwEKwsQLY7Bh8wWvat8OBLQRuH58TYJWnSHk7kRGkTyngNbCRs6m79CxuFjUdvpp1yT0lWH17mFi8cJt4sLpnwyjAAxSGvO7F876K0riztlz3rv3bmBL75n1xjcZ7LifKppiAIeGxQZopIvCQgtFeLKqNIdPsvUC01WsvUbwvA8rJ2%2BPIIs0AKUhkMDSMPnzM4XXYWnMnoFzF0QSGU%2BEAbUIIdTeACmymlK8LUI415tyeHagWl9Imc2Eo4QZp9pKNasXF54kQMz%2FgKVeRHxhjZLrWYhYj%2FzQHfJAV3TCs0d61Fy4o6tllbKjSI7JimT5Clkr%2BbYZeAntObpWvORSu99ljSh1f4KbVLno93gQw%2BtnLPg5XshhsMFTOh7dTTTWRGrl%2FN3GAaZ%2FDcvCFQp6ImDsgxZoMpz6KoiLmsgI37M5qVrPNOZ%2FAl8mAij8NvYye6JWeHC8u2UFzB5r2igPOiXTwSSkVsDfZuz%2BvVTWpc5xu1e9YOr2QicNOYeL6vs%2Bw2xC3S7QnNHuH0iUFI1QKiHS98fOcrQ%2FZv%2FEgB7%2FpCGYPLbWvt%2BUbTIsAq54Cxo8ul2M5J58vIC4XqPvOvZxNbhjQEM1C1iBkFp2R6DvZc0ErHHuO8WiDegwtiReYW76V7nEN2WQj0EpBsMMIc7P1V3EJaovNPiOVh%2F02NcXk4OcWbyRtsl41xjNjTI9vHpBMbsrP1UfNtsOvYNHPsTTzAPH6MChXm9oJ29FHGASC2wF4WrBJgEnwWzH1gG%2BBHx98ILuY6puarNVQnmh%2BImd9GOhGJnDbqKKtwKusOsRUJsOYSHkhO1WB7HuwzmJUWjTaIpCdZ88sw9ljrNj7npF8vo4myVGgE4pozKDcKgRqa0%3D
+                          - generic [ref=e569]:
+                            - img "29920 pesos argentinos" [ref=e571]:
+                              - generic [ref=e572]: $
+                              - generic [ref=e573]: "29.920"
+                            - generic [ref=e574]:
+                              - text: 3 cuotas de
+                              - img "12406 pesos argentinos" [ref=e575]:
+                                - generic [ref=e576]: $
+                                - generic [ref=e577]: "12.406"
+                          - generic [ref=e578]: Envío gratispor ser tu primera compra
+                    - group [ref=e579]:
+                      - generic [ref=e580]:
+                        - img [ref=e582]
+                        - generic [ref=e583]:
+                          - link [ref=e584] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=BYxNJs75Mm34CRRAmPvMsnvRZap0LHE7oa9ex0K35E5Rb%2B5ZH5ODz5PeOuZZAuylkTsKW%2F30SuhF58vdggd1Q94aaBeUssYWYpH46PtQi50FSl91P%2BUjx0YMi6nG9P5gFlT%2BTWw1dRBdulkwq3I2h8aUG8tiJFXqBshA1YzEcvfbKKXd%2B19K9BW8KwjtnvtKF%2BCcbQH40pT%2FbbHDN0wcdSb0GB8GGtA1DE%2BHPyTueP15QSK8PV9BLwuUoX2JZ3DN1hZNQVinfAm4%2Bkf2VoTURCLCovB78PxtUcDs563%2FpRwNuBtLIsEyh1hEJhPtVMx8y%2B9gw0OGhMjmzMAD2P4G90hzlAhSvXu9oJQRltfJi4vayPKc4jZ1PbhJTNJav383A9xxbo0lzzhu9908Y7QduMNkR1oNk%2BkklRbn2eMcsGqhL1ARXKXFup0e909Ha3%2Bjf%2F95rA7d6z%2BGLkn1x4h8juusfXvoby37W%2FBCwxL3ZcbobxMHj2pmrgHlGrbm9Jk%2FX0q62DEcfM7Lq33shgCfTqyEM4KO2Q2DKsbptkBALst8Ytub1IJT5aXuoa4WOnpY%2B%2F50JnWELdnnJuWpGN0R24iGB6aZqgxqzw6%2Byn02DABsn%2F%2FApdYvPEwbTW8kWXl2L6kkm%2BXs9TYhjNPY2z6bWkfEF6BHErPq2HI2s6E9JMwnZNqyanC96lWwjdas7O3T1%2FqBXkt3Gjmp6edBKe7ZTW3PyVHrXkmdG4mBEKgt1AUsbflulvu%2F8bWgFHF7KaISVDPfXJo9fs0k4oln2pyL1SDEnwotaqgSfKKzEgKm25VkJqikEClMsnp%2FSbPERxcl8GzTtGrggl0mPdutWgRzvaiC7NJC%2FvmoXEqKbH2JTEca0P%2BixJ8j9u4ChCHMkuEZiihjiBok9MuSa1voBvgq
+                            - text: Zapatillas Skater Oversize Arena
+                          - generic [ref=e585]:
+                            - img [ref=e586]:
+                              - generic [ref=e587]: $
+                              - generic [ref=e588]: "76.999"
+                            - generic [ref=e589]:
+                              - img [ref=e590]:
+                                - generic [ref=e591]: $
+                                - generic [ref=e592]: "58.257"
+                              - generic [ref=e593]: 24% OFF
+                            - generic [ref=e594]:
+                              - text: 3 cuotas de
+                              - img [ref=e595]:
+                                - generic [ref=e596]: $
+                                - generic [ref=e597]: "24.157"
+                          - generic [ref=e598]: Envío gratispor ser tu primera compra
+                    - group [ref=e599]:
+                      - generic [ref=e600]:
+                        - img [ref=e602]
+                        - generic [ref=e603]:
+                          - link [ref=e604] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=8BnpwJ46dzIgeRGhssTrsP7pnAXWOiGEI2%2BOBqACPU7OWD8AFZMSL8gAhVMKi7ez6nJi8EATeOb8XxdNFmybVrZZhUeAXB3EZeQy9ohB76yrF1%2BnOjjPRNC%2Fw5fGduYRaBhJ3bdSryVCGRK3JqXklemxHckSxiUMCofPm9lzChPR4fQMFxMrsXNaXg%2BO7Nc48JMYLDdGLtGW1gK7K%2Bt5KZ6cRxbIKkps%2FWeroh7tB05LicXY29oNswwfjbsB8ohchMqS6fn58EJeKPeUtxTVpvAi14rWjn757HHtCz1FDThkGCXo5z5TSewTuH31FjLYJASr57Tp9didsvJ809SvTryzF%2Bpc1GyC7us2iei3EkvK9SPY6qkDeQo9sPBn20lvKyHgNn3bqK9pzsrTHmlsRCrmtWSQVwZvneJJsrqNVbP6n8GPIjJbag1W5h%2FxkWmustojK0tfCGwSB%2BIxbaQQXbrK1l8wjVqmucTwWdU4KgxN7rEZBXV4QTbqFYMVnNt3pYUaNrsTl76Bd4kpWxL1Ve1iU3p%2F1YXV4Sgmp4jxhW9kr7RmV%2Bly45xOy9gEaBe%2FFg6z5u%2FthIS5Czc3X5sOWhMZv%2FnWQ9pLukHl8Y8U9MqfnY39zvLiIIfTqPpFazOqdjdLllSTZNkxEw6RmgGcvk4b9NHxn77eai57CNHFqibf0RZTEOTADZ%2F3%2Bo7micqMJIhu7CR5PZ3fwDfh5OQD49UkSzcv3g4Q6bN5mL5Fr4hYb3bt88OZuuuGShe2eElIA3bunESWKB8dGcXGLBi9ugNk3IBXV9Xs2YW1s%2BVs351q1WTLrMNZtzPO7gycIinHg%2B0iciiHsriEvXXASXLk4gTlfj%2FwvcfWgsbuXqJ62zgtLyBwgYI%2BjzZ1SuZVK1dv55voWHPG71Eh7YUZQ%2Bsj2HEXjfJUMw%3D%3D
+                            - text: Zapatillas Head Hombre Urbanas Moda Casual
+                          - generic [ref=e605]:
+                            - img [ref=e606]:
+                              - generic [ref=e607]: $
+                              - generic [ref=e608]: "59.990"
+                            - generic [ref=e609]:
+                              - img [ref=e610]:
+                                - generic [ref=e611]: $
+                                - generic [ref=e612]: "58.190"
+                              - generic [ref=e613]: 3% OFF
+                            - generic [ref=e614]:
+                              - text: 3 cuotas de
+                              - img [ref=e615]:
+                                - generic [ref=e616]: $
+                                - generic [ref=e617]: "24.129"
+                          - generic [ref=e618]: Envío gratispor ser tu primera compra
+                    - group [ref=e619]:
+                      - generic [ref=e620]:
+                        - img [ref=e622]
+                        - generic [ref=e623]:
+                          - link [ref=e624] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=XKxCxuFUD7qYagVr%2Fv%2FdDbeHe%2BmtIJFJ3si9QqjWl7xcu6svAP4lrF3P3mgBAMysZNzYJjhOHT8c83%2BsEtJodNGU3NuZQba%2FC1CYKeNPFipA6yNYEwfQiA8mBhF77WzEJQ8Kw3Xw%2BJ1y%2F8NhS1X%2BnYYA%2BE1L0aYgBzijENRMBrGOnmH6TxkY3EekseBGI4ZH7FdyRU%2B1xXIb0qxUSNeVa6SBIjAB9OV1W31XU1or3PTnubcVUMyV1JLNMG93Buu34oo1Xb3%2Fy2zpsBTdOjtMj3UhE22zByKhTRoUy9CJg79o5GuP9PO4%2FNG7uTm2hmqxKbu7ZM7sW1THZ66YK%2Byw8OKBQxFukMGG4Sfo99BijfyDNRO3QlpkM%2B2YSgPPoJxnndzvXqCNM89vjjDNsvHWAEoVUVhHH7JwvDrCir7%2BQtlVVYl1VQNab9gt0wcWTZKHGKEcxp0Of%2BA%2BqLx6iG%2FVoDjKr5Tf8Iqga4JKssPfmrNFB6ULq3kdzSMx9YuFCkEsUn4MtQR%2FdB2Z4kQu0Zdq%2B5QlZTVyJ%2F8WFoJpAFARDYqPM2rER6OWB1D0RvUXPkFLLFkhlQGkvlyn2r36zfredzy7340itAqXivXCr7kcjEKa7RyRwKTeb1LzPQpXK%2BA7hPq5GmknypSEsW%2FdQKDZhB4zalSd4dkL1elcB41u9rzEp1qu2m6Uo8KQzUFsAVXFy91vTyffCw8it9Mnqvbp3bWfrcxODOQbzW0l4F4PyyhVeF50ZJNC9Vw6LpdRgPAHK3UAlAehdTGaIgU9b43gXE74XWIkS2xVZb83xBzzKLAWFCh6f3GP0DAGHJYtU3K37UlT2dH%2BOKMXMVMZe5dSzOE1jgvqAhvcHYDRMZncFDg23MU4EGByWUFSnXr6fbo0nnOP6n2F0r1vCDo%2F%2BNN8oCkw45GRgQWnBw%3D%3D
+                            - text: Zapatillas Topper Temple Unisex Moda Verde
+                          - generic [ref=e625]:
+                            - img [ref=e626]:
+                              - generic [ref=e627]: $
+                              - generic [ref=e628]: "89.300"
+                            - generic [ref=e629]:
+                              - img [ref=e630]:
+                                - generic [ref=e631]: $
+                                - generic [ref=e632]: "58.372"
+                              - generic [ref=e633]: 34% OFF
+                            - generic [ref=e634]:
+                              - text: 3 cuotas de
+                              - img [ref=e635]:
+                                - generic [ref=e636]: $
+                                - generic [ref=e637]: "24.205"
+                          - generic [ref=e638]: Envío gratispor ser tu primera compra
+                    - group [ref=e639]:
+                      - generic [ref=e640]:
+                        - img [ref=e642]
+                        - generic [ref=e643]:
+                          - link [ref=e644] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=v8En5TN8nKNesgoox4b8sxSeFRMKbq9y5E6ZuuAINP55tTwqruXTLngEcPxGzt3hQ0M2EFZKSJxCt8vd%2FWUhqLySKcRNTciE4yh1sWt0okpyLFZshL4Qk6rCpClgeUOQPOr%2B%2FU77mVN0Lzr0nQNKnlI5eh1a14u1QsitgND4NInSh8ZqVxMqlH1043mLwqUmd9BN0ib79hptCjGYiVjks2%2BgVvhFUAAKFSsT1T6V1wjHEX2DJ6I2YK9Akhvvc3PbW3thxU2RsOyWgbvaEJK729gb%2B9%2F2iX3xg2RWMtftzW58NMwgV72jjBfu2LBSSCb550LC0B2F4JLD7CH%2Fzox2L0UKElcfoSnMorkCsCX36h%2BCPjg58uOCMAxKUbrbLrioYMGMSBdqCAuIYjW9HslR2okoRnW7C30zyRE0Yz4KUfYp00toE%2B%2BnCtsBmItj0vIyCmdNmfL%2Buynq58a1iLGks0fW8ATv0oskVZSIq6SV14zJ%2BhT5zpMWKzRMrosrF9o7L7z58Jpo7MZj1kfGXNx%2Bajk9gKNeGs%2BtNl4s8DAzbRTBVqerARX1MTwr1mbkOZZ3InuVKCgbgXg67%2FrKKPOVPqnJ4wNXwQM86dMTLnA6QbXlpejFaMFHiQle51btb74KN1AI3akJNBOaw%2FLErHT6AQnDgsPdQZRhPznFGJjrweP3MSF9sb177Os8Tcyrtm2wUs9FP%2Fk82uFa6bOt10LnNammM3ILIQS29srZjNbFM44BLdEctaGFirJaTVD3Y8TunOfU9O64fP4d6Esot%2FoebF6NiC2Ely%2FNpX%2BIiPUqq3ERZZfZOqCPKPv8lCHV2bi5a5tB2jLrLHUQZkxSY4V%2Bl%2FSyuKuPAu7kRcwf8Jq1MUB5HaLkSInpET%2FUx88F%2F1qf%2B%2B9Y6bi58zMB59XNXS6kl0I0Becn%2B88hxQE9b4yU4qLSbQ%3D%3D
+                            - text: Zapatillas Becca Deportivas Vermont Art.5716 36- 41
+                          - generic [ref=e645]:
+                            - img [ref=e646]:
+                              - generic [ref=e647]: $
+                              - generic [ref=e648]: "149.999"
+                            - generic [ref=e649]:
+                              - img [ref=e650]:
+                                - generic [ref=e651]: $
+                                - generic [ref=e652]: "64.999"
+                              - generic [ref=e653]: 56% OFF
+                            - generic [ref=e654]:
+                              - text: 6 cuotas de
+                              - img [ref=e655]:
+                                - generic [ref=e656]: $
+                                - generic [ref=e657]: "12.399"
+                          - generic [ref=e658]: Envío gratispor ser tu primera compra
+                    - group [ref=e659]:
+                      - generic [ref=e660]:
+                        - img [ref=e662]
+                        - generic [ref=e663]:
+                          - link [ref=e664] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=pLQi3l6oopKSyoU6SnroBbzs%2BK%2FFnvIuioN1zSyPCKhnUxmZN4F9GbWa3nPupzJKbV2Z57yhofSb5tjZIKJ6SydATXuzgBnpW6MXHi3pK%2F8DAN6smUnFpFHywaCvxgxWi73oIQZ%2BUC%2BIIqyzwR9E0l92OZFTTGIfmPTYGoWPYGs7NZXWYEQgDXSmClhpl0JRUU%2FdNCGu4IxoAAecTqeHNcOgm6hAFtrwqD0CrSZTdqyUfP3VKijhNj1n%2FXHpg3OG%2F8k3n9SFPU1Fc7Xp0VTbnRfDTzZ9U3NCdfPwGIeElPQ9PwjU0i%2BIvbx0yiiwJNxCxkf2i4aofTaAYu9MbrHFuXJZL07aVSWdSTsw2VARMHqFob%2BxP8nvuXHOk6w59BszLj1tFGpck6WGjR2buDON0eJ%2BUa%2FO2CL4KnJefHDHRvW8pZm85nL0VB7rzvKZ3AvtY0r%2FcdWJJjOQgafdcZUK5utSWmYtlkdNeo2Y0%2BzJrqsgL6U6d7e9j8tB%2FM7IQqr7%2FLFmTGODzAwFdzm8vjj7irXkP3UPxkJHigc6RpmYxYTtS6l8jNSNIQQ3hQ5qBWbGEQApd1hP4POQHTpkH1aAu3Pm27b%2BKwsNgulqCwfOcf3QVeKgFy225ntz%2FJCZL3keOkXIe2Odl90citpaTRLEH%2FK3n%2F4tVloZJ7ZHuaL1GyDDVOGF176cUp4kWTDgjZ4SEs36MD8cu2vBliBsC8i3fY9YkqQb3ck0e9JkmcZLJKdvL%2B5n8Vyis%2FCxxIoTaIiliBqDIKe1l8xAd2ZZU90rQffPcBc32inWpwR8ykfi8uS%2BQ5Jmn7Q%2B1d5QlerxKAZlinyswdKiXO3XQHMNPX2zJFavxt12UcAmwL9e0Awc%2B8LFaG0bTm6QY2RDngY5Ocfzd9Hn4%2BkZLWzl%2FOvfpXECcHwICCVR
+                            - text: Zapatillas Ozono Skate Directo De Fábrica
+                          - generic [ref=e665]:
+                            - img [ref=e666]:
+                              - generic [ref=e667]: $
+                              - generic [ref=e668]: "76.999"
+                            - generic [ref=e669]:
+                              - img [ref=e670]:
+                                - generic [ref=e671]: $
+                                - generic [ref=e672]: "59.004"
+                              - generic [ref=e673]: 23% OFF
+                            - generic [ref=e674]:
+                              - text: 3 cuotas de
+                              - img [ref=e675]:
+                                - generic [ref=e676]: $
+                                - generic [ref=e677]: "24.467"
+                          - generic [ref=e678]: Envío gratispor ser tu primera compra
+                    - group [ref=e679]:
+                      - generic [ref=e680]:
+                        - img [ref=e682]
+                        - generic [ref=e683]:
+                          - link [ref=e684] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=NNERWbIKJjXF%2Bel0B9ij6lwP7SnOrfmck0omb3ZpcxsNcgO8Owl1rhJZyaXECjS9cRIsKKzKMOKWM41bkpsN5gRA3Z9J29ZUZivJ01mSFwJvh%2F17QPlrkYhPQ7c1%2Bry89Q1Wu7qUtKsFHBjw0FEJPDwY5M%2B1ljbMeIpEHrDR1lIAYSjfLj782bQDteQmaX6dltZjvtbIPzvT%2FJpa4dhdfUOJ07av0sSYthdJkB0eliXWB9mmN%2FXRf2B%2F25xHGs9EWtFsBc6LWdXP2bN2H%2Bg0A%2BObTkxgg3nPx7nFEBmmgrkid1iJMoZZfkTGOAJR%2FJgx8u5b7mxTrMnUOw5LPKFfRJ4z1cUKie7s4ndVT3vS3NreVNTM8c%2F4vhv%2Frb6froZWznrD0SPle%2F1CUrs%2F4k8%2B3KcSlyHhYdIZ9kxFxfEtX%2FJogsBRjUtBXqiepR%2BhX8WEE1FqGCrS9U7aNyXylPXUyFnGNoexcbWK%2Bv1X3odQex2ihBioFhvku5PjjvlCaWE32eztnr8k2VWsF8NHgE674Zd0mmHQA%2B%2FBjUuUmo3Nv1FAGLdND2gWudVrXXWbjADnceG0NshC7kRY%2Fw99izQq20y285TJEZ2k8ETb5Eob1FaGj9eoQc%2BMACQma5bNOoLMPw3qC4PYCzCgMCHI7f6PGcmAWIT68L5W6f3pKnKLQCjp5A5aTv7RaUNlnD09mdkmeXNRWy6Z1%2F04eallynMAX9JAsFmoXIFcUR7EsuK%2FjQULcSPv5kEtYh2K5CUiRWL11cb1%2FWerqFX0yKD9bWxKVvaZ8giY7ftSeOjEcltYzSXO0RsgWpQj485Va%2FWjmVgyEYDeCb73l1CAcOs6V7CfUMKiI%2FeuHh1CB4BF%2BpzG44sMU%2Fu3rB33PqeRCLux1j6rGLGp21CTEA1i%2BZUAZwSbDKNGT8T1I7OcH9wGg25rj2KZoA%3D%3D
+                            - text: Zapatillas Becca Deportivas Maine Art.5757 36 Al 41
+                          - generic [ref=e685]:
+                            - img [ref=e686]:
+                              - generic [ref=e687]: $
+                              - generic [ref=e688]: "149.999"
+                            - generic [ref=e689]:
+                              - img [ref=e690]:
+                                - generic [ref=e691]: $
+                                - generic [ref=e692]: "64.999"
+                              - generic [ref=e693]: 56% OFF
+                            - generic [ref=e694]:
+                              - text: 6 cuotas de
+                              - img [ref=e695]:
+                                - generic [ref=e696]: $
+                                - generic [ref=e697]: "12.399"
+                          - generic [ref=e698]: Envío gratispor ser tu primera compra
+                    - group [ref=e699]:
+                      - generic [ref=e700]:
+                        - img [ref=e702]
+                        - generic [ref=e703]:
+                          - link [ref=e704] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Bo%2FK3CpePw3Ki3wd8aAnmNcmRM8S7oAD29tFGufMS%2Fk66nBKi%2FOHowGFQjKva3HQXRaZSkiXgkR%2Biz3MxbBUmgppvtfoSmuffLmXkz%2FOOzebO0TuPQ99p6gYOST%2Bfh4TI9kdKwrHRM8Hp8AcNvLjldhw%2B9VAp2LJGR%2FA0kgXF8ROa6mIOGfq4nhsjC7HqlZ7Le6US3yld0mi%2FDYwda0ZZ%2FKvNO9hOQP1t3FvegCWeN08VPr8M6OSVagsgi%2Fgk7xgaaSX14mdh4v%2FPl%2FBz0ZyPfXkkna0wljn6pYcaTsR4n2IhyRoEzrfg73ykRxGctqhIorPxrhT7216w%2FB65t0FcvFNwIi6o79qEsiblN1OWKkeLFNUhs6NDUd9cXqoHaSWEe3r68pG8dbggaLbr9Q1YuB%2BmnXGGtxlkGvXIZY6apghiddxEJ78Ma76qpveg2IIJFVMGNEuMLgkxPpQ8scUIwLeNKvAUhn8G0EhehSNKIM%2BDTk7YFgEz6YX3q5VrTzM%2B%2FYgAGV0ktGNdqCX%2BuNEF2jG2sj62V6Vbo%2B2UJtRr4b0m51jU2hmoV7Kxsm5UCBborvhnwc0RUn1jnPONLLe0e%2B3ftxqsrPa%2B5IJA%2BfK7l3jCm3UsOConRiaIL7G9UdpRujt5AIOd7OEOSu8VDasvs7KpZGPCE9TGKHovnoD8VzkJkcfj%2FUsoSzbNIocQbu%2FMdK6uOZPOGzfo4y8c1B4fQbmVP1IyWzkbRlzzwIPZeU3jAIK5XQ6v5G31SZdjqP6fb8KoQZWb4CRRWQ%2BaMh9VURj4qGupWxbs7BvYTNLTbcdDiYpxhzRX9xyZTdPz5p%2F4ShuLAGu9NlIIHVHmiXPOaRGwsSMk4w6k9blkASewkAhUvOSpkjsF8KeVYxLIDwz6LDAwJbFMuZ3GZwpX8mELlKCmx5prhrSp1ntuu%2F8SR9m%2Bs6r5xRTqNR4Og%3D%3D
+                            - text: Zapatillas Mujer Taco Chino Moda Urbanas Livianas Timothea
+                          - generic [ref=e705]:
+                            - img [ref=e706]:
+                              - generic [ref=e707]: $
+                              - generic [ref=e708]: "39.899"
+                            - generic [ref=e709]:
+                              - img [ref=e710]:
+                                - generic [ref=e711]: $
+                                - generic [ref=e712]: "34.563"
+                              - generic [ref=e713]: 13% OFF
+                            - generic [ref=e714]:
+                              - text: 6 cuotas de
+                              - img [ref=e715]:
+                                - generic [ref=e716]: $
+                                - generic [ref=e717]: "6.593"
+                          - generic [ref=e718]: Envío gratispor ser tu primera compra
+                    - group [ref=e719]:
+                      - generic [ref=e720]:
+                        - img [ref=e722]
+                        - generic [ref=e723]:
+                          - link [ref=e724] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=fOjzhyltdV%2FkGq9PFk4a4q3ALAwUYxiJXZFwhYLwILiZqGbNdC1LGLOiViGHAYuN3e7GYbsMwM9pjAZ042wGRRrS5UeVAWKWvq2G22PJvgKNUUcXjPD67MyAFNLaE7FkZY1zRmlZEdPf6UJsApDspZ8kuu5aMo2ox2LolDHScXiWBisRqMMSew9R2A%2BTWV4%2BqXOHqGFB1xHB4phkRbScyFAQuKdQG%2FX1ceA2QeLUaYMcU1lk1HndEPl7p2nubD%2Beh19FFnq8p8AEfmpN6tGa2%2FMGBgws4t%2B%2F2R0sAH0CfIFoUGmbnN2Vsr8M%2B6i1kOHrZsODGFX%2Fq6iasMTBCnWigf5XWyXXv5KQm6Som%2F1ZqKzykaufZWqCesOhCQvu3rIjTRAsNZbu%2BxM0tgv8FjCtJul%2F%2BYcte0WmprF2LQ2F8IYvMI6vE1xPo0mfJigaphGH07Dfny3j0S%2BncL9psDCy%2FJC%2BLvRy4MYIZQJhr6eUDFXO8CFweFvWwgKMf9QKYeMWCC0Wa%2FaxCsEg2BvyIWClGnrAoBmgU8Jv6nOiq6pWXDtUhIQUkSwatyLl8C4wVlO0DK9I2KKPDLsSeV9PPnU9FbufHXmwAfR8aYRo24fyZkaD6d1tZzzGHLFMAhWDzvgMVJMQ6TyFgUXwXyt9VZFU1B6FIqey0GY2RL7E0P2Wqp1tWuc%2BJh8WlAP49mNrmIYzO5WS9JkOgpHD6VoY0%2B%2B2GvdvIuqskQV4GWmnL1zRD3yL4TBtiyaMrFE%2FOuaNfAHjvGLzLw%2BSC%2F92Yx2UZTb8UXAnd%2FT1QohF49CEOdVQKgHYvDi%2FN59zeQAYG1SO3RkXnRG6XxXpmEghNhCMqZkq%2Bmmr6Mb7nztQAQqzcexHouwMH5dsYRFDzl9HvthxiCCO4mxjV7SH9QAgi49fsp7CeP3EoZ%2FMZxOUiaO7yRbfQfSVJnx%2F%2FfG31bOB
+                            - text: Zapatillas Becca Of. Deportivas Vermont Art.5716 36- 41 Full
+                          - generic [ref=e725]:
+                            - img [ref=e726]:
+                              - generic [ref=e727]: $
+                              - generic [ref=e728]: "149.999"
+                            - generic [ref=e729]:
+                              - img [ref=e730]:
+                                - generic [ref=e731]: $
+                                - generic [ref=e732]: "64.999"
+                              - generic [ref=e733]: 56% OFF
+                            - generic [ref=e734]:
+                              - text: 6 cuotas de
+                              - img [ref=e735]:
+                                - generic [ref=e736]: $
+                                - generic [ref=e737]: "12.399"
+                          - generic [ref=e738]: Envío gratispor ser tu primera compra
+                    - group [ref=e739]:
+                      - generic [ref=e740]:
+                        - img [ref=e742]
+                        - generic [ref=e743]:
+                          - link [ref=e744] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=M27rg%2FtJb9tQmk5%2FwdTwkBsxtk3E0KjT5rNvQ%2FtHcoZP7Y7aQLBN8dgPyI9AH0tgihZ5azpMywpGg%2BbRHGlNTOOYJrzFBnORCstNfTaRNGQGc4xX1%2Bh9BeHdGNnY08jmWnQCqGAyKb7cry7JthsUT24TqF1LmkCru%2FrOJu5ZxFng6PNiov02D6rJxyLAQ5JoKQgAbjJEaVAgJBImE20dbs10MpY2KMs%2FaOeD4lYYp%2BmjJkYPPFfV8EyWMSYfGz38Ep8syfsPuy5%2F6zDGuzy2dNXA5ouCB69fh7ogs9NbqxcihSuCV4fLlDS4D43VcyZ1oRe4ig%2BUVvX%2FH7Rxf396hL%2BDldXBlsXhfYmLak3kr%2F2F7ly9fSvZUcVCURkajDer0Ll3WAwyrd4tiTfyrO0gL40SomHUXBr211Dbt%2B6M4LVKeuoSmpFD1xqj754MhAkFWMGD7vGypLMPT2gQL2QxaMCFEp7IXqT2q453zDbj8ZiCsvHkdka85yvI1RV%2FenS9UUOoZgTzgVRBJK24XfWgzdKfTHV6LJz2mS3vNfMJ51R%2BzJWcGH%2BCrHU35p%2B1uw9lHsdKbII%2F52QuLu8X95UTbJyS9z69sBaatEKrFAkLUn%2FuSS3%2Ft4W4Dqggz%2BksYGGzof2Xvzdj199Q5oLyJXkVDP%2FWqWEByu1h33lOrvmv1LRmE84g%2FtI%2FnkHuZQlZ7ACTzb%2BskwjKM7g8aFO0KHG4oWWsv5J0f%2BAf8jSfZ2mMYveM3OoSVu30RQzBdi7G16OOh0wBVtaHDJl8Cl%2F5W0skhEAknMMO87Q%2FnIGTHxbNIsDYgahjYmZpo9IBh%2F3UlIVC0KxF%2FKCR6hG7mw2ftXQ0XkgEfBTgcKMWXVOSEoUI%2BAXD%2F96AeK8cv3D0AFlReqnYRG3ap82RCg1yB2ikxRq3JgB8uaqfZbdqdDHPNHH8Kd9p1ingkSGpTQ%3D%3D
+                            - text: Zapatillas Skyrocket Lite 2 Puma Sport 78 Tienda Oficial
+                          - generic [ref=e745]:
+                            - img [ref=e747]:
+                              - generic [ref=e748]: $
+                              - generic [ref=e749]: "84.999"
+                            - generic [ref=e750]:
+                              - text: 3 cuotas de
+                              - img [ref=e751]:
+                                - generic [ref=e752]: $
+                                - generic [ref=e753]: "35.246"
+                          - generic [ref=e754]: Envío gratispor ser tu primera compra
+                    - group [ref=e755]:
+                      - generic [ref=e756]:
+                        - img [ref=e758]
+                        - generic [ref=e759]:
+                          - link [ref=e760] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=sZJ6JUHZpTDSSfExNO3B8h0Ab%2F6%2FEKO7xs5QfSkxeMSjeZvLK8ANwvUUwNZPW7Ijy%2BtaNTCoeDtoLsjuZ2EEObVPOhdmNRIQR83dU64I47PF5iLRUNXBYAu6vvlZObGQ0luHnaqgiTx5khtJ%2Fm3WnvqxsFBhfepM7SPwQ6mOXpeXvcVuraLiylvgvr1rgrchectOhVOqJFwIeOEYcGBTJ6O2odkYk8q9g5WEPL5bm%2Bg1Qr7ZyV2c2GMD6eIanpbvqcaiI7HKOsY9g3eiNGwwMzugMDPKUiPEaTiAh%2BlQcYb3TQr7A569NK3CRhWL1RMmiNACrEWdgtgYwLOdVX5lj%2BYQU8CvvtQlpHBb7sOp0aPwkeogSSTAhLB%2F9Il2UFnVVSj3BH4agI8kdBwALVXXcEdx835OJ3RgBSKhJ41qtGi8s1AdGmzCM8VVugE4fblMQ3dWQsVG7sXnbGIO4hQzssHZam%2B49k0sIuTituChsM5v%2FNv7wgjbvqqeot5pTdZf367bbxNYdCalvF8F4bl%2B7VNCRqq3hCzjLTsaApWJv74UsGlWvfGlWE8wE2IKJiIAVYuVFmpOWBiyhNkJWapyokGyxHdrUU9lMgFte08Bufi7A293%2FiAHHiXqh5Q8goUJEJc8omMqCc%2BOtoX8bSt1lx50DFFVTpi1GGWd3H8UkN3xeeLFxNXmQvqPNRSI%2F2pv1y%2BO2yzvFhJZK3dEQYHR%2FMn%2BYDcYgeeqclq8zqzvsWrwzjmzSr0B2l5sMiD2eRQnZXLS%2Fv1ACuwG4Bw5IRapHDxKsVsBoXhroOD%2BZxeUebQxvSOzArClTGhKNpWPET44ew52wSfxlOgbNVT%2BdJg619WltGIFjaM9Ccfm9QShR6kQp%2Bpi2eaxKFa8md%2F9J838XmOuFEF5MjzxfArTz7rj4ZFyZHDKRYy8Dddlo6sDtsvZCtc%3D
+                            - text: Zapatillas Deportivas Livianas Cómodas Unisex W38
+                          - generic [ref=e761]:
+                            - img [ref=e762]:
+                              - generic [ref=e763]: $
+                              - generic [ref=e764]: "55.000"
+                            - generic [ref=e765]:
+                              - img [ref=e766]:
+                                - generic [ref=e767]: $
+                                - generic [ref=e768]: "49.500"
+                              - generic [ref=e769]: 10% OFF
+                            - generic [ref=e770]:
+                              - text: 3 cuotas de
+                              - img [ref=e771]:
+                                - generic [ref=e772]: $
+                                - generic [ref=e773]: "20.526"
+                          - generic [ref=e774]: Envío gratispor ser tu primera compra
+                    - group [ref=e775]:
+                      - generic [ref=e776]:
+                        - img [ref=e778]
+                        - generic [ref=e779]:
+                          - link [ref=e780] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=7aVWw%2BXeRFaytIpIlAhhlcT%2B3hWo2mzrWVkwtYci3d9JTNNUe82Jy8VAY6uv40VQ4v7r84uWsw5c%2Bn0wHXGWzKL7yG96IbMuGYq1JERHppBDDu7y30ChLq%2FgH4piyQfZ3PMIn5QVjPMtwrdYau%2Bvo3Kaj3uRysdmoiuUmIo4Jzbm2BNBmk9hgdjWy7EHWpGSVo%2FX8qy%2Fure1wfdA1DIiEVwmnheTsYQtXQQWpgLDqmHfF3ICgbHyz1pyLIIcV0ZW56bzzgdy7TWYyRw5cIP2uADk7euUIYZKH5is7xMqBK6kC1fcqwODsb6k%2FMHuQKikRm5A2lg5nzfcmgLyLzZ4bHZxUMMCLaSEDy2ASAbYPrpXINU2vUjRehr3dOo4v37Fu2FsEUmao85LlcmtltPsuu4QplRylz37rYRw8iir8pVyXGViGJ9ukCv0UEwfedNzz3zdlUagVh4opwpdv%2FHjs%2FcPX%2BXEKCLRG0IOM7YKFloxKyYDTu%2FSVf%2B6MKIAwzMEGyqlm%2BKVspVcLKWTJZ5sr4Vo6sduvx0q10ZEi4cdl%2BSV9OBthntnjoAbz9fp%2BD%2BMHzCE4wG6XhE2cXuoPsh%2F5md7yHfMDCWaSo7oFoeTXdR1VddkOvo7yZpWlGmlvFOfwuPpwSZpKLER3GTr0ySLwp18VUmYhnT2PzqwHtk3NT4H2B0Cvqd1KrUl1NSDY4S7bCFS0%2F4bodA2i%2BWp1joMCjXPryvT%2F9HVsoFmrypQM38k00SGP43WDY%2BgOiLwlNRk%2BmzhLwfsvkbG0Y12AheqO8mH8%2BplEGcEYljgqLG%2FoG6w1iuimfepe8P2jKjnHyLi6sZPUtRjLJlxka2n4sdMXWLSUKCh0VW%2FI1cEC5B06NuTipnzlMqz1FITuMG8D6lIVxwLRwqpnxYJ9mRhRFheQodZIpGL0gw%3D
+                            - text: Zapatillas Topper T.350 Unisex 0129 Dash
+                          - generic [ref=e781]:
+                            - img [ref=e783]:
+                              - generic [ref=e784]: $
+                              - generic [ref=e785]: "71.399"
+                            - generic [ref=e786]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e787]:
+                                - generic [ref=e788]: $
+                                - generic [ref=e789]: "11.899"
+                          - generic [ref=e790]: Envío gratispor ser tu primera compra
+                    - group [ref=e791]:
+                      - generic [ref=e792]:
+                        - img [ref=e794]
+                        - generic [ref=e795]:
+                          - link [ref=e796] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=O1%2FZbh%2FRKXyD4RuFDvocG3VcRCSa1Njg9WuFfcbgU90r%2F09a9s3XjBK9K4L8vY4Trdh8ELWpyr6sgbGKGhZDFzf2PZy%2FC0EIDeENAJe9D0%2FbvdwajludDu4rG0psq5wIacxg1s5p0Wt2DjEdWfsFClZkwEvtvAzncPpl0cPK3JsH3EGcaP%2BRFXSPhGefXPB86vBKGdcBl2PQ%2B9VFVICScgy2uAu%2Fs4DXpbgJpf79EF72%2F8IQMNDc9eUTfg5O7nhWBZFl6KaPXpq9PNJvtDeIdvF3Bu9Tk5%2F6jScLyr9BJFdX0QQDv2SimZxF3zNm4xq1Vy9MXiEDaeT2eSybLNuCP6WlwFLMVw%2BeDi4FmivnKKpBdLWIBwieqNiJrC9S%2B6zIu7C5%2BopdinltNPwpJCQGmSJ%2FTwdV0Rpx1ZjMTYIRXmva2rRvyK9qcT6axpBa3YUwyoalJ7Q59JFbja0bRE9j3Pjbe9dY02kCc7Lz1aJq6rN0hTWZU%2BCGSj63Kg0bWrOKTN7b9VWccdDPVt6vNngP8yUi1b6q9dzVxRjdC5qzUpGK8qD50y5zMSL2T4lHDGm9s1Lk%2FJNJcv%2FXUCcEe6l03iSRH9qPHQX%2B3oysd68BABAUeI3PZaBOUk5t9Xk67OeWLV91wl71LNDGvHpebGf7zwKzhp5UHs1s0LcJmrsAFgrXuTgTHHpJ0r5DYER08HDs1B1piRbWL8fRcW5sci%2Fi6Zi7hUo64P33aky2YZd%2FbEf0BBVdwJy0XiqARgkncc9xTYoU16wKLKLicPbxArNA0eZiMC3N1DYS%2F28f0iTWLK3M4zukTLg6yMCwu9uvHzZEVy6PDNLxnw2MbLgB9GCQ%2F0Vr8WRbpOyuGxv94h5ROI6%2Fa1HZOEhZa64JX%2B8AS2fc8tGOU2LnRNdBnTBj5xdfwRk3QJRHDFGPLKCYtQR9gSOuWpAzNQ%3D%3D
+                            - text: Zapatilla Sorpasso Pancha Mocasin Lona Hombre Mujer
+                          - generic [ref=e797]:
+                            - img [ref=e798]:
+                              - generic [ref=e799]: $
+                              - generic [ref=e800]: "17.900"
+                            - generic [ref=e801]:
+                              - img [ref=e802]:
+                                - generic [ref=e803]: $
+                                - generic [ref=e804]: "17.363"
+                              - generic [ref=e805]: 3% OFF
+                            - generic [ref=e806]:
+                              - text: 3 cuotas de
+                              - img [ref=e807]:
+                                - generic [ref=e808]: $
+                                - generic [ref=e809]: "7.199"
+                          - generic [ref=e810]: Envío gratispor ser tu primera compra
+                    - group [ref=e811]:
+                      - generic [ref=e812]:
+                        - img [ref=e814]
+                        - generic [ref=e815]:
+                          - link [ref=e816] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=ewuR6e34JFtCPjwQFoxflnoHBcNnWOGPwWczv2Pr3Co34xBbklCjIUKoN%2Fnpj9NY33u%2FeP1%2F35Erbpuu60jCywv7pZk15hiueV%2F1OrWRXLgDoM1AyynhB8lBCaefYPZhry9njFTeDCerqsOpSgK488UeH2LJ2bvGs4C1kZmP%2F40eXhHi5ylbPoSyZmjyeUk8VCRdfTSKh9SgTUuNzxJVV1OTUdhjtbIkaX7os0seaK2VK2dVP0WAN7dZBjVHvjywPsduUIFE7MsKc%2FZ3XS3%2BN0fjXJMAkFglV%2FO8C%2B4M38pXVbj3k7crZW3hfsZRe10iohuYg4VAjAa3sTTef2N2BVQ4lVFFL2KNA7xXd02NyN%2B9Fa2vgKiH%2BIxghWTsGUDxfGTQ2yYYhvSXzqaeVab%2BhojURNUShCNls391m9sMAiOqFoZ9tvxSheMc1g8YQ5j8YXruvh8qsyoXvCSxZHKgNS1qg1ZO3jibAjk3N776bdPgouC4wjKnytOMDm5bfvJaVQj3ZB6o1PkEiduFmDD4CDoEjk3%2FNqrKRtX1p%2BhW2ask0y%2BZuN0%2BbxoYPPdYs76rp6r7HcXXitBiReTVsr4UyJLmdg%2FUZWbNm8rTyDA5VzM89u%2Fyj7%2F5zJoG5zWHIQTDvuiBwRRx89zyym%2F%2FmV1t9OYLQonsMMhr9YgsZgQPniQKVM9O87gbUwvaiznAuSIV9UCVO6ncD%2FzgPHAWUPuXSSaFaggTqQ%2BvGi78zqB1EgKNnElX0jIVk2bWou7zOfsyE4E7d4j5PhRg3iDFGvosHIUZmk%2FCDZ8MQW6bLOaX1Wp1I4K5iRbGptex1bi7RNfC4nHZFc8HI4bp2fDsQ90K9Sa%2Fs%2Fbi2EeZmmDjB%2BZt6jWdCU19aSfEeUJ3HCQ23XJGIuhFp4mvOWXdatTG51D4FUVTKco%2Bcj4qMzrza7Zy3bQYRwI5RDTBQA%3D%3D
+                            - text: Zapatillas Becca Oficial Deportivas Pierre Art.5761 - 36-43
+                          - generic [ref=e817]:
+                            - img [ref=e818]:
+                              - generic [ref=e819]: $
+                              - generic [ref=e820]: "149.999"
+                            - generic [ref=e821]:
+                              - img [ref=e822]:
+                                - generic [ref=e823]: $
+                                - generic [ref=e824]: "64.666"
+                              - generic [ref=e825]: 56% OFF
+                            - generic [ref=e826]:
+                              - text: 6 cuotas de
+                              - img [ref=e827]:
+                                - generic [ref=e828]: $
+                                - generic [ref=e829]: "12.336"
+                          - generic [ref=e830]: Envío gratispor ser tu primera compra
+                    - group [ref=e831]:
+                      - generic [ref=e832]:
+                        - img [ref=e834]
+                        - generic [ref=e835]:
+                          - link [ref=e836] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Xvch1HlonbIDDrxUraIofBSort56NEE4ngfd6MCOL4nxE5Fu64PkhsgnJBk4Gx4rRc%2FgVUMv28bpTrb3hOnCZ8bMTgvY38RBiXER1dITnhF9goDApDR64LsAElD5eCy7Mt5lBP3d6m%2FvxtCBt79ajgy25stChyUHp7UlRz0jCjOGBAoP3w7DNHmX9NNGvHwPJOQhV2WNor7N74YdEqW1%2BPBCNv1aUDw8HAwNDDLaPWeOcM%2F1KpvdV%2Fj8zvyPbZ%2FzZoEJ3XO3bVde0taG1ADWcLVZImqQ0Vu11B%2BO0SB6XASfduLZ8mWn24%2FtHPlBGl2nq632Jfdm21TlUV2JMceR%2FhVz1KOMEG2CiavXKjNZ2yWqYCzUOhWkFNIAnIyHDfgweNCWISa5YgtwdBi7%2FkUPu8QqOKLmzIg%2BJDw6T1fuupE1Vq8N5UxgbBNBPEidtIT6UU88nRvv9ywY%2F3PPIdcYJ9UdKV6VP5HxRGaq21Q7ddYAGvL4zUZgr%2FK5nZcJo86tWGnzDk6JnVqtRWkicXz3KmcQWZMaGYx6hAzSjz79y0PDBYUA2YRPFNZnNfU5klGbdw%2BX%2FK%2BAqSZ%2BiHUDEodc%2Fjj7W8TPjAPtvRDrOxdJTD7uKjG%2F3OlJgSnhT97qyR2bQgOAnx%2BsI91YmpqhRjBk0pFr9znhRhO5YvST%2BiNwni3yI%2FQyyv1sQuL%2BwOaaAT3APq3Ju892majE7DA9IwxZP2I%2FG9CQG24J7PfzPjHBOpfoqKSGkNmvIt7korhnRIsvpaZYaKDM5%2FEIKYwEBRJtnOB7zDzUOjH4vw3zByJp0cexDXwks0IUNDe0PPuXzeTrM0hSP4ZtS0xkglcSFpdaq6fJw4Zijm0G39Aw5kaOmO13IN6GsNxtp8nyS6zrqPCcCsQqLSCEht%2BuK4gndzbjnA%2FuK%2Bkt9pyy0GLALqQ3XwyOri9hmVUdgMNlPg%3D%3D
+                            - text: Zapatilla Calzado Trekking Reforzado Con Puntera Bochin 900
+                          - generic [ref=e837]:
+                            - img [ref=e839]:
+                              - generic [ref=e840]: $
+                              - generic [ref=e841]: "32.999"
+                            - generic [ref=e842]:
+                              - text: 3 cuotas de
+                              - img [ref=e843]:
+                                - generic [ref=e844]: $
+                                - generic [ref=e845]: "13.683"
+                          - generic [ref=e846]: Envío gratispor ser tu primera compra
+                    - group [ref=e847]:
+                      - generic [ref=e848]:
+                        - img [ref=e850]
+                        - generic [ref=e851]:
+                          - link [ref=e852] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=rcrDjex0MOEK2Ki%2B0X%2ByWUb8OtAkh4iY%2FsgK3WgbxNTl%2B0zURBSDVaO5DpMukt%2F%2FFIR3lhhQAUoVJHlzJKrnZlZFsB902F9SvrpLoxvqWeoNotVyOWi3Llui%2Bb16LOlldYyVaWh%2B7R3hD3x3TUBSz4JW%2B97XMnDVUiqMfwUPIOYTqHvk%2BGDccSz49yxNEFpDuq0qi6mMjZfi3Gqxzjp%2FEU20LG57pVDhSKOxDTyGAXXz2an7u5dOc46TAWmcIaS5a2Ujcc8LcuAUKvX9%2FCPu8WKsuJmmHqnwIrbhyQLT9kMxnji4JAGAqFgQcB42dkOHIxJ1y5F2pfqBw14ddAKxXmLWjOXtTfWP228Nt6IqBGubJiCmAmKNff6n%2BNYh07unh5xlQAPnUkYNu4JGeopQcwupnHm%2FeYnJKu601mnngUgtW5cz0uUUcbEDgwr6mXz2%2F4NZrr9YVPHD14%2ByyjB%2Bc2dRmE%2BNupZEKkQvvyE4FO5XC7HY4O4BdyeAD6mbq%2FvOB8NoEDREtG%2Bailw5zOJmZCtM89WKuHcaLnIY0tqe1H5kGg7g%2BB9gcHcooHi9pauXKKXSnhkn%2BgjT7nrom4PyOEtmcYMKO7pJ1zcfMfYlIrzFcXL6lw7MGI9pK9cozTfQ0U4Tzi1DO9dhDg3UbrqPNkZocjjbI8f6ffTVGKKFV%2BMMFqIOdrPuSmV6MQXmT71rkgENrThiPADSof9VjwDQVsoxDHZH8F%2BBi30OTSAAseTa9Xn7KJsE3L9g4MgELr014KRCGULBiYQanl%2B%2FlfOqR5cxkkXrlK1e7dJPmFrPKYCK3Uyyz5H2TpzbAOA%2B1%2F9M%2BeomvDso0sQsx0hI1fCpH8ALw8K3pQaz7ZeSoLYm8VNMA76VADTZQpaCB1Z1MGLwqQ6Sw%2BY%2B78HgDKY4QevQU0c3%2BSNfv0xz3svyICqLkYnxDuK41ySbpQ%3D%3D
+                            - text: Zapatillas Becca Deportivas Unisex Baloo Art.5784 36-41
+                          - generic [ref=e853]:
+                            - img [ref=e854]:
+                              - generic [ref=e855]: $
+                              - generic [ref=e856]: "149.999"
+                            - generic [ref=e857]:
+                              - img [ref=e858]:
+                                - generic [ref=e859]: $
+                                - generic [ref=e860]: "64.999"
+                              - generic [ref=e861]: 56% OFF
+                            - generic [ref=e862]:
+                              - text: 3 cuotas de
+                              - img [ref=e863]:
+                                - generic [ref=e864]: $
+                                - generic [ref=e865]: "26.952"
+                          - generic [ref=e866]: Envío gratispor ser tu primera compra
+                    - group [ref=e867]:
+                      - generic [ref=e868]:
+                        - img [ref=e870]
+                        - generic [ref=e871]:
+                          - link [ref=e872] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=o4pX%2F801nvp%2FZQ6CVN3ekdp1d2CAMbdYzaXRqnBiMTwKyA1CjJSav2H7nRVru8yy%2Fd%2F%2Bh%2FXLD0gplF0OJJmh5xTWUiQFdF0XeKr07FAZfBFjFzFEekBFuc2gC1C6dFHIx9eAC1uQlvQVqaEBvloO3y5fp6k4CatVT3W13ekCPDDcDjopwfR2uROSZx4VZkkV0giGPziHo6A9dYV%2F0nMIkv8RAfJLHbEWwGGbycHs2WaZ00zdlkjjOPalEdvx6FBs8ony9l%2BIAOvoGUJJd%2FA9T%2Bo9g2EeaLjoJ3UziHG269dEsV%2FqvQOvvz%2Fg%2BFpO84uubZ7K0T%2FsxjzyxSYTKdz0yLgWlRYS%2Bp1fqDxQ1FpPH7MT0y1Bo6mO1QI34BWK3UOPb2cha%2BcJVlHLiqbylDOHvBccNZJr0hsfXusehlQngC7iGmMLwfJKlvDLLhIxUf5SrF5n9rR04GrqaiPNNpxDNsj5CXJ%2F1qKFXXeDh42UZWZeLT7UEzhL%2BLPTRThvVPHqEEMBBVRKDfEKyrtmGNDxQcUHSpmxPT70Ciym01gzgSihb1aXYjXRTUZYQct7N32tdyIZc%2BIyc5Da7Inp1GeYu3xSekxpDqJ56Admz%2FbmCLna7UtezIlz46CwtID1jd1kyApnnOUOBPP6VACzKCqbEiFs%2FfgAL4Wvc3pwoyrdlp%2B6N8akqrtMB%2BrUnOdZOctoHbksn2HKH6RyglsESIpRrzlgbg6H2FXHwoZWSyhAUNwHil9dxAQqdhPp0fvZORx1jLLHnToauMEiR0PbzMt8xwUJp0zWdWsExc5%2Fp7%2B1gkNuMeG1t8G260Dy57g5SDDLZ1tMTQDDCTxliOQ4nI1bgem2LaFYM03YYVP4g%2Fma3v9diXKF38fnziwz1ApKKUeN5t9Tu%2B7iJTTB1No5JHKed6ED2H1Hymo04tPzkN0K0Km0HW2HrRXhjrqv1w%3D%3D
+                            - text: Zapatillas Becca Shoes Unisex Oddie Art. 5796 Del 36 Al 41
+                          - generic [ref=e873]:
+                            - img [ref=e874]:
+                              - generic [ref=e875]: $
+                              - generic [ref=e876]: "149.999"
+                            - generic [ref=e877]:
+                              - img [ref=e878]:
+                                - generic [ref=e879]: $
+                                - generic [ref=e880]: "64.999"
+                              - generic [ref=e881]: 56% OFF
+                            - generic [ref=e882]:
+                              - text: 3 cuotas de
+                              - img [ref=e883]:
+                                - generic [ref=e884]: $
+                                - generic [ref=e885]: "26.952"
+                          - generic [ref=e886]: Envío gratispor ser tu primera compra
+                    - group [ref=e887]:
+                      - generic [ref=e888]:
+                        - img [ref=e890]
+                        - generic [ref=e891]:
+                          - link [ref=e892] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=L%2FphAQmmswehdN%2FLWiPJIf%2BhPF1wh%2BgRlz5rB7vKcNs3D9i1TQD8HyBw8yC0KvUjaZu2ub1vNFOg6pNpLpWFD4GJJ7k%2B%2FaCb2XLYgm5tgA8hUS0mPBsaEdur3773a9UUjfbtl%2BC57rVrcgxTgcIhVGWceiG7pMBanSIZ4IEqtdrRkbisELTHXupGuwjQpBQnkHq0cE774joLeRdst8kxWylybOFSib2PBErr7KNiEM2ltTVCiI8blLMfFinnLtD5Mf2aCJ3X99lHMm07wvxLgtrBIiRFXGbefrVtVpsYjD9s%2BkgqwyKMCPYHAcKAchjFPviyFS0bIhHwe4GEG5nnW1iMDyL2crGyTP%2B%2BMiWaRKRLdwxepoBqmh3DPOLuDI3aiOyReyBR5FQSVJpi6KR9sqYS4olhY5rJpisEj1AKEG%2BHAQmuxWkPPlFjz5MBNWfEHXU%2BzN4kOLKj5xzEvqT2xzpFmRSYIF1jkWHYPz1pFxmNatBVhF6TZpDkxURVlzu9iyHhXGGO43Ay5fHFDo4HmNuC1aa3c9yI4x9XmMyW5sF8kWmULgRtkpPGUUm1Fgo6VTdswod0aiGhtZYbMdYnNEWDqcjoOzlDA%2F4VGgSgU3Hwo2cenB3xCLXoArGtYAZfzrgB6V5PtxIpI3IknTnB5%2F0QX26SiJQ%2FN5FhHF7lZS4oTTr5PNhY%2BVWJfBiL3ffRg%2BtWFS8zCAlPhzNTwJyHVkHfpTp0IhADJeZmD49YkEHCvdX5YgbOCLvHs%2FJ1ZgiO1TgyJ%2FwlhvhDU2NRBD96O5i%2FXf3UiOwe1j8KmacxOWtRaFsuMi11U430qicBFuwNcEiik6MdXVa502s9gHfI2HoNABENk0dKqHwht9yZTznNjqI4fB2BT8fFDh%2B5DBtuu9cWT3vSE%2BEj4iqINKptHDQFP6WH5bjmHVW7WAOZk%2B6Qj2e1KzLb
+                            - text: Zapatillas Becca Deportivas Pierre Art.5761 - 36-43 Full
+                          - generic [ref=e893]:
+                            - img [ref=e894]:
+                              - generic [ref=e895]: $
+                              - generic [ref=e896]: "149.999"
+                            - generic [ref=e897]:
+                              - img [ref=e898]:
+                                - generic [ref=e899]: $
+                                - generic [ref=e900]: "64.666"
+                              - generic [ref=e901]: 56% OFF
+                            - generic [ref=e902]:
+                              - text: 6 cuotas de
+                              - img [ref=e903]:
+                                - generic [ref=e904]: $
+                                - generic [ref=e905]: "12.336"
+                          - generic [ref=e906]: Envío gratispor ser tu primera compra
+                    - group [ref=e907]:
+                      - generic [ref=e908]:
+                        - img [ref=e910]
+                        - generic [ref=e911]:
+                          - link [ref=e912] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=SIEuQH3lKvG96TeOluWd2jEx6t%2FYrPVbalCynlAMN4mh1Jw2q%2B04HGdvGCTzK1hSZuHiLs2lg5MMxVa%2BX5gv88E78Ooh7eSYk6U81wuxljrQkTy%2FeV0CCyU8PZSkXikAHOrEDfcRwanE7EYJFPbHtyGs%2BJ6XT3%2FLIRs4GvgsoluTrN8fT1mkMZYqGohaX6Vf98bZXzrV9AI%2FAJ8X9kZxXYWxAVaEoF6GmfpU9UiUd%2F4O6ceFF7TZWcppxmIKfwpiPJlZr9MVO%2B5qpi%2FXN4AcyOqKvksguP80l6hFeybc8pQr6E6XZ2NaY2bzEtvtK4z3BjIc2SbFzPn96G%2BzyEIMepE0WqJ4sWp1%2B%2BglidwZBMStibfB2pPvDQiEfoVB1nFBgWfkXUA1gJvKb9uokrG3OJaaHNFEBz%2B%2BsPmSW%2F1IPxtdxfToLP6%2B4htHCTCCY8rLWa1dIQQSY9BbKLmiMeHFTaMAAiQELlwzh2ileRviOBC5p3I7vZCylo1nqc5Fb507lhv%2BHpvNJWUs%2FPeH1duHqWQDFfAJjMcHQz1I02jfarMrhoPNMQzFK36%2FBn66aoqmZjbArhkw%2BVjshSXdOaUGZ%2FB%2FiuauP4vMgprairRN91ogcsghtp11qyZy7wlpq%2BnC8BSDiwCwAIomIvmrm7sk1%2BdKP45%2F4VMW1jlqhoaNnoTPnJnkuejGyCPBClmpEvl8PgXiuCP6o%2FzBCOcbVZhM0FFDtf2RewL5HkTYRIw0iCqus84%2B0mai0FhlfJFz%2FcOeYBM9KftwmkVjWNyVla7rbvzOJsBIl1mVXD0ua%2F9GinRcJD10RJZOa%2BznjF2wXNujizJ7bad5yG9ASKH%2BKbGCe6fXdaivBPTXZHHVVO%2FI4JorgLKlDuG1AZD8I99nD8Vl3ZOy2Ul1QEme9CvttP%2Fp69nsIVtAkmJdsUp6OGQumZI6Nw%3D%3D
+                            - text: Zapatillas Becca Deportivas Vermont Art.5716 36- 41
+                          - generic [ref=e913]:
+                            - img [ref=e914]:
+                              - generic [ref=e915]: $
+                              - generic [ref=e916]: "149.999"
+                            - generic [ref=e917]:
+                              - img [ref=e918]:
+                                - generic [ref=e919]: $
+                                - generic [ref=e920]: "64.999"
+                              - generic [ref=e921]: 56% OFF
+                            - generic [ref=e922]:
+                              - text: 6 cuotas de
+                              - img [ref=e923]:
+                                - generic [ref=e924]: $
+                                - generic [ref=e925]: "12.399"
+                          - generic [ref=e926]: Envío gratispor ser tu primera compra
+                    - group [ref=e927]:
+                      - generic [ref=e928]:
+                        - img [ref=e930]
+                        - generic [ref=e931]:
+                          - link [ref=e932] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=8qnozM5s1Ic0GhsozqyMNEmiHGk4FEe0l2WXd%2Fa%2BDvnF7XaNdJtPOQdexQx19QzfCxdq%2F0cz9SlVX23bKoo6zw11dWbdPOFCiquyDT1fHRLhyr9lOEJ9MzdNAVt%2FFvG%2FiA%2FYBVf909njVUaqoRMhFqAJRWObkN7a0Go474aNFTh0ds3%2B8b3NuQ0vf3BPoD%2FeJnOBz8T7z0InEq0tPdmDCAi558NCUsa%2FPgpHi9z5rO8cOAxgFqdf5xgEYlmTEYvSDveXZsFsi1UIq8lBpke79PP1CUkTuaOzF8LX4MUg3j9uxqbjOCwb%2BBVUnQu0VoIG8ZnUdiwEtNVrtfFj5ZUTsRJhUCrXJLW3U0LYR00uKIS7EGej3QrWkRVL4GPO6JvekUxX0IhBHJyDSQlP1focv%2BKr782Ce1DKLP5Fc1UpkWTdVNxCeFJUghHDD%2FW2H%2BRckObhkcqfHnBkZpTUXmayKyIGWeelKDVy4wbcPxxojI%2BhBJMBmP5WZWIR2HyCjL5UpbSie1LQF7YM5X59GLSmcwwlYwEAHqs5njCbWrJVpa6%2BClODW6OZj%2FFBEGIQ6SbrDt7GDL2XfE2wbtSv8cupoVZrHFa6b9%2B43CPmcxfkKSTC6W1d%2BJoy88O%2F84wt5E1rTCpJFOA8iBfqXGn3u3f1BCVcnfo7JgF6UKvxo9BXuyooQdQNt7v9i1jsHtjyrFt2CEGFeq3%2Bbp7bzN723bRQuDRgG9dDn%2FCgjEoSxoUsIIY8nZ%2BpKUu0fZCiXNxzYiHc9QxG2yy4%2FBUBchfSH1uY2CLsJ1SCJPKRrSaGL4UgDqMT6ZG8qykUYR%2Bic12e12R5FUgeBE%2BILfCpzLk9Av8A2D92a965HmRvbo5GYJvQmM5bWJVBNiQOMGMXgMH8pgClcIUbu20aJW3gC0DH%2BIOeGcv3PdMXWBc%3D
+                            - text: Zapatillas Topper Boris - 25679 - Open Sports
+                          - generic [ref=e933]:
+                            - img [ref=e934]:
+                              - generic [ref=e935]: $
+                              - generic [ref=e936]: "69.900"
+                            - generic [ref=e937]:
+                              - img [ref=e938]:
+                                - generic [ref=e939]: $
+                                - generic [ref=e940]: "59.406"
+                              - generic [ref=e941]: 15% OFF
+                            - generic [ref=e942]:
+                              - text: 3 cuotas de
+                              - img [ref=e943]:
+                                - generic [ref=e944]: $
+                                - generic [ref=e945]: "24.633"
+                          - generic [ref=e946]: Envío gratispor ser tu primera compra
+                    - group [ref=e947]:
+                      - generic [ref=e948]:
+                        - img [ref=e950]
+                        - generic [ref=e951]:
+                          - link [ref=e952] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=WXO0uIMLSN%2Fmann31CLaBerygLpuknOy1nAgQaOTdRpHjPI94VxvWCE4megWYmCzNLg7CIZJKJw1U42TTELUlzv0o1x2g5pLf%2Bl0ECe5dIYTeD%2Fwgg%2FqUJAmlij7TFXAc7KHM4ZgSOyhewWyU9gUPJAt8XSh6t8832ivkZDZm0mpmIgcRA6pxw86C%2FHdzucCPHx81YsxPjHLzp18hR9vPeKMrkRSxAGrqHJW%2FhFP%2BIalsgisWjz1%2BgFyvFPxPPOEwgG9%2FoAAvmkem15jWb1PQB9mHSbKoQGFW%2FqJSKZlV%2FyLB8zJqD%2FXabTwFVViwsxOZddbbVURCzDmxuXRNqIccGfddwTPeT276%2Fi9v7xsWvju4m3Q6jNBFpPjxljO0TP6fF%2F6sJPraY4MjY5EZSRWGEpwcUH1UFKvFK%2Fhb%2BQUvbwZqE8Cua0g1TbkSIFulCUcbQEbP7hxCO3t%2BQhoT2%2BY1C9f%2BGhdbUAvx%2BPsFs20r9wU9L4SqzuUW5e8us%2BPVxvK3h1cD330vLzYWUNMuxg5BhhkCZVTGByryH%2FbZZXzfG%2BJ7w1zvfdb47nICBu7UyUEIOVPqsUQYsyCTOXKlbpBj7hE0cOheXuPes76Ijw%2BIdhPXOswCxbaQAoEUzJpDIupbJgmp13ETxSbZcJUHwUhaRm26rpGC2yEuNRqJLx18fuKh1Ib7Y6WHdV3K7tRhwdVKz94J9owf3Wb%2B52NhlZ%2BGNjj0jSXrQEqucTtkuRz%2BxsbCqt0nxmr8eVY2HofmBjnJt76bhgbMYoGEDM04zA3NwYvLn359eN02ZjfEMnFX6%2FvdHSU4pjD986eDWFmx3TfhLz0a1k5EQybtsnqcW31N9lKpOnVwD0peIHnztQp%2BvkpoMjhInmz8j0UOoUygV4XzJ4%2FzAD5LYGAryiBNrvfxi%2BKrKHGlf1Att4wwLSF3m%2BNqg0RETuIOmDbDygvDQrET15ss47N1be8IXEL0X2OAOrlpU97iM3TYZIEyEVwFfdxtrEpDx%2BGmlbJe9ebNtc2dY1B5KiTcCz62Pe2&catalog_product_id=MLA43941927&zip_code=5013
+                            - text: Zapatillas Topper Tie Break ||| Estilo Urbano Para Hombre
+                          - generic [ref=e953]:
+                            - img [ref=e954]:
+                              - generic [ref=e955]: $
+                              - generic [ref=e956]: "79.900"
+                            - generic [ref=e957]:
+                              - img [ref=e958]:
+                                - generic [ref=e959]: $
+                                - generic [ref=e960]: "62.549"
+                              - generic [ref=e961]: 21% OFF
+                            - generic [ref=e962]:
+                              - text: Mismo precio 3 cuotas de
+                              - img [ref=e963]:
+                                - generic [ref=e964]: $
+                                - generic [ref=e965]: "20.849"
+                          - generic [ref=e966]: Envío gratispor ser tu primera compra
+                    - group [ref=e967]:
+                      - generic [ref=e968]:
+                        - img [ref=e970]
+                        - generic [ref=e971]:
+                          - link [ref=e972] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=3KMvNFrKsIRte%2F%2FUp0DPwUtiG8ExSEkYakQQ6J6gQHLrWDkDOrBklMCAjnUF80Z8xa0knodXlswvLbwZZsIgVTSGpu58HG4iEd96mYTqun%2Bbs2Qe9oIDc00oH9AiVR1mHzCtaia09wLfxnDmt4tTBLQUGE%2FfcX32dbZ%2F%2F77NViQm6254H8IttYx8xwXGKEf2JvJsPMGn7%2F4BDmycBZxQilLDWFqDlgrZuhs4toaJG9rIYSTLoFnQljRA92BlWMLXL7LMOoBUmHFInHbYJ326aAGU7%2ByUFsZMloosdWGXCA346J5%2BYKtWsPd5lMEdpKyoTaa04ltfGk19of4qZwFNltQjMcDlHQeGCPbokhfwhU3JIuluxgTko5eE7Abr%2BMqciyExBWKWp2CUlmfJjGYDGtI%2BpbQCuC2Nk8kq4WGU3wq8uqgiBMkSiHjI8%2FCt4hLjC6PLO%2FrEwoAiAd3ZhTVPnouxgw7DB9TDLIfKl%2F4YpdXSNIad6tMz15%2FnpjyNdNAJDDYkVy4P1ht2Bgw%2BL3vQThVuPjw7tiqfDRvbshvvDVhQ9JfhJZwk%2BcIgNEMlmtTQ%2FOC2zJeLMbt6dn9NQ%2FDiwGi9f7RIvHLUm5PH8Q4SSSeA0DVTgGP3wkxH0XQ7F45RWiFeybDnNtB%2Fy4EKFeQl7fDehAAo775pPr1sRYZmPaCtMG%2B9MUa8owrffbhPlO%2Ffij3ahekm1Z1pFyMwLLrMxFtw7NrfjLtT%2B95LK2lZJCK5miEGp5a6RkcDIfQQDMtgE3A7JQ9%2B10im7L7O%2F8RFJ5kIg4vzSzzgFPQ7MvScyy5uKeaQZQNEzoJz4topWGimey%2BHTBPA%2F8MqFD6pyFzB9kfwPQhfc2zFGcejpn315yi3WThHiGLpyZtmMiso8TnhLqhFlslFvarCcSkwqX5YKXNAj15u67jPyxSgJLBpN2YouAaWaxEaK3Ilwn6RO5Q%3D
+                            - text: Botas Chuck Taylor All Star Converse Converse Tienda Oficial
+                          - generic [ref=e973]:
+                            - img [ref=e975]:
+                              - generic [ref=e976]: $
+                              - generic [ref=e977]: "99.899"
+                            - generic [ref=e978]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e979]:
+                                - generic [ref=e980]: $
+                                - generic [ref=e981]: "16.649"
+                          - generic [ref=e982]: Envío gratispor ser tu primera compra
+                    - group [ref=e983]:
+                      - generic [ref=e984]:
+                        - img [ref=e986]
+                        - generic [ref=e987]:
+                          - link [ref=e988] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=9PBgFTtYA2m3rYbs%2FKVAIxy2LcS8qdsxqn66MDaLZjgtSpTcvgDNeZ7KjXSzLHIrBEoHiG8JNuCewf18QWKWQyQL9Ax16VRcUdTG9Dof1%2BJjETSZoAu79RQX9%2Fd0oHMzNtuDu1BlmPiYVtRxGBs4notOHjdB8xXVgnn0iVTwID7BBPl8m27zlXjpAXxthqHh4bmqk3GXULTNPp3cCg8TJ20kNjfTCLYd3LEaK6lsJDD9SjDPJJU6%2FNmdC%2FT7Vj0YEYSHt%2FKGNH6mYo3qcJnadUQELWPE1okJ2Fi3R7F7dZlo3GbEzuHxkSDRKdMgD843lbXbX%2BX5vWx1Ia5QtxeEMdNZdjB5LEOxmGyh7sc%2BuFSLDwZEYc%2B%2BWzAzl2AT654jVvrvnUEpicIrpZUZ%2F9QbWCVhTty%2Fo0GXdWPj39GYhnRJEShxdMOr5WloFEJs2t%2B9Zwxa4gSqNnKERjySLs1WnLZvJFkpPrEF2c9xyoE2J5K5%2BhI6AP%2BJ7Nba3AssnmFwcCsQWXSyeKwRuY1TP7xt%2BFjUrIAeXGlu63rupUIiN8ZRQ5TFSZdqLShijcCIPjRUdfZZptb%2B%2BJxX6gqsvAvEBF9tneieZj1A95qkpAsr3DjPvSv6iTV82pp2i6fFUe3cdh5IFTdgx%2Ffy6nk0Uuf%2BA5yu3hSl8H4zOAoWENxJ0Hzf1zQr9al75XLCXZFtkXsef0Uyopoiww2pUUleRQh2TmjWiAyFu4Ijc%2FlLFDheYjebgELPxWuOmrsWs54M0ahJKxh1ZVv5s3JyuZvvD52UCGk0qhh9t%2FYl7oM0KXeZwXE%2FEDPmt%2F7umWoLmYcs6eK5hy8b2hHG%2B9YDWTlDsukv5Xs95EKSRMA8pHS7SruAUC9aui7dE5MesAgxf9AofPolIlrpoZ%2FOC8ppB915GgkEHiaf8d9tvqcyBBbjJiG7Fmh%2FO83hM%2F2r9A%3D%3D
+                            - text: Zapatillas Becca Deportivas Unisex Gargola Art 5800 36-41
+                          - generic [ref=e989]:
+                            - img [ref=e990]:
+                              - generic [ref=e991]: $
+                              - generic [ref=e992]: "149.999"
+                            - generic [ref=e993]:
+                              - img [ref=e994]:
+                                - generic [ref=e995]: $
+                                - generic [ref=e996]: "64.999"
+                              - generic [ref=e997]: 56% OFF
+                            - generic [ref=e998]:
+                              - text: 6 cuotas de
+                              - img [ref=e999]:
+                                - generic [ref=e1000]: $
+                                - generic [ref=e1001]: "12.399"
+                          - generic [ref=e1002]: Envío gratispor ser tu primera compra
+                    - group [ref=e1003]:
+                      - generic [ref=e1004]:
+                        - img [ref=e1006]
+                        - generic [ref=e1007]:
+                          - link [ref=e1008] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Z1%2Fx3mOltg8utnMgseabz%2F%2F2enD9aBqmHML9RKWw6c5L%2FDxrQ0m01G8gDYaDGASrLoR69R3pfl9SODk73B9ok1bt9SmxrMpR82a0PG4l5rWv8wjYN3sKXmFOZ3IRkf7WP3ivTiCokWcZ8aoqYALVfOrNrBNXZPRFYVf2j1otzqVA%2BX9RaNCoEdMsLytp4UYcJoH0auNM1LscRCVH%2BSFZyR1pPjleAcsi7PO6ZPOipXd7Mf68xpV5A6zLTeOogHPgMzMSwhl7dMYnxUPc8HPp1U6inHk3U%2FAkyw%2BSal2pO%2BOKB2mQsiFyQeIN52kwd7ePvUZA%2BnOwSlZ7rfhzjTkXOpKEiDnhT59FQggwujSwdT4QhOSNAu3vOYeSR2ElzKIA66hAhN6de57O9j2WpqrU3NopLDUqseROd4uroGc%2B4NecTl0vCr1y2jfHuxQB52sgEFHIcdi9TCCkeTXUwVz5XHDKd%2FaBjAGQ52pP%2Bd%2FJdow1U4gu%2F%2FnMooJ5bi1t6h2k3ZBTlDCIFOX9SUoV0KtOutFn6jM9d3jYJXNRuV5RfNT1qKjOOI6EbXqz%2FMgiWvQVFZTB64pYSxosDkArglZ9R1RUdWLbDaurb%2FKsZRkstjyZ9JJMMnjcCR5x5x5WEJz1BvFAshaJpUif77ic3yTrVp6q6UyuKBpjxuUpgWoSd1XPhmncgzvxnF1%2BgGRel6n%2BvSyzfuVxrjGvnoVhRPSBLbBOfGmkP2SdT7KoGItpNbL%2F84%2FRG5mexLiJpz1mrP1ECxS91B0athDqxfKATEAI0XL2iho8EoTWL3Wwf0EhLSx43qagQlRt4Oks%2FAXG3kb6RXlfEBLNmSlV860k7Kv0BDx2S2SOkheCpuddOZ9R3jrsLDVfUFx5wDQku32XKMgNPfBeBQCk%2FQD2fLNJeZXiN1N6PN18Ix%2BesQ5yn9qpx4zT5%2Fu8VVwSKA%3D%3D
+                            - text: "Zapatillas Deli Urbanas 35 A 44 Livianas De Vestir #740"
+                          - generic [ref=e1009]:
+                            - img [ref=e1010]:
+                              - generic [ref=e1011]: $
+                              - generic [ref=e1012]: "29.400"
+                            - generic [ref=e1013]:
+                              - img [ref=e1014]:
+                                - generic [ref=e1015]: $
+                                - generic [ref=e1016]: "23.865"
+                              - generic [ref=e1017]: 18% OFF
+                            - generic [ref=e1018]:
+                              - text: 3 cuotas de
+                              - img [ref=e1019]:
+                                - generic [ref=e1020]: $
+                                - generic [ref=e1021]: "9.896"
+                          - generic [ref=e1022]: Envío gratispor ser tu primera compra
+                    - group [ref=e1023]:
+                      - generic [ref=e1024]:
+                        - img [ref=e1026]
+                        - generic [ref=e1027]:
+                          - link [ref=e1028] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=j944gnf5EplxbJFctMNe2bgGQ9%2FA0RJJkpfKxsJbzoV1%2F79yYEFkpR7a5iU%2B0etScsu%2BvuYYt5%2BVQQwmIB2d2YWIS%2F%2B5BYWhmV2hIY0LK72hhkwwlG%2FWqK%2FvmyR1a3r7SalXcGlHsPSovfJZg6NXpS1%2BbeuS7ozCy26K8zUXrU2XWscntNsGHsw%2Fn3eulAXvZZB%2FRTfXqYRlZoQdj%2Bk%2F4nYTuoRP7CagXnV9BV6Rgt%2FVRC%2FG9MQ3d6NlvSj%2BYcRdYrcaeki0vhwMbS%2F2eee5iyWyKv26%2FgPMRhbHBr7Sa69a5hwxdeBuwPY%2BrDO7xcDjPWz48NMUQcOifYFsw4Mpf4zysYqzMZIitxPEoIi%2BxQftEfM8HS4FTdMoo5zvINHDLNh3LAXgAXG7fRrFqQFM2BzYD2J79IraP3XCRFLCSdaUWoBaAlKG1GPggdiOmZ8bVEjNNgEUgxkm%2F1tvu6gvwFmO2%2F7wpdGbOR1%2BDm3MeZjfIgrnoKd5XP1H6w5j79myXDG4UjQ37RabxHhnGbkDAmI%2BESup%2F5s%2Ft%2FOAGWOb%2FRHFQ7DrS7p2pZ%2BLZkxj5qxCCFuUN6h4uVoW2HmQLmnRqss%2BLq3jCDVO20IHxBTOrUXhN%2B0%2B4nx63iMdoq7ZQBBfu0iDsR2k8TOJ5vSWdZWw5U3oHHcRbP0B6UkAGFdQyCrIzG8M0nfhQzizUUKX1VREFTdp9VvWH%2BlpWuxZx0N1kVTQUJqoin0L7CNDD5qWkGcbTNor8%2BfTrk%2Fnd8sFDcum8zBv9PdYLjy81G2mMRZ%2BLva5WC%2FzMwP61zVobRj2ql4gleGrZA%2BGD2zhiscvlGwSb3mawTA3Tmux%2BSMdWaFibXPQzaG5mdeEWEORCihZcawMseeH%2BKmqBLU5L1%2FDa%2BbjHEHvopBqZHTYcPtBHjKspDeX0NCtqtqznUyqaA%3D%3D
+                            - text: Zapatillas Dvs Celsius Charcoal Black White
+                          - generic [ref=e1029]:
+                            - img [ref=e1031]:
+                              - generic [ref=e1032]: $
+                              - generic [ref=e1033]: "172.999"
+                            - generic [ref=e1034]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1035]:
+                                - generic [ref=e1036]: $
+                                - generic [ref=e1037]: "28.833"
+                          - generic [ref=e1038]: Envío gratispor ser tu primera compra
+                    - group [ref=e1039]:
+                      - generic [ref=e1040]:
+                        - img [ref=e1042]
+                        - generic [ref=e1043]:
+                          - link [ref=e1044] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=aXMqBcg0yz6b6Fxtqctzi9ene2aLgA0Vet%2BtuCPcCcq9uoEQZBU8PK4Reo7h925LnjYlg8tmxsAlt62PEjn%2FkMCSQ7RgnnNAAeDYz%2F%2FE21o07oUaGXWAyOMocKydJ5yayCmcY0hO7JWaNu3P1cmGWMEyhcjgdvqPArKSmIfvgLL9V7EY6gJfQQ%2F%2BHupwNzV4%2Fih8lnii1Qjl2m2f1%2F4pgRIo9cHzcxVYHXWbiwV4W%2BdTHFvu5v6ypx6SrXjtgUuoYlVNH3mvMn1XCv5Y4mc3AYxRiFbeTp2B84fBLWIhWKx%2B0Jki1iuKpkefA0ZLPRtp2LmVE2yW0QsrfaBtXOH29QEh8lLodhIAhFeste9K09gyOMR8%2BnN6%2FaXhVAj4zDtT7n4mv4zyqzCayLsydkUqSf1X1o4jhZJJ7RFDSf28IJFUzIMqjIWqNq%2BQuQVYCAoa4DpBPJ5w111JAe7sNjvrIyk1Iws5aJJiRVN%2BbGAOVQripNrkuW2dHl%2Bm7Xz%2BmT4WoZ5zRTbQg%2BN94j0x8l7yKrrmDtIQL87MWfORYpXVYgsVf1Y2dsHMHzcyhaC8GCNkaDxikU79X5118fnitv4FX0b7q0HsopFY789SqoBnOzDoQZuNlGjg3PTmS1Hb%2BlKSbaTJg4ON2%2FKStBQBi4X8NXytyTNbmdBOxBofMWNenANLpF5gaz5YbQcwdIPR%2F18pLHdne52ej8HGXzx93VZ5gYNuu4oUqWPJmpDO%2B7YWX5zlG2N5KC0jLYwUURG7H23p%2BnyjV5XBoNYjcf7pnpLlVYMiqbyBLAxwdd7ZABoOCEeG%2FvH%2BVBdEVAeJBIanm%2B47oZlsB0lrZ6tQU2Uds2oHtZQBJBMdSJl6XnC3GjcAa2veVDQ6lstbeZlNPG9bEXZPot5xwda9HH2985OHMo3sytEiLhph4YfVBc4Vmg8P7gF9pyeiMwQN4V9Dg838E6PnFpEGfcEW5aAeNHBBLMdhVHs5ww%3D%3D
+                            - text: Zapatillas Topper Temple Unisex Moda Marrón
+                          - generic [ref=e1045]:
+                            - img [ref=e1046]:
+                              - generic [ref=e1047]: $
+                              - generic [ref=e1048]: "102.699"
+                            - generic [ref=e1049]:
+                              - img [ref=e1050]:
+                                - generic [ref=e1051]: $
+                                - generic [ref=e1052]: "60.721"
+                              - generic [ref=e1053]: 40% OFF
+                            - generic [ref=e1054]:
+                              - text: 3 cuotas de
+                              - img [ref=e1055]:
+                                - generic [ref=e1056]: $
+                                - generic [ref=e1057]: "25.178"
+                          - generic [ref=e1058]: Envío gratispor ser tu primera compra
+                    - group [ref=e1059]:
+                      - generic [ref=e1060]:
+                        - img [ref=e1062]
+                        - generic [ref=e1063]:
+                          - link [ref=e1064] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=auDyPKssrAtcTmB2is3y9uf9LCovZ%2Bml447V3YUD95Dw5ZgewVhCdBxqbPFuZoyDoc3ky65IMIeYggGUzakk9G9uSMX9Ap%2FTnUWxkkPDnmqtl1wOuVEt68gB2f96Yz1qWdW6eVpFDtX2CR6uKTM5J%2FIG4TDJS2Ct9%2FejY%2BIuaXyj8%2F1JsaexcCufwMvg1M%2BltNgMOeJ0iiaFA6%2FdLZAMZKD7aDZiEzePM2vOghf8dXvG%2FMsXPkMj0uFhJ%2BGgNy8zAReDTrXgsGlGb2zMcGZYC8xXF8D7FFVGdZjOwh%2B1o2puzFUGHCgNSZFFUL4NVej%2BejLtun3TiosApT9W2gRl6N0urtSH0cphvPFs%2F4JD2ja5yY6FGz7D%2BAa29Plm%2BJiqeItMfE%2FSlbxZttAkYB4SezvuFS3TcxzkW91U2ascnJNOOCrdWdLwixAh22RVmCsojhK8hHz3I%2F%2BeQvhrIvBDVcTc02JoC60xUJB8vFqAspduyJGwUkWibNTecfGcr%2F%2F9iNssE2Tk6RLtuI413AuK%2F9VdJS0%2FQXbnoq%2FQKOzLtHIPIYFlEbWIv2JnlPlsPElBeo%2BqNcJ42Zz1tnymMERMR3v7%2FZp1rY9mtpdXc4dyoCqfDcE0kOR0xHLA4vGRhcZTDms7GXpa0SQjpK5%2Bb1%2FoWzgnA%2FD4gwWem3tVzLJ%2Bv5S55GVUhD9W7mkg%2Fa9xHe54%2B94AN7buKgt62pqFgu6V0kkseClUMTumno8FKaWFU6RgAzNibGwiP5Gf3NRaFjIZ3bjBPQZzfkQh2b%2Bx5Rwb4BcZjAKfIHoAkRVaYKFHNNhLTdg5p9mQJ0JbZyUDjGY1WvTTLl3YE9%2BTrK3bPzR1yzh3b4oXxjz%2BtfFEonZyzRMTxSeULafhOgTj5Q17M3No0JGWVxgHUyEkteDNSNd2FDjONOs%3D
+                            - text: Zapatillas Guala Air Style Urbanas
+                          - generic [ref=e1065]:
+                            - img [ref=e1066]:
+                              - generic [ref=e1067]: $
+                              - generic [ref=e1068]: "46.300"
+                            - generic [ref=e1069]:
+                              - img [ref=e1070]:
+                                - generic [ref=e1071]: $
+                                - generic [ref=e1072]: "17.594"
+                              - generic [ref=e1073]: 62% OFF
+                            - generic [ref=e1074]:
+                              - text: 3 cuotas de
+                              - img [ref=e1075]:
+                                - generic [ref=e1076]: $
+                                - generic [ref=e1077]: "7.295"
+                    - group [ref=e1078]:
+                      - generic [ref=e1079]:
+                        - img [ref=e1081]
+                        - generic [ref=e1082]:
+                          - link [ref=e1083] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=%2Bpavk3sjeMXAOj02WbFengsocHi61goZP8xZzJgOZa2ubc%2BOq%2FfPS7J%2FPt4%2F6yiANpnfVA%2FrqPgfjr2S5rRyc1wTcddKbxXiDu67FEBb8U87pplZYd8cc41iMEgywYhzzkf1MUT3FFY860GZHg5IRD1isq3Bx6ky1FdFeYm648QIjVOfDn6vvEG%2FWLceN5sC2r2EhrifBY9mEd7dJQv423ez%2FMSizVEARFs1n96ygmIm4b5qlk7mZj3j1r8CAxdSMmcSObxtjliy1mTpWYzRkk6Ffc5k8ytaNo1xmzn2F4it9bKU%2FmjHEwDCKVAso6cJvyt0RkCmQhiNko%2Fk%2BQqgw8bSQLOCnb0d4Sh8G3%2BSqL9aSx49%2FHxEevx917n7F9fkGHyK0hBxJNL9E92zEAEg6IxhZP2KwLZ2fYMtuq0DvWBkWmHmG1czrJp9AYmwwn8UD%2BlbRYozGzmTnSc0aiUkhihaQrlx5T1VmXTqEYvE59td7%2FKSWAGRnYO%2FHY1TcVc%2FwexgY8ULWF8QdmPvAxxd0RO0wSzLOXIbgUshdJbmRajjZ9CgKBbtIMjdLCOvTTqh9%2FlQPtK%2FWCIjVTu2mkbt%2B0ilwRzs%2BJJfMl2IJyQyKbeUMGuH9a5UNxv3w0gE%2BDannEsSQP4y0OQqKg%2FytzVVs8KS7OmhnxbTbgGD492p3wTYC0PdAYTVWFMkDE0XTV4NsFmDxbT5BJ8SzxQ0VsoGkFBqE70aL6wE0mXURhnKEUGlA3DdKjb1Izzv69rr8IKgFDpV7PQc5Gh8saEtjvJFX9Nkjjsk3Bjgs7WjAyI9xhzfbEH%2F9zE7qSW5uqXc16e80k63o4OQAV3gyDp823fGWzIWXvtl5hZcupuWHq0kb3Za%2FPGS6xIjaTzLNHxbBjAgkJJZ3dpV3Jv6%2B949SP7M6p0%3D
+                            - text: Zapatillas Skater Oversize Negras
+                          - generic [ref=e1084]:
+                            - img [ref=e1085]:
+                              - generic [ref=e1086]: $
+                              - generic [ref=e1087]: "76.999"
+                            - generic [ref=e1088]:
+                              - img [ref=e1089]:
+                                - generic [ref=e1090]: $
+                                - generic [ref=e1091]: "56.016"
+                              - generic [ref=e1092]: 27% OFF
+                            - generic [ref=e1093]:
+                              - text: 3 cuotas de
+                              - img [ref=e1094]:
+                                - generic [ref=e1095]: $
+                                - generic [ref=e1096]: "23.228"
+                          - generic [ref=e1097]: Envío gratispor ser tu primera compra
+                    - group [ref=e1098]:
+                      - generic [ref=e1099]:
+                        - img [ref=e1101]
+                        - generic [ref=e1102]:
+                          - link [ref=e1103] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=nEWJo9%2BnqoxFroetQhNwNuEdpSLKLD%2BQUqd4G5OujCW2aM%2FPMvwD35lhNe%2Bgler7v4UeFxQ4eT3UoHfRVBhFe8DTVH0RJWcHkayCurOMimypy5IqkWrJxMZLa4FKQYRDGl%2FsYKosvsSQt3qpZDQR1ZxKoHvWj8Y4DldVAiXnFwlsUmIbiHoW31hjMWvlwWc6qNuLIeFuidv%2FA7aLDNjHCGYpcHe%2FTZBGK4%2FeHAMO%2Bf14PhO3QnF3O2CtIWSLFVtC3wFwPVRs8Vt0U3G7lYHtVebKzqWXwSqEjqDOpgOrhDPKcL8aE87n8y0hqYSXXrsSfSmPWD08ekPKDd8ybWvb90rlh47sCZdbLT1ld7A0wzIkxiD4NQTUQuzEqMeErt9IWQjDkti%2FWwf0JHdyoSWEXjf9Z9n6hzMPr%2FvSLeSbCgGAki38OWtzF3drhUrgGEPTxpU7%2FPfuJ%2FB0g3wmu8A2eNxvBiv8JtghKCfGpr8NBH1ML5OMHAXIDJECN%2BlhRa3uy4c0T8c5JB3pQb%2FnpyMW92dTLlDNA2s8kLb43MXmcXVewQXKQ7Pla7ASgblliLRNOQZ4G7Dgk9KQDSo95me4%2B8mmLRHVfXiakcPZN4ActVZaQfKun3HaV9d8OF49Xsom3KqHDV5UMrCsYlAjhYZH1USkV%2BPQihKdYCsx61uJt7qVKw7OrKictHbRay34UUr2hz%2BNFAnhDABXbJXqqf2BQhpDkbiMl89E7H6vQe3BFQZNubknsvJund1VLbbkiunBiF3vvxLjOKSRuPzL2H3MPh41DjUt6puH5ZRnZwpFOcVrBPYOvmG7JBHS1zWsGy56qlmkSXcI1oEGKEHsH8OZCwwoHY3hTdEArOo1JRBiRdr94ocShh3vCOJkKzUpYjcquLYm5o%2FGEVLtPYuyWGw%2BfKPIVoNwqa6szZ1DlQ%3D%3D
+                            - text: Zapatillas Topper Temple Unisex Moda Marrón
+                          - generic [ref=e1104]:
+                            - img [ref=e1105]:
+                              - generic [ref=e1106]: $
+                              - generic [ref=e1107]: "102.699"
+                            - generic [ref=e1108]:
+                              - img [ref=e1109]:
+                                - generic [ref=e1110]: $
+                                - generic [ref=e1111]: "60.721"
+                              - generic [ref=e1112]: 40% OFF
+                            - generic [ref=e1113]:
+                              - text: 3 cuotas de
+                              - img [ref=e1114]:
+                                - generic [ref=e1115]: $
+                                - generic [ref=e1116]: "25.178"
+                          - generic [ref=e1117]: Envío gratispor ser tu primera compra
+                    - group [ref=e1118]:
+                      - generic [ref=e1119]:
+                        - img [ref=e1121]
+                        - generic [ref=e1122]:
+                          - link [ref=e1123] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=52ScRZBgEHIB0JjVLT4POglKLVh0duK%2B%2FAtAgTEyKGf9QtWJX4qQqTv9q6U6iaMjsOJOCvpEbDUW7iklS4R8HfkTtaswrPjtSxVoI%2Flr4KQDESC9v7C4N12vaWHpkHJNCNi5P%2FpV%2FXrakLw%2FZwA7Gbb78%2FyLmf5I%2FptmcfYMlRM37qZgmVrJsBpGnpNHlNNz8lErF%2BQJj5tCHWWLiwvty4m%2BdYXvyut1K3xmLdNKd5aVmU8ULIaD7DN4gNURq%2F4jga2fPM5H%2Bh3EbsPd116Slm4ZrNa0mFLMwSzIeto%2BZJDQBh4ST75F5dNCk8sCDjdg9gL8jfKmfyCLVdRINTJ%2FrWA7GhEWEprMLUv%2FSCwIvyH%2FX8hbe%2FwrmivhV3MUUGqf4NtPZZFik%2Blj0yGZD%2FS5QScMVrru0mwLrvSFzSyJQ7P4jpTgUJbS9orlkRe7YOrvnrwSAfKP54xXjKHP1IwXp2QoP8ItwXWAjHtu2b8P4%2F6QyyGtJgfR%2FpE0gZk1SrUM%2BLtX7i2AB1xrxW6YgqFZuNzXMkuoNlbyJpWyOEW9SAh01EUlkvrU6w%2Bo1Xo0IOB8wUtL9e2TVW%2F%2FaTnE2v%2FL7EBRcPK09sFezROhS2mLYoRUnzLa%2Fdiz%2Bctk%2BtZnJMW8Qtx5Hii2Ct%2BXnz%2BHDU%2FgXM8VpCDa9JsEQoSUU%2B0YKLrk8BJn8lEPCSXBrvsrU%2FOG7YGfYfYZL71uuH%2FIPuK5zfyEonp4lj9oNNckI8qaohOlPax5N9YKLiRro6kpSTrV21ABbkFFpRm3UfaxTEm30wGOj9KiaqpR6NwG86gyjlF4hte435F40ILM9OYdIpyMiPgWNlBB1BL6EO9wpgpMFvTEy9Y%2B3b5wtfD2yQ3mop8wtmIRUBAUeWawsQeNkRDhy25%2BSXsANAPpnXXd4UOo294Q4qvXamj0Q55lr1PamC2DgeMBercdvZr3uF%2F2JACDfIG7ky3ElIv9NpnEgA63LnL6TjGGSSBt2rKVgKkESkE%3D
+                            - text: Zapatillas Topper Hombre Mujer Unisex Urbana Retro Moda
+                          - generic [ref=e1124]:
+                            - img [ref=e1125]:
+                              - generic [ref=e1126]: $
+                              - generic [ref=e1127]: "81.999"
+                            - generic [ref=e1128]:
+                              - img [ref=e1129]:
+                                - generic [ref=e1130]: $
+                                - generic [ref=e1131]: "79.539"
+                              - generic [ref=e1132]: 3% OFF
+                            - generic [ref=e1133]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1134]:
+                                - generic [ref=e1135]: $
+                                - generic [ref=e1136]: "13.256"
+                          - generic [ref=e1137]: Envío gratispor ser tu primera compra
+                    - group [ref=e1138]:
+                      - generic [ref=e1139]:
+                        - img [ref=e1141]
+                        - generic [ref=e1142]:
+                          - link [ref=e1143] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=zzzllsexaDOMyMdp5vzujOkqBjudKBHJEIE64pYdKgugTsxxLKzjzoEkJ30jzuBjyAp27QKX%2FwaY1TPvA8sLeP66Le7FOZLLakVP87ohRsctGPSoQFLAuipoNJIkdZeDEdlvS0A6tsPlWouIVl1s%2B%2BuJy9soFhkX85wVZEcxY7ak2%2B1rJy0yYqU2XqUfi4xO6yWbT%2BnA%2BTzOCnWQWITPAiFpibtG9tC175cBcBBAEfGCuj81jIvdwHC1gDNUHGz0jJlYO5Y3ccfgD1XhBSfza3VhUsZppHX8KyNKAFvKqmq%2FSVpCcb8nnK4e2ErUzPis2%2Fw7NnmhFQn8drGU9BE2RtWqEUej93UBDffle3zz2qQGvc6jVLpL9FUra2xYF992UBWahiFgup7DXNWP8YJv1QGP7mvncgj7bMgkGq%2BxjcqCeM2Z12F4WCUh3J%2FzTKrXUU4kw%2FAy%2B63jSGJ0YXPmKUbMXw5uzoAFirUuewn91ED8FFz5rvreBzcbuGR7W9xcEqjdN9wAEJ4CYzvU9cysGSm65eJmD6ngSM2vxCRWQiwCcbtlLSi24epWwJrCb%2Faehs3aoikuAIOaPsrWF4EHKUSq2UNOAXoQRr%2B%2BZgW5P7sP%2Fl1lucDF%2FMN2Kaz27nCEkPmtM%2F7uXR2pyLciZwglq3ywaX5bpEhwiCWnPxbFaieIMSdcvBvTblMsV40UxED1JwQA2BF91SPE9USVQgVkXAmTGyOdVryTSWMgw4RqgdJSmEgh20qEaId3ItZD2xXrDtc5QgvmePeIAi7PUEJguAjQ8PaeiYwJf1QF2PBixEm35HuZdWuPbtOPUpcMopum56PayM4JfbGbCbGc4hYMsF4AAOi%2FCJHsfPt7i%2BmNPQ3m%2BH4mAQub6RQy%2B886sHccih3eyre9NWZaXMF%2F7dcPOShIM6CFz0884Kd%2BG1rQaxKh%2BQ%3D%3D
+                            - text: Zapatillas Fitness Unisex Blast Filament Oficial
+                          - generic [ref=e1144]:
+                            - img [ref=e1146]:
+                              - generic [ref=e1147]: $
+                              - generic [ref=e1148]: "70.000"
+                            - generic [ref=e1149]:
+                              - text: Mismo precio 12 cuotas de
+                              - img [ref=e1150]:
+                                - generic [ref=e1151]: $
+                                - generic [ref=e1152]: "5.833"
+                          - generic [ref=e1153]: Envío gratispor ser tu primera compra
+                    - group [ref=e1154]:
+                      - generic [ref=e1155]:
+                        - img [ref=e1157]
+                        - generic [ref=e1158]:
+                          - link [ref=e1159] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=fY%2FpoEaDq1AGEckRG8fiChTZuavwbWPIVBAB2xEb%2BzBqJUPCCBZxUVm83uyncDCPFzc48eejVheycwHWvTglColhqG2fyOtrX2ukal5W%2FKV4TgJSLUfl9oUwTXI7r6HjBJKDbL9Gsglo3OOVgvUFn937p60XijWkUMuhAaDnwoXRr%2FUFTRh%2FVLxqK9%2B%2B2g7LquH4N%2ByOWby1ZDGfWAq207GZA4eqxXhTldf%2Fd%2F%2Bno04Ksa2XgWeK1ZGI4Er7jCCYqfvrzq3ZswqGDBjuzoeDKNeFc9XZvWQg%2Fz%2BAj1hazgD6ERZQQ7bu7B5x2q7hJFYf29HiMAkTSo8G7nuIOoK2NvbfJd%2B18o7HmtI8uI1fwEnGc1uCPVdOB5bwYvLBjR8%2BMSRDy5syO%2BkpoOtR%2Bu6%2FiYeiiZQatjXiccWIiWIDr3X%2BppIIZdM1R9kEmXy%2FveJBa6b9ob2e6TSV404okD3a%2Fxpeyn0b%2F8oqV9JdWvKMVLdfCOTlMtZm5iGl6pwwyiOQ9%2FLZe9PtRjCUeaFerWBh6Jo%2BpbzrCeKVJp8I55emmGiNrfhmHbxhmRo3J6TVAByi4fwMKyczVflOqH77PJXoVhibZKqivVERXGCHZeoloKefh7UsaqCGxpf9ubxkgxprFkQ3%2Fr4kemh6ieHmu%2FtVQcNQ0yd9Xjew5bKKhN4RrrxjZ5l7i32Z4h76zB93pLm7Ms3fPIsB88dUOTshkT6ZGFf1PTVdju%2Bxzheu0Jj%2FhUmgI7HEV%2BqFEGo4VSf9Jdj8bwc7MdKeexpwV%2BtqNzEuDsQEQlPO3ts3GRMV9DdSNGd33C0yboZKm1tHnhJvj6ZxW%2BETDQHpbVFM1Mk12oVurlXsTFt6W3ZMfxTxYeqDgR%2BsWe1mDCqmWGCSaEUpzNlkylG%2FwnUufm88evh2do1i3LcjAEM%2B7Llfp2s3KSZnCtLJtT0%3D
+                            - text: Zapatillas Becca Deportivas Pierre Art.5761 - 36-43
+                          - generic [ref=e1160]:
+                            - img [ref=e1161]:
+                              - generic [ref=e1162]: $
+                              - generic [ref=e1163]: "149.999"
+                            - generic [ref=e1164]:
+                              - img [ref=e1165]:
+                                - generic [ref=e1166]: $
+                                - generic [ref=e1167]: "64.999"
+                              - generic [ref=e1168]: 56% OFF
+                            - generic [ref=e1169]:
+                              - text: 6 cuotas de
+                              - img [ref=e1170]:
+                                - generic [ref=e1171]: $
+                                - generic [ref=e1172]: "12.399"
+                          - generic [ref=e1173]: Envío gratispor ser tu primera compra
+                    - group [ref=e1174]:
+                      - generic [ref=e1175]:
+                        - img [ref=e1177]
+                        - generic [ref=e1178]:
+                          - link [ref=e1179] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=XD8rfkBw7k%2BEHK44ash%2B4IdTSMaVhoVEf5hlmxx3MbagHGPj0rHDe3VL98%2BZUmHWyHvq8iD8Pd08w9ZkcqfbSlTxPYRtWQz3e8QD0dlxr%2FdiASnZwSxqzff2ebJ%2BrESjH3Y3J55pWRGSprk8Nl2KNnw5ivN7FyU9chikgl%2BcUesdqqA3WyXdYtuUtNbX4Rw8SIx3asisG18kUz5GaW9W2aQiBP8G12tYwIWOyXlOMhtJy1SPdbzEAkFvmuRsG6WnF0MkbMMNVd9YCh7AMaEwaSxXNx8xjQqW%2FsHCnXRpq9XzYuXN6C2PHIY6xGlGkh4lVilKRi%2FXYeIX%2B0DtUZnkDJiEeyQIGbo201mHBc91DgKDr7P%2B3whmammpgzKTi85hAjKfV3hWJdOcCyZoq%2F9ibpElVL6cwzVXDildzHcABuK8yWBFZ2Z7dZOBItk%2F22Mnd7jY4vTJRWgaPVtp7y%2B%2FwlanvPDrxlWgP93qSxKEJRnx1RurnBghbSns4fDV7yalFtqqEAd06qMKRRIBqBzsHOhIcEyJYDt%2FGGPrbXfxcQMdCZcJUf7meLVGxXtOoDFeRGQWGh2DSOVoXKUNpNzkZUYs2%2BA6wCDAnxKK83a5JV3bTa5JyO7xdJOgMORgTuWM89KFre5U1GmcL631aAmQxfvbLsDbt6xIBur71vbRJMkU8T1CgEG8zuEKd2mHIEfKpat8P1SjcMtExd6SMHqi4V3lhWajE7u2zmQofAFIntETtQz%2BJrPwtyg67qw7QBs7stbwTjGGOYGJwyq%2BFSK8MS7EKLMUDL2vbJyV2XDT9rTmZc9E0Fju2oMRUBMcfArPwoTFuY5ySEUc4iGMsk8EyJ9TwaRGg%2FTAQUukLQYnUd5zOdhK5vK8bxRhr95SDYoc2UpMS5VuUTwil11tzjfCI2zskhZ0j8garwTy17lBJ73QtKw%3D
+                            - text: Zapatillas Ozono Skate Clásicas Suela Antideslizante
+                          - generic [ref=e1180]:
+                            - img [ref=e1181]:
+                              - generic [ref=e1182]: $
+                              - generic [ref=e1183]: "79.999"
+                            - generic [ref=e1184]:
+                              - img [ref=e1185]:
+                                - generic [ref=e1186]: $
+                                - generic [ref=e1187]: "58.975"
+                              - generic [ref=e1188]: 26% OFF
+                            - generic [ref=e1189]:
+                              - text: 3 cuotas de
+                              - img [ref=e1190]:
+                                - generic [ref=e1191]: $
+                                - generic [ref=e1192]: "24.455"
+                          - generic [ref=e1193]: Envío gratispor ser tu primera compra
+                    - group [ref=e1194]:
+                      - generic [ref=e1195]:
+                        - img [ref=e1197]
+                        - generic [ref=e1198]:
+                          - link [ref=e1199] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=bNoXdkdr8as%2FTeEwGAtHhbu8Om0ZTRz%2Fo5Bldgtm8gX9DIeZkNigL2a0CfyaOepDS3eW0gH2qljh6NUr0GXzKlzpNTR0Zc0m8PqZ6mbVuA3IJWzY9bpEotPIlLSzX%2BNFW1SQ0Zjab9AibCS64AJkcLfio8buKS8TuzsJbwCK1myfLUh9u2p2jY%2F3Ko5eGgta7Hg2%2F2e9XTVc%2F17Hrhh5rFc9QWYy2lVlTTASwbjQ1z4FEsy7OMolxCfK%2F2QBrAqcA%2Fnl8Qbb66cm%2FovFiuqB73SMsQ2ZgXn8Mm0UuIS1h9SNh9aaoByRyw3mgvkCzqanbMKk2kcidb%2F1pBE2%2Fjt6smjmIuT74vPBwf6v%2BO7WskS%2BZ0wieROwnuDaEAPDh7qAws1Qn7dqdzr9pgzrldqrxSD0z4lV1pHIcHxjALEctvUjA7F425QZ2NT%2FIqt3%2BGyGdtxucNyzaBlXSoCYJ0CBRsumpp8r%2FXiIYJhQLHhxV7W%2BhAL8VeqjVBrOrpVaoOtCZTbHk5RMYF43f2cTJ3JsjtJzMTFyjUYYbePmGrovNu2JODh2g4SkpX6inwtqjCfryMYutO7NCRAMjGkW5x4R4CXQ1VhAcouUSAdv91drT6Wc3BzHZ1P3Q%2Bs9CfBgrfM4Ufe7mE7IFNqBtub0Pdob0cKmcdF4BrCHfiCuMHM7yE6LkD4foG%2BilmwHLkA1II%2FxKYXkeoPGPQP7tXDR%2B91wjZm%2FlibmdQfnNEbVkJYNBnCJsWE%2B%2FAP3C4DncoPttgxfMVSM9doYme9uGTThI%2B%2BVklBIuGpr%2FQw5n7eJJRSycyWFV1RXW33jg8EgaZrfwfT0daVImaGx65OEztptZij4GP4IlgQDSfox7eCXxEuFiUWGZTr3RkVu2ET7wiifBZI68lAIUuFBH9oK9keDshUOtY6HhEC3B7wNkVDoIX44Mio%2FyvASKsPtB8UHuyKAGBs7ghJYlQeJZYZWzljv7vIvKoXdMVO0b%2BzRq%2FI%3D&catalog_product_id=MLAU3288811129&zip_code=5013
+                            - text: Zapatillas Originales Casual Dobleb | Chunky/urbanas/anchas Marroc Lisa 41 Ar
+                          - generic [ref=e1200]:
+                            - img [ref=e1201]:
+                              - generic [ref=e1202]: $
+                              - generic [ref=e1203]: "94.950"
+                            - generic [ref=e1204]:
+                              - img [ref=e1205]:
+                                - generic [ref=e1206]: $
+                                - generic [ref=e1207]: "87.496"
+                              - generic [ref=e1208]: 7% OFF
+                            - generic [ref=e1209]:
+                              - text: Mismo precio 9 cuotas de
+                              - img [ref=e1210]:
+                                - generic [ref=e1211]: $
+                                - generic [ref=e1212]: "9.721"
+                          - generic [ref=e1213]: Envío gratispor ser tu primera compra
+                    - group [ref=e1214]:
+                      - generic [ref=e1215]:
+                        - img [ref=e1217]
+                        - generic [ref=e1218]:
+                          - link [ref=e1219] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=I9%2BtcuzYLMh%2BaVip3tn8NuUs34lAAzo2gqCYsSbt2JxCySYoawv1%2BK7yxyv8fLnbtpLLIJtcYvASm976G7NuIMVkfXdPw3dx15mRJJN9YA9anaax9HJ0LQRtLigPCNA9eqWw9Ezk9g2awOfOBuwlwNBIcrnGOIUc8tt2FRjTn1fiDHYfZuHmP5QJtYWtIvc%2B9uDoJeAkLlreyY6wMW1m5aRBalzOPZzBfWK8K%2BzLiq80Yw2RSzfi4eQSfJGpK69ESFrCFbF5zYUD3KfHUaQVQvgObrilQe5%2BpI5V%2BkAvCHqRH7f9PLK6oiRdku5R5GEr8cuunFIAHEkn6pE9OVpJk9ty9yJ%2F7%2BOWgvRuz5t3BCfn9Ib7LBT1uUYBhHphYrCgE%2F9YSIaY5%2Fsc4mxUtRhTmw47KFYF2otMrWJVEAQdZD9rK1Zz5kZoJnEYKkakyTsHSQwKCmmzXDQoM1%2BCb52FI2nZ14o1J%2F7u0GbWuwGCwmJrzYZVO19qGobB%2F4phR61cG%2FjCzqdrPy%2Fe80fCrfGa2qPYr1tcHaeMXIAbL5b4SqwnLp552ayTsDQ3HQe78IYW0%2BJ9RPSzUwd4j4xtcAO%2BpkI%2F37jBdAFzG2WBwD%2BKv%2BesjL6Yy%2F5ZbENraMTlZL3Gx3hVpq49VdfrRnuI8fRaKBsGNsM3YiZrQnuI24Wr%2FI61DVCQwNHtQQyz7zHT7lw2C2eZdcYPJfthUVz11KAPOFHkWzD6MskpCp%2F1HCRu7pOtldMAc%2FwpT8vkLR3VWDpSzPfiYljUAuaPmGqq3LH8FyCNYWiKEzD7OMKDZ9hnhu5kY3IpfQLKQ7%2BEW%2FWMoj%2Fp8q23IkTyFVV9qEzrowQjSc4KKmRyF5RUy2dt8cYFdGmmfN%2BOUyfmTLG6A32KU29kMabCeajgoQXBBVQZi%2FGw8WVbjjNjdJf%2B
+                            - text: Zapatillas Hombre Mujer Spiral Pow 2 Pro
+                          - generic [ref=e1220]:
+                            - img [ref=e1221]:
+                              - generic [ref=e1222]: $
+                              - generic [ref=e1223]: "105.290"
+                            - generic [ref=e1224]:
+                              - img [ref=e1225]:
+                                - generic [ref=e1226]: $
+                                - generic [ref=e1227]: "85.999"
+                              - generic [ref=e1228]: 18% OFF
+                            - generic [ref=e1229]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1230]:
+                                - generic [ref=e1231]: $
+                                - generic [ref=e1232]: "14.333"
+                          - generic [ref=e1233]: Envío gratispor ser tu primera compra
+                    - group [ref=e1234]:
+                      - generic [ref=e1235]:
+                        - img [ref=e1237]
+                        - generic [ref=e1238]:
+                          - link [ref=e1239] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=2PyZT8XZALOFhjwdgn1lf9BPiKqBNGQ4T%2B2Pknpb4lbUGjI92aoQ4fJ8OYx1w19NFl2yGe744WMYqkbVK1APww2o840OzMDPQlMdremjaEaKYeSQ8cZfFvfPG8q3na2lNGmgTynmLHFPTDX8sLRT9DYgCcS5DHoxYCjDE%2BEzSh7GyqiNprsWgN%2FHooHf3uU4W8B3kXUgJkCohW7N3WMLEV2VJM%2BxiO582PaQaRexVuNuriz6us7rhOaR9TdMqiRCRUtT2bA4OA2fHUZPjywuTo9e39Zz0bAh30ftFAByt89cEjfBEIiHO0TkIUbnBg9DznqzNTBjN6n3yzg67FjHsiOmCod42Bj9mQ%2B7ZEtUzSxgGZDrqjbMZDDRwl6h2aK8cHamR06VzvBMjsLlQ7fxhiGIMY62X9lpHfrvdzpJPSerx0lb3sB1JoBn%2BxaWp9gHFKkMqRHkWygeQsw0ZfW17DLUgohO2cqQmm%2B5xD3iniGyzfnGFqX8i4%2F2F9QWD3%2FDJ1B98DbJhMQowxIMqEXk8dtbEUtdyIm%2FymlCLatineJxw9Elxi8E9Yf4gVuVfAp9APu%2BzPPCe3NkkRSiVR5B9vDklJl6bcOwC7u2fRH14xALWBT285bCxDvFD98fG%2B4tV5G%2F563Qb5265ysLKiWKPkyMDhouLNDFAgBSDiKF9GkR1iwZPneu1l51DnrfxqWsZiiakF%2BIWvuir4lcBSqPdkiHTyto%2B5yYOLDQmTy8gNgiIKx8%2BqGSdkt6G66uooxwxyJXwlIHLptIhVo2YV6fwrxnNdTMK9NvZ1NIjZCSB2%2F46ZyHEFSplxMEGwtSEZtbdkuRZOkjK3DmNpLr5%2BYTdR2cJmb%2BC9P3goGrCthmnMuEswnolxNsYsCXiWoj06Ar6LbPboWGFj03oBbaEfELeX3muEZ0NxABcxm3ey45JaQGXPja9uvDOnyHpjIC%2FEgTM%2BX9jMSIuHELGXye5MTjcpDeTo00QX3ygin5sJYoUw%3D%3D&catalog_product_id=MLAU3421115148&zip_code=5013
+                            - text: Zapatillas Chunky Anchas Casual Equis Altas Oversize Urbanas Dark Lisa 41 Ar
+                          - generic [ref=e1240]:
+                            - img [ref=e1241]:
+                              - generic [ref=e1242]: $
+                              - generic [ref=e1243]: "110.000"
+                            - generic [ref=e1244]:
+                              - img [ref=e1245]:
+                                - generic [ref=e1246]: $
+                                - generic [ref=e1247]: "94.600"
+                              - generic [ref=e1248]: 14% OFF
+                            - generic [ref=e1249]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1250]:
+                                - generic [ref=e1251]: $
+                                - generic [ref=e1252]: "15.766"
+                          - generic [ref=e1253]: Envío gratispor ser tu primera compra
+                    - group [ref=e1254]:
+                      - generic [ref=e1255]:
+                        - img [ref=e1257]
+                        - generic [ref=e1258]:
+                          - link [ref=e1259] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=TG3UkNH6WV4yLNgmG4KD4Cbhf1UfgVIi8Vl96I0HLRJOm0Y8boudLpyhION%2B%2BKmt70FgoyKZ36pIYy0miuwUcW%2FzL1v1pZj9QpIGLhLlzNW51J6qxMt2BDx9Vz5S9sg54xM7xM8XqLI2zDLHJwI3awovmI83SQ7cGDsAcJNlI0i2lwIvC0Oqlg8IJIRXj7J%2BnyNMmXfQX6esfAqnKDVHqFBbKg32AQa72dCMi9kPgDKa1SUYcRlimEw1%2FtQgb44tUgj5zUyokbVd3CxKhrAwukZlHtx4vSapGu%2FVQT9RPg64tZ4wiI%2BH0BsRMXSwQ6xWAi%2BhliKKm5by1EMWyXWsYF9xb0SQAJ23Dxrjrlv7kfhArHxohhMv7pJcyL7Z87r10Ru6LijOY7Vq3JLbllooOiv4%2BbqCC2Y7qwbSEO4stqyjEF%2FBUMdE%2BFXjpLqnN3XkDO%2FfvT9VDi3L9bwGRvdSK0eszgfrr872U3QkHuOjPbLmuV7mNcbYzo7CJaHnCCYOPUA4OnwD0%2Bk0%2FkY%2BQ8V5NbR8mPPCvLaP0jW0dGVKM9XsHAUlS%2FVF%2FAz8x1AkFcJbXKRqCko1OWOpj5zh3FlenO3OSU5ZsnB79OqEOZDbgqMfmimExbM9NAJYM3AnLx%2BL7U0kXVcZSBBybd6mxs6hxeQl%2BYF8YU9ilHDRxhqmdDhYroqLcQK7rEYsYH0LlInB5hP4H17qKiCm5g5p1JGdFkG%2FRuXSIkfusWWVj9a8%2FR2ajkUL4ZaSJMXeUYRrrKUCwzeybMbNjcyaKMTjnb3imKt4G0VlT3q046YLI7%2BR6oNCXDGJ%2BnhCxit%2BTYt5flCZxNUjbTnjdesMwIfjVKS9CXqGwXdtUdf4ZMIiOsisVgrdv2TjsTrIAvTH%2FqCallZr2gCQadp1vAOgEo2UzQFwbootoQOB7GOpXNL6EUanA1rs9YW0KKQ%3D
+                            - text: "Zapatillas Jaguar Oficial Deportiva Art. #3069 40 Al 45"
+                          - generic [ref=e1260]:
+                            - img [ref=e1262]:
+                              - generic [ref=e1263]: $
+                              - generic [ref=e1264]: "65.990"
+                            - generic [ref=e1265]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1266]:
+                                - generic [ref=e1267]: $
+                                - generic [ref=e1268]: "10.998"
+                          - generic [ref=e1269]: Envío gratispor ser tu primera compra
+                    - group [ref=e1270]:
+                      - generic [ref=e1271]:
+                        - img [ref=e1273]
+                        - generic [ref=e1274]:
+                          - link [ref=e1275] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=wvbeCo%2FvdWEOvgjg3JuoUNVy8D3s8UZ5KNshYhsRtgd2%2BtMCtxVWhQEp9C37mzuBenMT%2FzPzP45fj8Alvlb9isfQCtXTkVx2MRxVHObSLR2f5XraJboa00WQObU%2FHOZXOzoIQ7N1keeGTqyt4YtMDbxjLnxOwKkmpu7Beh4S7Ced5e7nVJOJLqEaALEf5DigMNKQJzV19IyCSJwEcC4AXsVuYLCgyFDsGUOzgEYFry51ViF%2BBtmTXgcKyVS%2ByMDK7MxLx8DPzMRYUW%2Fuju9mC367DXcGVG%2Bj6YOcp3zOEocGBIzM6032%2BEi8EZSFD4fsYXCOY0bsK5al%2BDR8wpWJ7dD3ctV%2BmWdDt16k%2FVc0g3f8MhK%2BsShLUzxCb9HW%2FonaylVRsxpXJyT1ki6avO0cgBBKKNHyGnnw4k9Ssp3rc4LpPTKKiA06iT9CUuMHEwE4GumNqKN1m2rCPIqO1q6gYq5ElzOpcRGOMm1RL%2BSSWbH8j1l9kUY2xOUf9Ack6yWXigl1IbJjowR94LHbkKm5%2BGy%2FdwzfSHB6hu8icxxOczBAbIwydvrKAiVjuPot8b5wEGAI3Kz6KdZKhwttcF3fbCqouCQmvOIjsw2DPSThAYLlyu3%2Bvfa266wvCfsFTLn%2BakB%2BeJhHxO2OKqSGr5jvY3GcIWZc%2F%2FwiAulyrF62mv6totJngalniSAEx7VDy3HSU%2BvAuq3x%2BXx1pT8YqxRw%2Foc4rbHGEdoSbuOJqSd2jj2fXPnPQ7JXdPcvssJdrM77cAYnKHvv5tdy6Ur3Hd8qyFzeqKHIi9Y6IIm7MW7XM8xKy%2F0RqIP61FnHb96ENLdSVQTVhDp%2FcfveMmrTthuqdb%2BkK9PE6IXwkqiDP6O1OdJePHu%2FYSHV6H%2FKTSs%2B4q7p63XxEyHjpUNEHnnRvgxd
+                            - text: Zapatillas Guala Rebel Unisex
+                          - generic [ref=e1276]:
+                            - img [ref=e1277]:
+                              - generic [ref=e1278]: $
+                              - generic [ref=e1279]: "47.900"
+                            - generic [ref=e1280]:
+                              - img [ref=e1281]:
+                                - generic [ref=e1282]: $
+                                - generic [ref=e1283]: "22.992"
+                              - generic [ref=e1284]: 52% OFF
+                            - generic [ref=e1285]:
+                              - text: 3 cuotas de
+                              - img [ref=e1286]:
+                                - generic [ref=e1287]: $
+                                - generic [ref=e1288]: "9.534"
+                    - group [ref=e1289]:
+                      - generic [ref=e1290]:
+                        - img [ref=e1292]
+                        - generic [ref=e1293]:
+                          - link [ref=e1294] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=0jrmZylLR10r5ZtTazJtiQok5KhSb7wbfAtqhONn3zpOVaeMAnIWdk9MlvsJe6YUFFPiZm%2FwnnW5caJQchhtWjs2VVgA%2Br%2BqSzzGW%2B5X9GKwqPO9%2FDj17rdXZHBUJu8Ez2xV7bqVHd6syWAWF69wjWqDjLajxM3N0pNlqMXVnptRDng%2B%2BA8lNUTgShDau%2BmPlEA3c3K%2B97eS8oTs7y8p2RtXmA5CaNeMo8WMNLY2vI3NAK2bD17JBznqtxo9oAepplk8piaFxe6OvpnBDX8hY%2F8AMX2TwESVUyfz1Ky3HcPQrE4TKxvZaMPcVod52XGaVK7pYZ4iP0m2haArriefqWJonUKMWDNnf%2FZTkbbAr%2Byo04eN%2F94FR8%2BacZBdCFihd8yUDUWacSbPVsCiudvO2r6hrYJQfWmaocd2tbJLQ%2Fs19RDGa8%2FLagqBW%2BNomsPOXg8nZMr9jdu1I5ttjQUuBSYA2wcj%2FpOOr0gyxz5toWg9wpjrxBCxRAvHs6r59Jx14UhxAyIAG%2BzH7X9eKq9Zm%2Bb0%2FGP8l1CVqneEwD1PdtJrumz2uVFas0q0UmWbzYI5HJeSRCMVYSWtlN2ORbQ4VSEd2ZzZMB9DfCZZd26ulm9IPyPw80IixOEsUcZj1wKhaF9doWixI85CGzTECH52rggGYZi2zg17Y3C3GAgdPxYIzVHBhLrSmPS%2FgKXgxpdffdMMxCc6cxJp2%2BxWFJRuCjIMe97vtpFWiIghTY7w8DSZmEm4otbI5Jn3%2Ba514B%2BaP%2BRkJXI4m6QD0S3r2ZumQj%2FFll714n%2F5Nz6bFiZK4VOM9LbCiv5M1lG3OoIVvd1Z82KfOtSPM8Yc7NRdmuFEVdoNkYF0K09fafHoGOpVKhQCjKjPN6pbxSY6Pf%2BPmmZEJM%2BTJfKDc9NESQ%2BausCSPaPnScwnGYBrdDpH2hkxCRSI9uBaA%2BKSeA%3D%3D
+                            - text: Zapatillas Skyrocket Lite 2 Puma Sport 78 Tienda Oficial
+                          - generic [ref=e1295]:
+                            - img [ref=e1297]:
+                              - generic [ref=e1298]: $
+                              - generic [ref=e1299]: "89.999"
+                            - generic [ref=e1300]:
+                              - text: 3 cuotas de
+                              - img [ref=e1301]:
+                                - generic [ref=e1302]: $
+                                - generic [ref=e1303]: "37.319"
+                          - generic [ref=e1304]: Envío gratispor ser tu primera compra
+                    - group [ref=e1305]:
+                      - generic [ref=e1306]:
+                        - img [ref=e1308]
+                        - generic [ref=e1309]:
+                          - link [ref=e1310] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=R1L2pmJ9SpP9EHl9W2e2phnj%2Bb7tTDXUblHGHLUX%2FM4xXRxskcZA%2FhOYUznE%2BLkELnsvHHWe1qmjtsUeTtm%2F03gDEUNxZP2rARkLbWmceZ618SYCvas6nqz5wiV4rw3dVZvMPbXYZFZiGlvZ%2FwmwkYBSFWvvNNIE0M7x4VEsKkLuDY1zdWh%2Fw3BGc2md1nK7iS1DNJADCP9M3yUnPhVkeGd0y9xqkENLBUJGeCxdhMVKQxttwERyJZDsIS3u%2FG1wDQZstYnj8eozCaSCChqclkjGEbc%2FT0OiCVXZraSXnr9qvAWyGOH3ocrjXs%2Fsm1O5gmfmg7qb1y3rZyLTKy1wN4CsLi7ZeVdLnu9XAP4a3owZ6rjagOzF%2B7ejvLTgTk%2BENajXaEJ7lSshURL%2BHvxwBxHra1REFRQj1alef%2FBFRC%2FfmD2VVUYW7lfOpeT7NaLkLp%2BzauRQaCaD%2FGVwEuqR%2B0IziIJ4G%2FHVUmHar0xXr5NUUeBwABKQFeVJHwv1F%2FiPskb2lln9s8Xvn5EfYTSscFVJozewdklDCRMNFigcBkt7dnI4QRjntpHFbz1%2FYf9ZsFu6yh7LPwA2hCfcinlgi%2BU%2FS022Xfavu1EaJdlUdDXNjSvNz1Ib3vYMFDn30XbnnzYAJFBtWpelZFO2Ww2j7B9o820x%2Be%2Fgcjrs9alLRtPtmSZ1q6Y7zor7NqCFXuA0hgeznhpsAmMLkN50f%2FCKoNNA80EYdNNBDvj6EffoASGGfa4rp7i%2BIm4XH36Mct5fLRcq1ZxTc3vBcPWehjXQssxsh07rmkY%2B22jvG3%2BD5wKqXXxk5D1CKKnQVIXwJqkF%2Fb6fNsbj4zH%2F0ieIw%2BdeTAqvBWisWnwP1RoJyjJLmqgqFtOCPe5TG25oARex%2BqM%2FLHu%2FTyPdyoY%3D
+                            - text: Zapatillas Osiris D3 S
+                          - generic [ref=e1311]:
+                            - img [ref=e1313]:
+                              - generic [ref=e1314]: $
+                              - generic [ref=e1315]: "134.999"
+                            - generic [ref=e1316]:
+                              - text: 3 cuotas de
+                              - img [ref=e1317]:
+                                - generic [ref=e1318]: $
+                                - generic [ref=e1319]: "55.979"
+                          - generic [ref=e1320]: Envío gratispor ser tu primera compra
+                    - group [ref=e1321]:
+                      - generic [ref=e1322]:
+                        - img [ref=e1324]
+                        - generic [ref=e1325]:
+                          - link [ref=e1326] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=LDumrvWOFUNY9jagicDFkH4XaSvv2i1qMTCuehW%2FkxGW7qesSRvJqlNq6WzqCUeRU0T70kBL1aexhrlCP%2B3m7rd0ZEvgl2jXcx2EGpFXc6RGNbkjrY%2Bpx1hzii%2FrxNPB2iqpI7pQYkK2fH%2B7t%2Fno7Q1lBMmqMRRRRTvBeLN6LEev4zOKyKU%2BQpxZT47oMrFdPGE9TKLtRs2qQkVi1t7vM09QQMUsknEct1CUCdtkZECll%2FO6WX1hqlvs2c3JhDPAho0qjSrx5BC2cxAxpT9ng5IOaD8ngENLUzQH%2BZogtt5Wtd1rTXhOnu9GaxRCjK%2FsqqlKI6e1LpHbGfY1s0nrYb52wfWVBFrjE7KBb%2B%2BNLRovWffODnX9VkszeWY%2BMh2znys5qAz3xFC2QA9AMhE%2ByO1CtDKacmzVSHy0GmltycRjv2W50P8Anc7Mrla2T9Zr5pcnDru81SRp4fYoH%2FO6FlIJw4MPVq7Kve15K0CdG5n2G8fEUczJiO9WrEFEwZ%2FokWnU1FYS4p6%2BdnVeRQdqmHnN%2FwAAzaojfyCc8Qq3z4RPAZ1MLQ%2Fj4z8i8B7%2F3%2B%2FtuEKf%2BxaHs7pSY8mIpYKP6PUzVrz%2BlgBTiO6LGIDINTRh%2FCL87EyxpSusSV5Blz5H%2F8Y4UVFPdRz6LmtktvKMQIF2v0TM6UdDxOvV4YxtpGne5%2FBwonOCDB9pk1p4RyY%2F52WZg6a2F9dRkDo03cb6tkGwsciV0ei5HxrrEIrsuKlGPfw6se93xQ6NCpvAEJY16cDXGwcRxyH3cCINJxuNv25lDZQcsIubwHVlu543r2O2ACmsoNlDwtcbSMBIpwWYU4CpVvitPk2kvJaiIEonJkCo6Cbc3yOBsa7TNCkLyoo%2F5eplvYa5osRqcmPG9uB1R1TR83XZFfOh%2BIvIXYOEfU2eg8bpmq%2Btc%2FWvPatH6KFINTEg
+                            - text: Zapatillas Flyer 3 Adp Puma Sport 78 Tienda Oficial
+                          - generic [ref=e1327]:
+                            - img [ref=e1329]:
+                              - generic [ref=e1330]: $
+                              - generic [ref=e1331]: "74.999"
+                            - generic [ref=e1332]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1333]:
+                                - generic [ref=e1334]: $
+                                - generic [ref=e1335]: "12.499"
+                          - generic [ref=e1336]: Envío gratispor ser tu primera compra
+                    - group [ref=e1337]:
+                      - generic [ref=e1338]:
+                        - img [ref=e1340]
+                        - generic [ref=e1341]:
+                          - link [ref=e1342] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=weh5abqqaG27z%2F2aGi%2FKuQ0vbKkyXFt4h9qS21HIg94Igkq7CInYsQqjtbrNPRmRmnQ6xz8wRi6OxdLVPKiLsZbnbI44XYhEXpijQxzHnKV%2F3R%2FYOENNK7s%2BiCuoKEcObd3N3V4xznn49QcCXOo5q6U1%2BhJAEkXqq8JfX%2FAXXD4T3mUZFINGA612IieLC6dmXpojFlP%2B%2BGArDd4gmEMsK6%2FJlUo2O19daU0PptP0zEg%2Ff81SLzs9mWembQqPq%2FAEn5xeEtwuiNuDsBLeX07Xxrhax67%2FdMv%2BR6Ya74BbygRNQSSITxs%2F%2Bq8Rt%2FaXLvCxpWGqKdJgHH4bTS2EFxVKDVzYbuLYFaOIwjhYdyfxImPIxM3X4VcHtprwsq%2Bw40qHbnLHtX1beBZ%2FErmhSiFFHSRUzqqM3O55oDpGrPncPPCJU%2BcldwFQVlieOJPYDlUXS9iPJ1G7sbAU1W%2Fywg%2BvqYa7frVHG1zB9%2Fmb%2BZIX1pukxzp%2BEaHla7cLKTBgt44NxxWgAqtbPP4THvTcOq20za%2BoOs44%2FXQ4HHL84iuC8jLUm%2FSzpj%2BPur5ECvuTpXIm1jpJVqYT2%2F5ngQ48LAyl3ldQMeXcY%2BhrFVau1bt1niUAw9A5M7%2FZf2nPYHIcCz04nrXzS%2BbaG1y5lj5C60Cp9NWCNZ8Mdah2lhukWn4VJZoE34Rqhe1x17QG0Pvn7IaiQPQJ8vclmmJMd9FgboGeB9jBz5SRNAvGH6yQEpqI7QqCPGIWD%2FANckBthOYoXnMl8qPrTRmc1AYu3fZLXjk0L%2BgvLnOsjZJP3AF5jw8gb0jbQUlOFgORzWHuSF9ji%2FtmRMkLO94UCnqPWbkxaQvDKatOd0iBl9MqS8vLSOpaSZev3CSpEud5C%2FETHqkzR8%2BVmkDmGeiyQxU1jJkcDspFcEGq%2F0tUyqsZK%2FedTGPvKSoVbI8GicH2wKUl0uMBi7dShfB98zqUVEVCyd3VlRMDtNHKGJ9nRrd20QBN3nA%3D&catalog_product_id=MLAU3381538391&zip_code=5013
+                            - text: Zapatillas Jaguar Deportivas Correr Unisex Art 9387 35 Al 40 Negro Lisa 37 Ar
+                          - generic [ref=e1343]:
+                            - img [ref=e1345]:
+                              - generic [ref=e1346]: $
+                              - generic [ref=e1347]: "64.202"
+                            - generic [ref=e1348]:
+                              - text: 3 cuotas de
+                              - img [ref=e1349]:
+                                - generic [ref=e1350]: $
+                                - generic [ref=e1351]: "26.622"
+                          - generic [ref=e1352]: Envío gratispor ser tu primera compra
+                    - group [ref=e1353]:
+                      - generic [ref=e1354]:
+                        - img [ref=e1356]
+                        - generic [ref=e1357]:
+                          - link [ref=e1358] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=e74MxRzQWZuJWn8jr3H2aTmu%2FoKAEBN4iNqY7Vnbw2GXHZGw63phludzjRKQ3qKRnoGpY1qm7xN6e23FB9OIQwM5aT2x8ImlMUHnYltp6IS3NUTvgBeQdoRf2d%2B6HD2NE6PVv%2FEEoPsA30mfcVxQsi8JJ73rlnVtWtSPXnez5P0H0%2F%2B6nLQEaf%2BesWU4lXq7KFUg%2BpkSKoqBaWog6HEGsc6%2BYA7zIMeVRqzbCnFzGnaZ1BrYB9o1aGP%2F81C23OuXR4aiS%2BPmuFnSFtqJ7EJEb%2FC2fcaEVVGIIrpCP4U8BZ08bu3LEDDI5vQW8KF2HciPpMzBmstLhDgiQaNtNXxF%2FjpPK414LakKmTfDsdd9T2vzDW5%2FmDz1tNQH3UrwuVoiNQGKak%2B8SsV0506dBncVilIzKNfk3AlB%2FhdKIa4q%2FYWHwXx%2F48LUIMxmVo0QPtTIArTQqCBqpckf%2BKcV8x3mXUiG2ZLqihaA9ebIekTG5PZxQ%2FEW1QOxJLEmC7rCagv1tXOx9RKz3cqKw2RQIyRJ6vv13QujNhXiDf1ETRMSmJiG79WxMuduAvHlsYgr9W4gJJ%2FHKBcLrJMToLyFa%2Ft0L%2FhvRahib94FIL%2FaT%2BFVvvskh1C3n7ZGFxURVhlqPQhkIvVH0wvCO3VMc58FDyEFELqrVgGa3biMRVkduBVoN%2BKi2XnHoyzQR82Ec%2Bm6tZrM%2FZYSCHJ%2FGtsO4DF3mas8P9iKN5HG9wZbW0GzCOXLx9%2BoxURBLDCQU1vD34p2r%2BOsY2qCcfPjqD84hXwVnd5roKyYZpQYRhFRzAbCuVRfQt0cePSE6rxDl%2FeXnNf23Gx%2BNAvPgJzuGH8wi9UaBbsyKSTr5ST6KjqK9mIeNXrGNWzJMZ04TpouPktPvcSDZk1%2FHCFHa%2FfAoh8JSNhPGFcRu7Rv6CiXKWBhzuSX4w%3D%3D
+                            - text: Zapatillas Topper Temple Unisex Moda Negro
+                          - generic [ref=e1359]:
+                            - img [ref=e1360]:
+                              - generic [ref=e1361]: $
+                              - generic [ref=e1362]: "89.300"
+                            - generic [ref=e1363]:
+                              - img [ref=e1364]:
+                                - generic [ref=e1365]: $
+                                - generic [ref=e1366]: "61.919"
+                              - generic [ref=e1367]: 30% OFF
+                            - generic [ref=e1368]:
+                              - text: 3 cuotas de
+                              - img [ref=e1369]:
+                                - generic [ref=e1370]: $
+                                - generic [ref=e1371]: "25.675"
+                          - generic [ref=e1372]: Envío gratispor ser tu primera compra
+                    - group [ref=e1373]:
+                      - generic [ref=e1374]:
+                        - img [ref=e1376]
+                        - generic [ref=e1377]:
+                          - link [ref=e1378] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=QfL9YshhVhqL8awEOJdQ6Sm%2BgX4GHfgS%2F55ETOKJ20507b8EtA3NBp%2Fx433kfQzcRHVulNgMQU%2F2c4uJja0AuIoYyE4YRFDoR2qQFi45ZIh0V4nItKRK5BNYtbbBvccrq0oaR4af0escbU1sUVEsEYf3TqjwrN%2Bi1yuBTGVR0oZehgO2uMvsWqvDfZgIn%2FQgfjojDHl85in54Z6gqQaca5KvZ%2FgqVNZRCGf9Tv0jeyi13fQeAzRk61%2BLRn%2FvMKgA38WftPOaS1HGiA6Gks4Pafoi0BJRSHWROo5TemPEqXd74clEk1iUZj3w6p2iZkzKDZJENyGlw0wMyS5UMhd8%2BDOSwzSkx7cXdew4L5a29dcwWWmIyToltZiL5vvkgW1oHif%2BfSvazPwDdf91JqZjRjJrtToDjJUREuxBpQiOnCvw0vXTpmEZt3SaOhDZwQ0MbIoFG5Q8aNeoSM6aY9kviL4rWFDr%2FNKO%2FL6vJ8folbrChT7XEx8LigoLTTVnzq5UodsWIkmkaztuzv%2B3eI4YKIYsNG8QSENZ3ePlCIVWQFzHax7Rgdl5tGlwOdCUMgYFMuEgbJ53wjwIOPmG0McqNAG9fK%2B5LPxJWqkTYeAD2Td7hfMxmF4eRLnPZJAO%2B5OhCBz15bnqtCtqIyes67ahU9xbfB0syTi8QPwFKralFeMPhPzc%2FYKm33fLeLwk8Plx6bdxkigH7T8sUEsc2CMj7y6tIJg2afQ6mS9HSMuo3aJsbQxqo2y6VBLGrqvYuibYzhFdoxOgNO%2B%2F%2FdgzApX9AiugDI%2BTCmaqWT0ddCe2Lbli2FI9P0SjeE9oIkH4KlXGfQPQlFan4JmnIsYcMA5XWSwkzebFsP89kdl7lGUaxdqCd2gzhQzwWHfXvVlAIWgv4dUp%2FfaHRZmkZit8xdfMiAlyWUrfxX8Vv3ovDnIZP7gl7jwUu3eqbwv%2BBTHMKQ%3D%3D
+                            - text: Zapatillas Bochin 900 Calzado Trekking Reforzado Con Puntera
+                          - generic [ref=e1379]:
+                            - img [ref=e1380]:
+                              - generic [ref=e1381]: $
+                              - generic [ref=e1382]: "41.890"
+                            - generic [ref=e1383]:
+                              - img [ref=e1384]:
+                                - generic [ref=e1385]: $
+                                - generic [ref=e1386]: "40.633"
+                              - generic [ref=e1387]: 3% OFF
+                            - generic [ref=e1388]:
+                              - text: 3 cuotas de
+                              - img [ref=e1389]:
+                                - generic [ref=e1390]: $
+                                - generic [ref=e1391]: "16.849"
+                          - generic [ref=e1392]: Envío gratispor ser tu primera compra
+                    - group [ref=e1393]:
+                      - generic [ref=e1394]:
+                        - img [ref=e1396]
+                        - generic [ref=e1397]:
+                          - link [ref=e1398] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=yFOf6fWxooATpWlsg59qLvvPJqiHS47JhGf47CVVb2kk7DI%2Bfo%2BNXhnC%2BpNQbvCfV0JIwRJCjIoRNZgr8e3CgVk9WR%2FFx7KASgfpxRjbzDgNBHi4rmErUooA7RCX%2F6igaduoT5DgC%2B8OBYJoyZyGMaVjB9jz%2F7zKDxQWVxW3dFoaGVfa2zIT%2FVHTVKsu0LPDIxSggPYJwPyejqidJ8RQu8cwyj5tOjh4k3yC6VddfRIUuDV%2ByC1vK12qaaD%2B3dIxud%2BTa1xjVEpX4h5AWbMPaTbImaInrdZjx0bujmI5uILqFVqsqX1LPtBU94nGtn0Ln%2Bv6TRtnwtGsvndOfRwEOOnC7CBc7FLYuALR2xJczABtRdeFwssXdbXy%2BEGzHiZliOi9x3Pqucp3x2cfG9wWUcbv2Xms66kxT0TR3pZ3w0iolF7Rytmg3AW2EUg%2B4LK7Sy79bp8VrNJUBj1tTaJtJeM8g8qXshHTHRZoRgyiyNMNLZZ2za3%2Bby9lro1R51Tt2Zwu9t%2BmmS548WOKQ%2FE%2B6QHx0ab65I%2FH7z6p6HLQmUuBQjUwwH4qtV%2F6B36BtWYRYv8KtnkTkJ87rNI4AzJv%2BJ7QQZRYcbXvlSY%2BqB9qcsUEnApN%2BGWQCn%2FTpl4nj0Yj54q180XhZaYUwwPbMDZHuI6tqXqwRidgvN7tYtwkFmNFEij%2FjPT3%2BdKz8n%2BLYccq1C91csT6%2F3IZp0iGKO%2FzrIICQyCL%2BNb5UMkZWPcW0jwCPDoxOL3vMeflBkO6ImfqzHZP6vemdhZTrq2TH9kWV3kOF3NMkvea3lmvVC%2FDY41Af3tkJ%2FA87P9TkNirGCB73IqxFlj%2BpiJkkLhjyfbtGaDdIg3H%2FFrlR02InQtBLdl06XVFurSbK8FPDRjqyZFPKlnZRrHJ1VzB1X7s8SebmnIKBg%2BQWC7P8D3CXN32XQ%3D%3D
+                            - text: Zapatillas Topper Chalpa Ii Unisex Moda Negro
+                          - generic [ref=e1399]:
+                            - img [ref=e1401]:
+                              - generic [ref=e1402]: $
+                              - generic [ref=e1403]: "94.999"
+                            - generic [ref=e1404]:
+                              - text: 3 cuotas de
+                              - img [ref=e1405]:
+                                - generic [ref=e1406]: $
+                                - generic [ref=e1407]: "39.392"
+                          - generic [ref=e1408]: Envío gratispor ser tu primera compra
+                    - group [ref=e1409]:
+                      - generic [ref=e1410]:
+                        - img [ref=e1412]
+                        - generic [ref=e1413]:
+                          - link [ref=e1414] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=PnYON%2BGDvwweIbMh4MpCMvRFE3bLwwszHddWfUtiB0BRapRfWMuzN3NEeN%2Fl6Vw8SXZTk7OqKAgSj24ZSp1nDiv2uaYd4u9lh90VyTbkDqRjF4aaAjOMZ%2BH%2BUxFeeAFsCKiuQFvfKnTK4o7dhKQh7FckKDiVyHklELrGvszw3quOkTKpQK7DDokFvMPMhceymFdF6147l5mGa36XUWG1%2FyRrGlvQJmLNsyRSDOeJQT%2Fyw2GNSmjQbQwzifv7YvQBY2CLgmX2IRYZT%2BTOLP6oKQ6s52P4LO%2F9F%2Bz6h0ltHIlUFlEfFi7idR8fNIG%2BYkKMSAR1QdfCHnFz8yY85Rdz%2BxSOeXQOXuTSj4FJ3MbEcBCarrGmhFNbHa74ICS7e40M7xZc4iyFrvsOnozNs3JRsW9rXaa589GdcY3HM3m7kcG0%2FBDgTz1Hld3rNyI4NYEGFPaNsF%2BH5tDcq%2F9DwWvMZFX7gjQV2bsV%2BLDWyYigzSn79BqfK2Kg%2FaVczexQtIxFliz7JyCb0NTjjbe7iLqdtGb2UEoc4MWZ%2BgB%2Bz4uuwgB4Ph0sPODRA1ewm82rFVtGILClHd8UTi9YFppmjGQ%2FXipaM8OQUItR%2Bj2o%2FxvV6LsDtIpD2inWacHoe6Z2er0MQfeOwomOLfYOAl3sNKPjh5kEB2hsgxlzTXgmmnw2vQW26SxnzTW1tR%2FDHUM8G1aKag5BYYaOXzip5z%2FuJkU3s9BBNLIgdiz1SG%2B%2FobYQNhDdC6H9l1PwI8G3DePlNA%2B84zHCZjYiLZ5aLUUgW1ycL9BhacKDBW%2FHzzCKjLFakKAXORzibuPcfOCzTfghE6OJr%2F2p6TO4u%2F4Q%2BSjkSxtxX3Ixv3%2FUtAvG1Q3Eh1N5pTMTVSScxhyJSdXJKzCfGYe1jD7tekv4%2B%2FW2rN8UgjwNUS0BBpCejLIM0e3LT49y111LzWjWBExaB%2BBXWH8QEoFIjQY0L15Xx81h2b966y1h9kVn21o%2F%2BVXP44oE48rFrcFG9cFUyxcJnI8YJmyc486bnPq8n2G2s7Di3GaSlfP9&catalog_product_id=MLA44046713&zip_code=5013
+                            - text: Zapatilla Topper Boris Estilo Deportivo Color Negro Unisex
+                          - generic [ref=e1415]:
+                            - img [ref=e1416]:
+                              - generic [ref=e1417]: $
+                              - generic [ref=e1418]: "69.900"
+                            - generic [ref=e1419]:
+                              - img [ref=e1420]:
+                                - generic [ref=e1421]: $
+                                - generic [ref=e1422]: "62.909"
+                              - generic [ref=e1423]: 10% OFF
+                            - generic [ref=e1424]:
+                              - text: Mismo precio 3 cuotas de
+                              - img [ref=e1425]:
+                                - generic [ref=e1426]: $
+                                - generic [ref=e1427]: "20.969"
+                          - generic [ref=e1428]: Envío gratispor ser tu primera compra
+                    - group [ref=e1429]:
+                      - generic [ref=e1430]:
+                        - img [ref=e1432]
+                        - generic [ref=e1433]:
+                          - link [ref=e1434] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=J7j57qyvZkH2c%2BVo2ATsxQHijFiYjKayuJdIAZfpgRzEDV15jyLtfTLIeoyJH7TQeh%2FhQ%2B6elTlYKsHrCAxHE5l8oH2grvmIutd73Zn12Iqo77AMkKTsYBZMqDd2XbAMHTd5LSBvvsZqHMHwb%2B2uv1Fs0906n2SDnKDkboBtnBsXbYj10RmvgbE4Apni%2FRXPLKDV66pZryYBUwDFQWyvPouPry3c2XLfhQF6biSXfsAbmlAGHppgGSPhNf1fcJCgvUztbcAxvXJOTG%2F1a%2F0i66M%2BMGLA5PaNZ5BeOkgHg048GF2vA%2FkQczF3AwAXZ3xUCd%2FFvKTlEWkPcTVTUOci99TzH2DO%2F7PLkCVGi8xUXHtYLnArAhmO5bGGwzyToS6gnfpB54eXWKR1yFe0YZk1qNVf1myywGLT5oPS8qgvmt160ahGFcDahJRoY3%2FbwjMX3gF%2BMzIh3C4y4NlQhHXL3ew5J8VJRnl5InyPMO7%2FzZcYrfAbDhHSNIm3l5GfqwkpD576cLhLMVbwghlL8YAdZ0tpI4qNvRO6y6Lugm1bLyiuXJIvWI09WHuw0u9NBlmsXe4HLfTBgtA61Vcvhymb2mPTVFbAbKXkhCNdy5vcnbpe929TlznCHshVTgmB44RgwYIRV9%2FSnZaVYDTbqZ6JBEmI%2FeexaqIkgwtuTwUdpklk46rKLZ2QCiElwSQWJZSqYQadfpbDbrvW1iAJ7XwP3H51f91eNj5nzndHoMyMutZcufZ7H%2BodVO9gBBDKSM7k8%2BQEP2BreE57uv3ZoMSQdZfpWPXGeFciZH3pQXpJ%2Bxc3TSdWkQLyTXx7I8rAV%2B8Z2NT5ASUmkZuU%2FZ7UeJVAIi13yGfMz9tZ6lZxR7P1N5y9%2FfRWsydbo%2FoBlbHdsfiIFQTZ90kh8FtcsChikw%2FzlQqDxdfKms86
+                            - text: Zapatillas Guala Nova Deportivas Unisex
+                          - generic [ref=e1435]:
+                            - img [ref=e1436]:
+                              - generic [ref=e1437]: $
+                              - generic [ref=e1438]: "50.800"
+                            - generic [ref=e1439]:
+                              - img [ref=e1440]:
+                                - generic [ref=e1441]: $
+                                - generic [ref=e1442]: "19.304"
+                              - generic [ref=e1443]: 62% OFF
+                            - generic [ref=e1444]:
+                              - text: 3 cuotas de
+                              - img [ref=e1445]:
+                                - generic [ref=e1446]: $
+                                - generic [ref=e1447]: "8.004"
+                    - group [ref=e1448]:
+                      - generic [ref=e1449]:
+                        - img [ref=e1451]
+                        - generic [ref=e1452]:
+                          - link [ref=e1453] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=xN97%2B6dYs8R5JIm9wEK6wsNR%2B2FyBa80fr6aHnd4u18CkSQ4Z0mCQaY6utJPRskZOROElZ9tPkNsIyWu06NirdcxuTkRUF0GmLJC9wOm1P9Nud3QJao%2BlHSyhgxor70CiyUxePBPzii92sGIUIaIgW87BZK9r0TIX1XXe35ELRv%2BRwjk2aD6gIoonqDODHdNo0cwgasDN8vuYYNciAPXnRT1XW5Uw%2FIbdGPOrwJXIlEa2WWjJ8KzmNTG%2F03vwJ7T%2BcVfxmSdb6naHze%2FfRQX2pEjJ%2FYkTf86NKxmqYTJp%2FfZRalWiwZCpylFSgxOcaDvGhbX4W1K9jhM59EbGTW6FHRaZJcvyKIwKoWRsJJNSiZ9QtA2UVc7OdGDVrzw06moB1euxCzoKvZdmZiXcAcgpQZYTFejjqKQ%2FmsAqbMrc3viys5ivVuAy1MS4mA9mMb5si00aMC3PQ%2Fazm%2FmUp8w3cQBMqu6LBE5yglZzI5vf%2FOBHp2d0X40pQjMAchdyEgRbbBx84rP76L4Ko520d79hosPaJj2uGlrUcLZSQufIq1xs2WTQfKHlum%2BTKl4SSOYQWk%2BtMvgtiHlSUGjNVAsZP5j%2BTY07qRaBBNeqc1dTdxqBM6dEytgIf76eL96PI53FAff8WyAFYVx4mbLHn7Q%2BimT72Jnx8QctzBVsVzSGobGlFKU0Han5IHXMlogWhS2AN54wyg93TtT0VdXIAHctVAiI9B80ubpuxRFORSCRkiy0yxrwI%2F3ccuR%2BFOS2V%2BBpzFsK7DN2A6nw8yLT2%2BzgSl01lpKu88S8lDZXlHMPnmAXUeOqzuuhpdKfJSM1vdaHhDTNAXDqUotmjIu3iP4mbASwxjY5YWGjdXZdWNs7mTs01hkt1Abz8II8cH9MOXNBcvbknpNG0P1N%2BcFfN75waznLnS%2Bj%2Bu8uvuUREvDKB5CAc3Qidol2DO%2B%2FpJlUYeZBRdxMvLLMrgHl7IHqZOXDDIrZMZPjol0SGtzdniV1vfCYWB6ZS4%3D&catalog_product_id=MLA46521585&zip_code=5013
+                            - text: Zapatilla Topper Akron 2mil Plata
+                          - generic [ref=e1454]:
+                            - img [ref=e1455]:
+                              - generic [ref=e1456]: $
+                              - generic [ref=e1457]: "86.900"
+                            - generic [ref=e1458]:
+                              - img [ref=e1459]:
+                                - generic [ref=e1460]: $
+                                - generic [ref=e1461]: "56.484"
+                              - generic [ref=e1462]: 35% OFF
+                            - generic [ref=e1463]:
+                              - text: Mismo precio 3 cuotas de
+                              - img [ref=e1464]:
+                                - generic [ref=e1465]: $
+                                - generic [ref=e1466]: "18.828"
+                          - generic [ref=e1467]: Envío gratispor ser tu primera compra
+                  - button "Siguiente" [ref=e1468] [cursor=pointer]:
+                    - img [ref=e1469]
+            - generic [ref=e1472]:
+              - heading "Productos del vendedor" [level=2] [ref=e1476]
+              - region "Productos del vendedor" [ref=e1477]:
+                - generic [ref=e1478]:
+                  - generic [ref=e1480]:
+                    - group "1 de 25" [ref=e1481]:
+                      - generic [ref=e1482]:
+                        - img [ref=e1484]
+                        - generic [ref=e1485]:
+                          - link "Zapatillas Urbanas Unisex Vigo 25869 36 Al 45 - Gamati Blanco 37 Ar" [ref=e1486] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatillas-urbanas-unisex-vigo-25869-36-al-45--gamati/up/MLAU3294449903?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=0&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2180837614&sid=recos
+                          - generic [ref=e1487]:
+                            - 'img "Antes: 62999 pesos argentinos" [ref=e1488]':
+                              - generic [ref=e1489]: $
+                              - generic [ref=e1490]: "62.999"
+                            - generic [ref=e1491]:
+                              - 'img "Ahora: 47879 pesos argentinos" [ref=e1492]':
+                                - generic [ref=e1493]: $
+                                - generic [ref=e1494]: "47.879"
+                              - generic [ref=e1495]: 24% OFF
+                            - generic [ref=e1496]:
+                              - text: 6 cuotas de
+                              - img "9133 pesos argentinos" [ref=e1497]:
+                                - generic [ref=e1498]: $
+                                - generic [ref=e1499]: "9.133"
+                          - generic [ref=e1500]: Envío gratispor ser tu primera compra
+                    - group "2 de 25" [ref=e1501]:
+                      - generic [ref=e1502]:
+                        - img [ref=e1504]
+                        - generic [ref=e1505]:
+                          - link "Zapatillas Deportivas Asics Tiger Runer Ii 40 Al 45 - Gamati" [ref=e1506] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1997068086-zapatillas-deportivas-asics-tiger-runer-ii-40-al-45-gamati-_JM?searchVariation=182779316028#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=1&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                          - generic [ref=e1507]:
+                            - 'img "Antes: 104999 pesos argentinos" [ref=e1508]':
+                              - generic [ref=e1509]: $
+                              - generic [ref=e1510]: "104.999"
+                            - generic [ref=e1511]:
+                              - 'img "Ahora: 69299 pesos argentinos" [ref=e1512]':
+                                - generic [ref=e1513]: $
+                                - generic [ref=e1514]: "69.299"
+                              - generic [ref=e1515]: 34% OFF
+                            - generic [ref=e1516]:
+                              - text: 6 cuotas de
+                              - img "13220 pesos argentinos" [ref=e1517]:
+                                - generic [ref=e1518]: $
+                                - generic [ref=e1519]: "13.220"
+                          - generic [ref=e1520]: Envío gratispor ser tu primera compra
+                    - group [ref=e1521]:
+                      - generic [ref=e1522]:
+                        - img [ref=e1524]
+                        - generic [ref=e1525]:
+                          - link [ref=e1526] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1667698408-zapatillas-urbanas-topper-enforcer-26494-gamati-calzados-_JM?searchVariation=181865257401#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=2&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Topper Enforcer 26494 - Gamati Calzados
+                          - generic [ref=e1527]:
+                            - img [ref=e1528]:
+                              - generic [ref=e1529]: $
+                              - generic [ref=e1530]: "81.999"
+                            - generic [ref=e1531]:
+                              - img [ref=e1532]:
+                                - generic [ref=e1533]: $
+                                - generic [ref=e1534]: "55.677"
+                              - generic [ref=e1535]: 32% OFF
+                            - generic [ref=e1536]:
+                              - text: 6 cuotas de
+                              - img [ref=e1537]:
+                                - generic [ref=e1538]: $
+                                - generic [ref=e1539]: "10.621"
+                          - generic [ref=e1540]: Envío gratispor ser tu primera compra
+                    - group [ref=e1541]:
+                      - generic [ref=e1542]:
+                        - img [ref=e1544]
+                        - generic [ref=e1545]:
+                          - link [ref=e1546] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatillas-urbanas-topper-temple-29685-35-al-45--gamati/up/MLAU3240600477?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=3&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA1505564263&sid=recos
+                            - text: Zapatillas Urbanas Topper Temple 29685 35 Al 45 - Gamati Gris Magnet Gris Vane Beige 43 Ar
+                          - generic [ref=e1547]:
+                            - img [ref=e1548]:
+                              - generic [ref=e1549]: $
+                              - generic [ref=e1550]: "89.999"
+                            - generic [ref=e1551]:
+                              - img [ref=e1552]:
+                                - generic [ref=e1553]: $
+                                - generic [ref=e1554]: "49.499"
+                              - generic [ref=e1555]: 45% OFF
+                            - generic [ref=e1556]:
+                              - text: 6 cuotas de
+                              - img [ref=e1557]:
+                                - generic [ref=e1558]: $
+                                - generic [ref=e1559]: "9.442"
+                          - generic [ref=e1560]: Envío gratispor ser tu primera compra
+                    - group [ref=e1561]:
+                      - generic [ref=e1562]:
+                        - img [ref=e1564]
+                        - generic [ref=e1565]:
+                          - link [ref=e1566] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1399737877-botines-futbol-topper-san-ciro-v-fg-unisex-25910-gamati-_JM?searchVariation=181568597385#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=4&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Botines Fútbol Topper San Ciro V Fg Unisex 25910 - Gamati
+                          - generic [ref=e1567]:
+                            - img [ref=e1568]:
+                              - generic [ref=e1569]: $
+                              - generic [ref=e1570]: "103.499"
+                            - generic [ref=e1571]:
+                              - img [ref=e1572]:
+                                - generic [ref=e1573]: $
+                                - generic [ref=e1574]: "62.244"
+                              - generic [ref=e1575]: 39% OFF
+                            - generic [ref=e1576]:
+                              - text: 6 cuotas de
+                              - img [ref=e1577]:
+                                - generic [ref=e1578]: $
+                                - generic [ref=e1579]: "11.874"
+                          - generic [ref=e1580]: Envío gratispor ser tu primera compra
+                    - group [ref=e1581]:
+                      - generic [ref=e1582]:
+                        - img [ref=e1584]
+                        - generic [ref=e1585]:
+                          - link [ref=e1586] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1437842277-zapatillas-urbanas-topper-chalpa-rs-81018-35-al-46-gamati-_JM?searchVariation=183715891397#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=5&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Topper Chalpa Rs 81018 35 Al 46 - Gamati
+                          - generic [ref=e1587]:
+                            - img [ref=e1588]:
+                              - generic [ref=e1589]: $
+                              - generic [ref=e1590]: "82.000"
+                            - generic [ref=e1591]:
+                              - img [ref=e1592]:
+                                - generic [ref=e1593]: $
+                                - generic [ref=e1594]: "51.660"
+                              - generic [ref=e1595]: 37% OFF
+                            - generic [ref=e1596]:
+                              - text: 6 cuotas de
+                              - img [ref=e1597]:
+                                - generic [ref=e1598]: $
+                                - generic [ref=e1599]: "9.855"
+                          - generic [ref=e1600]: Envío gratispor ser tu primera compra
+                    - group [ref=e1601]:
+                      - generic [ref=e1602]:
+                        - img [ref=e1604]
+                        - generic [ref=e1605]:
+                          - link [ref=e1606] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1494706574-zapatillas-urbanas-topper-temple-29676-39-al-45-gamati-_JM?searchVariation=179748468175#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=6&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Topper Temple 29676 - 39 Al 45 - Gamati
+                          - generic [ref=e1607]:
+                            - img [ref=e1608]:
+                              - generic [ref=e1609]: $
+                              - generic [ref=e1610]: "78.999"
+                            - generic [ref=e1611]:
+                              - img [ref=e1612]:
+                                - generic [ref=e1613]: $
+                                - generic [ref=e1614]: "49.808"
+                              - generic [ref=e1615]: 36% OFF
+                            - generic [ref=e1616]:
+                              - text: 6 cuotas de
+                              - img [ref=e1617]:
+                                - generic [ref=e1618]: $
+                                - generic [ref=e1619]: "9.501"
+                          - generic [ref=e1620]: Envío gratispor ser tu primera compra
+                    - group [ref=e1621]:
+                      - generic [ref=e1622]:
+                        - img [ref=e1624]
+                        - generic [ref=e1625]:
+                          - link [ref=e1626] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1432145103-zapatillas-urbanas-topper-t350-mesh-25824-35-al-45-gamati-_JM?searchVariation=180697877910#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=7&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Topper T.350 Mesh 25824 35 Al 45 - Gamati
+                          - generic [ref=e1627]:
+                            - img [ref=e1628]:
+                              - generic [ref=e1629]: $
+                              - generic [ref=e1630]: "79.999"
+                            - generic [ref=e1631]:
+                              - img [ref=e1632]:
+                                - generic [ref=e1633]: $
+                                - generic [ref=e1634]: "54.319"
+                              - generic [ref=e1635]: 32% OFF
+                            - generic [ref=e1636]:
+                              - text: 6 cuotas de
+                              - img [ref=e1637]:
+                                - generic [ref=e1638]: $
+                                - generic [ref=e1639]: "10.362"
+                          - generic [ref=e1640]: Envío gratispor ser tu primera compra
+                    - group [ref=e1641]:
+                      - generic [ref=e1642]:
+                        - img [ref=e1644]
+                        - generic [ref=e1645]:
+                          - link [ref=e1646] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatillas-deportivas-topper-ever-20-25826--gamati/up/MLAU3102481723?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=8&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2044413534&sid=recos
+                            - text: Zapatillas Deportivas Topper Ever 2.0 25826 - Gamati Negro / Oliva 44 Ar
+                          - generic [ref=e1647]:
+                            - img [ref=e1648]:
+                              - generic [ref=e1649]: $
+                              - generic [ref=e1650]: "79.499"
+                            - generic [ref=e1651]:
+                              - img [ref=e1652]:
+                                - generic [ref=e1653]: $
+                                - generic [ref=e1654]: "50.124"
+                              - generic [ref=e1655]: 36% OFF
+                            - generic [ref=e1656]:
+                              - text: 6 cuotas de
+                              - img [ref=e1657]:
+                                - generic [ref=e1658]: $
+                                - generic [ref=e1659]: "9.562"
+                          - generic [ref=e1660]: Envío gratispor ser tu primera compra
+                    - group [ref=e1661]:
+                      - generic [ref=e1662]:
+                        - img [ref=e1664]
+                        - generic [ref=e1665]:
+                          - link [ref=e1666] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-2416158598-zapatillas-urbanas-topper-enforcer-25867-36-al-44-gamati-_JM?searchVariation=185913286200#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=9&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Topper Enforcer 25867 36 Al 44 - Gamati
+                          - generic [ref=e1667]:
+                            - img [ref=e1668]:
+                              - generic [ref=e1669]: $
+                              - generic [ref=e1670]: "81.999"
+                            - generic [ref=e1671]:
+                              - img [ref=e1672]:
+                                - generic [ref=e1673]: $
+                                - generic [ref=e1674]: "61.386"
+                              - generic [ref=e1675]: 25% OFF
+                            - generic [ref=e1676]:
+                              - text: 6 cuotas de
+                              - img [ref=e1677]:
+                                - generic [ref=e1678]: $
+                                - generic [ref=e1679]: "11.710"
+                          - generic [ref=e1680]: Envío gratispor ser tu primera compra
+                    - group [ref=e1681]:
+                      - generic [ref=e1682]:
+                        - img [ref=e1684]
+                        - generic [ref=e1685]:
+                          - link [ref=e1686] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1557279996-zapatillas-urbanas-topper-temple-29679-39-al-45-gamati-_JM?searchVariation=187458182351#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=10&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Topper Temple 29679 - 39 Al 45 - Gamati
+                          - generic [ref=e1687]:
+                            - img [ref=e1688]:
+                              - generic [ref=e1689]: $
+                              - generic [ref=e1690]: "78.999"
+                            - generic [ref=e1691]:
+                              - img [ref=e1692]:
+                                - generic [ref=e1693]: $
+                                - generic [ref=e1694]: "56.879"
+                              - generic [ref=e1695]: 28% OFF
+                            - generic [ref=e1696]:
+                              - text: 6 cuotas de
+                              - img [ref=e1697]:
+                                - generic [ref=e1698]: $
+                                - generic [ref=e1699]: "10.850"
+                          - generic [ref=e1700]: Envío gratispor ser tu primera compra
+                    - group [ref=e1701]:
+                      - generic [ref=e1702]:
+                        - img [ref=e1704]
+                        - generic [ref=e1705]:
+                          - link [ref=e1706] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatillas-deportivas-topper-fast-25849--35-al-40--gamati/up/MLAU3284131293?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=11&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2171936350&sid=recos
+                            - text: Zapatillas Deportivas Topper Fast 25849 35 Al 40 - Gamati Violeta Ice / Lila 40 Ar
+                          - generic [ref=e1707]:
+                            - img [ref=e1708]:
+                              - generic [ref=e1709]: $
+                              - generic [ref=e1710]: "79.999"
+                            - generic [ref=e1711]:
+                              - img [ref=e1712]:
+                                - generic [ref=e1713]: $
+                                - generic [ref=e1714]: "53.077"
+                              - generic [ref=e1715]: 33% OFF
+                            - generic [ref=e1716]:
+                              - text: 3 cuotas de
+                              - img [ref=e1717]:
+                                - generic [ref=e1718]: $
+                                - generic [ref=e1719]: "22.009"
+                          - generic [ref=e1720]: Envío gratispor ser tu primera compra
+                    - group [ref=e1721]:
+                      - generic [ref=e1722]:
+                        - img [ref=e1724]
+                        - generic [ref=e1725]:
+                          - link [ref=e1726] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1381729874-zapatillas-deportivas-topper-akron-53198-39-al-45-gamati-_JM?searchVariation=177401480571#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=12&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Deportivas Topper Akron 53198 39 Al 45 - Gamati
+                          - generic [ref=e1727]:
+                            - img [ref=e1728]:
+                              - generic [ref=e1729]: $
+                              - generic [ref=e1730]: "89.699"
+                            - generic [ref=e1731]:
+                              - img [ref=e1732]:
+                                - generic [ref=e1733]: $
+                                - generic [ref=e1734]: "52.204"
+                              - generic [ref=e1735]: 41% OFF
+                            - generic [ref=e1736]:
+                              - text: 6 cuotas de
+                              - img [ref=e1737]:
+                                - generic [ref=e1738]: $
+                                - generic [ref=e1739]: "9.958"
+                          - generic [ref=e1740]: Envío gratispor ser tu primera compra
+                    - group [ref=e1741]:
+                      - generic [ref=e1742]:
+                        - img [ref=e1744]
+                        - generic [ref=e1745]:
+                          - link [ref=e1746] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1425916919-zapatillas-deportivas-reebok-energen-lite-jp-gamati-_JM?searchVariation=186321877345#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=13&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Deportivas Reebok Energen Lite Jp - Gamati
+                          - generic [ref=e1747]:
+                            - img [ref=e1748]:
+                              - generic [ref=e1749]: $
+                              - generic [ref=e1750]: "69.990"
+                            - generic [ref=e1751]:
+                              - img [ref=e1752]:
+                                - generic [ref=e1753]: $
+                                - generic [ref=e1754]: "50.917"
+                              - generic [ref=e1755]: 27% OFF
+                            - generic [ref=e1756]:
+                              - text: 6 cuotas de
+                              - img [ref=e1757]:
+                                - generic [ref=e1758]: $
+                                - generic [ref=e1759]: "9.713"
+                          - generic [ref=e1760]: Envío gratispor ser tu primera compra
+                    - group [ref=e1761]:
+                      - generic [ref=e1762]:
+                        - img [ref=e1764]
+                        - generic [ref=e1765]:
+                          - link [ref=e1766] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1414707607-zapatillas-deportivas-topper-mamba-ii-29682-35-al-45-gamati-_JM?searchVariation=186839719197#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=14&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Deportivas Topper Mamba Ii 29682 -35 Al 45 Gamati
+                          - generic [ref=e1767]:
+                            - img [ref=e1768]:
+                              - generic [ref=e1769]: $
+                              - generic [ref=e1770]: "65.999"
+                            - generic [ref=e1771]:
+                              - img [ref=e1772]:
+                                - generic [ref=e1773]: $
+                                - generic [ref=e1774]: "43.532"
+                              - generic [ref=e1775]: 34% OFF
+                            - generic [ref=e1776]:
+                              - text: 6 cuotas de
+                              - img [ref=e1777]:
+                                - generic [ref=e1778]: $
+                                - generic [ref=e1779]: "8.304"
+                          - generic [ref=e1780]: Envío gratispor ser tu primera compra
+                    - group [ref=e1781]:
+                      - generic [ref=e1782]:
+                        - img [ref=e1784]
+                        - generic [ref=e1785]:
+                          - link [ref=e1786] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1475136661-zapatillas-deportivas-topper-styl-50172-35-al-45-gamati-_JM?searchVariation=186853112153#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=15&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Deportivas Topper Styl 50172 - 35 Al 45 - Gamati
+                          - generic [ref=e1787]:
+                            - img [ref=e1788]:
+                              - generic [ref=e1789]: $
+                              - generic [ref=e1790]: "89.999"
+                            - generic [ref=e1791]:
+                              - img [ref=e1792]:
+                                - generic [ref=e1793]: $
+                                - generic [ref=e1794]: "56.744"
+                              - generic [ref=e1795]: 36% OFF
+                            - generic [ref=e1796]:
+                              - text: 6 cuotas de
+                              - img [ref=e1797]:
+                                - generic [ref=e1798]: $
+                                - generic [ref=e1799]: "10.824"
+                          - generic [ref=e1800]: Envío gratispor ser tu primera compra
+                    - group [ref=e1801]:
+                      - generic [ref=e1802]:
+                        - img [ref=e1804]
+                        - generic [ref=e1805]:
+                          - link [ref=e1806] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/botin-sala-umbro-speciali-classic-41-al-45--gamati-calzados/up/MLAU3116796312?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=16&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2047963892&sid=recos
+                            - text: Botin Sala Umbro Speciali Classic 41 Al 45 - Gamati Calzados Black/black 45 Ar
+                          - generic [ref=e1807]:
+                            - img [ref=e1808]:
+                              - generic [ref=e1809]: $
+                              - generic [ref=e1810]: "89.999"
+                            - generic [ref=e1811]:
+                              - img [ref=e1812]:
+                                - generic [ref=e1813]: $
+                                - generic [ref=e1814]: "44.999"
+                              - generic [ref=e1815]: 50% OFF
+                            - generic [ref=e1816]:
+                              - text: 6 cuotas de
+                              - img [ref=e1817]:
+                                - generic [ref=e1818]: $
+                                - generic [ref=e1819]: "8.584"
+                          - generic [ref=e1820]: Envío gratispor ser tu primera compra
+                    - group [ref=e1821]:
+                      - generic [ref=e1822]:
+                        - img [ref=e1824]
+                        - generic [ref=e1825]:
+                          - link [ref=e1826] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatillas-deportivas-topper-fast-25849--35-al-40--gamati/up/MLAU3284134669?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=17&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2171832402&sid=recos
+                            - text: Zapatillas Deportivas Topper Fast 25849 35 Al 40 - Gamati Violeta Ice / Lila 38 Ar
+                          - generic [ref=e1827]:
+                            - img [ref=e1828]:
+                              - generic [ref=e1829]: $
+                              - generic [ref=e1830]: "79.999"
+                            - generic [ref=e1831]:
+                              - img [ref=e1832]:
+                                - generic [ref=e1833]: $
+                                - generic [ref=e1834]: "54.384"
+                              - generic [ref=e1835]: 32% OFF
+                            - generic [ref=e1836]:
+                              - text: 3 cuotas de
+                              - img [ref=e1837]:
+                                - generic [ref=e1838]: $
+                                - generic [ref=e1839]: "22.551"
+                          - generic [ref=e1840]: Envío gratispor ser tu primera compra
+                    - group [ref=e1841]:
+                      - generic [ref=e1842]:
+                        - img [ref=e1844]
+                        - generic [ref=e1845]:
+                          - link [ref=e1846] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-2198824704-zapatillas-urbanas-fila-fx-court-70-vintage-gamati-_JM?searchVariation=184389204606#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=18&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Urbanas Fila Fx Court 70 Vintage - Gamati
+                          - generic [ref=e1847]:
+                            - img [ref=e1848]:
+                              - generic [ref=e1849]: $
+                              - generic [ref=e1850]: "102.999"
+                            - generic [ref=e1851]:
+                              - img [ref=e1852]:
+                                - generic [ref=e1853]: $
+                                - generic [ref=e1854]: "60.944"
+                              - generic [ref=e1855]: 40% OFF
+                            - generic [ref=e1856]:
+                              - text: 6 cuotas de
+                              - img [ref=e1857]:
+                                - generic [ref=e1858]: $
+                                - generic [ref=e1859]: "11.626"
+                          - generic [ref=e1860]: Envío gratispor ser tu primera compra
+                    - group [ref=e1861]:
+                      - generic [ref=e1862]:
+                        - img [ref=e1864]
+                        - generic [ref=e1865]:
+                          - link [ref=e1866] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1430580701-zapatillas-deportivas-topper-akron-50204-35-al-45-gamati-_JM?searchVariation=183034222121#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=19&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Deportivas Topper Akron 50204 - 35 Al 45 - Gamati
+                          - generic [ref=e1867]:
+                            - img [ref=e1868]:
+                              - generic [ref=e1869]: $
+                              - generic [ref=e1870]: "89.999"
+                            - generic [ref=e1871]:
+                              - img [ref=e1872]:
+                                - generic [ref=e1873]: $
+                                - generic [ref=e1874]: "52.379"
+                              - generic [ref=e1875]: 41% OFF
+                            - generic [ref=e1876]:
+                              - text: 6 cuotas de
+                              - img [ref=e1877]:
+                                - generic [ref=e1878]: $
+                                - generic [ref=e1879]: "9.992"
+                          - generic [ref=e1880]: Envío gratispor ser tu primera compra
+                    - group [ref=e1881]:
+                      - generic [ref=e1882]:
+                        - img [ref=e1884]
+                        - generic [ref=e1885]:
+                          - link [ref=e1886] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatilla-urbana-fila-fx-33-35-al-44--gamati-calzados/up/MLAU3113742633?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=20&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2048968900&sid=recos
+                            - text: Zapatilla Urbana Fila Fx 33 35 Al 44 - Gamati Calzados 38 Ar Negro/blanco/rojo
+                          - generic [ref=e1887]:
+                            - img [ref=e1888]:
+                              - generic [ref=e1889]: $
+                              - generic [ref=e1890]: "108.999"
+                            - generic [ref=e1891]:
+                              - img [ref=e1892]:
+                                - generic [ref=e1893]: $
+                                - generic [ref=e1894]: "59.949"
+                              - generic [ref=e1895]: 45% OFF
+                            - generic [ref=e1896]:
+                              - text: 6 cuotas de
+                              - img [ref=e1897]:
+                                - generic [ref=e1898]: $
+                                - generic [ref=e1899]: "11.436"
+                          - generic [ref=e1900]: Envío gratispor ser tu primera compra
+                    - group [ref=e1901]:
+                      - generic [ref=e1902]:
+                        - img [ref=e1904]
+                        - generic [ref=e1905]:
+                          - link [ref=e1906] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1965956994-zapatillas-deportivas-asics-gel-sparta-2-40-al-45-gamati-_JM?searchVariation=186184024825#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=21&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Deportivas Asics Gel Sparta 2 - 40 Al 45 - Gamati
+                          - generic [ref=e1907]:
+                            - img [ref=e1908]:
+                              - generic [ref=e1909]: $
+                              - generic [ref=e1910]: "114.999"
+                            - generic [ref=e1911]:
+                              - img [ref=e1912]:
+                                - generic [ref=e1913]: $
+                                - generic [ref=e1914]: "72.506"
+                              - generic [ref=e1915]: 36% OFF
+                            - generic [ref=e1916]:
+                              - text: 6 cuotas de
+                              - img [ref=e1917]:
+                                - generic [ref=e1918]: $
+                                - generic [ref=e1919]: "13.831"
+                          - generic [ref=e1920]: Envío gratispor ser tu primera compra
+                    - group [ref=e1921]:
+                      - generic [ref=e1922]:
+                        - img [ref=e1924]
+                        - generic [ref=e1925]:
+                          - link [ref=e1926] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1423281307-zapatillas-trekking-topper-grove-high-50184-gamati-_JM?searchVariation=180371119000#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=22&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: Zapatillas Trekking Topper Grove High 50184 - Gamati
+                          - generic [ref=e1927]:
+                            - img [ref=e1928]:
+                              - generic [ref=e1929]: $
+                              - generic [ref=e1930]: "110.000"
+                            - generic [ref=e1931]:
+                              - img [ref=e1932]:
+                                - generic [ref=e1933]: $
+                                - generic [ref=e1934]: "66.000"
+                              - generic [ref=e1935]: 40% OFF
+                            - generic [ref=e1936]:
+                              - text: 3 cuotas de
+                              - img [ref=e1937]:
+                                - generic [ref=e1938]: $
+                                - generic [ref=e1939]: "27.368"
+                          - generic [ref=e1940]: Envío gratispor ser tu primera compra
+                    - group [ref=e1941]:
+                      - generic [ref=e1942]:
+                        - img [ref=e1944]
+                        - generic [ref=e1945]:
+                          - link [ref=e1946] [cursor=pointer]:
+                            - /url: https://articulo.mercadolibre.com.ar/MLA-1118687875-zapatillas-de-lona-urbanas-acolchadas-skate-rave-1000-_JM?searchVariation=174395950909#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=23&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d
+                            - text: "Zapatillas De Lona Urbanas Acolchadas Skate Rave #1000"
+                          - generic [ref=e1947]:
+                            - img [ref=e1948]:
+                              - generic [ref=e1949]: $
+                              - generic [ref=e1950]: "27.550"
+                            - generic [ref=e1951]:
+                              - img [ref=e1952]:
+                                - generic [ref=e1953]: $
+                                - generic [ref=e1954]: "24.353"
+                              - generic [ref=e1955]: 11% OFF
+                            - generic [ref=e1956]:
+                              - text: 6 cuotas de
+                              - img [ref=e1957]:
+                                - generic [ref=e1958]: $
+                                - generic [ref=e1959]: "4.645"
+                          - generic [ref=e1960]: Envío gratispor ser tu primera compra
+                    - group [ref=e1961]:
+                      - generic [ref=e1962]:
+                        - img [ref=e1964]
+                        - generic [ref=e1965]:
+                          - link [ref=e1966] [cursor=pointer]:
+                            - /url: https://www.mercadolibre.com.ar/zapatillas-urbanas-club-7-art-a585-36-al-44--gamati/up/MLAU3056681429?pdp_filters=seller_id%3A432145923#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=24&reco_backend_type=low_level&reco_id=c35a29bc-17c8-40ed-b99a-0bd9fd04456d&wid=MLA2027749250&sid=recos
+                            - text: Zapatillas Urbanas Club 7 Art. A585 36 Al 44 - Gamati Blanco/marino 42 Ar
+                          - generic [ref=e1967]:
+                            - img [ref=e1968]:
+                              - generic [ref=e1969]: $
+                              - generic [ref=e1970]: "33.999"
+                            - generic [ref=e1971]:
+                              - img [ref=e1972]:
+                                - generic [ref=e1973]: $
+                                - generic [ref=e1974]: "29.977"
+                              - generic [ref=e1975]: 11% OFF
+                            - generic [ref=e1976]:
+                              - text: 6 cuotas de
+                              - img [ref=e1977]:
+                                - generic [ref=e1978]: $
+                                - generic [ref=e1979]: "5.718"
+                          - generic [ref=e1980]: Envío gratispor ser tu primera compra
+                  - button "Siguiente" [ref=e1981] [cursor=pointer]:
+                    - img [ref=e1982]
+              - link "Ir a la página del vendedor" [ref=e1984] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/pagina/gamaticalzados?item_id=MLA1475074077&category_id=MLA109027&seller_id=432145923&client=recoview-selleritems&recos_listing=true
+                - generic [ref=e1986]: Ir a la página del vendedor
+            - generic [ref=e1988]:
+              - heading "Características del producto" [level=2] [ref=e1990]
+              - generic [ref=e1992]:
+                - generic [ref=e1993]:
+                  - generic [ref=e1995]:
+                    - img [ref=e1997]
+                    - paragraph [ref=e1999]:
+                      - generic [ref=e2000]: "Marca:"
+                      - generic [ref=e2001]: Topper
+                  - generic [ref=e2003]:
+                    - img [ref=e2005]
+                    - paragraph [ref=e2007]:
+                      - generic [ref=e2008]: "Materiales de la suela:"
+                      - generic [ref=e2009]: Goma
+                - generic [ref=e2010]:
+                  - generic [ref=e2012]:
+                    - img [ref=e2014]
+                    - paragraph [ref=e2016]:
+                      - generic [ref=e2017]: "Materiales del exterior:"
+                      - generic [ref=e2018]: Textil
+                  - generic [ref=e2020]:
+                    - img [ref=e2022]
+                    - paragraph [ref=e2024]:
+                      - generic [ref=e2025]: "Deportes recomendados:"
+                      - generic [ref=e2026]: Urbano
+              - generic [ref=e2028]:
+                - generic [ref=e2030]:
+                  - generic [ref=e2032]:
+                    - heading "Características generales" [level=3] [ref=e2033]
+                    - table [ref=e2034]:
+                      - rowgroup [ref=e2035]:
+                        - row "Marca Topper" [ref=e2036]:
+                          - rowheader "Marca" [ref=e2037]:
+                            - generic [ref=e2038]: Marca
+                          - cell "Topper" [ref=e2039]:
+                            - generic [ref=e2040]: Topper
+                        - row "Modelo T.350 MESH" [ref=e2041]:
+                          - rowheader "Modelo" [ref=e2042]:
+                            - generic [ref=e2043]: Modelo
+                          - cell "T.350 MESH" [ref=e2044]:
+                            - generic [ref=e2045]: T.350 MESH
+                        - row "Género Sin género" [ref=e2046]:
+                          - rowheader "Género" [ref=e2047]:
+                            - generic [ref=e2048]: Género
+                          - cell "Sin género" [ref=e2049]:
+                            - generic [ref=e2050]: Sin género
+                        - row "Edad Adultos" [ref=e2051]:
+                          - rowheader "Edad" [ref=e2052]:
+                            - generic [ref=e2053]: Edad
+                          - cell "Adultos" [ref=e2054]:
+                            - generic [ref=e2055]: Adultos
+                        - row "Tipo de ancho Estándar" [ref=e2056]:
+                          - rowheader "Tipo de ancho" [ref=e2057]:
+                            - generic [ref=e2058]: Tipo de ancho
+                          - cell "Estándar" [ref=e2059]:
+                            - generic [ref=e2060]: Estándar
+                  - generic [ref=e2061]:
+                    - generic [ref=e2062]:
+                      - heading "Diseño" [level=3] [ref=e2063]
+                      - table [ref=e2064]:
+                        - rowgroup [ref=e2065]:
+                          - row "Tipos de ajuste Cordones" [ref=e2066]:
+                            - rowheader "Tipos de ajuste" [ref=e2067]:
+                              - generic [ref=e2068]: Tipos de ajuste
+                            - cell "Cordones" [ref=e2069]:
+                              - generic [ref=e2070]: Cordones
+                    - generic [ref=e2071]:
+                      - heading "Materiales" [level=3] [ref=e2072]
+                      - table [ref=e2073]:
+                        - rowgroup [ref=e2074]:
+                          - row "Materiales del exterior Textil" [ref=e2075]:
+                            - rowheader "Materiales del exterior" [ref=e2076]:
+                              - generic [ref=e2077]: Materiales del exterior
+                            - cell "Textil" [ref=e2078]:
+                              - generic [ref=e2079]: Textil
+                          - row "Materiales del interior Textil" [ref=e2080]:
+                            - rowheader "Materiales del interior" [ref=e2081]:
+                              - generic [ref=e2082]: Materiales del interior
+                            - cell "Textil" [ref=e2083]:
+                              - generic [ref=e2084]: Textil
+                          - row "Materiales de la suela Goma" [ref=e2085]:
+                            - rowheader "Materiales de la suela" [ref=e2086]:
+                              - generic [ref=e2087]: Materiales de la suela
+                            - cell "Goma" [ref=e2088]:
+                              - generic [ref=e2089]: Goma
+                    - generic [ref=e2090]:
+                      - heading "Especificaciones" [level=3] [ref=e2091]
+                      - table [ref=e2092]:
+                        - rowgroup [ref=e2093]:
+                          - row "Usos recomendados Urbano" [ref=e2094]:
+                            - rowheader "Usos recomendados" [ref=e2095]:
+                              - generic [ref=e2096]: Usos recomendados
+                            - cell "Urbano" [ref=e2097]:
+                              - generic [ref=e2098]: Urbano
+                - button "Ver todas las características" [ref=e2099] [cursor=pointer]:
+                  - text: Ver todas las características
+                  - img [ref=e2100]
+            - generic [ref=e2103]:
+              - generic [ref=e2105]:
+                - heading "Descripción" [level=2] [ref=e2106]
+                - paragraph [ref=e2107]: "Calzado liviano y confortable de diseño deportivo. Desarrollado para ser usado en el día a día. Capellada compuesto en mesh de doble densidad y materiales sintéticos. Entresuela con tecnología Superaction en EVA que amortigua el impacto en cada pisada, intensificando el confort durante su uso. Plantilla interna con tecnología Superfoam, es una espuma con memoria que se adapta al formato de su pie durante la pisada y volviendo a su forma original. CÓMO ENCONTRAR TU TALLE No te midas el pie por la mañana, porque la actividad que realices durante el día hará que tu pie se ensanche ligeramente. Es mejor que te midas el pie al acabar el día. Para saber qué número de pie calzas, segui los siguientes pasos: 1. MEDÍ DEL TALÓN A LA PUNTA DEL DEDO Coloca un trozo de papel en el suelo con uno de los bordes pegado a la pared. Pisa el papel con el talón pegado a la pared. Con un lápiz, hace una marca justo donde llega el dedo pulgar. En el papel, medí la distancia que marcaste hasta el borde del papel y compárala en nuestra guía de talles. ENCONTRAR EL TALLE CORRECTO Esto es más fácil de explicar que de hacer. Porque, ¿y si estás justo entre dos talles? En ese caso, te recomendamos que elijas el talle más grande. ¿Y si no es tu talle? ¡No te preocupes! Podes realizar el cambio de los artículos fácilmente *PREGUNTAS FRECUENTES -AUTENTICIDAD: todos los productos comercializados son 100% originales. -ENVÍO: entregamos tu pedido por medio de MERCADOENVÍOS, una vez realizada la compra recibirás un código para hacer el seguimiento de la entrega. -CAMBIOS: Tienes 30 días corridos a partir de la acreditación de tu pago para generar el cambio. Los cambios se realizan exclusivamente con previo envio de mail al correo que indica cuando realizaste la compra. El producto debe preservar su estado original, sin uso, con sus etiquetas originales, caja original. Podrán solicitar un cambio asumiendo los costos de envíos correspondientes. En caso que quieras cambiar de talle y no se encuentra en existencia el que necesites, podes cambiarlo por otro producto de nuestra tienda. -STOCK: SI ESTÁ PUBLICADO, TENEMOS STOCK! -FACTURA: enviamos factura consumidor final. Consultar por diferentes tipos de facturas. -PAGOS: podes pagar con tarjeta de crédito, RapiPago y PagoFácil a través de MERCADO PAGO. -POSTVENTA: Ante cualquier consulta nuestro equipo de \"Atención al Cliente\" está disponible para resolver tu inquietud."
+              - button "Ver descripción completa" [ref=e2108] [cursor=pointer]:
+                - text: Ver descripción completa
+                - img [ref=e2109]
+            - generic [ref=e2113]:
+              - heading "Preguntas y respuestas" [level=2] [ref=e2114]
+              - generic [ref=e2117]:
+                - textbox "Escribí tu pregunta..." [ref=e2121]
+                - button "Preguntar" [ref=e2123] [cursor=pointer]:
+                  - generic [ref=e2125]:
+                    - img [ref=e2126]
+                    - generic [ref=e2128]: Preguntar
+              - link "Ver todas las preguntas" [ref=e2134] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.ar/noindex/questions/MLA1475074077?scroll_to_question=1&new_version=true&modal=false&parent_origin=undefined
+            - generic [ref=e2138]:
+              - heading "Opiniones del producto" [level=2] [ref=e2141]
+              - generic [ref=e2142]:
+                - generic [ref=e2143]:
+                  - generic [ref=e2144]:
+                    - generic [ref=e2145]:
+                      - paragraph [ref=e2147]: "4.7"
+                      - generic [ref=e2148]:
+                        - generic [ref=e2150]:
+                          - img [ref=e2151]
+                          - img [ref=e2153]
+                          - img [ref=e2155]
+                          - img [ref=e2157]
+                          - img [ref=e2159]
+                          - paragraph [ref=e2161]: Calificación 4.7 de 5. 246 opiniones.
+                        - paragraph [ref=e2163]: 246 calificaciones
+                    - list [ref=e2165]:
+                      - listitem [ref=e2166]:
+                        - generic [ref=e2171]:
+                          - generic [ref=e2172]: "5"
+                          - img [ref=e2174]
+                      - listitem [ref=e2176]:
+                        - generic [ref=e2181]:
+                          - generic [ref=e2182]: "4"
+                          - img [ref=e2184]
+                      - listitem [ref=e2186]:
+                        - generic [ref=e2191]:
+                          - generic [ref=e2192]: "3"
+                          - img [ref=e2194]
+                      - listitem [ref=e2196]:
+                        - generic [ref=e2201]:
+                          - generic [ref=e2202]: "2"
+                          - img [ref=e2204]
+                      - listitem [ref=e2206]:
+                        - generic [ref=e2211]:
+                          - generic [ref=e2212]: "1"
+                          - img [ref=e2214]
+                  - button "Al 95% le quedó como esperaba" [ref=e2219] [cursor=pointer]:
+                    - text: Al 95% le quedó como esperaba
+                    - img [ref=e2220]
+                - generic [ref=e2222]:
+                  - generic [ref=e2223]:
+                    - heading "Opiniones con fotos" [level=3] [ref=e2224]
+                    - region "Fotos del producto compartidas por los compradores" [ref=e2225]:
+                      - generic [ref=e2226]:
+                        - generic [ref=e2228]:
+                          - group "1 de 8" [ref=e2229] [cursor=pointer]:
+                            - generic [ref=e2230]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 1 de 8" [ref=e2231]
+                          - group "2 de 8" [ref=e2232] [cursor=pointer]:
+                            - generic [ref=e2233]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 2 de 8" [ref=e2234]
+                          - group "3 de 8" [ref=e2235] [cursor=pointer]:
+                            - generic [ref=e2236]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 3 de 8" [ref=e2237]
+                          - group "4 de 8" [ref=e2238] [cursor=pointer]:
+                            - generic [ref=e2239]:
+                              - generic:
+                                - generic "Calificación 5 de 5":
+                                  - generic: "5"
+                                  - img
+                              - img "Foto del producto compartida por el comprador 4 de 8" [ref=e2240]
+                          - group [ref=e2241] [cursor=pointer]:
+                            - generic [ref=e2242]:
+                              - generic:
+                                - generic:
+                                  - generic: "5"
+                                  - img
+                              - img [ref=e2243]
+                          - group [ref=e2244] [cursor=pointer]:
+                            - generic [ref=e2245]:
+                              - generic:
+                                - generic:
+                                  - generic: "5"
+                                  - img
+                              - img [ref=e2246]
+                          - group [ref=e2247] [cursor=pointer]:
+                            - generic [ref=e2248]:
+                              - generic:
+                                - generic:
+                                  - generic: "5"
+                                  - img
+                              - img [ref=e2249]
+                          - group [ref=e2250] [cursor=pointer]:
+                            - generic [ref=e2251]:
+                              - img [ref=e2252]
+                              - generic:
+                                - generic: "+7"
+                        - button "Siguiente" [ref=e2253] [cursor=pointer]:
+                          - img [ref=e2254]
+                  - generic [ref=e2256]:
+                    - generic [ref=e2257]:
+                      - button "Ordenar" [ref=e2260] [cursor=pointer]:
+                        - generic [ref=e2261]:
+                          - text: Ordenar
+                          - img [ref=e2262]
+                      - button "Calificación" [ref=e2266] [cursor=pointer]:
+                        - generic [ref=e2267]:
+                          - text: Calificación
+                          - img [ref=e2268]
+                    - generic [ref=e2270]:
+                      - heading "Opiniones destacadas" [level=3] [ref=e2271]
+                      - generic [ref=e2272]: 114 comentarios
+                      - generic [ref=e2273]:
+                        - paragraph [ref=e2275]: Las zapatillas destacan por su comodidad y excelente calidad. Son livianas y tienen un diseño atractivo con un color agradable. Además, se ajustan bien y son ideales para uso urbano.
+                        - generic [ref=e2276]:
+                          - img [ref=e2277]
+                          - generic [ref=e2280]: Resumen de opiniones generado por IA
+                      - generic [ref=e2281]:
+                        - article [ref=e2283]:
+                          - generic [ref=e2285]:
+                            - generic [ref=e2286]:
+                              - img [ref=e2287]
+                              - img [ref=e2289]
+                              - img [ref=e2291]
+                              - img [ref=e2293]
+                              - img [ref=e2295]
+                              - paragraph [ref=e2297]: Calificación 5 de 5
+                            - generic [ref=e2298]: 20 feb. 2025
+                          - group "1 de 1" [ref=e2304] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 1" [ref=e2306]
+                          - text: Es lo que esperaba ,10 puntos. Gracias.
+                          - generic [ref=e2307]:
+                            - switch "Marcar como útil, 4 personas marcaron esta opinión como útil." [ref=e2309] [cursor=pointer]:
+                              - generic [ref=e2310]:
+                                - generic [ref=e2311]: Es útil
+                                - img [ref=e2312]
+                                - paragraph [ref=e2314]: "4"
+                            - button "Más opciones" [ref=e2317] [cursor=pointer]:
+                              - button "Más opciones" [ref=e2319]
+                        - article [ref=e2324]:
+                          - generic [ref=e2326]:
+                            - generic [ref=e2327]:
+                              - img [ref=e2328]
+                              - img [ref=e2330]
+                              - img [ref=e2332]
+                              - img [ref=e2334]
+                              - img [ref=e2336]
+                              - paragraph [ref=e2338]: Calificación 5 de 5
+                            - generic [ref=e2339]: 19 abr. 2025
+                          - group "1 de 1" [ref=e2345] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 1" [ref=e2347]
+                          - text: Excelente muy conforme gracias.
+                          - generic [ref=e2348]:
+                            - switch "Marcar como útil, 3 personas marcaron esta opinión como útil." [ref=e2350] [cursor=pointer]:
+                              - generic [ref=e2351]:
+                                - generic [ref=e2352]: Es útil
+                                - img [ref=e2353]
+                                - paragraph [ref=e2355]: "3"
+                            - button "Más opciones" [ref=e2358] [cursor=pointer]:
+                              - button "Más opciones" [ref=e2360]
+                        - article [ref=e2365]:
+                          - generic [ref=e2367]:
+                            - generic [ref=e2368]:
+                              - img [ref=e2369]
+                              - img [ref=e2371]
+                              - img [ref=e2373]
+                              - img [ref=e2375]
+                              - img [ref=e2377]
+                              - paragraph [ref=e2379]: Calificación 5 de 5
+                            - generic [ref=e2380]: 20 oct. 2025
+                          - generic [ref=e2385]:
+                            - group "1 de 2" [ref=e2386] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 1 de 2" [ref=e2388]
+                            - group "2 de 2" [ref=e2389] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 2 de 2" [ref=e2391]
+                          - text: Muy bueno.
+                          - generic [ref=e2392]:
+                            - switch "Marcar como útil, 2 personas marcaron esta opinión como útil." [ref=e2394] [cursor=pointer]:
+                              - generic [ref=e2395]:
+                                - generic [ref=e2396]: Es útil
+                                - img [ref=e2397]
+                                - paragraph [ref=e2399]: "2"
+                            - button "Más opciones" [ref=e2402] [cursor=pointer]:
+                              - button "Más opciones" [ref=e2404]
+                        - article [ref=e2409]:
+                          - generic [ref=e2411]:
+                            - generic [ref=e2412]:
+                              - img [ref=e2413]
+                              - img [ref=e2415]
+                              - img [ref=e2417]
+                              - img [ref=e2419]
+                              - img [ref=e2421]
+                              - paragraph [ref=e2423]: Calificación 5 de 5
+                            - generic [ref=e2424]: 18 nov. 2025
+                          - generic [ref=e2429]:
+                            - group "1 de 3" [ref=e2430] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 1 de 3" [ref=e2432]
+                            - group "2 de 3" [ref=e2433] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 2 de 3" [ref=e2435]
+                            - group "3 de 3" [ref=e2436] [cursor=pointer]:
+                              - img "Foto del producto compartida por el comprador 2 de 3" [ref=e2438]
+                          - text: Muy bnas. Comodas. Buenas terminaciones.
+                          - generic [ref=e2439]:
+                            - switch "Marcar como útil, 1 personas marcaron esta opinión como útil." [ref=e2441] [cursor=pointer]:
+                              - generic [ref=e2442]:
+                                - generic [ref=e2443]: Es útil
+                                - img [ref=e2444]
+                                - paragraph [ref=e2446]: "1"
+                            - button "Más opciones" [ref=e2449] [cursor=pointer]:
+                              - button "Más opciones" [ref=e2451]
+                        - article [ref=e2456]:
+                          - generic [ref=e2458]:
+                            - generic [ref=e2459]:
+                              - img [ref=e2460]
+                              - img [ref=e2462]
+                              - img [ref=e2464]
+                              - img [ref=e2466]
+                              - img [ref=e2468]
+                              - paragraph [ref=e2470]: Calificación 5 de 5
+                            - generic [ref=e2471]: 18 nov. 2025
+                          - group "1 de 1" [ref=e2477] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 1" [ref=e2479]
+                          - text: Lo que esperaba.
+                          - generic [ref=e2480]:
+                            - switch "Marcar como útil, 1 personas marcaron esta opinión como útil." [ref=e2482] [cursor=pointer]:
+                              - generic [ref=e2483]:
+                                - generic [ref=e2484]: Es útil
+                                - img [ref=e2485]
+                                - paragraph [ref=e2487]: "1"
+                            - button "Más opciones" [ref=e2490] [cursor=pointer]:
+                              - button "Más opciones" [ref=e2492]
+                  - button "Mostrar todas las opiniones" [ref=e2497] [cursor=pointer]
+        - generic [ref=e2498]:
+          - generic [ref=e2499]:
+            - heading "Encontrá lo que buscás en las Tiendas oficiales" [level=2] [ref=e2500]
+            - link "Ver todas las Tiendas oficiales" [ref=e2501] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/tiendas-oficiales/show?category=MLA1430&source=PERSONALIZED&name=Ropa y Accesorios#origin=carousel_to&item_id=MLA1475074077
+              - paragraph [ref=e2502]: Ver todas las Tiendas oficiales
+          - generic [ref=e2505]:
+            - generic [ref=e2507]:
+              - group "1 de 21" [ref=e2508]:
+                - link "New Balance New Balance Ir a la Tienda oficial" [ref=e2509] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/new-balance#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2510]:
+                    - img "New Balance" [ref=e2515]
+                    - generic [ref=e2516]:
+                      - paragraph [ref=e2518]: New Balance
+                      - paragraph [ref=e2519]: Ir a la Tienda oficial
+              - group "2 de 21" [ref=e2520]:
+                - link "adidas adidas Ir a la Tienda oficial" [ref=e2521] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/adidas#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2522]:
+                    - img "adidas" [ref=e2527]
+                    - generic [ref=e2528]:
+                      - paragraph [ref=e2530]: adidas
+                      - paragraph [ref=e2531]: Ir a la Tienda oficial
+              - group "3 de 21" [ref=e2532]:
+                - link "Nike Nike Ir a la Tienda oficial" [ref=e2533] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/nike#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2534]:
+                    - img "Nike" [ref=e2539]
+                    - generic [ref=e2540]:
+                      - paragraph [ref=e2542]: Nike
+                      - paragraph [ref=e2543]: Ir a la Tienda oficial
+              - group "4 de 21" [ref=e2544]:
+                - link "PUMA PUMA Ir a la Tienda oficial" [ref=e2545] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/puma#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2546]:
+                    - img "PUMA" [ref=e2551]
+                    - generic [ref=e2552]:
+                      - paragraph [ref=e2554]: PUMA
+                      - paragraph [ref=e2555]: Ir a la Tienda oficial
+              - group [ref=e2556]:
+                - link [ref=e2557] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/topper#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2558]:
+                    - img [ref=e2563]
+                    - generic [ref=e2564]:
+                      - paragraph [ref=e2566]: Topper
+                      - paragraph [ref=e2567]: Ir a la Tienda oficial
+              - group [ref=e2568]:
+                - link [ref=e2569] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/under-armour#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2570]:
+                    - img [ref=e2575]
+                    - generic [ref=e2576]:
+                      - paragraph [ref=e2578]: Under Armour
+                      - paragraph [ref=e2579]: Ir a la Tienda oficial
+              - group [ref=e2580]:
+                - link [ref=e2581] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/john-foos#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2582]:
+                    - img [ref=e2587]
+                    - generic [ref=e2588]:
+                      - paragraph [ref=e2590]: John Foos
+                      - paragraph [ref=e2591]: Ir a la Tienda oficial
+              - group [ref=e2592]:
+                - link [ref=e2593] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/salomon#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2594]:
+                    - img [ref=e2599]
+                    - generic [ref=e2600]:
+                      - paragraph [ref=e2602]: Salomon
+                      - paragraph [ref=e2603]: Ir a la Tienda oficial
+              - group [ref=e2604]:
+                - link [ref=e2605] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/briganti#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2606]:
+                    - img [ref=e2611]
+                    - generic [ref=e2612]:
+                      - paragraph [ref=e2614]: Briganti
+                      - paragraph [ref=e2615]: Ir a la Tienda oficial
+              - group [ref=e2616]:
+                - link [ref=e2617] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/marta-sixto#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2618]:
+                    - img [ref=e2623]
+                    - generic [ref=e2624]:
+                      - paragraph [ref=e2626]: Marta Sixto
+                      - paragraph [ref=e2627]: Ir a la Tienda oficial
+              - group [ref=e2628]:
+                - link [ref=e2629] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/_Tienda_head#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2630]:
+                    - img [ref=e2635]
+                    - generic [ref=e2636]:
+                      - paragraph [ref=e2638]: HEAD
+                      - paragraph [ref=e2639]: Ir a la Tienda oficial
+              - group [ref=e2640]:
+                - link [ref=e2641] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/reebok#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2642]:
+                    - img [ref=e2647]
+                    - generic [ref=e2648]:
+                      - paragraph [ref=e2650]: Reebok
+                      - paragraph [ref=e2651]: Ir a la Tienda oficial
+              - group [ref=e2652]:
+                - link [ref=e2653] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/atomik#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2654]:
+                    - img [ref=e2659]
+                    - generic [ref=e2660]:
+                      - paragraph [ref=e2662]: Atomik
+                      - paragraph [ref=e2663]: Ir a la Tienda oficial
+              - group [ref=e2664]:
+                - link [ref=e2665] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/diadora#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2666]:
+                    - img [ref=e2671]
+                    - generic [ref=e2672]:
+                      - paragraph [ref=e2674]: Diadora
+                      - paragraph [ref=e2675]: Ir a la Tienda oficial
+              - group [ref=e2676]:
+                - link [ref=e2677] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/_Tienda_converse#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2678]:
+                    - img [ref=e2683]
+                    - generic [ref=e2684]:
+                      - paragraph [ref=e2686]: Converse
+                      - paragraph [ref=e2687]: Ir a la Tienda oficial
+              - group [ref=e2688]:
+                - link [ref=e2689] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ropa-accesorios/calzado/zapatillas/_Tienda_athix#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2690]:
+                    - img [ref=e2695]
+                    - generic [ref=e2696]:
+                      - paragraph [ref=e2698]: ATHIX
+                      - paragraph [ref=e2699]: Ir a la Tienda oficial
+              - group [ref=e2700]:
+                - link [ref=e2701] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/toot#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2702]:
+                    - img [ref=e2707]
+                    - generic [ref=e2708]:
+                      - paragraph [ref=e2710]: Toot
+                      - paragraph [ref=e2711]: Ir a la Tienda oficial
+              - group [ref=e2712]:
+                - link [ref=e2713] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/jaguar#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2714]:
+                    - img [ref=e2719]
+                    - generic [ref=e2720]:
+                      - paragraph [ref=e2722]: Jaguar
+                      - paragraph [ref=e2723]: Ir a la Tienda oficial
+              - group [ref=e2724]:
+                - link [ref=e2725] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/becca-shoes#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2726]:
+                    - img [ref=e2731]
+                    - generic [ref=e2732]:
+                      - paragraph [ref=e2734]: Becca Shoes
+                      - paragraph [ref=e2735]: Ir a la Tienda oficial
+              - group [ref=e2736]:
+                - link [ref=e2737] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/lape#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2738]:
+                    - img [ref=e2743]
+                    - generic [ref=e2744]:
+                      - paragraph [ref=e2746]: Lape
+                      - paragraph [ref=e2747]: Ir a la Tienda oficial
+              - group [ref=e2748]:
+                - link [ref=e2749] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/kioshi#origin=carousel_to&item_id=MLA1475074077
+                  - generic [ref=e2750]:
+                    - img [ref=e2755]
+                    - generic [ref=e2756]:
+                      - paragraph [ref=e2758]: Kioshi
+                      - paragraph [ref=e2759]: Ir a la Tienda oficial
+            - button "Siguiente" [ref=e2760] [cursor=pointer]:
+              - img [ref=e2761]
+      - generic [ref=e2763]:
+        - generic [ref=e2765]:
+          - paragraph [ref=e2766]:
+            - text: Publicación
+            - generic [ref=e2767]: "#1475074077"
+          - link "Denunciar Se abrirá en una nueva ventana" [ref=e2768] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/noindex/denounce?item_id=MLA1475074077&element_type=ITM
+            - generic [ref=e2769]: Denunciar
+            - generic [ref=e2770]: Se abrirá en una nueva ventana
+        - generic [ref=e2776]:
+          - heading "Destacado en Ropa y Accesorios" [level=2] [ref=e2778]
+          - generic [ref=e2779]:
+            - generic [ref=e2780]:
+              - heading "Pantalones" [level=4] [ref=e2781]:
+                - link "Pantalones" [ref=e2782] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/pantalones#headterms
+              - list [ref=e2783]:
+                - listitem [ref=e2784]:
+                  - link "Jeans" [ref=e2785] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans#headterms
+                - listitem [ref=e2786]:
+                  - link "Jeans hombre" [ref=e2787] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans-hombre#headterms
+                - listitem [ref=e2788]:
+                  - link "Jeans mujer" [ref=e2789] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans-mujer#headterms
+                - listitem [ref=e2790]:
+                  - link "Jeans wide leg" [ref=e2791] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jeans-wide-leg#headterms
+                - listitem [ref=e2792]:
+                  - link "Joggers hombre" [ref=e2793] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/joggers-hombre#headterms
+                - listitem [ref=e2794]:
+                  - link "Jogging" [ref=e2795] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jogging#headterms
+                - listitem [ref=e2796]:
+                  - link "Jogging hombre" [ref=e2797] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/jogging-hombre#headterms
+              - button "Ver todo" [ref=e2798] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e2799]
+            - generic [ref=e2801]:
+              - heading "Mochilas" [level=4] [ref=e2802]:
+                - link "Mochilas" [ref=e2803] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/mochilas#headterms
+              - list [ref=e2804]:
+                - listitem [ref=e2805]:
+                  - link "Fjallraven kanken" [ref=e2806] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/fjallraven-kanken#headterms
+                - listitem [ref=e2807]:
+                  - link "Mochila adidas" [ref=e2808] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-adidas#headterms
+                - listitem [ref=e2809]:
+                  - link "Mochila antirrobo" [ref=e2810] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-antirrobo#headterms
+                - listitem [ref=e2811]:
+                  - link "Mochila carrito" [ref=e2812] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-carrito#headterms
+                - listitem [ref=e2813]:
+                  - link "Mochila cuero mujer" [ref=e2814] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-cuero-mujer#headterms
+                - listitem [ref=e2815]:
+                  - link "Mochila everlast" [ref=e2816] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-everlast#headterms
+                - listitem [ref=e2817]:
+                  - link "Mochila oreiro" [ref=e2818] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mochila-oreiro#headterms
+              - button "Ver todo" [ref=e2819] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e2820]
+            - generic [ref=e2822]:
+              - heading "Zapatillas" [level=4] [ref=e2823]:
+                - link "Zapatillas" [ref=e2824] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/zapatillas#headterms
+              - list [ref=e2825]:
+                - listitem [ref=e2826]:
+                  - link "Adidas samba" [ref=e2827] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/adidas-samba#headterms
+                - listitem [ref=e2828]:
+                  - link "Adidas superstar" [ref=e2829] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/adidas-superstar#headterms
+                - listitem [ref=e2830]:
+                  - link "Converse all star" [ref=e2831] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/converse-all-star#headterms
+                - listitem [ref=e2832]:
+                  - link "Nike air force" [ref=e2833] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/nike-air-force#headterms
+                - listitem [ref=e2834]:
+                  - link "Vans knu skool" [ref=e2835] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/vans-knu-skool#headterms
+                - listitem [ref=e2836]:
+                  - link "Zapatillas adidas" [ref=e2837] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/zapatillas-adidas#headterms
+                - listitem [ref=e2838]:
+                  - link "Zapatillas adidas hombre" [ref=e2839] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/zapatillas-adidas-hombre#headterms
+              - button "Ver todo" [ref=e2840] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e2841]
+            - generic [ref=e2843]:
+              - heading "Abrigos" [level=4] [ref=e2844]:
+                - link "Abrigos" [ref=e2845] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/abrigos#headterms
+              - list [ref=e2846]:
+                - listitem [ref=e2847]:
+                  - link "Blazer mujer" [ref=e2848] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/blazer-mujer#headterms
+                - listitem [ref=e2849]:
+                  - link "Campera columbia hombre" [ref=e2850] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-columbia-hombre#headterms
+                - listitem [ref=e2851]:
+                  - link "Campera de cuero hombre" [ref=e2852] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-de-cuero-hombre#headterms
+                - listitem [ref=e2853]:
+                  - link "Campera de cuero mujer" [ref=e2854] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-de-cuero-mujer#headterms
+                - listitem [ref=e2855]:
+                  - link "Campera hombre" [ref=e2856] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-hombre#headterms
+                - listitem [ref=e2857]:
+                  - link "Campera montagne mujer" [ref=e2858] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-montagne-mujer#headterms
+                - listitem [ref=e2859]:
+                  - link "Campera mujer" [ref=e2860] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/campera-mujer#headterms
+              - button "Ver todo" [ref=e2861] [cursor=pointer]:
+                - text: Ver todo
+                - img [ref=e2862]
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e2864] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e2865]: 
+  - contentinfo [ref=e2866]:
+    - generic [ref=e2868]:
+      - generic [ref=e2869]:
+        - generic [ref=e2870]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e2871]:
+          - list [ref=e2872]:
+            - listitem [ref=e2873]:
+              - link "Trabajá con nosotros" [ref=e2874] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e2875]:
+              - link "Términos y condiciones" [ref=e2876] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e2877]:
+              - link "Promociones" [ref=e2878] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e2879]:
+              - link "Cómo cuidamos tu privacidad" [ref=e2880] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e2881]:
+              - link "Accesibilidad" [ref=e2882] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e2883]:
+              - link "Información al usuario financiero" [ref=e2884] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e2885]:
+              - link "Ayuda" [ref=e2886] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e2887]:
+              - link "Defensa del Consumidor" [ref=e2888] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e2889]:
+              - link "Información sobre seguros" [ref=e2890] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e2891]:
+              - link "Libro de quejas online" [ref=e2892] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e2893]:
+              - link "Programa de Afiliados" [ref=e2894] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e2895]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e2896] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+```

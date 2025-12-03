@@ -1,0 +1,2074 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region [ref=e2]:
+    - generic [ref=e3]:
+      - paragraph [ref=e5]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e6] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e7]:
+        - button "Aceptar cookies" [ref=e8] [cursor=pointer]
+        - button "Configurar cookies" [ref=e9] [cursor=pointer]
+  - banner [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - navigation "Menú de métodos abreviados" [ref=e13]:
+          - heading "Saltar a" [level=2]
+          - list "Saltar a" [ref=e14]:
+            - listitem:
+              - link "Saltar el contenido" [ref=e15] [cursor=pointer]:
+                - /url: "#root-app"
+            - listitem:
+              - link "Comentar sobre accesibilidad" [ref=e16] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - separator [ref=e17]
+          - heading "Métodos abreviados de teclado" [level=2]
+          - list "Métodos abreviados de teclado" [ref=e18]:
+            - listitem:
+              - link "Buscar /" [ref=e19] [cursor=pointer]:
+                - /url: "#cb1-edit"
+                - generic:
+                  - generic: Buscar
+                  - generic [ref=e21]: /
+            - listitem:
+              - link "Mis compras P" [ref=e22] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list
+                - generic:
+                  - generic: Mis compras
+                  - generic [ref=e24]: P
+            - listitem:
+              - link "Carrito C" [ref=e25] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/gz/cart
+                - generic:
+                  - generic: Carrito
+                  - generic [ref=e27]: C
+            - listitem:
+              - link "Descripción D" [ref=e28] [cursor=pointer]:
+                - /url: "#description"
+                - generic:
+                  - generic: Descripción
+                  - generic [ref=e30]: D
+            - listitem:
+              - link "Preguntas Q" [ref=e31] [cursor=pointer]:
+                - /url: "#questions"
+                - generic:
+                  - generic: Preguntas
+                  - generic [ref=e33]: Q
+            - listitem:
+              - link "Calificaciones R" [ref=e34] [cursor=pointer]:
+                - /url: "#reviews_capability_v3"
+                - generic:
+                  - generic: Calificaciones
+                  - generic [ref=e36]: R
+            - listitem:
+              - link "Abrir/cerrar el menú de métodos abreviados Z" [ref=e37] [cursor=pointer]:
+                - /url: "#"
+                - generic:
+                  - generic: Abrir/cerrar el menú de métodos abreviados
+                  - generic [ref=e39]: Z
+          - generic [ref=e42]: Para moverte entre elementos, usa las flechas arriba o abajo del teclado.
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e43] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e45]:
+        - generic [ref=e46]: Ingresá lo que quieras encontrar
+        - combobox "Ingresá lo que quieras encontrar" [ref=e47]
+        - button "Buscar" [ref=e48] [cursor=pointer]:
+          - img "Buscar" [ref=e49]: 
+        - text: Tiendas oficiales
+      - link "Envío gratis en tu primera compra en Mercado Libre." [ref=e51] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar#me.audience=unknown&me.bu=3&me.bu_line=26&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_FHNB_BNRMENU_UNLOGGED&me.flow=-1&me.logic=campaigns&me.position=0
+        - img "Envío gratis en tu primera compra en Mercado Libre." [ref=e52]
+      - button " Enviar a Capital Federal" [ref=e55] [cursor=pointer]:
+        - text: 
+        - generic [ref=e56]: Enviar a
+        - generic [ref=e57]: Capital Federal
+      - list [ref=e60]:
+        - listitem [ref=e61]:
+          - button "Categorías" [ref=e62] [cursor=pointer]
+        - listitem [ref=e63]:
+          - link "Ofertas" [ref=e64] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e65]:
+          - link "Cupones" [ref=e66] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e67]:
+          - link "Supermercado" [ref=e68] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e69]:
+          - link "Moda" [ref=e70] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e71]:
+          - link "Mercado Play Gratis" [ref=e72] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e73]: Gratis
+        - listitem [ref=e74]:
+          - link "Vender" [ref=e75] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e76]:
+          - link "Ayuda" [ref=e77] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e78]:
+        - navigation "Menú de usuario" [ref=e79]:
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - link "Creá tu cuenta" [ref=e82] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fauriculares-inalambricos-bluetooth-sony-wh-ch520-negro%2Fp%2FMLA23138487#nav-header
+            - listitem [ref=e83]:
+              - link "Ingresá" [ref=e84] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fauriculares-inalambricos-bluetooth-sony-wh-ch520-negro%2Fp%2FMLA23138487&loginType=explicit#nav-header
+            - listitem [ref=e85]:
+              - link "Mis compras" [ref=e86] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+        - link " 0 productos en tu carrito" [ref=e87] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e88]: 
+          - generic [ref=e89]: 0 productos en tu carrito
+  - main [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - list [ref=e96]:
+          - listitem [ref=e97]: "También puede interesarte :"
+          - listitem [ref=e98]:
+            - link "sony wh ch" [ref=e99] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/sony-wh-ch#topkeyword
+          - listitem [ref=e100]:
+            - text: "-"
+            - link "bang olufsen" [ref=e101] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/bang-olufsen#topkeyword
+          - listitem [ref=e102]:
+            - text: "-"
+            - link "auriculares beats" [ref=e103] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/auriculares-beats#topkeyword
+          - listitem [ref=e104]:
+            - text: "-"
+            - link "sony wh 1000xm4" [ref=e105] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/sony-wh-1000xm4#topkeyword
+          - listitem [ref=e106]:
+            - text: "-"
+            - link "sony wh ch510" [ref=e107] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/sony-wh-ch510#topkeyword
+          - listitem [ref=e108]:
+            - text: "-"
+            - link "auriculares marshall" [ref=e109] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/auriculares-marshall#topkeyword
+          - listitem [ref=e110]:
+            - text: "-"
+            - link "redmi buds 3 lite" [ref=e111] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/redmi-buds-3-lite#topkeyword
+        - generic [ref=e112]:
+          - generic [ref=e115]:
+            - link "Volver al listado" [ref=e116] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/auriculares-inal%C3%A1mbricos-bluetooth-sony-wh-ch520-negro
+            - navigation [ref=e117]:
+              - list [ref=e118]:
+                - listitem [ref=e119]:
+                  - link "Electrónica, Audio y Video" [ref=e120] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.ar/c/electronica-audio-y-video
+                  - img [ref=e122]
+                - listitem [ref=e124]:
+                  - link "Audio" [ref=e125] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/electronica-audio-video/audio/
+                  - img [ref=e127]
+                - listitem [ref=e129]:
+                  - link "Auriculares" [ref=e130] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/electronica-audio-video/audio/auriculares/
+          - generic [ref=e131]:
+            - link "Vender uno igual" [ref=e133] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/syi/core/list/equals?itemId=MLA1535410113&productId=MLA23138487
+            - button "Compartir" [ref=e137] [cursor=pointer]:
+              - generic [ref=e138]: Compartir
+      - generic [ref=e139]:
+        - generic [ref=e140]:
+          - generic [ref=e142]:
+            - generic [ref=e143]:
+              - group "Galería de fotos, Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e146]:
+                - generic [ref=e147]:
+                  - generic [ref=e148]:
+                    - button "Imagen 1 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e150] [cursor=pointer]:
+                      - img "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e151]
+                    - figure [ref=e152]:
+                      - img "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e153]
+                  - generic [ref=e155]:
+                    - img "clip-icon" [ref=e157] [cursor=pointer]
+                    - button [ref=e158] [cursor=pointer]:
+                      - img [ref=e159]
+                  - button "Imagen 2 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e162] [cursor=pointer]:
+                    - img "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e163]
+                  - button "Imagen 3 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e166] [cursor=pointer]:
+                    - img "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e167]
+                  - generic [ref=e169]:
+                    - img "clip-icon" [ref=e171] [cursor=pointer]
+                    - button [ref=e172] [cursor=pointer]:
+                      - img [ref=e173]
+                - text:             
+              - generic [ref=e174]:
+                - link "Ver más productos marca Sony" [ref=e175] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/electronica-audio-video/nuevo/_BRAND_995
+                  - paragraph [ref=e177]: Ver más productos marca Sony
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: Nuevo | +10mil vendidos
+                    - generic [ref=e181]:
+                      - heading "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [level=1] [ref=e182]
+                      - generic [ref=e183]:
+                        - link "MÁS VENDIDO" [ref=e186] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mas-vendidos/MLA121963#origin=pdp
+                        - link "5º en Auriculares" [ref=e189] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mas-vendidos/MLA121963#origin=pdp
+                    - link "Calificación 4.8 de 5. 8591 opiniones." [ref=e191] [cursor=pointer]:
+                      - /url: /noindex/catalog/reviews/MLA23138482?noIndex=true&access=view_all&modal=true&controlled=true&show_fae=true&brandId=995&source_platform=/web/desktop&device_id_variant=a0c3780e-4ded-4dc8-b064-92280cde053a
+                      - generic [ref=e192]: "4.8"
+                      - generic [ref=e193]:
+                        - img [ref=e194]
+                        - img [ref=e196]
+                        - img [ref=e198]
+                        - img [ref=e200]
+                        - img [ref=e202]
+                      - generic [ref=e204]: Calificación 4.8 de 5. 8591 opiniones.
+                      - generic [ref=e205]: (8591)
+                  - switch "Agregar a favoritos" [ref=e206] [cursor=pointer]:
+                    - img [ref=e207]
+                    - img
+                    - generic [ref=e210]: Agregar a favoritos
+                - generic [ref=e212]:
+                  - figure [ref=e214]:
+                    - img [ref=e215]
+                  - generic [ref=e217]: OFERTA IMPERDIBLE
+                - generic [ref=e219]:
+                  - generic [ref=e220]:
+                    - 'img "Antes: 103144 pesos con 95 centavos" [ref=e222]':
+                      - generic [ref=e223]: $
+                      - generic [ref=e224]: "103.144"
+                      - generic [ref=e225]: ","
+                      - generic [ref=e226]: "95"
+                    - generic [ref=e227]:
+                      - img "82999 pesos" [ref=e229]:
+                        - generic [ref=e230]: $
+                        - generic [ref=e231]: "82.999"
+                      - generic [ref=e233]: 19% OFF
+                    - group [ref=e234]:
+                      - paragraph [ref=e235]:
+                        - text: Mismo precio en 6 cuotas de
+                        - img "13833 pesos con 17 centavos" [ref=e237]:
+                          - generic [ref=e238]: $
+                          - generic [ref=e239]: "13.833"
+                          - generic [ref=e240]: ","
+                          - generic [ref=e241]: "17"
+                      - paragraph [ref=e242]:
+                        - text: "Precio sin impuestos nacionales:"
+                        - img "68594 pesos" [ref=e244]:
+                          - generic [ref=e245]: $
+                          - generic [ref=e246]: "68.594"
+                  - link "Ver los medios de pago" [ref=e250] [cursor=pointer]:
+                    - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1535410113/payments?new_version=true&modal=false&newIndex=true
+                    - generic [ref=e251]: Ver los medios de pago
+                - generic [ref=e253]:
+                  - paragraph [ref=e255]: Color:Negro
+                  - generic [ref=e256]:
+                    - button "Boton 1 de 6, Amarillo" [ref=e257] [cursor=pointer]:
+                      - img [ref=e259]
+                    - button "Boton 2 de 6, Azul" [ref=e260] [cursor=pointer]:
+                      - img [ref=e262]
+                    - button "Boton 3 de 6, Beige" [ref=e263] [cursor=pointer]:
+                      - img [ref=e265]
+                    - button "Boton 4 de 6, Blanco" [ref=e266] [cursor=pointer]:
+                      - img [ref=e268]
+                    - button "Boton 5 de 6, Seleccionado, Negro" [ref=e269] [cursor=pointer]:
+                      - img [ref=e271]
+                    - button "Boton 6 de 6, Rosa pálido" [ref=e272] [cursor=pointer]:
+                      - img [ref=e274]
+                - generic [ref=e276]:
+                  - heading "Lo que tenés que saber de este producto" [level=2] [ref=e278]
+                  - generic [ref=e280]:
+                    - list [ref=e281]:
+                      - listitem [ref=e282]: "•Cantidad de pares: 1."
+                      - listitem [ref=e283]: •Alcance inalámbrico de 10 m.
+                      - listitem [ref=e284]: •La duración máxima de la batería es 50 h.
+                      - listitem [ref=e285]: •Modo manos libres incluido.
+                      - listitem [ref=e286]: "•Asistente de voz integrado: Google Assistant."
+                      - listitem [ref=e287]: •Con micrófono incorporado.
+                      - listitem [ref=e288]: •El largo del cable es de 20 cm.
+                      - listitem [ref=e289]: •Uso apto para clase online.
+                      - listitem [ref=e290]: "•Tamaño del altavoz: 3cm."
+                    - link "Ver características" [ref=e291] [cursor=pointer]:
+                      - /url: "#highlighted_specs_attrs"
+                      - generic [ref=e292]: Ver características
+                - generic [ref=e293]:
+                  - paragraph [ref=e294]: "Opciones de compra:"
+                  - list [ref=e295]:
+                    - listitem [ref=e296]:
+                      - link "14 productos nuevos desde 79999 pesos" [ref=e298] [cursor=pointer]:
+                        - generic [ref=e299]:
+                          - generic [ref=e300]: 14 productos nuevos desde
+                          - img "79999 pesos" [ref=e302]:
+                            - generic [ref=e303]: $
+                            - generic [ref=e304]: "79.999"
+                - link "Ir a la compra" [ref=e305] [cursor=pointer]:
+                  - /url: "#buybox-form"
+            - generic [ref=e310]:
+              - heading "Características del producto" [level=2] [ref=e312]
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - generic [ref=e317]:
+                    - img [ref=e319]
+                    - paragraph [ref=e321]:
+                      - generic [ref=e322]: "Es inalámbrico:"
+                      - generic [ref=e323]: Sí
+                  - generic [ref=e325]:
+                    - img [ref=e327]
+                    - paragraph [ref=e329]:
+                      - generic [ref=e330]: "Es resistente al agua:"
+                      - generic [ref=e331]: "No"
+                  - generic [ref=e333]:
+                    - img [ref=e335]
+                    - paragraph [ref=e337]:
+                      - generic [ref=e338]: "Con luz LED:"
+                      - generic [ref=e339]: "No"
+                - generic [ref=e340]:
+                  - generic [ref=e342]:
+                    - img [ref=e344]
+                    - paragraph [ref=e346]:
+                      - generic [ref=e347]: "Con cancelación de ruido:"
+                      - generic [ref=e348]: "No"
+                  - generic [ref=e350]:
+                    - img [ref=e352]
+                    - paragraph [ref=e354]:
+                      - generic [ref=e355]: "Con micrófono:"
+                      - generic [ref=e356]: Sí
+                  - generic [ref=e358]:
+                    - img [ref=e360]
+                    - paragraph [ref=e362]:
+                      - generic [ref=e363]: "Duración de la batería:"
+                      - generic [ref=e364]: 50 h
+              - generic [ref=e366]:
+                - generic [ref=e368]:
+                  - generic [ref=e369]:
+                    - generic [ref=e370]:
+                      - heading "Características principales" [level=3] [ref=e371]
+                      - table [ref=e372]:
+                        - rowgroup [ref=e373]:
+                          - row "Marca Sony" [ref=e374]:
+                            - rowheader "Marca" [ref=e375]:
+                              - generic [ref=e376]: Marca
+                            - cell "Sony" [ref=e377]:
+                              - generic [ref=e378]: Sony
+                          - row "Modelo WH-CH520" [ref=e379]:
+                            - rowheader "Modelo" [ref=e380]:
+                              - generic [ref=e381]: Modelo
+                            - cell "WH-CH520" [ref=e382]:
+                              - generic [ref=e383]: WH-CH520
+                          - row "Modelo alfanumérico YY2958" [ref=e384]:
+                            - rowheader "Modelo alfanumérico" [ref=e385]:
+                              - generic [ref=e386]: Modelo alfanumérico
+                            - cell "YY2958" [ref=e387]:
+                              - generic [ref=e388]: YY2958
+                          - row "Color Negro" [ref=e389]:
+                            - rowheader "Color" [ref=e390]:
+                              - generic [ref=e391]: Color
+                            - cell "Negro" [ref=e392]:
+                              - generic [ref=e393]: Negro
+                          - row "Cantidad de pares 1" [ref=e394]:
+                            - rowheader "Cantidad de pares" [ref=e395]:
+                              - generic [ref=e396]: Cantidad de pares
+                            - cell "1" [ref=e397]:
+                              - generic [ref=e398]: "1"
+                          - row "Modelo detallado Bluetooth" [ref=e399]:
+                            - rowheader "Modelo detallado" [ref=e400]:
+                              - generic [ref=e401]: Modelo detallado
+                            - cell "Bluetooth" [ref=e402]:
+                              - generic [ref=e403]: Bluetooth
+                    - generic [ref=e404]:
+                      - heading "Micrófono" [level=3] [ref=e405]
+                      - table [ref=e406]:
+                        - rowgroup [ref=e407]:
+                          - row "Con micrófono Sí" [ref=e408]:
+                            - rowheader "Con micrófono" [ref=e409]:
+                              - generic [ref=e410]: Con micrófono
+                            - cell "Sí" [ref=e411]:
+                              - generic [ref=e412]: Sí
+                          - row "Con modo manos libres Sí" [ref=e413]:
+                            - rowheader "Con modo manos libres" [ref=e414]:
+                              - generic [ref=e415]: Con modo manos libres
+                            - cell "Sí" [ref=e416]:
+                              - generic [ref=e417]: Sí
+                          - row "Con micrófono desmontable No" [ref=e418]:
+                            - rowheader "Con micrófono desmontable" [ref=e419]:
+                              - generic [ref=e420]: Con micrófono desmontable
+                            - cell "No" [ref=e421]:
+                              - generic [ref=e422]: "No"
+                          - row "Con micrófono flexible No" [ref=e423]:
+                            - rowheader "Con micrófono flexible" [ref=e424]:
+                              - generic [ref=e425]: Con micrófono flexible
+                            - cell "No" [ref=e426]:
+                              - generic [ref=e427]: "No"
+                    - generic [ref=e428]:
+                      - heading "Sonido" [level=3] [ref=e429]
+                      - table [ref=e430]:
+                        - rowgroup [ref=e431]:
+                          - row "Unidad de diafragma 3 cm" [ref=e432]:
+                            - rowheader "Unidad de diafragma" [ref=e433]:
+                              - generic [ref=e434]: Unidad de diafragma
+                            - cell "3 cm" [ref=e435]:
+                              - generic [ref=e436]: 3 cm
+                          - row "Respuesta en frecuencia 20 Hz - 20000 Hz" [ref=e437]:
+                            - rowheader "Respuesta en frecuencia" [ref=e438]:
+                              - generic [ref=e439]: Respuesta en frecuencia
+                            - cell "20 Hz - 20000 Hz" [ref=e440]:
+                              - generic [ref=e441]: 20 Hz - 20000 Hz
+                          - row "Con cancelación de ruido No" [ref=e442]:
+                            - rowheader "Con cancelación de ruido" [ref=e443]:
+                              - generic [ref=e444]: Con cancelación de ruido
+                            - cell "No" [ref=e445]:
+                              - generic [ref=e446]: "No"
+                    - generic [ref=e447]:
+                      - heading "Batería" [level=3] [ref=e448]
+                      - table [ref=e449]:
+                        - rowgroup [ref=e450]:
+                          - row "Duración máxima de la batería 50 h" [ref=e451]:
+                            - rowheader "Duración máxima de la batería" [ref=e452]:
+                              - generic [ref=e453]: Duración máxima de la batería
+                            - cell "50 h" [ref=e454]:
+                              - generic [ref=e455]: 50 h
+                          - row "Incluye estuche de carga No" [ref=e456]:
+                            - rowheader "Incluye estuche de carga" [ref=e457]:
+                              - generic [ref=e458]: Incluye estuche de carga
+                            - cell "No" [ref=e459]:
+                              - generic [ref=e460]: "No"
+                          - row "Con carga inalámbrica No" [ref=e461]:
+                            - rowheader "Con carga inalámbrica" [ref=e462]:
+                              - generic [ref=e463]: Con carga inalámbrica
+                            - cell "No" [ref=e464]:
+                              - generic [ref=e465]: "No"
+                    - generic [ref=e466]:
+                      - heading "Resistencia" [level=3] [ref=e467]
+                      - table [ref=e468]:
+                        - rowgroup [ref=e469]:
+                          - row "Es resistente al agua No" [ref=e470]:
+                            - rowheader "Es resistente al agua" [ref=e471]:
+                              - generic [ref=e472]: Es resistente al agua
+                            - cell "No" [ref=e473]:
+                              - generic [ref=e474]: "No"
+                          - row "Es a prueba de agua No" [ref=e475]:
+                            - rowheader "Es a prueba de agua" [ref=e476]:
+                              - generic [ref=e477]: Es a prueba de agua
+                            - cell "No" [ref=e478]:
+                              - generic [ref=e479]: "No"
+                          - row "Es resistente al polvo No" [ref=e480]:
+                            - rowheader "Es resistente al polvo" [ref=e481]:
+                              - generic [ref=e482]: Es resistente al polvo
+                            - cell "No" [ref=e483]:
+                              - generic [ref=e484]: "No"
+                  - generic [ref=e485]:
+                    - generic [ref=e486]:
+                      - heading "Especificaciones" [level=3] [ref=e487]
+                      - table [ref=e488]:
+                        - rowgroup [ref=e489]:
+                          - row "Formato del auricular Headset" [ref=e490]:
+                            - rowheader "Formato del auricular" [ref=e491]:
+                              - generic [ref=e492]: Formato del auricular
+                            - cell "Headset" [ref=e493]:
+                              - generic [ref=e494]: Headset
+                          - row "Es monoaural No" [ref=e495]:
+                            - rowheader "Es monoaural" [ref=e496]:
+                              - generic [ref=e497]: Es monoaural
+                            - cell "No" [ref=e498]:
+                              - generic [ref=e499]: "No"
+                          - row "Con luz LED No" [ref=e500]:
+                            - rowheader "Con luz LED" [ref=e501]:
+                              - generic [ref=e502]: Con luz LED
+                            - cell "No" [ref=e503]:
+                              - generic [ref=e504]: "No"
+                    - generic [ref=e505]:
+                      - heading "Conectividad" [level=3] [ref=e506]
+                      - table [ref=e507]:
+                        - rowgroup [ref=e508]:
+                          - row "Es inalámbrico Sí" [ref=e509]:
+                            - rowheader "Es inalámbrico" [ref=e510]:
+                              - generic [ref=e511]: Es inalámbrico
+                            - cell "Sí" [ref=e512]:
+                              - generic [ref=e513]: Sí
+                          - row "Con Bluetooth Sí" [ref=e514]:
+                            - rowheader "Con Bluetooth" [ref=e515]:
+                              - generic [ref=e516]: Con Bluetooth
+                            - cell "Sí" [ref=e517]:
+                              - generic [ref=e518]: Sí
+                          - row "Alcance inalámbrico 10 m" [ref=e519]:
+                            - rowheader "Alcance inalámbrico" [ref=e520]:
+                              - generic [ref=e521]: Alcance inalámbrico
+                            - cell "10 m" [ref=e522]:
+                              - generic [ref=e523]: 10 m
+                          - row "Con tecnología TWS No" [ref=e524]:
+                            - rowheader "Con tecnología TWS" [ref=e525]:
+                              - generic [ref=e526]: Con tecnología TWS
+                            - cell "No" [ref=e527]:
+                              - generic [ref=e528]: "No"
+                          - row "Versión de Bluetooth 5.2" [ref=e529]:
+                            - rowheader "Versión de Bluetooth" [ref=e530]:
+                              - generic [ref=e531]: Versión de Bluetooth
+                            - cell "5.2" [ref=e532]:
+                              - generic [ref=e533]: "5.2"
+                    - generic [ref=e534]:
+                      - heading "Otros" [level=3] [ref=e535]
+                      - table [ref=e536]:
+                        - rowgroup [ref=e537]:
+                          - row "Largo del cable 20 cm" [ref=e538]:
+                            - rowheader "Largo del cable" [ref=e539]:
+                              - generic [ref=e540]: Largo del cable
+                            - cell "20 cm" [ref=e541]:
+                              - generic [ref=e542]: 20 cm
+                          - row "Con reproductor de MP3 No" [ref=e543]:
+                            - rowheader "Con reproductor de MP3" [ref=e544]:
+                              - generic [ref=e545]: Con reproductor de MP3
+                            - cell "No" [ref=e546]:
+                              - generic [ref=e547]: "No"
+                          - row "Con radio FM No" [ref=e548]:
+                            - rowheader "Con radio FM" [ref=e549]:
+                              - generic [ref=e550]: Con radio FM
+                            - cell "No" [ref=e551]:
+                              - generic [ref=e552]: "No"
+                          - row "Con cable desmontable No" [ref=e553]:
+                            - rowheader "Con cable desmontable" [ref=e554]:
+                              - generic [ref=e555]: Con cable desmontable
+                            - cell "No" [ref=e556]:
+                              - generic [ref=e557]: "No"
+                          - row "Con asistentes de voz integrados Sí" [ref=e558]:
+                            - rowheader "Con asistentes de voz integrados" [ref=e559]:
+                              - generic [ref=e560]: Con asistentes de voz integrados
+                            - cell "Sí" [ref=e561]:
+                              - generic [ref=e562]: Sí
+                          - row "Asistentes de voz integrados Google Assistant, Siri" [ref=e563]:
+                            - rowheader "Asistentes de voz integrados" [ref=e564]:
+                              - generic [ref=e565]: Asistentes de voz integrados
+                            - cell "Google Assistant, Siri" [ref=e566]:
+                              - generic [ref=e567]: Google Assistant, Siri
+                          - row "Usos aptos Clase online, Reunión de trabajo" [ref=e568]:
+                            - rowheader "Usos aptos" [ref=e569]:
+                              - generic [ref=e570]: Usos aptos
+                            - cell "Clase online, Reunión de trabajo" [ref=e571]:
+                              - generic [ref=e572]: Clase online, Reunión de trabajo
+                          - row "Accesorios incluidos Cable de carga USB-C" [ref=e573]:
+                            - rowheader "Accesorios incluidos" [ref=e574]:
+                              - generic [ref=e575]: Accesorios incluidos
+                            - cell "Cable de carga USB-C" [ref=e576]:
+                              - generic [ref=e577]: Cable de carga USB-C
+                    - generic [ref=e578]:
+                      - heading "Otros" [level=3] [ref=e579]
+                      - table [ref=e580]:
+                        - rowgroup [ref=e581]:
+                          - row "Es infantil No" [ref=e582]:
+                            - rowheader "Es infantil" [ref=e583]:
+                              - generic [ref=e584]: Es infantil
+                            - cell "No" [ref=e585]:
+                              - generic [ref=e586]: "No"
+                          - row "Con sensor de proximidad No" [ref=e587]:
+                            - rowheader "Con sensor de proximidad" [ref=e588]:
+                              - generic [ref=e589]: Con sensor de proximidad
+                            - cell "No" [ref=e590]:
+                              - generic [ref=e591]: "No"
+                          - row "Funciones de control Control de volumen, Control de canciones, Control de llamadas" [ref=e592]:
+                            - rowheader "Funciones de control" [ref=e593]:
+                              - generic [ref=e594]: Funciones de control
+                            - cell "Control de volumen, Control de canciones, Control de llamadas" [ref=e595]:
+                              - generic [ref=e596]: Control de volumen, Control de canciones, Control de llamadas
+                - button "Ver todas las características" [ref=e597] [cursor=pointer]:
+                  - text: Ver todas las características
+                  - img [ref=e598]
+            - generic [ref=e604]:
+              - heading "Imágenes del producto" [level=2] [ref=e605]
+              - generic [ref=e606]:
+                - link "Imagen 1 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e608] [cursor=pointer]:
+                  - /url: https://http2.mlstatic.com/D_Q_NP_932176-MLA99502277578_112025-F.webp
+                  - img "Imagen 1 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e609]
+                - link "Imagen 2 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e611] [cursor=pointer]:
+                  - /url: https://http2.mlstatic.com/D_Q_NP_683945-MLU75051141902_032024-F.webp
+                  - img "Imagen 2 de 3 de Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro" [ref=e612]
+              - button "Ver más imágenes" [ref=e613] [cursor=pointer]:
+                - paragraph [ref=e615]: Ver más imágenes
+            - generic [ref=e618]:
+              - generic [ref=e620]:
+                - heading "Descripción" [level=2] [ref=e621]
+                - paragraph [ref=e622]: "Auriculares Sony Bluetooth Inalámbricos WH-CH520 Características principales: ESPECIFICACIONES » Peso: Aprox. 147 g » Tipo de auriculares: Cerrado » Unidad de diafragma: 30 mm » Respuesta en frecuencia (comunicación Bluetooth®): 20 Hz-20.000 Hz (muestreo de 44,1 kHz) » Control de volumen: Sí » Entradas: No » DSEE Extreme: No » DSEE HX: No » DSEE: Sí » S-Master HX: No » Funcionamiento pasivo: No » MODO SONIDO AMBIENTE: No » Tiempo de carga de batería: Aprox. 3 h » Método de carga de batería: USB (Type-C) » Duración de la batería (tiempo de comunicación continua): Máx. 40 h » Duración de la batería (tiempo en espera): Máx. 200 h » Versión de Bluetooth®: Especificación Bluetooth® versión 5.2 » Alcance efectivo: 10 m » Rango de frecuencia: Banda de 2,4 GHz (2,4000 GHz-2,4835 GHz) » Perfil: A2DP, AVRCP, HFP, HSP » Formatos de audio compatibles: SBC, AAC » Protección de contenido compatible: SCMS-T"
+              - link "Ver descripción completa" [ref=e623] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/description
+                - text: Ver descripción completa
+                - img [ref=e624]
+          - generic [ref=e627]:
+            - generic [ref=e629]:
+              - list [ref=e631]:
+                - listitem [ref=e632] [cursor=pointer]:
+                  - generic [ref=e633]:
+                    - radio "Tienda oficial Sony" [ref=e635]
+                    - generic [ref=e637]: Tienda oficial Sony
+                  - generic [ref=e641]:
+                    - 'img "Antes: 109998 pesos con 99 centavos" [ref=e643]':
+                      - generic [ref=e644]: $
+                      - generic [ref=e645]: "109.998"
+                      - generic [ref=e646]: ","
+                      - generic [ref=e647]: "99"
+                    - img "79999 pesos" [ref=e650]:
+                      - generic [ref=e651]: $
+                      - generic [ref=e652]: "79.999"
+                    - group [ref=e653]:
+                      - paragraph [ref=e654]:
+                        - text: 6 cuotas de
+                        - img "18467 pesos con 77 centavos" [ref=e656]:
+                          - generic [ref=e657]: $
+                          - generic [ref=e658]: "18.467"
+                          - generic [ref=e659]: ","
+                          - generic [ref=e660]: "77"
+                - listitem [ref=e661]:
+                  - generic [ref=e662]:
+                    - radio "En cuotas" [checked] [ref=e664]
+                    - generic [ref=e665]: En cuotas
+                  - generic [ref=e669]:
+                    - 'img "Antes: 103144 pesos con 95 centavos" [ref=e671]':
+                      - generic [ref=e672]: $
+                      - generic [ref=e673]: "103.144"
+                      - generic [ref=e674]: ","
+                      - generic [ref=e675]: "95"
+                    - img "82999 pesos" [ref=e678]:
+                      - generic [ref=e679]: $
+                      - generic [ref=e680]: "82.999"
+                    - group [ref=e681]:
+                      - paragraph [ref=e682]:
+                        - text: Mismo precio en 6 cuotas de
+                        - img "13833 pesos con 17 centavos" [ref=e684]:
+                          - generic [ref=e685]: $
+                          - generic [ref=e686]: "13.833"
+                          - generic [ref=e687]: ","
+                          - generic [ref=e688]: "17"
+                      - paragraph [ref=e689]:
+                        - text: "Precio sin impuestos nacionales:"
+                        - img "68594 pesos" [ref=e691]:
+                          - generic [ref=e692]: $
+                          - generic [ref=e693]: "68.594"
+                  - generic [ref=e694]:
+                    - generic [ref=e698]:
+                      - paragraph [ref=e699]:
+                        - generic [ref=e700]: Recibilo gratis mañana
+                      - link "Más detalles y formas de entrega" [ref=e704] [cursor=pointer]:
+                        - generic [ref=e705]: Más detalles y formas de entrega
+                    - generic [ref=e707]:
+                      - paragraph [ref=e708]:
+                        - generic [ref=e709]: Retirá gratis
+                        - text: a partir de mañana en correos y otros puntos
+                      - paragraph [ref=e710]:
+                        - generic [ref=e711]: Comprando dentro de las próximas
+                        - generic [ref=e713]: 11 h
+                        - generic [ref=e715]: 49 min
+                      - link "Ver en el mapa" [ref=e717] [cursor=pointer]:
+                        - /url: https://envios.mercadolibre.com.ar/shipping/agencies-map/pick-up?zip_code=1430&item_id=MLA1535410113&quantity=1&controlled=true
+                    - generic [ref=e718]:
+                      - paragraph [ref=e720]: Stock disponible
+                      - generic [ref=e723]:
+                        - generic [ref=e724]: Almacenado y enviado por
+                        - generic [ref=e725]:
+                          - figure [ref=e726]:
+                            - img [ref=e727]
+                          - generic [ref=e729]: Full
+                    - combobox [ref=e734] [cursor=pointer]:
+                      - generic [ref=e735]:
+                        - generic [ref=e736]: "Cantidad:"
+                        - generic [ref=e737]: 1 unidad
+                        - img [ref=e739]
+                        - generic [ref=e741]: (+50 disponibles)
+                    - generic [ref=e743]:
+                      - button "Comprar ahora" [ref=e744] [cursor=pointer]:
+                        - generic [ref=e745]: Comprar ahora
+                      - button "Cart A2C Agregar al carrito" [ref=e746] [cursor=pointer]:
+                        - generic [ref=e747]:
+                          - img "Cart A2C" [ref=e749]
+                          - text: Agregar al carrito
+                    - generic [ref=e752]:
+                      - img "Mercado Libre" [ref=e754]
+                      - generic [ref=e755]:
+                        - button "Tienda oficial Mercado Libre" [ref=e758] [cursor=pointer]:
+                          - text: Tienda oficial
+                          - generic [ref=e759]: Mercado Libre
+                        - paragraph [ref=e761]: +10mil ventas
+              - list [ref=e762]:
+                - listitem [ref=e763]:
+                  - generic [ref=e764]:
+                    - figure [ref=e765]:
+                      - img [ref=e766]
+                    - generic [ref=e769]:
+                      - link "Devolución gratis." [ref=e773] [cursor=pointer]:
+                        - /url: https://articulo.mercadolibre.com.ar/noindex/freeReturn/fashion?itemId=MLA1535410113&quantity=1&new_version=true&modal=false&controlled=true
+                      - text: Tenés 30 días desde que lo recibís.
+                - listitem [ref=e774]:
+                  - generic [ref=e775]:
+                    - figure [ref=e776]:
+                      - img [ref=e777]
+                    - generic [ref=e780]:
+                      - link "Compra Protegida Se abrirá en una nueva ventana" [ref=e781] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/compra-protegida
+                        - text: Compra Protegida
+                        - generic [ref=e782]: Se abrirá en una nueva ventana
+                      - text: . Recibí el producto que esperabas o te devolvemos tu dinero.
+                - listitem [ref=e783]:
+                  - generic [ref=e784]:
+                    - figure [ref=e785]:
+                      - img [ref=e786]
+                    - generic [ref=e789]: 12 meses de garantía de fábrica.
+              - generic "Incluir ticket de cambio para regalo." [ref=e790]:
+                - checkbox [ref=e793] [cursor=pointer]
+                - generic [ref=e797]:
+                  - generic [ref=e799]: Incluir ticket de cambio para regalo.
+                  - button "Ver más" [ref=e801] [cursor=pointer]:
+                    - generic [ref=e802]: Ver más
+                - img [ref=e804]
+            - generic [ref=e815]:
+              - generic [ref=e816]:
+                - link "Ir a la tienda oficial" [ref=e821] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/mercado-libre?item_id=MLA1535410113&category_id=MLA3697&official_store_id=1938&client=recoview-selleritems&recos_listing=true#origin=pdp&component=sellerData&typeSeller=official_store
+                  - generic [ref=e823]:
+                    - img [ref=e824]
+                    - generic [ref=e825]: Ir a la tienda oficial
+                - generic [ref=e828]:
+                  - generic [ref=e829]:
+                    - generic [ref=e830]:
+                      - heading "Mercado Libre" [level=2] [ref=e832]
+                      - button "Seguir tienda oficial" [ref=e834] [cursor=pointer]:
+                        - generic [ref=e835]: Seguir
+                    - generic [ref=e836]:
+                      - heading "Tienda oficial de Mercado Libre" [level=3] [ref=e837]
+                      - img [ref=e838]
+                  - generic [ref=e842]:
+                    - paragraph [ref=e843]:
+                      - generic [ref=e844]: +10mil
+                      - text: Seguidores
+                    - paragraph [ref=e845]:
+                      - generic [ref=e846]: "+50"
+                      - text: Productos
+                - generic [ref=e848]:
+                  - generic [ref=e851]:
+                    - paragraph [ref=e852]: MercadoLíder Platinum
+                    - paragraph [ref=e853]: ¡Uno de los mejores del sitio!
+                  - list [ref=e854]:
+                    - listitem [ref=e855]
+                    - listitem [ref=e856]
+                    - listitem [ref=e857]
+                    - listitem [ref=e858]
+                    - listitem [ref=e859]
+                  - generic [ref=e860]:
+                    - generic [ref=e861]:
+                      - paragraph [ref=e862]: +10mil
+                      - paragraph [ref=e863]: Ventas
+                    - paragraph [ref=e866]: Buena atención
+                    - paragraph [ref=e869]: Entrega a tiempo
+                - link "Ir a la tienda oficial" [ref=e872] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/mercado-libre?item_id=MLA1535410113&category_id=MLA3697&official_store_id=1938&client=recoview-selleritems&recos_listing=true#origin=pdp&component=sellerData&typeSeller=official_store
+                  - generic [ref=e873]: Ir a la tienda oficial
+              - generic [ref=e874]:
+                - heading "Otras opciones de compra" [level=2] [ref=e875]
+                - list [ref=e876]:
+                  - listitem [ref=e877]:
+                    - generic [ref=e878]:
+                      - generic [ref=e881]:
+                        - 'img "Antes: 123198 pesos con 88 centavos" [ref=e883]':
+                          - generic [ref=e884]: $
+                          - generic [ref=e885]: "123.198"
+                          - generic [ref=e886]: ","
+                          - generic [ref=e887]: "88"
+                        - generic [ref=e888]:
+                          - img "111998 pesos con 80 centavos" [ref=e890]:
+                            - generic [ref=e891]: $
+                            - generic [ref=e892]: "111.998"
+                            - generic [ref=e893]: ","
+                            - generic [ref=e894]: "80"
+                          - generic [ref=e896]: 9% OFF
+                      - generic [ref=e897]: Llega hoy
+                    - list [ref=e898]:
+                      - listitem [ref=e899]:
+                        - list [ref=e900]:
+                          - listitem [ref=e901]:
+                            - paragraph [ref=e902]: Mismo precio en 6 cuotas
+                          - listitem [ref=e903]:
+                            - paragraph [ref=e904]:
+                              - generic [ref=e905]: Recibilo gratis hoy
+                      - listitem
+                      - listitem [ref=e906]:
+                        - generic [ref=e908]:
+                          - img "LEF Casa de Música" [ref=e910]
+                          - generic [ref=e911]:
+                            - button "Tienda oficial LEF Casa de Música" [ref=e914] [cursor=pointer]:
+                              - text: Tienda oficial
+                              - generic [ref=e915]: LEF Casa de Música
+                            - generic [ref=e916]:
+                              - paragraph [ref=e917]: +50mil ventas
+                              - paragraph [ref=e918]: Hace Factura A
+                      - listitem [ref=e919]:
+                        - generic [ref=e922]:
+                          - button "Comprar ahora" [ref=e923] [cursor=pointer]:
+                            - generic [ref=e924]: Comprar ahora
+                          - button "Cart A2C Agregar al carrito" [ref=e925] [cursor=pointer]:
+                            - generic [ref=e926]:
+                              - img "Cart A2C" [ref=e928]
+                              - text: Agregar al carrito
+                - link "Ver más opciones desde 79999 pesos" [ref=e931] [cursor=pointer]:
+                  - generic [ref=e932]:
+                    - generic [ref=e933]: Ver más opciones desde
+                    - img "79999 pesos" [ref=e935]:
+                      - generic [ref=e936]: $
+                      - generic [ref=e937]: "79.999"
+              - generic [ref=e948]:
+                - heading "Medios de pago" [level=2] [ref=e949]
+                - generic [ref=e950]:
+                  - link "¡Pagá el mismo precio en hasta 6 cuotas!" [ref=e954] [cursor=pointer]:
+                    - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1535410113/payments?new_version=true&modal=false&newIndex=true
+                    - generic [ref=e955]:
+                      - figure [ref=e956]:
+                        - img [ref=e957]
+                      - paragraph [ref=e960]:
+                        - text: ¡Pagá el mismo precio en
+                        - generic [ref=e961]: hasta 6 cuotas
+                        - text: "!"
+                  - paragraph [ref=e962]: Cuotas sin Tarjeta
+                  - img "Mercado Crédito" [ref=e966]
+                  - paragraph [ref=e967]: Tarjetas de crédito
+                  - generic [ref=e968]:
+                    - img "Visa" [ref=e971]
+                    - img "American Express" [ref=e974]
+                    - img "Mastercard" [ref=e977]
+                    - img "Naranja" [ref=e980]
+                  - paragraph [ref=e981]: Tarjetas de débito
+                  - generic [ref=e982]:
+                    - img "Visa Débito" [ref=e985]
+                    - img "Maestro" [ref=e988]
+                    - img "Cabal Débito" [ref=e991]
+                    - img "Mastercard Débito" [ref=e994]
+                  - paragraph [ref=e995]: Efectivo
+                  - generic [ref=e996]:
+                    - img "PagoFacil" [ref=e999]
+                    - img "Rapipago" [ref=e1002]
+                - link "Conocé otros medios de pago" [ref=e1006] [cursor=pointer]:
+                  - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1535410113/payments?new_version=true&modal=false&newIndex=true
+        - generic [ref=e1008]:
+          - generic [ref=e1011]:
+            - heading "Preguntas y respuestas" [level=2] [ref=e1012]
+            - generic [ref=e1013]:
+              - heading [level=3]
+              - generic [ref=e1015]:
+                - textbox "Escribí una pregunta o palabra clave..." [ref=e1018]
+                - button "Buscar por pregunta" [ref=e1019]:
+                  - img [ref=e1020]
+            - generic [ref=e1022]:
+              - heading [level=3]
+              - generic [ref=e1023]:
+                - generic [ref=e1024]:
+                  - generic [ref=e1025]:
+                    - generic [ref=e1026]: Tiene botón para cambiar de tema
+                    - link "Denunciar" [ref=e1027] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/noindex/denounce/?item_id=MLA1439912092&element_id=13477797308&element_type=QUES
+                  - generic [ref=e1028]:
+                    - img [ref=e1029]
+                    - generic [ref=e1031]:
+                      - generic [ref=e1033]: ¡Hola! Muchas gracias por tu consulta. Así es, este modelo cuenta con botón para cambiar de pista. ¿Te podemos ayudar en algo más? Ante cualquier duda adicional, estamos para atenderte. Saludos, Tienda Oficial Sony.
+                      - link "Denunciar" [ref=e1034] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/noindex/denounce/?item_id=MLA1439912092&element_id=13477797308&element_type=ANSW
+                - button "Buscar entre 393 preguntas de esta publicación" [ref=e1035] [cursor=pointer]:
+                  - paragraph [ref=e1037]:
+                    - generic [ref=e1038]: Buscar entre 393 preguntas de esta publicación
+            - button "¿Cómo le pregunto al vendedor?" [ref=e1039] [cursor=pointer]:
+              - generic [ref=e1040]:
+                - img [ref=e1041]
+                - generic [ref=e1043]: ¿Cómo le pregunto al vendedor?
+          - generic [ref=e1048]:
+            - heading "Opiniones del producto" [level=2] [ref=e1051]
+            - generic [ref=e1052]:
+              - generic [ref=e1053]:
+                - generic [ref=e1054]:
+                  - generic [ref=e1055]:
+                    - paragraph [ref=e1057]: "4.8"
+                    - generic [ref=e1058]:
+                      - generic [ref=e1060]:
+                        - img [ref=e1061]
+                        - img [ref=e1063]
+                        - img [ref=e1065]
+                        - img [ref=e1067]
+                        - img [ref=e1069]
+                        - paragraph [ref=e1071]: Calificación 4.8 de 5. 8591 opiniones.
+                      - paragraph [ref=e1073]: 8.591 calificaciones
+                  - list [ref=e1075]:
+                    - listitem [ref=e1076]:
+                      - generic [ref=e1081]:
+                        - generic [ref=e1082]: "5"
+                        - img [ref=e1084]
+                    - listitem [ref=e1086]:
+                      - generic [ref=e1091]:
+                        - generic [ref=e1092]: "4"
+                        - img [ref=e1094]
+                    - listitem [ref=e1096]:
+                      - generic [ref=e1101]:
+                        - generic [ref=e1102]: "3"
+                        - img [ref=e1104]
+                    - listitem [ref=e1106]:
+                      - generic [ref=e1111]:
+                        - generic [ref=e1112]: "2"
+                        - img [ref=e1114]
+                    - listitem [ref=e1116]:
+                      - generic [ref=e1121]:
+                        - generic [ref=e1122]: "1"
+                        - img [ref=e1124]
+                - generic [ref=e1126]:
+                  - paragraph [ref=e1127]: Calificación de características
+                  - table [ref=e1128]:
+                    - rowgroup [ref=e1129]:
+                      - row "Relación precio-calidad Calificación 4.7 de 5" [ref=e1130]:
+                        - cell "Relación precio-calidad" [ref=e1131]
+                        - cell "Calificación 4.7 de 5" [ref=e1132]:
+                          - generic [ref=e1133]:
+                            - img [ref=e1134]
+                            - img [ref=e1136]
+                            - img [ref=e1138]
+                            - img [ref=e1140]
+                            - img [ref=e1142]
+                            - paragraph [ref=e1144]: Calificación 4.7 de 5
+                      - row "Comodidad Calificación 4.6 de 5" [ref=e1145]:
+                        - cell "Comodidad" [ref=e1146]
+                        - cell "Calificación 4.6 de 5" [ref=e1147]:
+                          - generic [ref=e1148]:
+                            - img [ref=e1149]
+                            - img [ref=e1151]
+                            - img [ref=e1153]
+                            - img [ref=e1155]
+                            - img [ref=e1157]
+                            - paragraph [ref=e1159]: Calificación 4.6 de 5
+                      - row "Calidad del sonido Calificación 4.7 de 5" [ref=e1160]:
+                        - cell "Calidad del sonido" [ref=e1161]
+                        - cell "Calificación 4.7 de 5" [ref=e1162]:
+                          - generic [ref=e1163]:
+                            - img [ref=e1164]
+                            - img [ref=e1166]
+                            - img [ref=e1168]
+                            - img [ref=e1170]
+                            - img [ref=e1172]
+                            - paragraph [ref=e1174]: Calificación 4.7 de 5
+                      - row "Calidad de los materiales Calificación 4.6 de 5" [ref=e1175]:
+                        - cell "Calidad de los materiales" [ref=e1176]
+                        - cell "Calificación 4.6 de 5" [ref=e1177]:
+                          - generic [ref=e1178]:
+                            - img [ref=e1179]
+                            - img [ref=e1181]
+                            - img [ref=e1183]
+                            - img [ref=e1185]
+                            - img [ref=e1187]
+                            - paragraph [ref=e1189]: Calificación 4.6 de 5
+                      - row "Duración de la batería Calificación 4.8 de 5" [ref=e1190]:
+                        - cell "Duración de la batería" [ref=e1191]
+                        - cell "Calificación 4.8 de 5" [ref=e1192]:
+                          - generic [ref=e1193]:
+                            - img [ref=e1194]
+                            - img [ref=e1196]
+                            - img [ref=e1198]
+                            - img [ref=e1200]
+                            - img [ref=e1202]
+                            - paragraph [ref=e1204]: Calificación 4.8 de 5
+              - generic [ref=e1205]:
+                - generic [ref=e1206]:
+                  - heading "Opiniones con fotos" [level=3] [ref=e1207]
+                  - region "Fotos del producto compartidas por los compradores" [ref=e1208]:
+                    - generic [ref=e1209]:
+                      - generic [ref=e1211]:
+                        - group "1 de 8" [ref=e1212] [cursor=pointer]:
+                          - generic [ref=e1213]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 1 de 8" [ref=e1214]
+                        - group "2 de 8" [ref=e1215] [cursor=pointer]:
+                          - generic [ref=e1216]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 2 de 8" [ref=e1217]
+                        - group "3 de 8" [ref=e1218] [cursor=pointer]:
+                          - generic [ref=e1219]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 3 de 8" [ref=e1220]
+                        - group "4 de 8" [ref=e1221] [cursor=pointer]:
+                          - generic [ref=e1222]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 4 de 8" [ref=e1223]
+                        - group [ref=e1224] [cursor=pointer]:
+                          - generic [ref=e1225]:
+                            - generic:
+                              - generic:
+                                - generic: "5"
+                                - img
+                            - img [ref=e1226]
+                        - group [ref=e1227] [cursor=pointer]:
+                          - generic [ref=e1228]:
+                            - generic:
+                              - generic:
+                                - generic: "5"
+                                - img
+                            - img [ref=e1229]
+                        - group [ref=e1230] [cursor=pointer]:
+                          - generic [ref=e1231]:
+                            - generic:
+                              - generic:
+                                - generic: "4"
+                                - img
+                            - img [ref=e1232]
+                        - group [ref=e1233] [cursor=pointer]:
+                          - generic [ref=e1234]:
+                            - img [ref=e1235]
+                            - generic:
+                              - generic: "+7"
+                      - button "Siguiente" [ref=e1236] [cursor=pointer]:
+                        - img [ref=e1237]
+                - generic [ref=e1239]:
+                  - generic [ref=e1240]:
+                    - button "Ordenar" [ref=e1243] [cursor=pointer]:
+                      - generic [ref=e1244]:
+                        - text: Ordenar
+                        - img [ref=e1245]
+                    - button "Calificación" [ref=e1249] [cursor=pointer]:
+                      - generic [ref=e1250]:
+                        - text: Calificación
+                        - img [ref=e1251]
+                  - generic [ref=e1253]:
+                    - heading "Opiniones destacadas" [level=3] [ref=e1254]
+                    - generic [ref=e1255]: 3.053 comentarios
+                    - generic [ref=e1256]:
+                      - paragraph [ref=e1258]: Los auriculares ofrecen un sonido impecable y una batería de larga duración, lo que los hace ideales para uso prolongado. Son cómodos y ligeros, con un diseño atractivo y la capacidad de conectarse a dos dispositivos simultáneamente. Además, su buena relación calidadprecio y la posibilidad de ajustar el sonido a través de una aplicación los convierten en una opción destacada.
+                      - generic [ref=e1259]:
+                        - img [ref=e1260]
+                        - generic [ref=e1263]: Resumen de opiniones generado por IA
+                    - generic [ref=e1264]:
+                      - article [ref=e1266]:
+                        - generic [ref=e1268]:
+                          - generic [ref=e1269]:
+                            - img [ref=e1270]
+                            - img [ref=e1272]
+                            - img [ref=e1274]
+                            - img [ref=e1276]
+                            - img [ref=e1278]
+                            - paragraph [ref=e1280]: Calificación 5 de 5
+                          - generic [ref=e1281]: 14 jul. 2023
+                        - text: La calidad de sonido en espectacular para el tamaño de los auriculares. Tienen app por lo cual se pueden ecualizar a gusto. Muy buenos bajos! respecto al volumen, conectados a iphone el vol max no es muy alto, pero en pc windows se puede subir mucho más. En cuanto a la comodidad, son on-ear, es decir, apoyan sobre la oreja, si bien las almohadillas son muy suaves, pueden llegar a molestar un poco por la presión que ejercen sobre las mismas, aunque sea mínima, de todas maneras, calculo que con el uso prolongado uno se acostumbra. El emparejamiento bluetooth con cel y pc es muy sencillo y tienen un buen alcance incluso a través de las paredes de una casa. Respecto a la batería, vienen cargados al 70%, no puedo especificar sobre la duración ya que los utilicé durante una hora porque los compré ayer. Excelentes materiales de construcción, son chicos, se sienten robustos y se giran 90 grados las copas para guardarlos. Como opinión personal, no soy profesional en audio, simplemente me gusta escuchar música en excelente calidad, disfrutar de la comodidad de no tener cables y minimizar el sonido ambiental, para lo cual estos auriculares cumplen perfectamente. Espero que esto ayude a quien como yo antes de comprarlos, está buscando una opinión objetiva de un usuario que los ha probado. A mi me encantaron, personalmente, los recomiendo.
+                        - button
+                        - generic [ref=e1282]:
+                          - switch "Marcar como útil, 537 personas marcaron esta opinión como útil." [ref=e1284] [cursor=pointer]:
+                            - generic [ref=e1285]:
+                              - generic [ref=e1286]: Es útil
+                              - img [ref=e1287]
+                              - paragraph [ref=e1289]: "537"
+                          - button "Más opciones" [ref=e1292] [cursor=pointer]:
+                            - button "Más opciones" [ref=e1294]
+                      - article [ref=e1299]:
+                        - generic [ref=e1301]:
+                          - generic [ref=e1302]:
+                            - img [ref=e1303]
+                            - img [ref=e1305]
+                            - img [ref=e1307]
+                            - img [ref=e1309]
+                            - img [ref=e1311]
+                            - paragraph [ref=e1313]: Calificación 5 de 5
+                          - generic [ref=e1314]: 26 jun. 2024
+                        - group "1 de 1" [ref=e1320] [cursor=pointer]:
+                          - img "Foto del producto compartida por el comprador 1 de 1" [ref=e1322]
+                        - text: La app para ecualizarlos está bastante bien, me sirvió un montón para escuchar los graves y casi lloro cuando descubrí que había más instrumentos en las canciones que escucho(?. El color es hermoso y son super cómodos (no aprietan ustedes son cabezones) son incluso mas chicos de lo que pensaba lo que me parece perfecto. No se que tantas palabras tengo que escribir asi que ahi va una canción para que disfruten la prueba y de paso lloren un poco. Where our blue is - tatsuya kitani. Gojo te extraño (vas a caer gege).
+                        - button
+                        - generic [ref=e1323]:
+                          - switch "Marcar como útil, 439 personas marcaron esta opinión como útil." [ref=e1325] [cursor=pointer]:
+                            - generic [ref=e1326]:
+                              - generic [ref=e1327]: Es útil
+                              - img [ref=e1328]
+                              - paragraph [ref=e1330]: "439"
+                          - button "Más opciones" [ref=e1333] [cursor=pointer]:
+                            - button "Más opciones" [ref=e1335]
+                      - article [ref=e1340]:
+                        - generic [ref=e1342]:
+                          - generic [ref=e1343]:
+                            - img [ref=e1344]
+                            - img [ref=e1346]
+                            - img [ref=e1348]
+                            - img [ref=e1350]
+                            - img [ref=e1352]
+                            - paragraph [ref=e1354]: Calificación 5 de 5
+                          - generic [ref=e1355]: 28 feb. 2025
+                        - group "1 de 1" [ref=e1361] [cursor=pointer]:
+                          - img "Foto del producto compartida por el comprador 1 de 1" [ref=e1363]
+                        - text: Excelente calidad y sonido.
+                        - generic [ref=e1364]:
+                          - switch "Marcar como útil, 187 personas marcaron esta opinión como útil." [ref=e1366] [cursor=pointer]:
+                            - generic [ref=e1367]:
+                              - generic [ref=e1368]: Es útil
+                              - img [ref=e1369]
+                              - paragraph [ref=e1371]: "187"
+                          - button "Más opciones" [ref=e1374] [cursor=pointer]:
+                            - button "Más opciones" [ref=e1376]
+                      - article [ref=e1381]:
+                        - generic [ref=e1383]:
+                          - generic [ref=e1384]:
+                            - img [ref=e1385]
+                            - img [ref=e1387]
+                            - img [ref=e1389]
+                            - img [ref=e1391]
+                            - img [ref=e1393]
+                            - paragraph [ref=e1395]: Calificación 5 de 5
+                          - generic [ref=e1396]: 05 jul. 2023
+                        - text: Si los wh-ch510 ya eran tremendo producto, estos wh-ch520 mejoraron todo, duración de batería, construcción, aislamiento pasivo, confort, funciones, conexión y por supuesto el audio! es impresionante lo bien que suenan para el precio y siendo bluetooth!! son buenísimos!! le sacan el jugo al codec aac, y por suerte no son súper coloreados. Me encantaron, recomendadisimos!.
+                        - button
+                        - generic [ref=e1397]:
+                          - switch "Marcar como útil, 185 personas marcaron esta opinión como útil." [ref=e1399] [cursor=pointer]:
+                            - generic [ref=e1400]:
+                              - generic [ref=e1401]: Es útil
+                              - img [ref=e1402]
+                              - paragraph [ref=e1404]: "185"
+                          - button "Más opciones" [ref=e1407] [cursor=pointer]:
+                            - button "Más opciones" [ref=e1409]
+                      - article [ref=e1414]:
+                        - generic [ref=e1416]:
+                          - generic [ref=e1417]:
+                            - img [ref=e1418]
+                            - img [ref=e1420]
+                            - img [ref=e1422]
+                            - img [ref=e1424]
+                            - img [ref=e1426]
+                            - paragraph [ref=e1428]: Calificación 5 de 5
+                          - generic [ref=e1429]: 08 may. 2024
+                        - text: Para los amantes de la música esto es una joya. Bajos, agudos, graves, todo se escucha hermoso, podes apreciar todos los detalles. La suspensión de ruido externo es un lujo (igual esto depende de la persona, hay gente que no le gusta). Pueden detonar una bomba que no te vas a dar ni cuenta. Un sonido hermoso (la música, no la bomba). 11/10.
+                        - button
+                        - generic [ref=e1430]:
+                          - switch "Marcar como útil, 114 personas marcaron esta opinión como útil." [ref=e1432] [cursor=pointer]:
+                            - generic [ref=e1433]:
+                              - generic [ref=e1434]: Es útil
+                              - img [ref=e1435]
+                              - paragraph [ref=e1437]: "114"
+                          - button "Más opciones" [ref=e1440] [cursor=pointer]:
+                            - button "Más opciones" [ref=e1442]
+                - button "Mostrar todas las opiniones" [ref=e1447] [cursor=pointer]
+      - generic [ref=e1449]:
+        - generic [ref=e1451]:
+          - paragraph [ref=e1452]:
+            - text: Publicación
+            - generic [ref=e1453]: "#1535410113"
+          - link "Denunciar Se abrirá en una nueva ventana" [ref=e1454] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/noindex/denounce?item_id=MLA1535410113&element_type=ITM
+            - generic [ref=e1455]: Denunciar
+            - generic [ref=e1456]: Se abrirá en una nueva ventana
+        - generic [ref=e1459]:
+          - heading "Quienes vieron este producto también compraron" [level=2] [ref=e1463]
+          - region "Quienes vieron este producto también compraron" [ref=e1464]:
+            - generic [ref=e1465]:
+              - generic [ref=e1467]:
+                - group "1 de 20" [ref=e1468]:
+                  - generic [ref=e1469]:
+                    - img [ref=e1471]
+                    - generic [ref=e1472]:
+                      - link "Auriculares Bluetooth Xiaomi Redmi Buds 6 Play Color Blanco" [ref=e1473] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-bluetooth-xiaomi-redmi-buds-6-play-color-blanco/p/MLA41149389#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=0&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1452402755&sid=recos
+                      - generic [ref=e1474]:
+                        - 'img "Antes: 24099 pesos argentinos" [ref=e1475]':
+                          - generic [ref=e1476]: $
+                          - generic [ref=e1477]: "24.099"
+                        - generic [ref=e1478]:
+                          - 'img "Ahora: 20799 pesos argentinos" [ref=e1479]':
+                            - generic [ref=e1480]: $
+                            - generic [ref=e1481]: "20.799"
+                          - generic [ref=e1482]: 13% OFF
+                        - generic [ref=e1483]:
+                          - text: 6 cuotas de
+                          - img "4801 pesos argentinos" [ref=e1484]:
+                            - generic [ref=e1485]: $
+                            - generic [ref=e1486]: "4.801"
+                - group "2 de 20" [ref=e1487]:
+                  - generic [ref=e1488]:
+                    - img [ref=e1490]
+                    - generic [ref=e1491]:
+                      - link "Auriculares Aiwa Bt601 Crema" [ref=e1492] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-aiwa-bt601-crema/p/MLA42642945#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=1&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1985460822&sid=recos
+                      - generic [ref=e1493]:
+                        - 'img "Antes: 126999 pesos argentinos" [ref=e1494]':
+                          - generic [ref=e1495]: $
+                          - generic [ref=e1496]: "126.999"
+                        - generic [ref=e1497]:
+                          - 'img "Ahora: 52524 pesos argentinos" [ref=e1498]':
+                            - generic [ref=e1499]: $
+                            - generic [ref=e1500]: "52.524"
+                          - generic [ref=e1501]: 58% OFF
+                        - generic [ref=e1502]:
+                          - text: 6 cuotas de
+                          - img "12125 pesos argentinos" [ref=e1503]:
+                            - generic [ref=e1504]: $
+                            - generic [ref=e1505]: "12.125"
+                      - generic [ref=e1506]:
+                        - text: Envío gratis
+                        - img "Enviado por FULL" [ref=e1507]
+                - group "3 de 20" [ref=e1509]:
+                  - generic [ref=e1510]:
+                    - img [ref=e1512]
+                    - generic [ref=e1513]:
+                      - link "Auriculares Inalámbricos Catear D47 Rosa Con Luz Led" [ref=e1514] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/-auriculares-inalambricos-catear-d47-rosa-con-luz-led/p/MLA2048245235#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=2&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA2591077410&sid=recos
+                      - img "15791 pesos argentinos" [ref=e1517]:
+                        - generic [ref=e1518]: $
+                        - generic [ref=e1519]: "15.791"
+                      - generic [ref=e1520]: COMPRA INTERNACIONAL
+                - group "4 de 20" [ref=e1521]:
+                  - generic [ref=e1522]:
+                    - img [ref=e1524]
+                    - generic [ref=e1525]:
+                      - link "Auriculares Vincha Inalámbricos Bluetooth Jbl Tune 520bt Negro" [ref=e1526] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-vincha-inalambricos-bluetooth-jbl-tune-520bt-negro/p/MLA40871018#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=3&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1476553017&sid=recos
+                      - generic [ref=e1527]:
+                        - img "67220 pesos argentinos" [ref=e1529]:
+                          - generic [ref=e1530]: $
+                          - generic [ref=e1531]: "67.220"
+                        - generic [ref=e1532]:
+                          - text: 6 cuotas de
+                          - img "15517 pesos argentinos" [ref=e1533]:
+                            - generic [ref=e1534]: $
+                            - generic [ref=e1535]: "15.517"
+                      - generic [ref=e1536]: Envío gratis
+                - group "5 de 20" [ref=e1537]:
+                  - generic [ref=e1538]:
+                    - img [ref=e1540]
+                    - generic [ref=e1541]:
+                      - link "Auriculares Inalambricos Bluetooth Para Colocar Sobre La ..." [ref=e1542] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/1-auriculares-inalambricos-bluetooth-for-colocar-sobre-la/p/MLA2049486001#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=4&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA2582422666&sid=recos
+                      - img "67171 pesos argentinos" [ref=e1545]:
+                        - generic [ref=e1546]: $
+                        - generic [ref=e1547]: "67.171"
+                      - generic [ref=e1548]: Envío gratis
+                      - generic [ref=e1549]: COMPRA INTERNACIONAL
+                - group [ref=e1550]:
+                  - generic [ref=e1551]:
+                    - img [ref=e1553]
+                    - generic [ref=e1554]:
+                      - link [ref=e1555] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-inalambricos-aiwa-aw-bt301-blanco/p/MLA19149265#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1446915708&sid=recos
+                        - text: Auriculares Inalámbricos Aiwa Aw-bt301 Blanco
+                      - generic [ref=e1556]:
+                        - img [ref=e1557]:
+                          - generic [ref=e1558]: $
+                          - generic [ref=e1559]: "103.999"
+                        - generic [ref=e1560]:
+                          - img [ref=e1561]:
+                            - generic [ref=e1562]: $
+                            - generic [ref=e1563]: "34.379"
+                          - generic [ref=e1564]: 66% OFF
+                        - generic [ref=e1565]:
+                          - text: 6 cuotas de
+                          - img [ref=e1566]:
+                            - generic [ref=e1567]: $
+                            - generic [ref=e1568]: "7.936"
+                      - generic [ref=e1569]: Envío gratis
+                - group [ref=e1570]:
+                  - generic [ref=e1571]:
+                    - img [ref=e1573]
+                    - generic [ref=e1574]:
+                      - link [ref=e1575] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auricular-vincha-aiwa-ava-bt501n-negro/p/MLA42130157#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=6&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1971337422&sid=recos
+                        - text: Auricular Vincha Aiwa Ava-bt501n Negro
+                      - generic [ref=e1576]:
+                        - img [ref=e1577]:
+                          - generic [ref=e1578]: $
+                          - generic [ref=e1579]: "89.999"
+                        - generic [ref=e1580]:
+                          - img [ref=e1581]:
+                            - generic [ref=e1582]: $
+                            - generic [ref=e1583]: "38.199"
+                          - generic [ref=e1584]: 57% OFF
+                        - generic [ref=e1585]:
+                          - text: 6 cuotas de
+                          - img [ref=e1586]:
+                            - generic [ref=e1587]: $
+                            - generic [ref=e1588]: "8.818"
+                      - generic [ref=e1589]: Envío gratis
+                - group [ref=e1590]:
+                  - generic [ref=e1591]:
+                    - img [ref=e1593]
+                    - generic [ref=e1594]:
+                      - link [ref=e1595] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/audifonos-soundpeats-space-bluetooth-wireless-headset-color-negro-luz-agua/p/MLA34734198#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=7&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1434822825&sid=recos
+                        - text: Audífonos Soundpeats Space Bluetooth Wireless Headset Color Negro Luz Agua
+                      - generic [ref=e1596]:
+                        - img [ref=e1597]:
+                          - generic [ref=e1598]: $
+                          - generic [ref=e1599]: "105.573"
+                        - generic [ref=e1600]:
+                          - img [ref=e1601]:
+                            - generic [ref=e1602]: $
+                            - generic [ref=e1603]: "84.458"
+                          - generic [ref=e1604]: 20% OFF
+                        - generic [ref=e1605]:
+                          - text: 6 cuotas de
+                          - img [ref=e1606]:
+                            - generic [ref=e1607]: $
+                            - generic [ref=e1608]: "19.497"
+                      - generic [ref=e1609]:
+                        - text: Envío gratis
+                        - img [ref=e1610]
+                - group [ref=e1612]:
+                  - generic [ref=e1613]:
+                    - img [ref=e1615]
+                    - generic [ref=e1616]:
+                      - link [ref=e1617] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-inalambricos-soundcore-bluetooth-space-one-negro/p/MLA29041007#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=8&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1868190166&sid=recos
+                        - text: Auriculares Inalámbricos Soundcore Bluetooth Space One Negro
+                      - generic [ref=e1618]:
+                        - img [ref=e1619]:
+                          - generic [ref=e1620]: $
+                          - generic [ref=e1621]: "240.999"
+                        - generic [ref=e1622]:
+                          - img [ref=e1623]:
+                            - generic [ref=e1624]: $
+                            - generic [ref=e1625]: "149.419"
+                          - generic [ref=e1626]: 38% OFF
+                        - generic [ref=e1627]:
+                          - text: Mismo precio 6 cuotas de
+                          - img [ref=e1628]:
+                            - generic [ref=e1629]: $
+                            - generic [ref=e1630]: "24.903"
+                      - generic [ref=e1631]: Envío gratis
+                - group [ref=e1632]:
+                  - generic [ref=e1633]:
+                    - img [ref=e1635]
+                    - generic [ref=e1636]:
+                      - link [ref=e1637] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/headset-headset-wireless-universal-cell-phone-spor/p/MLA2028551326#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=9&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA2593933644&sid=recos
+                        - text: Auriculares Inalámbricos Universales Para Teléfono Celular S
+                      - img [ref=e1640]:
+                        - generic [ref=e1641]: $
+                        - generic [ref=e1642]: "23.616"
+                      - generic [ref=e1643]: COMPRA INTERNACIONAL
+                - group [ref=e1644]:
+                  - generic [ref=e1645]:
+                    - img [ref=e1647]
+                    - generic [ref=e1648]:
+                      - link [ref=e1649] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auricular-inalambrico-bluetooth-sony-ult-wear-ult900n-color-negro/p/MLA36336751#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=10&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1954112444&sid=recos
+                        - text: Auricular Inalámbrico Bluetooth Sony Ult Wear Ult900n Color Negro
+                      - generic [ref=e1650]:
+                        - img [ref=e1651]:
+                          - generic [ref=e1652]: $
+                          - generic [ref=e1653]: "399.999"
+                        - generic [ref=e1654]:
+                          - img [ref=e1655]:
+                            - generic [ref=e1656]: $
+                            - generic [ref=e1657]: "279.999"
+                          - generic [ref=e1658]: 30% OFF
+                        - generic [ref=e1659]:
+                          - text: 6 cuotas de
+                          - img [ref=e1660]:
+                            - generic [ref=e1661]: $
+                            - generic [ref=e1662]: "64.637"
+                      - generic [ref=e1663]: Envío gratis
+                - group [ref=e1664]:
+                  - generic [ref=e1665]:
+                    - img [ref=e1667]
+                    - generic [ref=e1668]:
+                      - link [ref=e1669] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auricular-vincha-aiwa-ava-bt701n/p/MLA42236647#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=11&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1947294450&sid=recos
+                        - text: Auricular Vincha Aiwa Ava-bt701n
+                      - generic [ref=e1670]:
+                        - img [ref=e1671]:
+                          - generic [ref=e1672]: $
+                          - generic [ref=e1673]: "109.999"
+                        - generic [ref=e1674]:
+                          - img [ref=e1675]:
+                            - generic [ref=e1676]: $
+                            - generic [ref=e1677]: "76.497"
+                          - generic [ref=e1678]: 30% OFF
+                        - generic [ref=e1679]:
+                          - text: Mismo precio 3 cuotas de
+                          - img [ref=e1680]:
+                            - generic [ref=e1681]: $
+                            - generic [ref=e1682]: "25.499"
+                      - generic [ref=e1683]:
+                        - text: Envío gratis
+                        - img [ref=e1684]
+                - group [ref=e1686]:
+                  - generic [ref=e1687]:
+                    - img [ref=e1689]
+                    - generic [ref=e1690]:
+                      - link [ref=e1691] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/para-auriculares-inalambricos-bluetooth-p47m-v50-cat-/p/MLA2048713875#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=12&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA2591070928&sid=recos
+                        - text: Para ~ Auriculares Inalámbricos Bluetooth P47m V5.0 Cat
+                      - img [ref=e1694]:
+                        - generic [ref=e1695]: $
+                        - generic [ref=e1696]: "23.757"
+                      - generic [ref=e1697]: COMPRA INTERNACIONAL
+                - group [ref=e1698]:
+                  - generic [ref=e1699]:
+                    - img [ref=e1701]
+                    - generic [ref=e1702]:
+                      - link [ref=e1703] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-xiaomi-redmi-buds-6-active-bluetooth-54-rosa/p/MLA39388818#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=13&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA2009725796&sid=recos
+                        - text: Auriculares Xiaomi Redmi Buds 6 Active Bluetooth 5.4 Rosa
+                      - generic [ref=e1704]:
+                        - img [ref=e1706]:
+                          - generic [ref=e1707]: $
+                          - generic [ref=e1708]: "35.893"
+                        - generic [ref=e1709]:
+                          - text: Mismo precio 6 cuotas de
+                          - img [ref=e1710]:
+                            - generic [ref=e1711]: $
+                            - generic [ref=e1712]: "5.982"
+                      - generic [ref=e1713]:
+                        - text: Envío gratis
+                        - img [ref=e1714]
+                - group [ref=e1716]:
+                  - generic [ref=e1717]:
+                    - img [ref=e1719]
+                    - generic [ref=e1720]:
+                      - link [ref=e1721] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auricular-vincha-bth-gadnic-a164-cancelacion-de-sonido-inalambrico-negro/p/MLA36767913#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=14&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1808358252&sid=recos
+                        - text: Auricular Vincha Bth Gadnic A164 Cancelación De Sonido Inalámbrico Negro
+                      - generic [ref=e1722]:
+                        - img [ref=e1723]:
+                          - generic [ref=e1724]: $
+                          - generic [ref=e1725]: "59.999"
+                        - generic [ref=e1726]:
+                          - img [ref=e1727]:
+                            - generic [ref=e1728]: $
+                            - generic [ref=e1729]: "54.699"
+                          - generic [ref=e1730]: 8% OFF
+                        - generic [ref=e1731]:
+                          - text: 6 cuotas de
+                          - img [ref=e1732]:
+                            - generic [ref=e1733]: $
+                            - generic [ref=e1734]: "12.627"
+                      - generic [ref=e1735]:
+                        - text: Envío gratis
+                        - img [ref=e1736]
+                - group [ref=e1738]:
+                  - generic [ref=e1739]:
+                    - img [ref=e1741]
+                    - generic [ref=e1742]:
+                      - link [ref=e1743] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/jbl-tune-720bt-negro/p/MLA24519483#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=15&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1685655610&sid=recos
+                        - text: Jbl Tune 720bt Negro
+                      - generic [ref=e1744]:
+                        - img [ref=e1745]:
+                          - generic [ref=e1746]: $
+                          - generic [ref=e1747]: "166.999"
+                        - generic [ref=e1748]:
+                          - img [ref=e1749]:
+                            - generic [ref=e1750]: $
+                            - generic [ref=e1751]: "125.499"
+                          - generic [ref=e1752]: 24% OFF
+                        - generic [ref=e1753]:
+                          - text: Mismo precio 6 cuotas de
+                          - img [ref=e1754]:
+                            - generic [ref=e1755]: $
+                            - generic [ref=e1756]: "20.916"
+                      - generic [ref=e1757]: Envío gratis
+                - group [ref=e1758]:
+                  - generic [ref=e1759]:
+                    - img [ref=e1761]
+                    - generic [ref=e1762]:
+                      - link [ref=e1763] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-gadnic-a122-over-ear-bth-inalambricos-10m-alcance-microfono-sonido-estereo-bateria-recargable/p/MLA19824469#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=16&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1269281413&sid=recos
+                        - text: Auriculares Gadnic A122 Over-ear Bth Inalámbricos 10m Alcance Micrófono Sonido Estéreo Batería Recargable
+                      - generic [ref=e1764]:
+                        - img [ref=e1765]:
+                          - generic [ref=e1766]: $
+                          - generic [ref=e1767]: "26.999"
+                        - generic [ref=e1768]:
+                          - img [ref=e1769]:
+                            - generic [ref=e1770]: $
+                            - generic [ref=e1771]: "23.219"
+                          - generic [ref=e1772]: 14% OFF
+                        - generic [ref=e1773]:
+                          - text: 6 cuotas de
+                          - img [ref=e1774]:
+                            - generic [ref=e1775]: $
+                            - generic [ref=e1776]: "5.360"
+                - group [ref=e1777]:
+                  - generic [ref=e1778]:
+                    - img [ref=e1780]
+                    - generic [ref=e1781]:
+                      - link [ref=e1782] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/headphones-kids-bluetooth-headphones-mic-blue/p/MLA2023889903#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=17&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA2579732164&sid=recos
+                        - text: Auriculares Bluetooth Para Niños Con Micrófono Azul
+                      - img [ref=e1785]:
+                        - generic [ref=e1786]: $
+                        - generic [ref=e1787]: "59.345"
+                      - generic [ref=e1788]: Envío gratis
+                      - generic [ref=e1789]: COMPRA INTERNACIONAL
+                - group [ref=e1790]:
+                  - generic [ref=e1791]:
+                    - img [ref=e1793]
+                    - generic [ref=e1794]:
+                      - link [ref=e1795] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auriculares-gamer-inalambricos-redragon-zeus-pro-h510-pro-usbbluetooth-71-color-negro/p/MLA35061904#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=18&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1478114745&sid=recos
+                        - text: Auriculares Gamer Inalámbricos Redragon Zeus Pro H510-pro Usb/bluetooth 7.1 Color Negro
+                      - generic [ref=e1796]:
+                        - img [ref=e1797]:
+                          - generic [ref=e1798]: $
+                          - generic [ref=e1799]: "176.066"
+                        - generic [ref=e1800]:
+                          - img [ref=e1801]:
+                            - generic [ref=e1802]: $
+                            - generic [ref=e1803]: "152.228"
+                          - generic [ref=e1804]: 13% OFF
+                        - generic [ref=e1805]:
+                          - text: Mismo precio 6 cuotas de
+                          - img [ref=e1806]:
+                            - generic [ref=e1807]: $
+                            - generic [ref=e1808]: "25.371"
+                      - generic [ref=e1809]: Envío gratis
+                - group [ref=e1810]:
+                  - generic [ref=e1811]:
+                    - img [ref=e1813]
+                    - generic [ref=e1814]:
+                      - link [ref=e1815] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/auricular-lenovo-thinkplus-xt80-running-bluetooth-in-ear-color-negro/p/MLA24531567#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=19&reco_backend_type=low_level&reco_id=9d7fbea2-ec13-491e-b1d0-b32518952e2d&wid=MLA1473213261&sid=recos
+                        - text: Auricular Lenovo Thinkplus Xt80 Running Bluetooth In Ear Color Negro
+                      - generic [ref=e1816]:
+                        - img [ref=e1818]:
+                          - generic [ref=e1819]: $
+                          - generic [ref=e1820]: "26.100"
+                        - generic [ref=e1821]:
+                          - text: 6 cuotas de
+                          - img [ref=e1822]:
+                            - generic [ref=e1823]: $
+                            - generic [ref=e1824]: "6.025"
+              - button "Siguiente" [ref=e1825] [cursor=pointer]:
+                - img [ref=e1826]
+      - generic [ref=e1832]:
+        - heading "Destacado en Electrónica, Audio y Video" [level=2] [ref=e1834]
+        - generic [ref=e1835]:
+          - generic [ref=e1836]:
+            - heading "Televisores" [level=4] [ref=e1837]:
+              - link "Televisores" [ref=e1838] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/televisores#headterms
+            - list [ref=e1839]:
+              - listitem [ref=e1840]:
+                - link "Smart tv" [ref=e1841] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/smart-tv#headterms
+              - listitem [ref=e1842]:
+                - link "Smart tv 32" [ref=e1843] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/smart-tv-32#headterms
+              - listitem [ref=e1844]:
+                - link "Smart tv ofertas" [ref=e1845] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/smart-tv-ofertas#headterms
+              - listitem [ref=e1846]:
+                - link "Tv 32 pulgadas" [ref=e1847] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/tv-32-pulgadas#headterms
+              - listitem [ref=e1848]:
+                - link "Tv 40 pulgadas" [ref=e1849] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/tv-40-pulgadas#headterms
+              - listitem [ref=e1850]:
+                - link "Tv 50 pulgadas" [ref=e1851] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/tv-50-pulgadas#headterms
+              - listitem [ref=e1852]:
+                - link "Tv 55 pulgadas" [ref=e1853] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/tv-55-pulgadas#headterms
+            - button "Ver todo" [ref=e1854] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1855]
+          - generic [ref=e1857]:
+            - heading "Auriculares" [level=4] [ref=e1858]:
+              - link "Auriculares" [ref=e1859] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/auriculares#headterms
+            - list [ref=e1860]:
+              - listitem [ref=e1861]:
+                - link "Airpod" [ref=e1862] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/airpod#headterms
+              - listitem [ref=e1863]:
+                - link "Airpod pro 2" [ref=e1864] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/airpod-pro-2#headterms
+              - listitem [ref=e1865]:
+                - link "Airpods pro" [ref=e1866] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/airpods-pro#headterms
+              - listitem [ref=e1867]:
+                - link "Auriculares bluetooth" [ref=e1868] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/auriculares-bluetooth#headterms
+              - listitem [ref=e1869]:
+                - link "Auriculares bluetooth vincha" [ref=e1870] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/auriculares-bluetooth-vincha#headterms
+              - listitem [ref=e1871]:
+                - link "Auriculares cancelacion ruido" [ref=e1872] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/auriculares-cancelacion-ruido#headterms
+              - listitem [ref=e1873]:
+                - link "Auriculares inalambricos" [ref=e1874] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/auriculares-inalambricos#headterms
+            - button "Ver todo" [ref=e1875] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1876]
+          - generic [ref=e1878]:
+            - heading "Proyectores" [level=4] [ref=e1879]:
+              - link "Proyectores" [ref=e1880] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/proyectores#headterms
+            - list [ref=e1881]:
+              - listitem [ref=e1882]:
+                - link "Mini proyector" [ref=e1883] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/mini-proyector#headterms
+              - listitem [ref=e1884]:
+                - link "Proyector" [ref=e1885] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/proyector#headterms
+              - listitem [ref=e1886]:
+                - link "Proyector 4k" [ref=e1887] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/proyector-4k#headterms
+              - listitem [ref=e1888]:
+                - link "Proyector benq" [ref=e1889] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/proyector-benq#headterms
+              - listitem [ref=e1890]:
+                - link "Proyector cine" [ref=e1891] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/proyector-cine#headterms
+              - listitem [ref=e1892]:
+                - link "Proyector epson" [ref=e1893] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/proyector-epson#headterms
+              - listitem [ref=e1894]:
+                - link "Proyector gadnic" [ref=e1895] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/proyector-gadnic#headterms
+            - button "Ver todo" [ref=e1896] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1897]
+          - generic [ref=e1899]:
+            - heading "Parlantes" [level=4] [ref=e1900]:
+              - link "Parlantes" [ref=e1901] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/parlantes#headterms
+            - list [ref=e1902]:
+              - listitem [ref=e1903]:
+                - link "Audio technica" [ref=e1904] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/audio-technica#headterms
+              - listitem [ref=e1905]:
+                - link "Auriculares natacion" [ref=e1906] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/auriculares-natacion#headterms
+              - listitem [ref=e1907]:
+                - link "Bose soundbar" [ref=e1908] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/bose-soundbar#headterms
+              - listitem [ref=e1909]:
+                - link "Columna de audio philips" [ref=e1910] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/columna-de-audio-philips#headterms
+              - listitem [ref=e1911]:
+                - link "Equipos musica" [ref=e1912] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/equipos-musica#headterms
+              - listitem [ref=e1913]:
+                - link "Harman kardon" [ref=e1914] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/harman-kardon#headterms
+              - listitem [ref=e1915]:
+                - link "Home theater" [ref=e1916] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/home-theater#headterms
+            - button "Ver todo" [ref=e1917] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1918]
+  - generic [ref=e1922]:
+    - heading "Productos más buscados" [level=3] [ref=e1923]
+    - list [ref=e1924]:
+      - listitem [ref=e1925]:
+        - link "aire acondicionado" [ref=e1926] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/aire-acondicionado
+        - text: "-"
+      - listitem [ref=e1927]:
+        - link "aire acondicionado frio calor" [ref=e1928] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/aire-acondicionado-frio-calor
+        - text: "-"
+      - listitem [ref=e1929]:
+        - link "aire acondicionado inverter" [ref=e1930] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/aire-acondicionado-inverter
+        - text: "-"
+      - listitem [ref=e1931]:
+        - link "aire acondicionado split" [ref=e1932] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/aire-acondicionado-split
+        - text: "-"
+      - listitem [ref=e1933]:
+        - link "apple iphone" [ref=e1934] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/apple-iphone
+        - text: "-"
+      - listitem [ref=e1935]:
+        - link "auriculares jbl" [ref=e1936] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/auriculares-jbl
+        - text: "-"
+      - listitem [ref=e1937]:
+        - link "calefon" [ref=e1938] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/calefon
+        - text: "-"
+      - listitem [ref=e1939]:
+        - link "celulares samsung" [ref=e1940] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/celulares-samsung
+        - text: "-"
+      - listitem [ref=e1941]:
+        - link "cocina gas" [ref=e1942] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/cocina-gas
+        - text: "-"
+      - listitem [ref=e1943]:
+        - link "cocinas" [ref=e1944] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/cocinas
+        - text: "-"
+      - listitem [ref=e1945]:
+        - link "freezer" [ref=e1946] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/freezer
+        - text: "-"
+      - listitem [ref=e1947]:
+        - link "freidora aire" [ref=e1948] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/freidora-aire
+        - text: "-"
+      - listitem [ref=e1949]:
+        - link "freidora sin aceite" [ref=e1950] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/freidora-sin-aceite
+        - text: "-"
+      - listitem [ref=e1951]:
+        - link "heladera" [ref=e1952] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera
+        - text: "-"
+      - listitem [ref=e1953]:
+        - link "heladera bajo mesada" [ref=e1954] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera-bajo-mesada
+        - text: "-"
+      - listitem [ref=e1955]:
+        - link "heladera con freezer" [ref=e1956] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera-con-freezer
+        - text: "-"
+      - listitem [ref=e1957]:
+        - link "heladera kohinoor" [ref=e1958] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera-kohinoor
+        - text: "-"
+      - listitem [ref=e1959]:
+        - link "heladera no frost" [ref=e1960] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera-no-frost
+        - text: "-"
+      - listitem [ref=e1961]:
+        - link "heladera no frost samsung" [ref=e1962] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera-no-frost-samsung
+        - text: "-"
+      - listitem [ref=e1963]:
+        - link "heladera samsung" [ref=e1964] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/heladera-samsung
+        - text: "-"
+      - listitem [ref=e1965]:
+        - link "inmuebles" [ref=e1966] [cursor=pointer]:
+          - /url: https://inmuebles.mercadolibre.com.ar
+        - text: "-"
+      - listitem [ref=e1967]:
+        - link "iphone 14" [ref=e1968] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-14
+        - text: "-"
+      - listitem [ref=e1969]:
+        - link "iphone 14 pro max" [ref=e1970] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-14-pro-max
+        - text: "-"
+      - listitem [ref=e1971]:
+        - link "iphone 15" [ref=e1972] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-15
+        - text: "-"
+      - listitem [ref=e1973]:
+        - link "iphone 15 pro max" [ref=e1974] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-15-pro-max
+        - text: "-"
+      - listitem [ref=e1975]:
+        - link "iphone 16" [ref=e1976] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-16
+        - text: "-"
+      - listitem [ref=e1977]:
+        - link "iphone 16 plus" [ref=e1978] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-16-plus
+        - text: "-"
+      - listitem [ref=e1979]:
+        - link "iphone 16 pro" [ref=e1980] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-16-pro
+        - text: "-"
+      - listitem [ref=e1981]:
+        - link "iphone 16 pro max" [ref=e1982] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/iphone-16-pro-max
+        - text: "-"
+      - listitem [ref=e1983]:
+        - link "lavarropas" [ref=e1984] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/lavarropas
+        - text: "-"
+      - listitem [ref=e1985]:
+        - link "lavarropas automatico" [ref=e1986] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/lavarropas-automatico
+        - text: "-"
+      - listitem [ref=e1987]:
+        - link "lavarropas drean" [ref=e1988] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/lavarropas-drean
+        - text: "-"
+      - listitem [ref=e1989]:
+        - link "lavarropas samsung" [ref=e1990] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/lavarropas-samsung
+        - text: "-"
+      - listitem [ref=e1991]:
+        - link "lavasecarropas" [ref=e1992] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/lavasecarropas
+        - text: "-"
+      - listitem [ref=e1993]:
+        - link "microondas" [ref=e1994] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/microondas
+        - text: "-"
+      - listitem [ref=e1995]:
+        - link "notebook" [ref=e1996] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/notebook
+        - text: "-"
+      - listitem [ref=e1997]:
+        - link "parlantes" [ref=e1998] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/parlantes
+        - text: "-"
+      - listitem [ref=e1999]:
+        - link "procesadora" [ref=e2000] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/procesadora
+        - text: "-"
+      - listitem [ref=e2001]:
+        - link "reloj inteligente" [ref=e2002] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/reloj-inteligente
+        - text: "-"
+      - listitem [ref=e2003]:
+        - link "reloj smart watch" [ref=e2004] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/reloj-smart-watch
+        - text: "-"
+      - listitem [ref=e2005]:
+        - link "samsung" [ref=e2006] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/samsung
+        - text: "-"
+      - listitem [ref=e2007]:
+        - link "samsung a54" [ref=e2008] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/samsung-a54
+        - text: "-"
+      - listitem [ref=e2009]:
+        - link "secador de pelo" [ref=e2010] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/secador-de-pelo
+        - text: "-"
+      - listitem [ref=e2011]:
+        - link "smart tv" [ref=e2012] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/smart-tv
+        - text: "-"
+      - listitem [ref=e2013]:
+        - link "smart tv 43 pulgadas" [ref=e2014] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/smart-tv-43-pulgadas
+        - text: "-"
+      - listitem [ref=e2015]:
+        - link "starlink internet" [ref=e2016] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/starlink-internet
+        - text: "-"
+      - listitem [ref=e2017]:
+        - link "tablets" [ref=e2018] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/tablets
+        - text: "-"
+      - listitem [ref=e2019]:
+        - link "televisor 50 pulgadas" [ref=e2020] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/televisor-50-pulgadas
+        - text: "-"
+      - listitem [ref=e2021]:
+        - link "televisores smart" [ref=e2022] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/televisores-smart
+        - text: "-"
+      - listitem [ref=e2023]:
+        - link "termotanque electrico" [ref=e2024] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/termotanque-electrico
+        - text: "-"
+      - listitem [ref=e2025]:
+        - link "tostadoras electricas" [ref=e2026] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/tostadoras-electricas
+        - text: "-"
+      - listitem [ref=e2027]:
+        - link "tv 50 pulgadas" [ref=e2028] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/tv-50-pulgadas
+        - text: "-"
+      - listitem [ref=e2029]:
+        - link "tv 55 pulgadas" [ref=e2030] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/tv-55-pulgadas
+        - text: "-"
+      - listitem [ref=e2031]:
+        - link "ventiladores" [ref=e2032] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/ventiladores
+        - text: "-"
+      - listitem [ref=e2033]:
+        - link "yogurtera" [ref=e2034] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.ar/yogurtera
+  - generic [ref=e2037]:
+    - heading "Buscar productos por letra inicial" [level=3] [ref=e2038]
+    - list "Buscar productos por letra inicial" [ref=e2040]:
+      - listitem [ref=e2041]:
+        - link "Buscar productos por letra inicial A" [ref=e2042] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/A/1
+          - text: A
+      - listitem [ref=e2043]: "-"
+      - listitem [ref=e2044]:
+        - link "Buscar productos por letra inicial B" [ref=e2045] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/B/1
+          - text: B
+      - listitem [ref=e2046]: "-"
+      - listitem [ref=e2047]:
+        - link "Buscar productos por letra inicial C" [ref=e2048] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/C/1
+          - text: C
+      - listitem [ref=e2049]: "-"
+      - listitem [ref=e2050]:
+        - link "Buscar productos por letra inicial D" [ref=e2051] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/D/1
+          - text: D
+      - listitem [ref=e2052]: "-"
+      - listitem [ref=e2053]:
+        - link "Buscar productos por letra inicial E" [ref=e2054] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/E/1
+          - text: E
+      - listitem [ref=e2055]: "-"
+      - listitem [ref=e2056]:
+        - link "Buscar productos por letra inicial F" [ref=e2057] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/F/1
+          - text: F
+      - listitem [ref=e2058]: "-"
+      - listitem [ref=e2059]:
+        - link "Buscar productos por letra inicial G" [ref=e2060] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/G/1
+          - text: G
+      - listitem [ref=e2061]: "-"
+      - listitem [ref=e2062]:
+        - link "Buscar productos por letra inicial H" [ref=e2063] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/H/1
+          - text: H
+      - listitem [ref=e2064]: "-"
+      - listitem [ref=e2065]:
+        - link "Buscar productos por letra inicial I" [ref=e2066] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/I/1
+          - text: I
+      - listitem [ref=e2067]: "-"
+      - listitem [ref=e2068]:
+        - link "Buscar productos por letra inicial J" [ref=e2069] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/J/1
+          - text: J
+      - listitem [ref=e2070]: "-"
+      - listitem [ref=e2071]:
+        - link "Buscar productos por letra inicial K" [ref=e2072] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/K/1
+          - text: K
+      - listitem [ref=e2073]: "-"
+      - listitem [ref=e2074]:
+        - link "Buscar productos por letra inicial L" [ref=e2075] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/L/1
+          - text: L
+      - listitem [ref=e2076]: "-"
+      - listitem [ref=e2077]:
+        - link "Buscar productos por letra inicial M" [ref=e2078] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/M/1
+          - text: M
+      - listitem [ref=e2079]: "-"
+      - listitem [ref=e2080]:
+        - link "Buscar productos por letra inicial N" [ref=e2081] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/N/1
+          - text: "N"
+      - listitem [ref=e2082]: "-"
+      - listitem [ref=e2083]:
+        - link "Buscar productos por letra inicial O" [ref=e2084] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/O/1
+          - text: O
+      - listitem [ref=e2085]: "-"
+      - listitem [ref=e2086]:
+        - link "Buscar productos por letra inicial P" [ref=e2087] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/P/1
+          - text: P
+      - listitem [ref=e2088]: "-"
+      - listitem [ref=e2089]:
+        - link "Buscar productos por letra inicial Q" [ref=e2090] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/Q/1
+          - text: Q
+      - listitem [ref=e2091]: "-"
+      - listitem [ref=e2092]:
+        - link "Buscar productos por letra inicial R" [ref=e2093] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/R/1
+          - text: R
+      - listitem [ref=e2094]: "-"
+      - listitem [ref=e2095]:
+        - link "Buscar productos por letra inicial S" [ref=e2096] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/S/1
+          - text: S
+      - listitem [ref=e2097]: "-"
+      - listitem [ref=e2098]:
+        - link "Buscar productos por letra inicial T" [ref=e2099] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/T/1
+          - text: T
+      - listitem [ref=e2100]: "-"
+      - listitem [ref=e2101]:
+        - link "Buscar productos por letra inicial U" [ref=e2102] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/U/1
+          - text: U
+      - listitem [ref=e2103]: "-"
+      - listitem [ref=e2104]:
+        - link "Buscar productos por letra inicial V" [ref=e2105] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/V/1
+          - text: V
+      - listitem [ref=e2106]: "-"
+      - listitem [ref=e2107]:
+        - link "Buscar productos por letra inicial W" [ref=e2108] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/W/1
+          - text: W
+      - listitem [ref=e2109]: "-"
+      - listitem [ref=e2110]:
+        - link "Buscar productos por letra inicial X" [ref=e2111] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/X/1
+          - text: X
+      - listitem [ref=e2112]: "-"
+      - listitem [ref=e2113]:
+        - link "Buscar productos por letra inicial Y" [ref=e2114] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/Y/1
+          - text: "Y"
+      - listitem [ref=e2115]: "-"
+      - listitem [ref=e2116]:
+        - link "Buscar productos por letra inicial Z" [ref=e2117] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/glossary/Z/1
+          - text: Z
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e2118] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e2119]: 
+  - contentinfo [ref=e2120]:
+    - generic [ref=e2122]:
+      - generic [ref=e2123]:
+        - generic [ref=e2124]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e2125]:
+          - list [ref=e2126]:
+            - listitem [ref=e2127]:
+              - link "Trabajá con nosotros" [ref=e2128] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e2129]:
+              - link "Términos y condiciones" [ref=e2130] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e2131]:
+              - link "Promociones" [ref=e2132] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e2133]:
+              - link "Cómo cuidamos tu privacidad" [ref=e2134] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e2135]:
+              - link "Accesibilidad" [ref=e2136] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e2137]:
+              - link "Información al usuario financiero" [ref=e2138] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e2139]:
+              - link "Ayuda" [ref=e2140] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e2141]:
+              - link "Defensa del Consumidor" [ref=e2142] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e2143]:
+              - link "Información sobre seguros" [ref=e2144] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e2145]:
+              - link "Libro de quejas online" [ref=e2146] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e2147]:
+              - link "Programa de Afiliados" [ref=e2148] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e2149]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e2150] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+  - tooltip "Estamos calculando tus envíos a esta ubicación Confirmá tu código postal y conocé con precisión los costos y tiempos de entrega. Confirmar código postal Más tarde" [ref=e2153]:
+    - generic [ref=e2155]:
+      - heading "Estamos calculando tus envíos a esta ubicación" [level=2] [ref=e2156]
+      - generic [ref=e2157]: Confirmá tu código postal y conocé con precisión los costos y tiempos de entrega.
+      - generic [ref=e2158]:
+        - button "Confirmar código postal" [ref=e2159] [cursor=pointer]:
+          - generic [ref=e2160]: Confirmar código postal
+        - button "Más tarde" [ref=e2161] [cursor=pointer]:
+          - generic [ref=e2162]: Más tarde
+```

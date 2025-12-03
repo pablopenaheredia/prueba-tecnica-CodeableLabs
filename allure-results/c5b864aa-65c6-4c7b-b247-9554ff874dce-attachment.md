@@ -1,0 +1,239 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Saltar el contenido" [ref=e5] [cursor=pointer]:
+          - /url: "#root-app"
+          - generic [ref=e6]: Saltar el contenido
+        - link "Comentar sobre accesibilidad" [ref=e7] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - generic [ref=e8]: Comentar sobre accesibilidad
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e9] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e11]:
+        - generic [ref=e12]: Ingresá lo que quieras encontrar
+        - combobox "Ingresá lo que quieras encontrar" [ref=e13]
+        - button "Buscar" [ref=e14] [cursor=pointer]:
+          - img "Buscar" [ref=e15]: 
+        - text: Tiendas oficiales
+      - link "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e17] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/suscripciones/melimas?#origin=bannermenu-acq-melimas&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N1A5_BNR_MENU_349&me.flow=146&me.logic=campaigns&me.position=0
+        - img "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e18]
+      - button " Enviar a Córdoba 5013" [ref=e21] [cursor=pointer]:
+        - text: 
+        - generic [ref=e22]: Enviar a
+        - generic [ref=e23]: Córdoba 5013
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - button "Categorías" [ref=e28] [cursor=pointer]
+        - listitem [ref=e29]:
+          - link "Ofertas" [ref=e30] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e31]:
+          - link "Cupones" [ref=e32] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e33]:
+          - link "Supermercado" [ref=e34] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e35]:
+          - link "Moda" [ref=e36] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e37]:
+          - link "Mercado Play Gratis" [ref=e38] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e39]: Gratis
+        - listitem [ref=e40]:
+          - link "Vender" [ref=e41] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e42]:
+          - link "Ayuda" [ref=e43] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e44]:
+        - navigation "Menú de usuario" [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - button "Pablo, menú" [ref=e50] [cursor=pointer]:
+                - generic [ref=e51]:
+                  - generic [ref=e54]: P
+                  - generic [ref=e55]: Pablo
+            - listitem [ref=e57]:
+              - link "Mis compras" [ref=e58] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+              - button "Favoritos" [ref=e59] [cursor=pointer]:
+                - generic [ref=e60]: Favoritos
+              - button "Notificaciones" [ref=e61] [cursor=pointer]:
+                - generic [ref=e62]: 
+            - listitem
+        - link " 0 productos en tu carrito" [ref=e63] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e64]: 
+          - generic [ref=e65]: 0 productos en tu carrito
+          - generic [ref=e66]: "1"
+  - main [ref=e67]:
+    - generic [ref=e69]:
+      - article [ref=e72]:
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - generic [ref=e78] [cursor=pointer]:
+                - generic [ref=e79]:
+                  - checkbox "Productos FULL" [checked] [ref=e80]
+                  - generic:
+                    - img
+                - generic [ref=e81]: Productos FULL
+              - heading [level=2]
+            - heading "Productos FULL" [level=3] [ref=e83] [cursor=pointer]:
+              - link "Productos FULL" [ref=e84]:
+                - /url: https://listado.mercadolibre.com.ar/_Envio_Full_Container_schpagfullmla-23001003_FullFilter_True_NoIndex_True
+                - text: Productos
+                - img [ref=e85]
+                - img [ref=e87]
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - generic [ref=e96] [cursor=pointer]:
+                    - generic [ref=e97]:
+                      - checkbox "Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro" [checked] [ref=e98]
+                      - generic:
+                        - img
+                    - generic [ref=e99]: Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro
+                  - img [ref=e102]
+                  - generic [ref=e103]:
+                    - generic [ref=e104]: OFERTA IMPERDIBLE
+                    - heading "Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro" [level=4] [ref=e105]:
+                      - link "Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro" [ref=e106] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/p/MLA23138487?pdp_filters=item_id%3AMLA1535410113#polycard_client=cart_list&wid=MLA1535410113&sid=cart
+                - button "Eliminar" [ref=e107] [cursor=pointer]:
+                  - img [ref=e109]
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - generic [ref=e115]: 1 undefined
+                  - generic [ref=e117]:
+                    - generic [ref=e118]: quitar
+                    - button "1 undefined quitar" [disabled]:
+                      - img
+                    - alert [ref=e119]: "1"
+                    - generic [ref=e120]: agregar
+                    - button "1 undefined agregar" [ref=e121] [cursor=pointer]:
+                      - img [ref=e122]
+                - generic "+50 disponibles" [ref=e124]
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - generic [ref=e128]: "-19%"
+                - 'img "Antes: 103144 pesos argentinos con 95 centavos" [ref=e129]':
+                  - generic [ref=e130]: $
+                  - generic [ref=e131]: "103.144"
+                  - generic [ref=e132]: ","
+                  - generic [ref=e133]: "95"
+              - img "82999 pesos argentinos" [ref=e135]:
+                - generic [ref=e136]: $
+                - generic [ref=e137]: "82.999"
+          - generic [ref=e138]:
+            - generic [ref=e139]:
+              - generic [ref=e140]: Envío
+              - generic [ref=e142]: Gratis
+            - generic [ref=e143]:
+              - generic [ref=e144]:
+                - status [ref=e145]
+                - progressbar [ref=e146]
+              - generic [ref=e147]: Envío gratis
+            - generic [ref=e148]:
+              - generic [ref=e149]:
+                - text: Aprovechá el envío gratis por ser tu primera compra agregando más productos
+                - img [ref=e151]
+                - generic [ref=e153]: Productos FULL
+                - generic [ref=e154]: .
+              - link "Ver productos" [ref=e156] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/_Envio_Full_Container_schpagfullmla-23001003_FullFilter_True_NoIndex_True
+                - text: Ver productos
+                - img [ref=e157]
+      - generic [ref=e161]:
+        - heading "Resumen de compra" [level=2] [ref=e163]
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - generic [ref=e167]:
+                - generic [ref=e168]: Producto
+                - generic [ref=e169]:
+                  - 'img "Antes: 103144 pesos argentinos con 95 centavos" [ref=e170]':
+                    - generic [ref=e171]: $
+                    - generic [ref=e172]: "103.144"
+                    - generic [ref=e173]: ","
+                    - generic [ref=e174]: "95"
+                  - img "82999 pesos argentinos" [ref=e175]:
+                    - generic [ref=e177]: $
+                    - generic [ref=e178]: "82.999"
+              - generic [ref=e179] [cursor=pointer]:
+                - generic [ref=e180]: Envío
+                - generic [ref=e181]: Gratis
+            - generic [ref=e183] [cursor=pointer]: Ingresar código de cupón
+            - generic [ref=e185]:
+              - generic [ref=e186]: Total
+              - img "82999 pesos argentinos" [ref=e188]:
+                - generic [ref=e190]: $
+                - generic [ref=e191]: "82.999"
+          - link "Continuar compra" [ref=e192] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/gz/checkout/cart/buy?site_id=MLA&items=MLA1535410113-Q1&destination_type=zip_code&destination_value=5013&unchecked=false&context=mycart%2Ccatalog_listing_from_mycart
+            - generic [ref=e193]: Continuar compra
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e194] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e195]: 
+  - contentinfo [ref=e196]:
+    - generic [ref=e198]:
+      - generic [ref=e199]:
+        - generic [ref=e200]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e201]:
+          - list [ref=e202]:
+            - listitem [ref=e203]:
+              - link "Trabajá con nosotros" [ref=e204] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e205]:
+              - link "Términos y condiciones" [ref=e206] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e207]:
+              - link "Promociones" [ref=e208] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e209]:
+              - link "Cómo cuidamos tu privacidad" [ref=e210] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e211]:
+              - link "Accesibilidad" [ref=e212] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e213]:
+              - link "Información al usuario financiero" [ref=e214] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e215]:
+              - link "Ayuda" [ref=e216] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e217]:
+              - link "Defensa del Consumidor" [ref=e218] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e219]:
+              - link "Información sobre seguros" [ref=e220] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e221]:
+              - link "Libro de quejas online" [ref=e222] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e223]:
+              - link "Programa de Afiliados" [ref=e224] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e225]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e226] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+  - region [ref=e227]:
+    - generic [ref=e228]:
+      - paragraph [ref=e230]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e231] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e232]:
+        - button "Aceptar cookies" [ref=e233] [cursor=pointer]
+        - button "Configurar cookies" [ref=e234] [cursor=pointer]
+```

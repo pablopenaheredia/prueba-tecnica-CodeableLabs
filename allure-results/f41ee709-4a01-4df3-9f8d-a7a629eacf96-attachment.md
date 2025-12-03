@@ -1,0 +1,637 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Saltar el contenido" [ref=e5] [cursor=pointer]:
+          - /url: "#root-app"
+          - generic [ref=e6]: Saltar el contenido
+        - link "Comentar sobre accesibilidad" [ref=e7] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - generic [ref=e8]: Comentar sobre accesibilidad
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e9] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e11]:
+        - generic [ref=e12]: Ingresá lo que quieras encontrar
+        - combobox "Ingresá lo que quieras encontrar" [ref=e13]
+        - button "Buscar" [ref=e14] [cursor=pointer]:
+          - img "Buscar" [ref=e15]: 
+        - text: Tiendas oficiales
+      - link "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e17] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/suscripciones/melimas?#origin=bannermenu-acq-melimas&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N1A5_BNR_MENU_349&me.flow=146&me.logic=campaigns&me.position=0
+        - img "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e18]
+      - button " Enviar a Córdoba 5013" [ref=e21] [cursor=pointer]:
+        - text: 
+        - generic [ref=e22]: Enviar a
+        - generic [ref=e23]: Córdoba 5013
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - button "Categorías" [ref=e28] [cursor=pointer]
+        - listitem [ref=e29]:
+          - link "Ofertas" [ref=e30] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e31]:
+          - link "Cupones" [ref=e32] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e33]:
+          - link "Supermercado" [ref=e34] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e35]:
+          - link "Moda" [ref=e36] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e37]:
+          - link "Mercado Play Gratis" [ref=e38] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e39]: Gratis
+        - listitem [ref=e40]:
+          - link "Vender" [ref=e41] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e42]:
+          - link "Ayuda" [ref=e43] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e44]:
+        - navigation "Menú de usuario" [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - button "Pablo, menú" [ref=e50] [cursor=pointer]:
+                - generic [ref=e51]:
+                  - generic [ref=e54]: P
+                  - generic [ref=e55]: Pablo
+            - listitem [ref=e57]:
+              - link "Mis compras" [ref=e58] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+              - button "Favoritos" [ref=e59] [cursor=pointer]:
+                - generic [ref=e60]: Favoritos
+              - button "Notificaciones" [ref=e61] [cursor=pointer]:
+                - generic [ref=e62]: 
+            - listitem
+        - link " 0 productos en tu carrito" [ref=e63] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e64]: 
+          - generic [ref=e65]: 0 productos en tu carrito
+          - generic [ref=e66]: "1"
+  - main [ref=e67]:
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - article [ref=e72]:
+          - generic [ref=e74]:
+            - generic [ref=e76]:
+              - generic [ref=e77]:
+                - generic [ref=e78] [cursor=pointer]:
+                  - generic [ref=e79]:
+                    - checkbox "Productos FULL" [checked] [ref=e80]
+                    - generic:
+                      - img
+                  - generic [ref=e81]: Productos FULL
+                - heading [level=2]
+              - heading "Productos FULL" [level=3] [ref=e83] [cursor=pointer]:
+                - link "Productos FULL" [ref=e84]:
+                  - /url: https://listado.mercadolibre.com.ar/_Envio_Full_Container_schpagfullmla-23001003_FullFilter_True_NoIndex_True
+                  - text: Productos
+                  - img [ref=e85]
+                  - img [ref=e87]
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - generic [ref=e94] [cursor=pointer]:
+                  - generic [ref=e95]:
+                    - checkbox "Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro" [checked] [ref=e96]
+                    - generic:
+                      - img
+                  - generic [ref=e97]: Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro
+                - img [ref=e100]
+                - generic [ref=e101]:
+                  - generic [ref=e102]: OFERTA IMPERDIBLE
+                  - heading "Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro" [level=4] [ref=e103]:
+                    - link "Auriculares Inalámbricos Bluetooth Sony Wh-ch520 Negro" [ref=e104] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/p/MLA23138487?pdp_filters=item_id%3AMLA1535410113#polycard_client=cart_list&wid=MLA1535410113&sid=cart
+                  - button "Eliminar" [ref=e108] [cursor=pointer]
+              - generic [ref=e109]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]:
+                    - generic [ref=e113]: 1 undefined
+                    - generic [ref=e115]:
+                      - generic [ref=e116]: quitar
+                      - button "1 undefined quitar" [disabled]:
+                        - img
+                      - alert [ref=e117]: "1"
+                      - generic [ref=e118]: agregar
+                      - button "1 undefined agregar" [ref=e119] [cursor=pointer]:
+                        - img [ref=e120]
+                  - generic "+50 disponibles" [ref=e122]
+                - generic [ref=e123]:
+                  - generic [ref=e124]:
+                    - generic [ref=e125]: "-19%"
+                    - 'img "Antes: 103144 pesos argentinos con 95 centavos" [ref=e126]':
+                      - generic [ref=e127]: $
+                      - generic [ref=e128]: "103.144"
+                      - generic [ref=e129]: ","
+                      - generic [ref=e130]: "95"
+                  - img "82999 pesos argentinos" [ref=e132]:
+                    - generic [ref=e133]: $
+                    - generic [ref=e134]: "82.999"
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - generic [ref=e137]: Envío
+                - generic [ref=e139]: Gratis
+              - generic [ref=e140]:
+                - generic [ref=e141]:
+                  - status [ref=e142]
+                  - progressbar [ref=e143]
+                - generic [ref=e144]: Envío gratis
+              - generic [ref=e145]:
+                - generic [ref=e146]:
+                  - text: Aprovechá el envío gratis por ser tu primera compra agregando más productos
+                  - img [ref=e148]
+                  - generic [ref=e150]: Productos FULL
+                  - generic [ref=e151]: .
+                - link "Ver productos" [ref=e153] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/_Envio_Full_Container_schpagfullmla-23001003_FullFilter_True_NoIndex_True
+                  - text: Ver productos
+                  - img [ref=e154]
+        - generic [ref=e158]:
+          - heading "Resumen de compra" [level=2] [ref=e160]
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - generic [ref=e164]:
+                  - generic [ref=e165]: Producto
+                  - generic [ref=e166]:
+                    - 'img "Antes: 103144 pesos argentinos con 95 centavos" [ref=e167]':
+                      - generic [ref=e168]: $
+                      - generic [ref=e169]: "103.144"
+                      - generic [ref=e170]: ","
+                      - generic [ref=e171]: "95"
+                    - img "82999 pesos argentinos" [ref=e172]:
+                      - generic [ref=e174]: $
+                      - generic [ref=e175]: "82.999"
+                - generic [ref=e176] [cursor=pointer]:
+                  - generic [ref=e177]: Envío
+                  - generic [ref=e178]: Gratis
+              - generic [ref=e180] [cursor=pointer]: Ingresar código de cupón
+              - generic [ref=e182]:
+                - generic [ref=e183]: Total
+                - img "82999 pesos argentinos" [ref=e185]:
+                  - generic [ref=e187]: $
+                  - generic [ref=e188]: "82.999"
+            - link "Continuar compra" [ref=e189] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/gz/checkout/cart/buy?site_id=MLA&items=MLA1535410113-Q1&destination_type=zip_code&destination_value=5013&unchecked=false&context=mycart%2Ccatalog_listing_from_mycart
+              - generic [ref=e190]: Continuar compra
+      - generic [ref=e194]:
+        - heading "Recomendaciones para vos" [level=2] [ref=e198]
+        - region "Recomendaciones para vos" [ref=e199]:
+          - generic [ref=e200]:
+            - button "Anterior" [disabled] [ref=e201]:
+              - img [ref=e202]
+            - generic [ref=e205]:
+              - group "1 de 20" [ref=e206]:
+                - generic [ref=e207]:
+                  - img [ref=e210]
+                  - generic [ref=e211]:
+                    - link "Cargador Turbopower Motorola Para G50 G71 G82 Edge Color Negro" [ref=e212] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-turbopower-motorola-para-g50-g71-g82-edge-color-negro/p/MLA61063326#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=0&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2603843002&sid=recos
+                    - generic [ref=e213]:
+                      - 'img "Antes: 58999 pesos argentinos" [ref=e214]':
+                        - generic [ref=e215]: $
+                        - generic [ref=e216]: "58.999"
+                      - generic [ref=e217]:
+                        - 'img "Ahora: 40119 pesos argentinos" [ref=e218]':
+                          - generic [ref=e219]: $
+                          - generic [ref=e220]: "40.119"
+                        - generic [ref=e221]: 32% OFF
+                      - generic [ref=e222]:
+                        - text: 3 cuotas de
+                        - img "16636 pesos argentinos" [ref=e223]:
+                          - generic [ref=e225]: $
+                          - generic [ref=e226]: "16.636"
+                    - generic [ref=e227]: Envío gratispor ser tu primera compra
+              - group "2 de 20" [ref=e228]:
+                - generic [ref=e229]:
+                  - img [ref=e232]
+                  - generic [ref=e233]:
+                    - link "Cargador Portátil Inalámbrico Mti Power Bank 2 Puertos Pb720 Negro" [ref=e234] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-portatil-inalambrico-mti-power-bank-2-puertos-pb720-negro/p/MLA48814569#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=1&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2118406838&sid=recos
+                    - generic [ref=e235]:
+                      - img "48999 pesos argentinos" [ref=e237]:
+                        - generic [ref=e238]: $
+                        - generic [ref=e239]: "48.999"
+                      - generic [ref=e240]:
+                        - text: Mismo precio 3 cuotas de
+                        - img "16333 pesos argentinos" [ref=e241]:
+                          - generic [ref=e243]: $
+                          - generic [ref=e244]: "16.333"
+                    - generic [ref=e245]: Envío gratispor ser tu primera compra
+              - group "3 de 20" [ref=e246]:
+                - generic [ref=e247]:
+                  - img [ref=e250]
+                  - generic [ref=e251]:
+                    - link "Estuche Rígido Protector Para Auriculares Bluetooth Inalambrico Headset Dehuka Negro" [ref=e252] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/estuche-rigido-protector-para-auriculares-bluetooth-inalambrico-headset-dehuka-negro/p/MLA45674161#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=2&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1473045721&sid=recos
+                    - generic [ref=e253]:
+                      - img "11999 pesos argentinos" [ref=e255]:
+                        - generic [ref=e256]: $
+                        - generic [ref=e257]: "11.999"
+                      - generic [ref=e258]:
+                        - text: 6 cuotas de
+                        - img "2289 pesos argentinos" [ref=e259]:
+                          - generic [ref=e261]: $
+                          - generic [ref=e262]: "2.289"
+                    - generic [ref=e263]: Envío gratispor ser tu primera compra
+              - group "4 de 20" [ref=e264]:
+                - generic [ref=e265]:
+                  - img [ref=e268]
+                  - generic [ref=e269]:
+                    - link "Xiaomi Smart Band 10 Deportes Natacion Fit Negro Blanco Rosa" [ref=e270] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1510171267-xiaomi-smart-band-10-deportes-natacion-fit-negro-blanco-rosa-_JM?searchVariation=184287024790#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=3&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e
+                    - generic [ref=e271]:
+                      - 'img "Antes: 119599 pesos argentinos" [ref=e272]':
+                        - generic [ref=e273]: $
+                        - generic [ref=e274]: "119.599"
+                      - generic [ref=e275]:
+                        - 'img "Ahora: 90999 pesos argentinos" [ref=e276]':
+                          - generic [ref=e277]: $
+                          - generic [ref=e278]: "90.999"
+                        - generic [ref=e279]: 23% OFF
+                      - generic [ref=e280]:
+                        - text: 3 cuotas de
+                        - img "37734 pesos argentinos" [ref=e281]:
+                          - generic [ref=e283]: $
+                          - generic [ref=e284]: "37.734"
+                    - generic [ref=e285]: Envío gratispor ser tu primera compra
+              - group "5 de 20" [ref=e286]:
+                - generic [ref=e287]:
+                  - img [ref=e290]
+                  - generic [ref=e291]:
+                    - link "Estuche Duro Ginsco Para Auriculares Inalámbricos Negro Negro" [ref=e292] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/estuche-duro-ginsco-para-auriculares-inalambricos-negro/up/MLAU3417654539#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=4&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1533678977&sid=recos
+                    - generic [ref=e293]:
+                      - img "142199 pesos argentinos" [ref=e295]:
+                        - generic [ref=e296]: $
+                        - generic [ref=e297]: "142.199"
+                      - generic [ref=e298]:
+                        - text: 3 cuotas de
+                        - img "58965 pesos argentinos" [ref=e299]:
+                          - generic [ref=e301]: $
+                          - generic [ref=e302]: "58.965"
+                    - generic [ref=e303]: Envío gratispor ser tu primera compra
+              - group [ref=e304]:
+                - generic [ref=e305]:
+                  - img [ref=e308]
+                  - generic [ref=e309]:
+                    - link [ref=e310] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-para-samsung-carga-rapida-tipo-c-25w-color-negro/p/MLA19896467#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=5&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2436239408&sid=recos
+                      - text: Cargador Para Samsung Carga Rápida Tipo C 25w Color Negro
+                    - generic [ref=e311]:
+                      - img [ref=e313]:
+                        - generic [ref=e314]: $
+                        - generic [ref=e315]: "14.792"
+                      - generic [ref=e316]:
+                        - text: 3 cuotas de
+                        - img [ref=e317]:
+                          - generic [ref=e319]: $
+                          - generic [ref=e320]: "6.133"
+                    - generic [ref=e321]: Envío gratispor ser tu primera compra
+              - group [ref=e322]:
+                - generic [ref=e323]:
+                  - img [ref=e326]
+                  - generic [ref=e327]:
+                    - link [ref=e328] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/smartwatch-jd-capri-183-llamadas-bluetooth-multiples-modos-deportivos-presion-arterial-spo2-control-de-musica-reloj-inteligente-negro/p/MLA34224460#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=6&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1414206105&sid=recos
+                      - text: Smartwatch Jd Capri 1.83 Llamadas Bluetooth Múltiples Modos Deportivos Presión Arterial Spo2 Control De Música Reloj Inteligente Negro
+                    - generic [ref=e329]:
+                      - img [ref=e330]:
+                        - generic [ref=e331]: $
+                        - generic [ref=e332]: "44.999"
+                      - generic [ref=e333]:
+                        - img [ref=e334]:
+                          - generic [ref=e335]: $
+                          - generic [ref=e336]: "33.993"
+                        - generic [ref=e337]: 24% OFF
+                      - generic [ref=e338]:
+                        - text: 3 cuotas de
+                        - img [ref=e339]:
+                          - generic [ref=e341]: $
+                          - generic [ref=e342]: "14.095"
+                    - generic [ref=e343]: Envío gratispor ser tu primera compra
+              - group [ref=e344]:
+                - generic [ref=e345]:
+                  - img [ref=e348]
+                  - generic [ref=e349]:
+                    - link [ref=e350] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/smartwatch-redmi-watch-5-active-negro-caja-blanca-diseno-de-correa-lisa-deportiva/p/MLA43264141#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=7&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1536216127&sid=recos
+                      - text: Smartwatch Redmi Watch 5 Active Negro Caja Blanca Diseño De Correa Lisa Deportiva
+                    - generic [ref=e351]:
+                      - img [ref=e352]:
+                        - generic [ref=e353]: $
+                        - generic [ref=e354]: "79.999"
+                      - generic [ref=e355]:
+                        - img [ref=e356]:
+                          - generic [ref=e357]: $
+                          - generic [ref=e358]: "76.999"
+                        - generic [ref=e359]: 3% OFF
+                      - generic [ref=e360]:
+                        - text: Mismo precio 6 cuotas de
+                        - img [ref=e361]:
+                          - generic [ref=e363]: $
+                          - generic [ref=e364]: "12.833"
+                    - generic [ref=e365]: Envío gratispor ser tu primera compra
+              - group [ref=e366]:
+                - generic [ref=e367]:
+                  - img [ref=e370]
+                  - generic [ref=e371]:
+                    - link [ref=e372] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1437183483-funda-rigida-auriculares-jbl-tune-700bt-710bt-750btnc-otros-_JM?searchVariation=181034890118#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=8&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e
+                      - text: Funda Rigida Auriculares Jbl Tune 700bt 710bt 750btnc Otros
+                    - generic [ref=e373]:
+                      - img [ref=e374]:
+                        - generic [ref=e375]: $
+                        - generic [ref=e376]: "55.900"
+                      - generic [ref=e377]:
+                        - img [ref=e378]:
+                          - generic [ref=e379]: $
+                          - generic [ref=e380]: "53.105"
+                        - generic [ref=e381]: 5% OFF
+                      - generic [ref=e382]:
+                        - text: 3 cuotas de
+                        - img [ref=e383]:
+                          - generic [ref=e385]: $
+                          - generic [ref=e386]: "22.020"
+                    - generic [ref=e387]: Envío gratispor ser tu primera compra
+              - group [ref=e388]:
+                - generic [ref=e389]:
+                  - img [ref=e392]
+                  - generic [ref=e393]:
+                    - link [ref=e394] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/power-bank-energizer-max-cargador-portatil-powerbank-5000mah-con-visor-lcd-color-negro/p/MLA52103899#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=9&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2174868876&sid=recos
+                      - text: Power Bank Energizer Max Cargador Portatil Powerbank 5000mah Con Visor Lcd Color Negro
+                    - generic [ref=e395]:
+                      - img [ref=e396]:
+                        - generic [ref=e397]: $
+                        - generic [ref=e398]: "36.000"
+                      - generic [ref=e399]:
+                        - img [ref=e400]:
+                          - generic [ref=e401]: $
+                          - generic [ref=e402]: "24.094"
+                        - generic [ref=e403]: 33% OFF
+                      - generic [ref=e404]:
+                        - text: 3 cuotas de
+                        - img [ref=e405]:
+                          - generic [ref=e407]: $
+                          - generic [ref=e408]: "9.991"
+                    - generic [ref=e409]: Envío gratispor ser tu primera compra
+              - group [ref=e410]:
+                - generic [ref=e411]:
+                  - img [ref=e414]
+                  - generic [ref=e415]:
+                    - link [ref=e416] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1446717687-estuche-rigido-auriculares-jbl-tune-750nc770-sony-wh-ch500-_JM?searchVariation=181514197534#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=10&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e
+                      - text: Estuche Rígido Auriculares Jbl Tune 750nc/770 Sony Wh-ch500
+                    - generic [ref=e417]:
+                      - img [ref=e418]:
+                        - generic [ref=e419]: $
+                        - generic [ref=e420]: "65.900"
+                      - generic [ref=e421]:
+                        - img [ref=e422]:
+                          - generic [ref=e423]: $
+                          - generic [ref=e424]: "62.605"
+                        - generic [ref=e425]: 5% OFF
+                      - generic [ref=e426]:
+                        - text: 3 cuotas de
+                        - img [ref=e427]:
+                          - generic [ref=e429]: $
+                          - generic [ref=e430]: "25.960"
+                    - generic [ref=e431]: Envío gratispor ser tu primera compra
+              - group [ref=e432]:
+                - generic [ref=e433]:
+                  - img [ref=e436]
+                  - generic [ref=e437]:
+                    - link [ref=e438] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/reloj-smartwatch-xiaomi-band-10-172-amoled-bluetooth-resistencia-5atm-midnight-black/p/MLA52125757#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=11&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2205199898&sid=recos
+                      - text: Reloj Smartwatch Xiaomi Band 10 1.72 Amoled Bluetooth Resistencia 5atm Midnight Black
+                    - generic [ref=e439]:
+                      - img [ref=e440]:
+                        - generic [ref=e441]: $
+                        - generic [ref=e442]: "113.998"
+                      - generic [ref=e443]:
+                        - img [ref=e444]:
+                          - generic [ref=e445]: $
+                          - generic [ref=e446]: "90.970"
+                        - generic [ref=e447]: 20% OFF
+                      - generic [ref=e448]:
+                        - text: Mismo precio 6 cuotas de
+                        - img [ref=e449]:
+                          - generic [ref=e451]: $
+                          - generic [ref=e452]: "15.161"
+                    - generic [ref=e453]: Envío gratispor ser tu primera compra
+              - group [ref=e454]:
+                - generic [ref=e455]:
+                  - img [ref=e458]
+                  - generic [ref=e459]:
+                    - link [ref=e460] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/power-bank-energizer-ultimate-cargador-portatil-powerbank-10000mah-carga-rapida-225w-color-negro/p/MLA47759077#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=12&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2045874550&sid=recos
+                      - text: Power Bank Energizer Ultimate Cargador Portatil Powerbank 10000mah Carga Rapida 22.5w Color Negro
+                    - generic [ref=e461]:
+                      - img [ref=e462]:
+                        - generic [ref=e463]: $
+                        - generic [ref=e464]: "64.000"
+                      - generic [ref=e465]:
+                        - img [ref=e466]:
+                          - generic [ref=e467]: $
+                          - generic [ref=e468]: "46.560"
+                        - generic [ref=e469]: 27% OFF
+                      - generic [ref=e470]:
+                        - text: 3 cuotas de
+                        - img [ref=e471]:
+                          - generic [ref=e473]: $
+                          - generic [ref=e474]: "19.306"
+                    - generic [ref=e475]: Envío gratispor ser tu primera compra
+              - group [ref=e476]:
+                - generic [ref=e477]:
+                  - img [ref=e480]
+                  - generic [ref=e481]:
+                    - link [ref=e482] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-samsung-ultra-rapido-25w-original-cable-tipo-c-a-c/up/MLAU3324086172#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=13&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1511527119&sid=recos
+                      - text: Cargador Samsung Ultra Rapido 25w Original Cable Tipo C A C Negro
+                    - generic [ref=e483]:
+                      - img [ref=e485]:
+                        - generic [ref=e486]: $
+                        - generic [ref=e487]: "35.999"
+                      - generic [ref=e488]:
+                        - text: 3 cuotas de
+                        - img [ref=e489]:
+                          - generic [ref=e491]: $
+                          - generic [ref=e492]: "14.927"
+                    - generic [ref=e493]: Envío gratispor ser tu primera compra
+              - group [ref=e494]:
+                - generic [ref=e495]:
+                  - img [ref=e498]
+                  - generic [ref=e499]:
+                    - link [ref=e500] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/smartwatch-jd-cairo-llamadas-bluetooth-pantalla-183-presion-arterial-control-de-musica-notificaciones-reloj-inteligente-color-beige/p/MLA50915593#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=14&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1595801133&sid=recos
+                      - text: Smartwatch Jd Cairo Llamadas Bluetooth Pantalla 1.83 Presión Arterial Control De Musica Notificaciones Reloj Inteligente Color Beige
+                    - generic [ref=e501]:
+                      - img [ref=e503]:
+                        - generic [ref=e504]: $
+                        - generic [ref=e505]: "41.620"
+                      - generic [ref=e506]:
+                        - text: Mismo precio 6 cuotas de
+                        - img [ref=e507]:
+                          - generic [ref=e509]: $
+                          - generic [ref=e510]: "6.936"
+                    - generic [ref=e511]: Envío gratispor ser tu primera compra
+              - group [ref=e512]:
+                - generic [ref=e513]:
+                  - img [ref=e516]
+                  - generic [ref=e517]:
+                    - link [ref=e518] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/power-bank-cargador-portatil-ugreen-10000mah-bateria-20w-externa-alta-capacidad-con-usb-carga-rapida-y-usb-c-para-celular-color-negro-dual-para-viajes-carga-multiple-segura-display-led-pb311-25742/p/MLA37248532#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=15&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2612457802&sid=recos
+                      - text: Power Bank Cargador Portatil Ugreen 10000mah Bateria 20w Externa Alta Capacidad Con Usb Carga Rapida Y Usb C Para Celular Color Negro Dual Para Viajes Carga Multiple Segura Display Led - Pb311 25742
+                    - generic [ref=e519]:
+                      - img [ref=e520]:
+                        - generic [ref=e521]: $
+                        - generic [ref=e522]: "85.000"
+                      - generic [ref=e523]:
+                        - img [ref=e524]:
+                          - generic [ref=e525]: $
+                          - generic [ref=e526]: "55.999"
+                        - generic [ref=e527]: 34% OFF
+                      - generic [ref=e528]:
+                        - text: 3 cuotas de
+                        - img [ref=e529]:
+                          - generic [ref=e531]: $
+                          - generic [ref=e532]: "23.220"
+                    - generic [ref=e533]: Envío gratispor ser tu primera compra
+              - group [ref=e534]:
+                - generic [ref=e535]:
+                  - img [ref=e538]
+                  - generic [ref=e539]:
+                    - link [ref=e540] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-samsung-45w-s25-s25-ultra-tipo-c-cable-color-negro/p/MLA47006816#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=16&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1586438411&sid=recos
+                      - text: Cargador Samsung 45w S25+ S25 Ultra Tipo C + Cable Color Negro
+                    - generic [ref=e541]:
+                      - img [ref=e543]:
+                        - generic [ref=e544]: $
+                        - generic [ref=e545]: "36.046"
+                      - generic [ref=e546]:
+                        - text: Mismo precio 3 cuotas de
+                        - img [ref=e547]:
+                          - generic [ref=e549]: $
+                          - generic [ref=e550]: "12.015"
+                    - generic [ref=e551]: Envío gratispor ser tu primera compra
+              - group [ref=e552]:
+                - generic [ref=e553]:
+                  - img [ref=e556]
+                  - generic [ref=e557]:
+                    - link [ref=e558] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-super-rapido-con-cable-tipo-c-30w-pro21-negro/p/MLA47069652#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=17&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA2268143652&sid=recos
+                      - text: Cargador Super Rápido Con Cable Tipo C 30w Pro21 Negro
+                    - generic [ref=e559]:
+                      - img [ref=e561]:
+                        - generic [ref=e562]: $
+                        - generic [ref=e563]: "15.000"
+                      - generic [ref=e564]:
+                        - text: Mismo precio 6 cuotas de
+                        - img [ref=e565]:
+                          - generic [ref=e567]: $
+                          - generic [ref=e568]: "2.500"
+                    - generic [ref=e569]: Envío gratispor ser tu primera compra
+              - group [ref=e570]:
+                - generic [ref=e571]:
+                  - img [ref=e574]
+                  - generic [ref=e575]:
+                    - link [ref=e576] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-samsung-s23-original-carga-ultra-rapida-25w-tipo-c/up/MLAU3422232076#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=18&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1532640413&sid=recos
+                      - text: Cargador Samsung S23 Original Carga Ultra Rápida 25w Tipo C Negro
+                    - generic [ref=e577]:
+                      - img [ref=e578]:
+                        - generic [ref=e579]: $
+                        - generic [ref=e580]: "50.000"
+                      - generic [ref=e581]:
+                        - img [ref=e582]:
+                          - generic [ref=e583]: $
+                          - generic [ref=e584]: "34.570"
+                        - generic [ref=e585]: 30% OFF
+                      - generic [ref=e586]:
+                        - text: Mismo precio 3 cuotas de
+                        - img [ref=e587]:
+                          - generic [ref=e589]: $
+                          - generic [ref=e590]: "11.523"
+                    - generic [ref=e591]: Envío gratispor ser tu primera compra
+              - group [ref=e592]:
+                - generic [ref=e593]:
+                  - img [ref=e596]
+                  - generic [ref=e597]:
+                    - link [ref=e598] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/cargador-portatil-20000mah-xiaomi-redmi-power-bank-18w-usb-c/p/MLA21690783#polycard_client=recommendations_cart_order_cart_sellers&reco_backend=unip2p_cart_sellers_GM&reco_model=retrieval-ranker-complementarios&reco_client=cart_order_cart_sellers&reco_item_pos=19&reco_backend_type=function&reco_id=95175cd9-0d02-4766-be7b-c3270136788e&wid=MLA1596748835&sid=recos
+                      - text: Cargador Portatil 20000mah Xiaomi Redmi Power Bank 18w Usb-c
+                    - generic [ref=e599]:
+                      - img [ref=e601]:
+                        - generic [ref=e602]: $
+                        - generic [ref=e603]: "48.000"
+                      - generic [ref=e604]:
+                        - text: 3 cuotas de
+                        - img [ref=e605]:
+                          - generic [ref=e607]: $
+                          - generic [ref=e608]: "19.904"
+                    - generic [ref=e609]: Envío gratispor ser tu primera compra
+            - button "Siguiente" [ref=e610] [cursor=pointer]:
+              - img [ref=e611]
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e613] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e614]: 
+  - contentinfo [ref=e615]:
+    - generic [ref=e617]:
+      - generic [ref=e618]:
+        - generic [ref=e619]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e620]:
+          - list [ref=e621]:
+            - listitem [ref=e622]:
+              - link "Trabajá con nosotros" [ref=e623] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e624]:
+              - link "Términos y condiciones" [ref=e625] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e626]:
+              - link "Promociones" [ref=e627] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e628]:
+              - link "Cómo cuidamos tu privacidad" [ref=e629] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e630]:
+              - link "Accesibilidad" [ref=e631] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e632]:
+              - link "Información al usuario financiero" [ref=e633] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e634]:
+              - link "Ayuda" [ref=e635] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e636]:
+              - link "Defensa del Consumidor" [ref=e637] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e638]:
+              - link "Información sobre seguros" [ref=e639] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e640]:
+              - link "Libro de quejas online" [ref=e641] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e642]:
+              - link "Programa de Afiliados" [ref=e643] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e644]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e645] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+  - region [ref=e646]:
+    - generic [ref=e647]:
+      - paragraph [ref=e649]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e650] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e651]:
+        - button "Aceptar cookies" [ref=e652] [cursor=pointer]
+        - button "Configurar cookies" [ref=e653] [cursor=pointer]
+```

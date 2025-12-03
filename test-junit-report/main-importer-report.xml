@@ -1,0 +1,77 @@
+<testsuites id="" name="" tests="3" failures="1" skipped="0" errors="0" time="52.683357">
+<testsuite name="e2e\cart\tc-01-add-to-cart.spec.ts" timestamp="2025-12-03T18:55:34.008Z" hostname="chromium" tests="1" failures="0" skipped="0" time="14.965" errors="0">
+<testcase name="Agregar productos al carrito › TC-01 - Validar agregar productos al carrito (happy path)" classname="e2e\cart\tc-01-add-to-cart.spec.ts" time="14.965">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\e2e-cart-tc-01-add-to-cart-c10db-ctos-al-carrito-happy-path--chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="e2e\cart\tc-02-validate-required-variants.spec.ts" timestamp="2025-12-03T18:55:34.008Z" hostname="chromium" tests="1" failures="1" skipped="0" time="13.99" errors="0">
+<testcase name="[US02] Carrito de compras | Validaciones del carrito › TC-02 - Validar no poder agregar productos sin elegir variantes obligatorias" classname="e2e\cart\tc-02-validate-required-variants.spec.ts" time="13.99">
+<failure message="tc-02-validate-required-variants.spec.ts:11:9 TC-02 - Validar no poder agregar productos sin elegir variantes obligatorias" type="FAILURE">
+<![CDATA[  [chromium] › e2e\cart\tc-02-validate-required-variants.spec.ts:11:9 › [US02] Carrito de compras | Validaciones del carrito › TC-02 - Validar no poder agregar productos sin elegir variantes obligatorias › Entonces el recuadro de "Talle" deberá enmarcarse en rojo con la palabra "Elegí" 
+
+    Error: expect(locator).toHaveCSS(expected) failed
+
+    Locator:  getByText('Elegí').first()
+    Expected: "rgb(242, 61, 79)"
+    Received: "rgba(0, 0, 0, 0.9)"
+    Timeout:  5000ms
+
+    Call log:
+      - Expect "toHaveCSS" with timeout 5000ms
+      - waiting for getByText('Elegí').first()
+        8 × locator resolved to <span class="ui-pdp-outside_variations__title__value ui-pdp-color--BLACK">Elegí</span>
+          - unexpected value "rgba(0, 0, 0, 0.9)"
+
+
+       at ..\pageobjectmodels\ProductDetailPage.ts:40
+
+      38 |     async verifyProductNotAdded() {
+      39 |         const iframe = this.page.locator('[data-testid="iframe-element"]');
+    > 40 |         await expect(iframe).not.toBeVisible({ timeout: 3000 });
+         |                                 ^
+      41 |     }
+      42 | }
+        at ProductDetailPage.verifyVariantError (C:\Programacion\Prueba-Tecnica-Codeable-Labs\pageobjectmodels\ProductDetailPage.ts:40:33)
+        at C:\Programacion\Prueba-Tecnica-Codeable-Labs\tests\e2e\cart\tc-02-validate-required-variants.spec.ts:27:13
+        at C:\Programacion\Prueba-Tecnica-Codeable-Labs\tests\e2e\cart\tc-02-validate-required-variants.spec.ts:26:9
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\error-context.md
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    ..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\trace.zip
+    Usage:
+
+        pnpm exec playwright show-trace ..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\test-failed-1.png]]
+
+[[ATTACHMENT|..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\error-context.md]]
+
+[[ATTACHMENT|..\test-results\e2e-cart-tc-02-validate-re-291dd-egir-variantes-obligatorias-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="e2e\cart\tc-06-add-multiple-products.spec.ts" timestamp="2025-12-03T18:55:34.008Z" hostname="chromium" tests="1" failures="0" skipped="0" time="18.201" errors="0">
+<testcase name="[US03] Carrito de compras | Agregar múltiples productos › TC-06 - Validar cantidad al agregar múltiples productos diferentes" classname="e2e\cart\tc-06-add-multiple-products.spec.ts" time="18.201">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\e2e-cart-tc-06-add-multipl-b25a4-tiples-productos-diferentes-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

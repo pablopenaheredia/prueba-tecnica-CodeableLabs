@@ -1,0 +1,2654 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region [ref=e2]:
+    - generic [ref=e3]:
+      - paragraph [ref=e5]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e6] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e7]:
+        - button "Aceptar cookies" [ref=e8] [cursor=pointer]
+        - button "Configurar cookies" [ref=e9] [cursor=pointer]
+  - banner [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - navigation "Menú de métodos abreviados" [ref=e13]:
+          - heading "Saltar a" [level=2]
+          - list "Saltar a" [ref=e14]:
+            - listitem:
+              - link "Saltar el contenido" [ref=e15] [cursor=pointer]:
+                - /url: "#root-app"
+            - listitem:
+              - link "Comentar sobre accesibilidad" [ref=e16] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - separator [ref=e17]
+          - heading "Métodos abreviados de teclado" [level=2]
+          - list "Métodos abreviados de teclado" [ref=e18]:
+            - listitem:
+              - link "Buscar /" [ref=e19] [cursor=pointer]:
+                - /url: "#cb1-edit"
+                - generic:
+                  - generic: Buscar
+                  - generic [ref=e21]: /
+            - listitem:
+              - link "Mis compras P" [ref=e22] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list
+                - generic:
+                  - generic: Mis compras
+                  - generic [ref=e24]: P
+            - listitem:
+              - link "Carrito C" [ref=e25] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/gz/cart
+                - generic:
+                  - generic: Carrito
+                  - generic [ref=e27]: C
+            - listitem:
+              - link "Descripción D" [ref=e28] [cursor=pointer]:
+                - /url: "#description"
+                - generic:
+                  - generic: Descripción
+                  - generic [ref=e30]: D
+            - listitem:
+              - link "Preguntas Q" [ref=e31] [cursor=pointer]:
+                - /url: "#questions"
+                - generic:
+                  - generic: Preguntas
+                  - generic [ref=e33]: Q
+            - listitem:
+              - link "Calificaciones R" [ref=e34] [cursor=pointer]:
+                - /url: "#reviews_capability_v3"
+                - generic:
+                  - generic: Calificaciones
+                  - generic [ref=e36]: R
+            - listitem:
+              - link "Abrir/cerrar el menú de métodos abreviados Z" [ref=e37] [cursor=pointer]:
+                - /url: "#"
+                - generic:
+                  - generic: Abrir/cerrar el menú de métodos abreviados
+                  - generic [ref=e39]: Z
+          - generic [ref=e42]: Para moverte entre elementos, usa las flechas arriba o abajo del teclado.
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e43] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e45]:
+        - generic [ref=e46]: Ingresá lo que quieras encontrar
+        - combobox "Ingresá lo que quieras encontrar" [ref=e47]
+        - button "Buscar" [ref=e48] [cursor=pointer]:
+          - img "Buscar" [ref=e49]: 
+        - text: Tiendas oficiales
+      - link "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e51] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/suscripciones/melimas?#origin=bannermenu-acq-melimas&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N1A5_BNR_MENU_349&me.flow=146&me.logic=campaigns&me.position=0
+        - img "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e52]
+      - button " Enviar a Córdoba 5013" [ref=e55] [cursor=pointer]:
+        - text: 
+        - generic [ref=e56]: Enviar a
+        - generic [ref=e57]: Córdoba 5013
+      - list [ref=e60]:
+        - listitem [ref=e61]:
+          - button "Categorías" [ref=e62] [cursor=pointer]
+        - listitem [ref=e63]:
+          - link "Ofertas" [ref=e64] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e65]:
+          - link "Cupones" [ref=e66] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e67]:
+          - link "Supermercado" [ref=e68] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e69]:
+          - link "Moda" [ref=e70] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e71]:
+          - link "Mercado Play Gratis" [ref=e72] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e73]: Gratis
+        - listitem [ref=e74]:
+          - link "Vender" [ref=e75] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e76]:
+          - link "Ayuda" [ref=e77] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e78]:
+        - navigation "Menú de usuario" [ref=e79]:
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - button "Pablo, menú" [ref=e84] [cursor=pointer]:
+                - generic [ref=e85]:
+                  - generic [ref=e88]: P
+                  - generic [ref=e89]: Pablo
+            - listitem [ref=e91]:
+              - link "Mis compras" [ref=e92] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+              - button "Favoritos" [ref=e93] [cursor=pointer]:
+                - generic [ref=e94]: Favoritos
+              - button "Notificaciones" [ref=e95] [cursor=pointer]:
+                - generic [ref=e96]: 
+            - listitem
+        - link " 2 productos en tu carrito" [ref=e97] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e98]: 
+          - generic [ref=e99]: 2 productos en tu carrito
+          - generic [ref=e100]: "2"
+  - main [ref=e101]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - list [ref=e107]:
+          - listitem [ref=e108]: "También puede interesarte :"
+          - listitem [ref=e109]:
+            - link "logitech g435" [ref=e110] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/logitech-g435#topkeyword
+          - listitem [ref=e111]:
+            - text: "-"
+            - link "mouse logitech" [ref=e112] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/mouse-logitech#topkeyword
+          - listitem [ref=e113]:
+            - text: "-"
+            - link "logitech g 203" [ref=e114] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/logitech-g-203#topkeyword
+          - listitem [ref=e115]:
+            - text: "-"
+            - link "logitech g703" [ref=e116] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/logitech-g703#topkeyword
+          - listitem [ref=e117]:
+            - text: "-"
+            - link "mouse logitech g 203" [ref=e118] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/mouse-logitech-g-203#topkeyword
+          - listitem [ref=e119]:
+            - text: "-"
+            - link "logitech" [ref=e120] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/logitech#topkeyword
+          - listitem [ref=e121]:
+            - text: "-"
+            - link "logitech g302" [ref=e122] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/logitech-g302#topkeyword
+        - generic [ref=e123]:
+          - generic [ref=e126]:
+            - link "Volver al listado" [ref=e127] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.ar/mouse-logitech-g203-lightsync%2C-color-negro
+            - navigation [ref=e128]:
+              - list [ref=e129]:
+                - listitem [ref=e130]:
+                  - link "Computación" [ref=e131] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.ar/c/computacion
+                  - img [ref=e133]
+                - listitem [ref=e135]:
+                  - link "Periféricos de PC" [ref=e136] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/
+                  - img [ref=e138]
+                - listitem [ref=e140]:
+                  - link "Mouses y Teclados" [ref=e141] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/
+                  - img [ref=e143]
+                - listitem [ref=e145]:
+                  - link "Mouses" [ref=e146] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/
+                  - img [ref=e148]
+                - listitem [ref=e150]:
+                  - link "Mouse Logitech" [ref=e151] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/mouse-logitech
+          - generic [ref=e152]:
+            - link "Vender uno igual" [ref=e154] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.ar/syi/core/list/equals?itemId=MLA1988606518&productId=MLA24566685
+            - button "Compartir" [ref=e158] [cursor=pointer]:
+              - generic [ref=e159]: Compartir
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - group "Galería de fotos, Mouse Logitech G203 Lightsync, Color Negro" [ref=e167]:
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - button "Imagen 1 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e171] [cursor=pointer]:
+                      - img "Mouse Logitech G203 Lightsync, Color Negro" [ref=e172]
+                    - figure [ref=e173]:
+                      - img "Mouse Logitech G203 Lightsync, Color Negro" [ref=e174]
+                  - button "Imagen 2 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e177] [cursor=pointer]:
+                    - img "Mouse Logitech G203 Lightsync, Color Negro" [ref=e178]
+                  - button "Imagen 3 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e181] [cursor=pointer]:
+                    - img "Mouse Logitech G203 Lightsync, Color Negro" [ref=e182]
+                  - button "Imagen 4 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e185] [cursor=pointer]:
+                    - img "Mouse Logitech G203 Lightsync, Color Negro" [ref=e186]
+              - generic [ref=e187]:
+                - link "Ver más productos marca Logitech" [ref=e188] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/nuevo/_BRAND_15788
+                  - paragraph [ref=e190]: Ver más productos marca Logitech
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - generic [ref=e193]: Nuevo | +5mil vendidos
+                    - generic [ref=e194]:
+                      - heading "Mouse Logitech G203 Lightsync, Color Negro" [level=1] [ref=e195]
+                      - generic [ref=e196]:
+                        - link "MÁS VENDIDO" [ref=e199] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mas-vendidos/MLA1714#origin=pdp
+                        - link "10º en Mouses" [ref=e202] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mas-vendidos/MLA1714#origin=pdp
+                    - link "Calificación 4.9 de 5. 1144 opiniones." [ref=e204] [cursor=pointer]:
+                      - /url: /noindex/catalog/reviews/MLA17396449?noIndex=true&access=view_all&modal=true&controlled=true&show_fae=true&brandId=15788&source_platform=/web/desktop&device_id_variant=d09d190a-a2f5-4a3e-8f9f-fd0301e844d2
+                      - generic [ref=e205]: "4.9"
+                      - generic [ref=e206]:
+                        - img [ref=e207]
+                        - img [ref=e209]
+                        - img [ref=e211]
+                        - img [ref=e213]
+                        - img [ref=e215]
+                      - generic [ref=e217]: Calificación 4.9 de 5. 1144 opiniones.
+                      - generic [ref=e218]: (1144)
+                  - switch "Agregar a favoritos" [ref=e219] [cursor=pointer]:
+                    - img [ref=e220]
+                    - img
+                    - generic [ref=e223]: Agregar a favoritos
+                - generic [ref=e225]:
+                  - generic [ref=e226]:
+                    - img "31488 pesos" [ref=e229]:
+                      - generic [ref=e230]: $
+                      - generic [ref=e231]: "31.488"
+                    - group [ref=e232]:
+                      - paragraph [ref=e233]:
+                        - text: 3 cuotas de
+                        - img "13057 pesos con 02 centavos" [ref=e235]:
+                          - generic [ref=e236]: $
+                          - generic [ref=e237]: "13.057"
+                          - generic [ref=e238]: ","
+                          - generic [ref=e239]: "02"
+                      - paragraph [ref=e240]:
+                        - text: "Precio sin impuestos nacionales:"
+                        - img "28496 pesos" [ref=e242]:
+                          - generic [ref=e243]: $
+                          - generic [ref=e244]: "28.496"
+                  - link "Ver los medios de pago" [ref=e248] [cursor=pointer]:
+                    - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1988606518/payments?new_version=true&modal=false&newIndex=true
+                    - generic [ref=e249]: Ver los medios de pago
+                - generic [ref=e251]:
+                  - paragraph [ref=e252]: Color:Negro
+                  - button "Botón 1 de 1, Negro" [ref=e254] [cursor=pointer]:
+                    - img "Negro" [ref=e255]
+                - generic [ref=e257]:
+                  - heading "Lo que tenés que saber de este producto" [level=2] [ref=e259]
+                  - generic [ref=e261]:
+                    - list [ref=e262]:
+                      - listitem [ref=e263]: •Resolución del sensor de 8000 dpi para una precisión extrema en el juego.
+                      - listitem [ref=e264]: •Velocidad máxima de 150 ips para movimientos fluidos.
+                      - listitem [ref=e265]: •Conexión USB para fácil compatibilidad.
+                      - listitem [ref=e266]: •Seis botones personalizables para acceso rápido.
+                      - listitem [ref=e267]: •Diseño ergonómico que minimiza la fatiga durante largas sesiones.
+                      - listitem [ref=e268]: •Tecnología óptica para un seguimiento suave y sensible.
+                    - link "Ver características" [ref=e269] [cursor=pointer]:
+                      - /url: "#highlighted_specs_attrs"
+                      - generic [ref=e270]: Ver características
+                - generic [ref=e271]:
+                  - paragraph [ref=e272]: "Opciones de compra:"
+                  - list [ref=e273]:
+                    - listitem [ref=e274]:
+                      - link "29 productos nuevos desde 31488 pesos" [ref=e276] [cursor=pointer]:
+                        - generic [ref=e277]:
+                          - generic [ref=e278]: 29 productos nuevos desde
+                          - img "31488 pesos" [ref=e280]:
+                            - generic [ref=e281]: $
+                            - generic [ref=e282]: "31.488"
+                - link "Ir a la compra" [ref=e283] [cursor=pointer]:
+                  - /url: "#buybox-form"
+            - generic [ref=e287]:
+              - generic [ref=e288]:
+                - heading "Productos relacionados" [level=2] [ref=e291]
+                - generic [ref=e294]: Ad
+              - region "Productos relacionados" [ref=e295]:
+                - generic [ref=e296]:
+                  - generic [ref=e298]:
+                    - group "1 de 50" [ref=e299]:
+                      - generic [ref=e300]:
+                        - img [ref=e302]
+                        - generic [ref=e303]:
+                          - link "Mouse Gamer Alámbrico Razer Deathadder Essential Ergonómico Color Negro" [ref=e304] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=pp76UGUS%2Fq30BRkXsmr%2FkRBEJb6qyH%2FW6BUuN7E1%2B9O4%2FknSm%2BVR7NBOB%2BpOCl4rXQjxBesHL%2FSO5f2hJlWqLLI%2FFnPRo8pjfUveLEiDnmGVc7zU%2FZFvm0eI7eJM4MnbViaYhcxRTrynzoyyRe1vtNBXQ6fmGKRPOKkXmxUZLsZNDKRPnlgOn%2BCN62MfmrLe04MV9sHNQhsibV7s2lRO4BkSXkfbDOueZOwDnZD0q4aVtFB%2BQuOjplBm%2FjU1hWGjfUTrC0YivuY%2FYpZzzh%2F83GAkHowo7suUrpEY1fZ1GSJD9xzAcd5mcK4dpPFaNhiE%2FoTxmTE0ffqD2jfGo2R2pRyVkHCO%2BURd1mXMvQk2qL%2FgaWLPDtYFayiq3CS9EhR6EvsTJcy%2FVm%2FxPRaNQMuEb0zdVm0plN3FrhxK%2FB9cjFlRUBbqLCVeLgR9A3%2Fe%2BwYx8ZCKBAIgUxBW5O8PkJt81oeuttbMdjFa2M963Es3%2FR2wwFhQXIEqpJq04geKitq%2B3dAqI4%2B2ltCL0m0uFvOkYA6av0ucPFQSxaMpmM2YNSSeakxlV6BHkveTN6uEgU5vPq7QkwCJ5ollaDZju4ACm2rWrV1hwXEimwiUfoRMlVJYEobqgMsardKuvgC6vsUsFSZeyOv697GWHGPGG%2F9H%2F1uaREfMWUDxGs0XaNbhLxoKfiAEHed5UN9WXtVijZSidJaFJST4TGqXC%2B3xLjTbFWQShBF99dxrPbdvffOz5%2BgOXPT1TUKkpYeYoU0jLq%2Bvlg%2FdLr9alooEu2Tqb9jS3stcMj2%2Fzhq7iICU%2B%2FsKDE6sq9EtO0b3gDBOk6MsnV%2BEtuhmxQjlPeR38NIKQ7r%2FIgyRMmLCANJnbEr8OQD0u5x5hZMmDDxCkIoHAq399llDOJNCCDM4DWtVM3R7NalaRWpPLSaIZh1KLuTJ0FB%2FG%2FTaWXra9ijPGW%2BN4TVg%2By34Edsiw2KoI2J%2F%2FWv8g%2B1g9F1XA56w671OdZ%2BXr8iLP8JuOJo4o8OUK%2B%2FYNBI5nn5OWMVdiexajFbPuHuSdSTDVFQ%2BJJqa4xxW9QGu%2FHzz6ULHvLCgf9L2FnFvqh8VIrV0MQ%3D%3D&catalog_product_id=MLA46189345&zip_code=5013
+                          - generic [ref=e305]:
+                            - 'img "Antes: 40637 pesos argentinos" [ref=e306]':
+                              - generic [ref=e307]: $
+                              - generic [ref=e308]: "40.637"
+                            - generic [ref=e309]:
+                              - 'img "Ahora: 36132 pesos argentinos" [ref=e310]':
+                                - generic [ref=e311]: $
+                                - generic [ref=e312]: "36.132"
+                              - generic [ref=e313]: 11% OFF
+                            - generic [ref=e314]:
+                              - text: 3 cuotas de
+                              - img "14983 pesos argentinos" [ref=e315]:
+                                - generic [ref=e316]: $
+                                - generic [ref=e317]: "14.983"
+                          - generic [ref=e318]: Envío gratispor ser tu primera compra
+                    - group "2 de 50" [ref=e319]:
+                      - generic [ref=e320]:
+                        - img [ref=e322]
+                        - generic [ref=e323]:
+                          - link "Mouse De Juego Hamer's Hexbolt Rgb Negro" [ref=e324] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=%2BViVsXQI17XuxGA9sQabDBjiOUEaa6%2B6jBJf9w9hHvQCSHDYjWpk%2Bo0Z9TAtuk%2BQbmSVfbxd3hB9%2FBdXiSQXKNZQoQWDfaMSQ4Drs3L%2Fc3Ot4vzWw52Z%2BYc1ezjIJ4m%2B6%2BckhQtbvX4FPoN5vnLFL6FRI6K%2FOlWh%2B%2B3N9T0KDnYz415e8Dx2u%2FnQS4Z4uDpY9a0Tectxc9Zdvpg4qbkA%2BSNrce%2FlOnU83yz42Dr1725U%2BRedf4nRAsOD%2BMBtgwJoqKsYyJ0a8SvQzz8PZDQm1eKQq1McAQ%2BkqGccw8IvZUWLP0gL4lTV7ZFeRkS8Kuus1fHUzqsi9vwNQmn91SH5B5Xse1dlaE9uziHgOENAlKHFTAE9E7hWMPC1pDW%2FNoGMCAMpbcB2kRV0Q%2Fd7khRZODfqO0sp6fYMxJFWRt%2Bk%2Fsz%2F9OEpcbBKH4U0fxbYrbo5BVSD6%2BsbhzCe8cpX1VPJr2a9524DXmxtip7hvefikYYEOK627ZbqIh06I1yMAtKXtZwsRAXC1CefIP0Ty%2BdU22vIdZNwhyM9LOvhywvcR8wPMg%2FKdr8KvHWIzAEqkAC4o9ALFftBrzvuweOG%2BernhwElUFoVQzm4asHn8LLRPvmlJci3reoX6VvYz61ogkTHyqJ0AM0QKo9zNpmAo0nW2mi%2FwkwLE%2BA4uMjb5YQPBpfOwipmR1JhILWU%2BtO6OW9Ij7kuRHz8yKhymDNqIlBU6JfmJ4O1FrVNX1nFbi3Tws%2FwxL2MelAW50%2FU44190wMRGXOIVglD8eeOKCmGdPXVMgig6Ig6wnJAlgGyahFK9dcvTbiXdJW2cMdl2N%2FTUTMtDy3jqITZhB3jJrMaDXtPpcoNZPq5InZ%2Ffmx0MC0ctojUDqLXnm%2FIovYMGtlsxaf8ruUP3LjSnrJDLapLhJ7me0WGyHIWytAa79hZCsbrZG4MJQ9ddHbxjN%2BuKEBs%2B3vtPkhgTtf8DvqDQEcCBuXJsGlqGh8Y2jc%3D&catalog_product_id=MLAU253267274&zip_code=5013
+                          - generic [ref=e325]:
+                            - img "21236 pesos argentinos" [ref=e327]:
+                              - generic [ref=e328]: $
+                              - generic [ref=e329]: "21.236"
+                            - generic [ref=e330]:
+                              - text: 3 cuotas de
+                              - img "8806 pesos argentinos" [ref=e331]:
+                                - generic [ref=e332]: $
+                                - generic [ref=e333]: "8.806"
+                          - generic [ref=e334]: Envío gratispor ser tu primera compra
+                    - group "3 de 50" [ref=e335]:
+                      - generic [ref=e336]:
+                        - img [ref=e338]
+                        - generic [ref=e339]:
+                          - link "Mouse Razer Gamer Cobra Rgb Color Negro" [ref=e340] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=tJYpe5ENCo4UeczVx7Mvgj8D2CkXLNp0DIGLVzP3EBdTlgEd51NY61kjR5fshv2EBbEJPoaPYeIg8xDrK7PmipnRKVjhcDoQI2O6VRYAmsTFvH9rG5xWlzlTqkIEq3WLP45RXkIKRVBdNnS3OOQiTpIkeX0p%2FJTKenyq5m3YZPgbjP6bVI372XtCP%2BFB%2FB7pV2t6T8bBtwqmo0n725K1yDB1ZcU9ragcyfruXrGZi5S6bckqFTrzoiJ7k89wkXPab9T3wvcgrL%2BGng%2FQ6O30CSz6JkaQsjWKho37aLFucjsceXazrFHcwDZ6bVa%2B55TzFTvAatZ%2Bl3nT6JIF%2BjfezqcTXYn%2BWd%2F%2FSxxH2VvCAFDG2xxH%2Bv0IkTj2G9c0NMpa%2FVR95cAIwnlIKk3K3cpGSN243kvlT65XrRH7bWNoUE60vNlHivA7quMkP1FKoNfiuRLB%2BFeht4OYaHLKBEvz%2Btv1Ocel5b%2BnKY1vD%2FOS2IkoXOJQ%2B717u%2B6j8v1qra79CoWIAOV5l5qWDXJakNXhCOh7uHGosW39dN33cPF0JOkrjD34yjr5uZUFwx0eDNnlMfoWz%2B1Aqv6mvbPzajXDU7X06frX55958bNLLSQzRWAuJnAt0hE%2BmEeo0ShcaCvrMlfyvRpB75HGRKrWht46TYXWQ44I3Q807wromyLpWnQGhhXzBhmvSiX3IjkDeG5vlXVnWRgMPmVh6bDFJnnrojW84sIDZDgtRCNI3aflA5OqJ%2FHAtbOz%2FQcLEyVzfVoqEJ89UQo513rwYWhj683pSVzBIwp%2BZ7tKmgcuIZvIxUTlTu3jcV%2FDiVzJjSK6%2BU2ZDI5LZZh%2F%2Fbdf%2BVWQaisNjfddr29y%2BEb5WSfT46p4JX7uOaPUw49OmC513kX7SHIol17nBMtUJ09mrd6y95%2FM%2BJBca%2FjlgS6i44RCNqny63CoaYzejL8Rjw%2FXbKSXQINzmA%2FjKQC0srDABfVTjGSLNG0jF9wpd7zEM902asPjPNfyYuhE1ZOWhtV8QayByp%2BtsRwwWUlgr8fb2tu8kjI8yPTQ&catalog_product_id=MLA26580853&zip_code=5013
+                          - generic [ref=e341]:
+                            - 'img "Antes: 74710 pesos argentinos" [ref=e342]':
+                              - generic [ref=e343]: $
+                              - generic [ref=e344]: "74.710"
+                            - generic [ref=e345]:
+                              - 'img "Ahora: 65992 pesos argentinos" [ref=e346]':
+                                - generic [ref=e347]: $
+                                - generic [ref=e348]: "65.992"
+                              - generic [ref=e349]: 11% OFF
+                            - generic [ref=e350]:
+                              - text: 3 cuotas de
+                              - img "27364 pesos argentinos" [ref=e351]:
+                                - generic [ref=e352]: $
+                                - generic [ref=e353]: "27.364"
+                          - generic [ref=e354]: Envío gratispor ser tu primera compra
+                    - group [ref=e355]:
+                      - generic [ref=e356]:
+                        - img [ref=e358]
+                        - generic [ref=e359]:
+                          - link [ref=e360] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Pz7%2FAJAolG6tykvoh7ybp5dv8%2BxUmJ%2FES8DZqI0agea4KdbjhosPX%2BGr7c83EyYpTGtG5q%2F97CvytDkX6n4h3S3o367RFAtNKyGXHx3AExN0V0xQO0HbtnP7YQGGgf7DSXMEUOJ%2FxEe6EjPgpKQGqXfAmwnqK1eK%2Bn3jEqJNpzLMpC6A0R%2BGsxyT3sgQYU8Gpw3OUMiDchBR5cYYB2ylWsz2SLVNJK9wOkfh6Ad7hlJj7OC6%2F0U3Jq8hXIul5e%2BSfjt9mRSuM3QvNVwdgt8umtyt9xAzyavZqnkLDTxVS0gblazDN0p5n9guyIAL9TdwKstgYYIiEsQLxhbHZ446s9skJUL6gX9JLT5LRhD3LyN482%2BhlJU0%2FAsnGK8wDQpfjiSslClIvjnDYc0xjG9RKnvvM%2BL%2BGpmF4m9vif%2BSpvIBOoG%2FXD3FoHqabbn9IiRu4qWGHcyky2CW3viK88rG%2BP2NchIC5e94nIoAw9QOKnuJRBDnx5pdOpxJQNkwzpkOZ5lFv9gdm8rgNfZ%2B6kAbUMY7qaz2xuHPxrOLTpu7vR3%2FHudEKnYB7Qe1DOzVhK6KBkU6h8sjasMT5ucP8DLoJIzyhRZMvW2dts6opw56gw2AKhjwhvtAnV1%2BGgXTixTDE5mtCAuomNcdPuBuDspPJ1gMUPG46SE1GjG2mXWB5ujxZw3sKed%2F0hR8RPoVUAnZphI3JvwBYzU%2FHaFTs7zOEnqtzrLOBPtgysnMfjHRNNyBJ0RohGO%2BzMe69tUdItHYGMGICJ0B9wJeqSgEeog4z536pJfCnrDOU71jCblQ5E8uRXVPceT2H4YZuraD6R8z6LYXZ4wd1E%2FyDKIr%2FcKz46gbVSzncaGTUnye4Xc2R9BGKtAUyXuv9Dfv6%2FRv%2BxLcbp37NpdjuBTQtUTssXqqj7erDg74XN5IBNUw3MkKMvOmuzHkDV3ofQbD9HK4dQL9JqJE8wL5eHywxuD%2FZSFVSQcFZ4ttoQnZSbLQ0g9vO03WsAtaLyLj6yEMaRrgp0eTaK1SflRNXzu%2FVMhYZ1I6GcENkAbRp5BU5dNnkcrsI7YsoPKCuAEu5dtuj7yw3tZ2rKpcW71tX9GDujEO&catalog_product_id=MLA61060040&zip_code=5013
+                            - text: Mouse Raton Gamer T-dagger Imperial Lite T-tgm 310w-l Con 8 Botones Configurables
+                          - generic [ref=e361]:
+                            - img [ref=e362]:
+                              - generic [ref=e363]: $
+                              - generic [ref=e364]: "19.999"
+                            - generic [ref=e365]:
+                              - img [ref=e366]:
+                                - generic [ref=e367]: $
+                                - generic [ref=e368]: "17.665"
+                              - generic [ref=e369]: 11% OFF
+                            - generic [ref=e370]:
+                              - text: 3 cuotas de
+                              - img [ref=e371]:
+                                - generic [ref=e372]: $
+                                - generic [ref=e373]: "7.325"
+                          - generic [ref=e374]: Envío gratispor ser tu primera compra
+                    - group [ref=e375]:
+                      - generic [ref=e376]:
+                        - img [ref=e378]
+                        - generic [ref=e379]:
+                          - link [ref=e380] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=8uHrNsDbwLcNr%2Fsy0VLS12t5tuF%2BBeGCs3TVu%2BPruFduVPnnpKHvYv4T8dUiEGgHrioHB3rCWBoWUGJEGAdB4bFEuf7AjdPQ9RN%2B0mVZbBRcCNN2AQG3Not8F5cmd7RLvixDdQQkn0YRpJGkV1GL7rkwGtngauqMDRoop97cM31i2yksk0%2B5WzMmbxo9w3l0MaFa7yy4linz3kDTxILlHevldvXmjPPDIIjz84fe6iKMdmn3oDqdhsRZd1FK3dqrg24ftCYuwwyMLkl1%2BsIm0KwH5LfEgh9x6zPUXdelZxUStyYP7wtzQdBQbkBgHC1bO%2Fy2PYKriUWK4fxzNKVE34iWTk3wJs6H4vrqqGqfUV%2BnW1hmsn1Huh46ixX43tGfrkmzTasJEHfyOTpWlzDiByXXmVe77dOb1jn51t120V%2F01gBMuNTvbLJMkiI3if7NZnlwpxAdvXtKXqLjWhMwZbNVuKDDp234Z2yj72A1%2BojrCqtd8kPzm6yMSSHEVV9kopHxxx3yOFzTcD6YRfZ7hF2b%2FnHbNjsQVC3htKppO8GV4u%2FKW5FLlTZsqQwAqmvrP5WnCNX6D5BYgro8ClR%2BlDh0txMieZntb%2BqyRxBg%2FY9rdH%2Fvx8K%2BXzXZmELrirmep7LOxAv4hs5KhX4HsOv%2FQPc03HP2QMdQkkSpa%2FMJ5Ia%2B5B11S%2FbG7cTl3NqlirUofvUbt0Bbwxjb4%2FbjYyABIOam4SoBIHHz7veY1BPeLDh2NdAUSekrj2kTY4d7RT%2BPeAiYA%2BbgUIJssS4799FEkjfcsplGi%2BUbh4FoewNqMVyLHzgIWLqiDpgg9uUAGsNCYmgtEdpbC2dBlQx5wayQVlNGRen%2BUo3HVL%2BEa%2BmnEGumOts7%2FZJZohwYbBcuIUcbYug%2F00g1TuMDZubf4WSIWeWNurZ6v4BZulWUUtLrd3W4VYcg1E%2BIm3UlM4680duFMvmwjEHWxFzmxhaRAzhUUYC%2Bjo7SLMzj%2FeAmhCnybSb6grfO5VS%2BfdZxDR1ln0enSpg%2F2oVRmeYsuwPXVlfXB8vNISIoQmGx2O5pHX0hFRlsqJ%2BzFw%3D%3D&catalog_product_id=MLA28438096&zip_code=5013
+                            - text: Mouse Gamer Hp Hyperx Pulsefire Haste 2 - Usb A Óptico Negro
+                          - generic [ref=e381]:
+                            - img [ref=e382]:
+                              - generic [ref=e383]: $
+                              - generic [ref=e384]: "74.333"
+                            - generic [ref=e385]:
+                              - img [ref=e386]:
+                                - generic [ref=e387]: $
+                                - generic [ref=e388]: "56.839"
+                              - generic [ref=e389]: 23% OFF
+                            - generic [ref=e390]:
+                              - text: 3 cuotas de
+                              - img [ref=e391]:
+                                - generic [ref=e392]: $
+                                - generic [ref=e393]: "23.569"
+                          - generic [ref=e394]: Envío gratispor ser tu primera compra
+                    - group [ref=e395]:
+                      - generic [ref=e396]:
+                        - img [ref=e398]
+                        - generic [ref=e399]:
+                          - link [ref=e400] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=ogI%2BNBLExNtLMQBnkbGO%2B5TrVVI7%2FmYnxhya5mN%2BISwma2v%2Bkegw3JJQQ15Au%2FybGNUerue4%2BdiUvlxQTNApie5XVSc6qIH5F4rsBMRPSscspTQq5NZi4Fh1PsLA%2FXZtoRakWj%2Fln4IU77nLmVVTxGIFy3Lclvq8m2b8E3TKK7roUuauuUNHD98D5Y%2FeH8DLAaX8jbM9L5bLqFRsHT2iqoneM5%2B%2FP3BL17ar%2FCriq9GIpKn8Lh92QIvPtM73F8%2BSmiFlpBn4m4iY0CbIBC5K%2B9WcjYYaOzCXlPVjWVAlh6cbVKq9bRPfZGvYW0lnVUKYProXugSHhLi27Fzt%2BQNa%2Bn6j9aS%2FWvM9mXDS31gKTFX%2BPwNvRJcgFPzcGU90uY1c%2FTsljrs%2FL75oBGzzrZBlPrhIZxGYunLdsB7eY7p1Mz66V5D1t%2F%2FgVereU%2BalofZqbfdilcXphOVrFrAVtJyccDi%2B31TJT56Mcky%2FupeZ64hUyx8kPMqryxdRNQhZAa9ZkLw4x%2FL7nb04yWDjZc856k8ei3KLPkP%2B3vSsltl6SwrhB2rHWnpdPmTZvzaQhRbCpcZLEvORHHiGARh6aYvgZsC%2FdT6aKYrfurLng7k135vHhDyw9%2FacsTzvD3hPSWNpA5CNymBuZfpa9tUa5kWmHSGPXH1Ppl%2F3OG2Da4l41nsOn1z91Hu7P2310ieA%2FRKklpl3EpsE12MMEfj0pc63ggYhZLbRT%2F8l4SShdb4DTWLJyC9zOAX29q5RTnNS2yOoa%2BZa6FvValIeu5v1fhWVci2Q6SDC1nYeUuVmNj%2BtvDDZoCgFEFadjZjjku2OY3flcY%2Bcni50tXCwb6pilATajNo3EvpbQdJIq8zD7oy3bxUJzzbG2RYsCDpNSngQ6A9Oya6kRQXkT3bgIcy8olqmHpWP3kU4HmGtLStJ7MtYLu0Vya1mR8dBB%2FokVP2xESAH25PuA3kbg3drDEGamREMRmtqRTeOdn1zo0Ib87xW5JtEoUpkRdzaDCHxBjjpgZpxjlKXigF%2FTQ22qqJfYjY1Kj30ZbizGjo1V24Jrrl8sdxA9XU%3D&catalog_product_id=MLA54925875&zip_code=5013
+                            - text: Mouse Ergonomico Vertical Premium Recargable Color Negro
+                          - generic [ref=e401]:
+                            - img [ref=e402]:
+                              - generic [ref=e403]: $
+                              - generic [ref=e404]: "42.000"
+                            - generic [ref=e405]:
+                              - img [ref=e406]:
+                                - generic [ref=e407]: $
+                                - generic [ref=e408]: "28.999"
+                              - generic [ref=e409]: 30% OFF
+                            - generic [ref=e410]:
+                              - text: 3 cuotas de
+                              - img [ref=e411]:
+                                - generic [ref=e412]: $
+                                - generic [ref=e413]: "12.024"
+                          - generic [ref=e414]: Envío gratispor ser tu primera compra
+                    - group [ref=e415]:
+                      - generic [ref=e416]:
+                        - img [ref=e418]
+                        - generic [ref=e419]:
+                          - link [ref=e420] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=TYC9MoHin3u7RkEZ3jYbm6Tj7x0cQ4bMI0IccsP9zLuWUefcFU1lAZdNxBJ0laJEi3xofEBp6H7zQfX151ZAYCQkrTVmYwQ21kkakNzk9ao0RZvUn3JOumWiA3WeLETpRsXcjDbkbwdIzFJWUb2R3jKfgXD44CyREbe5grONVaUEJGpL7EuNx2EgzCBwEDjlChgLC4V8Uc0amxDYy%2BO2aT2aA6hWYhKUgvU92BcpHKVZHyzZo2%2B2nZkvTTR9YZtCAlW1%2B3NXCWUVLyeX%2Bz1yClp%2Ba4CLrS1eq%2BVbM30LqrN6NVwtpgviWDQXqOcXZe4TOCtBO7zt5maTAu1ARVFunABVpWCw4aw5Bu5pG3qFaGJPv%2FAFxWX4bjcUjvALVdsBUdnJetvf%2FUUBaE6eidJ8XWVe97GXbDPlsMW%2BJaQa%2FeChHp4RWgvPR39XjMhOozPQgfU2BJMAdnytgjrk7KxvcWRATpYIY2pFUPqmKGazvvf5axSbNfDcL8UhZJGW2S2lWjyGi211V10EKT2AoDvq078Z8O%2F9UGNI5Oa93DDiK09tnlEf682KqtnSLM7%2BSl1VTzKw3%2BHOdluepCU8CF%2FPeZsZLEeodhz%2FHvlY7cBAfmvYkKBbOyQ%2BBpEhCMlJPNK1cUrrkiGr0ikLUrJmVHZ2Ojoj2dcgg%2BXQ0JvObhsGZjoNKfpPopNFrWrJzgcs0Xd%2Faf5fi0FDJjUkxm6shMt0jcy9SsRITLR3Dof910GyJAqByCHY8%2FSQI69BG%2FvrggROyOTStl3EEG6XN29Jlhf1mQM7y3XRaCtt8cuhx%2FfgDIF8SsUdNqbDJfyK7S%2FZ5sUBzLnZiMk1P%2F%2FGUE9q2igqkqfL2RG0ZVtYf2FMqr3OdqgxQoRk3S1mMPLaUPCGPs%2FY3hxzMP1TYmHBspFCZZ%2BhX5XNvS%2BWiEpEIqu4JVV0rnz0pUL9xYRPBn4OWDts4tBCtdShmG1ZH5lnv9bsnw%2F8Up1E1zb6v2u%2FKPS5Ds99W1Xd3uMBtu5zPtuIJCYmII2LZoTJ2O5cmlOohEMRLprKYNloHaRsqHLZT3cHjjY%2FhqofP%2BDgF6JQNgQ%3D&catalog_product_id=MLA43487074&zip_code=5013
+                            - text: Ratón Havit Ms1036 7200 Dpi Para Jugadores, 7 Botones Rgb, Negro
+                          - generic [ref=e421]:
+                            - img [ref=e423]:
+                              - generic [ref=e424]: $
+                              - generic [ref=e425]: "19.457"
+                            - generic [ref=e426]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e427]:
+                                - generic [ref=e428]: $
+                                - generic [ref=e429]: "3.242"
+                          - generic [ref=e430]: Envío gratispor ser tu primera compra
+                    - group [ref=e431]:
+                      - generic [ref=e432]:
+                        - img [ref=e434]
+                        - generic [ref=e435]:
+                          - link [ref=e436] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=swmneYZiNbUarleChF8YEv8%2FnjgWFZv50C1ed792FNdi3LsrGI24UrhevMcfsDJHwvvbTkDSsfBcacUgH5DfKqp38C0z4N23b5FQ3I84R4yqTF2jCi1e4kGVrDcEJlaO4A1dLSC5h1p3TbT2zeEflIzawikeRRJMNjqkdPNPzfA4qt4IfnaTJxKM9H48x%2B0ni92KkThWntiQ11HObKrzoqx1PbNQCkr%2Bx22MX7a6mKC%2BhxZZfTGNzaO3HyoPtWkyyZLesBhQwaszJuJTk5LGpf0o4zaeikS%2BxO4cQVa5NkJpe%2BeZJMrxiIJnOP0Gg1VISpCXIVkqPJLnw%2BDKtb%2B%2B0%2F721pBm9jaB6DXxOPn6Zy2YzjKsuo5MBzzb4c9wEVz7T8Fu0SlidYJfumak9rxWp2%2BBloduOkUoC3T78N7YBgwZvePCl%2BZPRP%2B4HNz4ipAug0aQsYcUbZYZV0PEbCxPYe08xF7q9xu6OkzhrhTXlsiTnslM4fT6D3O0oTC8udLGYXBpj%2F90bxU8j9W39G8y%2FGwtuuvalHw2Y%2FipLB0KzuzDLPfjEbvNyrSkMr7cPT8NagN%2FZfMyF8khnvFHCKL65gfHqFQVZjRQeTBc5DUAgHROUgxFsvGI5IendamslRIfUhvb285t4W4jhG9884ouL7SF37TC80vKEou5wSAp%2BHD1FDlIOI6BPLDwAywd22NIQ0957N%2FVh9D4FM3r%2Brdi1eVs7mBOMPsJURN5Nal4fOyntE2q1pdb697RNfB%2FApog4bInA6%2F4Bh5rq2sp3xsLBmb%2FUcLR1XtpUUcAYYr6fsSvKWWkYTKuGc1ccrG0h9uXJ7TqMsES%2Bkh%2BvBKzNhLQqIoJNK%2FwGiiZNJ%2BNIKTiNp9ppW8nc%2FTQ0ryhSWF8OjQi0LBz9n7y5beRfeHHK%2FnRUaurLx4QU3bTbIxm%2FllIdj9y5McLTpKSb63plQtAcsUqmUazpVgfRylqgV%2BCxJeu0yZyBnNcip4Gyq7lT8krA54z4b%2FS9gzT7z42tsvi4GE89qX3bFjvhUuesPlii3Nt9j0c317wt3z0dtw%2FL424KW%2Bxbi1wYFAGnqM%3D&catalog_product_id=MLAU156922766&zip_code=5013
+                            - text: Mouse Inalámbrico Recargable Portátil Bluetooth Rgb Luz Led Negro
+                          - generic [ref=e437]:
+                            - img [ref=e439]:
+                              - generic [ref=e440]: $
+                              - generic [ref=e441]: "9.776"
+                            - generic [ref=e442]:
+                              - text: 3 cuotas de
+                              - img [ref=e443]:
+                                - generic [ref=e444]: $
+                                - generic [ref=e445]: "4.054"
+                          - generic [ref=e446]: Envío gratispor ser tu primera compra
+                    - group [ref=e447]:
+                      - generic [ref=e448]:
+                        - img [ref=e450]
+                        - generic [ref=e451]:
+                          - link [ref=e452] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=FBCFbKB%2B6N9HQygeeG0ltGjfiHW5UD6DqMzeent%2B7bh%2Bmlhcyg2wzrH%2F%2By8QxF1vkhz%2FvrJbjrotfZWv7o5y0hJkFrKrA1h04fCUnBTIoZdZL9TswERjZCP%2Bl7eZaaJ8ZRf8Dro2otx2I3CuzJ8N2Y%2Fm%2BiCAQvJFjv%2FdrfmnPYFAlDclXpHSzjGpJTDal8k1B0A%2BHfoMxujwPc4Htfg0Xlh%2FCfLCdPDF291VMFeg6jzgnxNcBC%2BTRDQHVzcAokBbapJ3kBndry1K1Y0Qz8FiGKT%2FjWYi%2B2AaIjou1m1gfLBF97%2Fpk7lFZjctmrYb4i5aYXz29%2FkAF9fRycuydLpRvuQbfWjTrv3o7ib2NNSufxp60bOXupxHUofsKML7aKivrzzxol3OjPCeRGNWFNbbXNqyr2%2FTAJfLpfSDX%2Fv%2BxP9kpgNIwK2vcmEFdNK1uqiuZA7naYoZjWNkrIzSROl%2BF0yD0Xw75L5qTCkFwzZzokJvbAycykl73uV3twVCGKGdEtOTdtdXtjTJIVoT7zb4%2Bbj0Gc6EZE8Q04EQHotDofjuIhZ%2BMtpsVPzYFx6Q6%2F%2F1JOSTqD6GUbJ6WWeKnlg%2FYiB9JfD4QjNAytwbE5r80d5fiYZohg4fqIp0byA20PXC4NWGDljViiEWoV8wWlHikh7CBr5m2vcH%2FP%2F92YQVsMMq4tsG03Rk7Q8ue7PNvjC0eRWxsDhsG9g%2BeKABI0IkWBiuVDdYR1H9YGpAu3fV9DatzepbLm3J3XGbDqJKsF1t%2F52HHfOUu0UBqoCMZZSzJVQ8fHC8%2FnGCr40Ffe%2BRCdrQb%2FoTzFpk6FAzeYk7N2tJaicDE94Px%2FqBF7EQuIdMwz5CjJbZKuMMH%2FhOmsR4%2FhqzmmhlnTmz9%2BddAaxZH4ArHDuk5q4Lm4vrgbEjFOHEvU7NY7VavXjEvcqxeqj03wgzeH2Jg5CTYTMEvVIWRWJ6JfK8I2%2B%2BghZrvLfPaJjP7r4sJ4u0aSsn%2FDowD4L99airtEhxpVP%2FeJIZj4Jh13e7Dod6t9rB2PyEgcKn9vld8HYfNhvKczvzosmvEJc8OeHVw3JPMxhTxWCsyu41NQ%3D%3D&catalog_product_id=MLA21323139&zip_code=5013
+                            - text: Mouse Gamer Tactical 3600 Dpi Led Retroiluminado Skyway Color Negro
+                          - generic [ref=e453]:
+                            - img [ref=e454]:
+                              - generic [ref=e455]: $
+                              - generic [ref=e456]: "12.186"
+                            - generic [ref=e457]:
+                              - img [ref=e458]:
+                                - generic [ref=e459]: $
+                                - generic [ref=e460]: "11.211"
+                              - generic [ref=e461]: 8% OFF
+                            - generic [ref=e462]:
+                              - text: 3 cuotas de
+                              - img [ref=e463]:
+                                - generic [ref=e464]: $
+                                - generic [ref=e465]: "4.648"
+                          - generic [ref=e466]: Envío gratispor ser tu primera compra
+                    - group [ref=e467]:
+                      - generic [ref=e468]:
+                        - img [ref=e470]
+                        - generic [ref=e471]:
+                          - link [ref=e472] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=KL3D01OhIIS%2Bfy78yzZSqLjFp8t2JQ7arqWE5W9Q141vDxdJ3EoWhTrrzJamYjgpqQ%2BBwImuAaQbJKUl%2FH3wj9d0g05QmOe9tLAaUkYq%2BCA4mlelmjl8r%2BKijjczhJpTPbCYvfJtFk4gS9%2FBzm0ZHmH9sw7EBFOdzsEJmP9pL6JNyvUxe3o7ZF%2F5Vs2y9%2BwDoMbKYC0pu5ib4VVPO%2FIEanwYeOJUN1SpyprdhAsioowc4yyZcyErdbGiMYkN%2BuqC8LmNBi4OsNhYwc6FFVZ2C0nDAJVrfrcdjALBnqeTuHS1gzCOa4JtVojxSeucpZcXBgov2njwHoz9PNsYGlgWfaFfTlTStH%2ByITlbtamDBtQgLZYWxszvFYwLvtwCUII8gzMtRGLdeRPT8hrhi7gDv5Aq22WROZYk90gy7snLmPV5321ZmX%2B%2BoVqyTbT%2B9%2BlUPtTCTjvNnf2beuYHz9QKdc4pRCdpsyW52iSrJUuV0L57gHEmqrHH83fSPg85PYsbFB7Eyv1vhzcr0XXHkuApchWn1unccJrvRX6mGecXfUP9c0mL%2FLRHFOR4sg3%2Fm88ciT2YrmZjwnwz7dNCnd%2BPDAoO2pEqxdCYHdwijHr7NRkroZ5iL6qynlKBrLtleJxoJlvFRflTacPWtLuqtFYRwxVC2AxoA%2BIvWsMZZZCbd8j3dO9xkr76iuqGeuI2nAyMVNL0RrNsIvcUbNIwcAuDC4j%2FrnrhRqqVPntAQv2AFMluv%2F3LQziJecRBTb%2FC9PJgb17J0nx%2FHKocf%2BhaUER%2FBzunsT5UDEFXA6z6aMvNcnyVnlqmcmOLJniYW%2B%2F%2FJp5320LrBbtOVQ6tFCphFbCHdQ9p77IenqO0ud%2F9uy68TGg3N%2BcJ57p0ol6xiaZX%2FAEJhQzTHnNOMR%2BkSKURgKB%2F5jw5jyaI4wot45%2FkbM1ptOZT5GTa5h6HDFhmvx3b842miHZviYHVrswtflNjJ0nE9NtpzDUJCVjkKh1j0rSnsbvnQRqiw%2BjVLfbYKSgrVmgWpZmyb3s9bKxbRySRa5qOBeS5FA%2F8RcC194o%2FLteVzxDIilbK3A%3D%3D&catalog_product_id=MLA47156434&zip_code=5013
+                            - text: Hyperx Mouse Pulsefire Haste 2 Core Wireless Color Blanco
+                          - generic [ref=e473]:
+                            - img [ref=e474]:
+                              - generic [ref=e475]: $
+                              - generic [ref=e476]: "79.039"
+                            - generic [ref=e477]:
+                              - img [ref=e478]:
+                                - generic [ref=e479]: $
+                                - generic [ref=e480]: "68.848"
+                              - generic [ref=e481]: 12% OFF
+                            - generic [ref=e482]:
+                              - text: 3 cuotas de
+                              - img [ref=e483]:
+                                - generic [ref=e484]: $
+                                - generic [ref=e485]: "28.548"
+                          - generic [ref=e486]: Envío gratispor ser tu primera compra
+                    - group [ref=e487]:
+                      - generic [ref=e488]:
+                        - img [ref=e490]
+                        - generic [ref=e491]:
+                          - link [ref=e492] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Gl%2BI6OlSDHxV4BHv1oXh4eLSCVYRJ3E%2BCUU1Ko2BAWCQrzoyMyomGhyfpforf3OPdsBVjJ%2Ffn8jZpZmOMfWm%2FL%2BnfPM07zBEg61DVYGtw0whImpUnsdLTTkAK28ju0A8XsXuCcDvnyD8O5%2FntODln%2F9pkDUf1zO%2BtoLu96q7kFvCo%2FwjySCP5G%2BP5tSEKJJDn8Ed0iY6UtTHwBffYVEKXcK8ayGMhrwy1CpQkPTJDkyUykL3PoY9kIbhBuo6N43MFop1Fz01HWN7hwdUM7dcGU3judOV9J7m4HWNptrKVYWN4ApwVjvk8LlfTKfMLMsRMHUDc7esiC1yQ6mQiQyLLvAUGpROqX6aMnGe2VGXpKPj8lagymths8yz1sTuxiyZoDvyvIA%2B5ZxTXttBwAYsnOZhxPNal1bzEb0XuMa%2B%2FOrfpzR%2FJTm5Z8i3CDEbM8eNPNGAL6FoOY8yWIpsbGtRYlEomlgDtNMkJbjwQkG2iKgCvMvL4NKSnKT0foG2kTtflpFqpOZ%2BMdFzfLRuZU72085xnt0zNycc1CbFLEw5TBuejYZ7V2MkFxYAvmLphETVVBaLPCc9cW7clCrq%2B3PabS6x9Czq%2FUlXuAEckfK3T8BTYTibHxSH4dS7kZqlTkr%2BJuNDWszRZkQcYFjvbvRVJVpf%2FS7xDoHtyDUv1O013SLGoXsZyti38aZ1sBxiwj%2BxrRoHY4Aep3UwhhobcmNt17x9mHp%2FZdD9yOUAAKuWsAQPGuWHpZz1RfvTCivjvXQZVRg1HKsDOCAEcqUvuT2E9wbjnQlfvvEFk5HwsQXLko8IiPV4AaFjmdulRewKi%2BGfA%2FwcmIbPeXfNa%2Fpv62o12QAvu3NP3jnUK8XhhGybf8XjNP10nmxRmM%2Bp2K5AD%2BzZgDKYKUnEcmR0JwqGS03Jd798pigsNPDiLjcd9%2B24GD8XheHdf1THgJjC0GLRR5itbNZBf7irIijzd6dCosfo5rS1VBMgpKq%2Fa0gZQm95wm%2BjmmK85eoMDLk5xwS%2Bhfdj16hiuGROpENo89NJztXfwBh1wQuEPziYNaui8aZ%2F6YLXubv%2BwkcGvsv%2BMixoog%2FVbgMpQak%3D&catalog_product_id=MLA46184512&zip_code=5013
+                            - text: Mouse Gamer Inalambrico Dexior Dm1 Pro Recargable Rgb 2.4g Honeycomb Negro
+                          - generic [ref=e493]:
+                            - img [ref=e495]:
+                              - generic [ref=e496]: $
+                              - generic [ref=e497]: "28.999"
+                            - generic [ref=e498]:
+                              - text: 3 cuotas de
+                              - img [ref=e499]:
+                                - generic [ref=e500]: $
+                                - generic [ref=e501]: "12.024"
+                          - generic [ref=e502]: Envío gratispor ser tu primera compra
+                    - group [ref=e503]:
+                      - generic [ref=e504]:
+                        - img [ref=e506]
+                        - generic [ref=e507]:
+                          - link [ref=e508] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=nh2tuwyedPo21yGpm5eYFmCiPmy%2FuzrD5ejP%2FpCluIwaNGccDYf8%2BXOuDNMakLR6O0QbpxCltkQr8hbPMn%2BMkqoUMgMgcayTzUjgEZbuGUJ9YIK7NMYCHYFIXtiCWAutxfVj8szCGW6edim09r9fOzPW%2BQl%2B7bnIfpGsiwqXVxenQR0ITNMo5%2FAzDj8Tggno5CR5SA3hT%2Fx8PLbjTHeP4T7Z1PXNPG4qB6nqAz1Ma6GAoOoQ5KgfYzk6YjKKE2u4%2ByMLywpvBDDkamouzynYe2UN6QKgWfr%2BUem0CV44gDKPCohUOLmnrCRy3ZQRZRq0c74Nm7gD1DVuaAiBBt1fIQqUd0fK0sBEdP718LPeeeHh34iwbabUtEbRGQ%2FMNrLmMWmrFVOG%2B8LHU9oJBodgNBcqR80JW%2BwbJjUuwMq344IPrr1%2Fvs7rrSD0uJ1YUzUd0zxreiqQnq3kFC1TU1vFklV3AN4KGYZkYnVUL4ya6WC2rGE2Jpva0sapAjMq5OfuJxp96T9JgJ8hw2kz4bvPkF4D7OH1xf2MIn6jtFVTWR13sP6u2EJOMAKk9hXYDZrYfxClnSNvdl%2FnhNG6JskzKBl4VJuTGc1mzldjV9fA4KNFB%2BcBG82iMjHy9pUiLkJFf5WTd7wkuljSrV6sCio9%2FmZOcPBbKdd5rxTLw1SllGeitOg5Diq1CKxc1qv7K%2BLOoH0OQgmTaBBC3hHZXlhn9V%2BDv9RokwV2zJi1tOMSiqeTdSMVMBKF5m5Z7CGGMdWuyaWEP6K%2Fqh0BZ0ucltkDEQp%2Fz9dQdShk7L%2BKxBMhkKetJWJ3XE9v2X639DBPKgxvMs0rQimVlplAerLGnoO%2BzPXa6tndLz3ZfOvHDR0ANyXo69aR41ji6JFYu%2BAFyHOSu5iUWQBTI2EbHdzpyqBWqFXz%2F0jm6wf7GCkstj9NNuc4x1f5c1uq0ntT2FxLQMcOTYdFGGfyubTgBOosOH%2BzVQeRS5xtT1X5eK1SCUCmB7tUsc1N9KetVUF%2BrU%2BbatEJGZaNxN19YzSi%2FhOGkCkzSswjlnXvCriRyRdvcH9hozjXzPONHw%3D%3D&catalog_product_id=MLA50170399&zip_code=5013
+                            - text: Mouse Hp Inalámbrico Recargable Silencioso S1000c Negro
+                          - generic [ref=e509]:
+                            - img [ref=e511]:
+                              - generic [ref=e512]: $
+                              - generic [ref=e513]: "42.999"
+                            - generic [ref=e514]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e515]:
+                                - generic [ref=e516]: $
+                                - generic [ref=e517]: "7.166"
+                          - generic [ref=e518]: Envío gratispor ser tu primera compra
+                    - group [ref=e519]:
+                      - generic [ref=e520]:
+                        - img [ref=e522]
+                        - generic [ref=e523]:
+                          - link [ref=e524] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=5DvjSYdeOLhnpNFrlORutx4LU9rajWFqS%2BlnT2H0UmoF2lfgIcJtJQRv5sIOylF7Or%2BMxWOO9yEale%2FxyiDg2ukK4cbfDU6fpa5PORoqaxT0RFtAwQHmo9C4Tq2BnJB5vd4zm3%2FROrU6IUBiBfNAi2P44InzwOQ0kTkdlS7NbLHoMVapyZeDzLIPvq5yDn5PQEawSfy4ordu4oycm1zTLd9Zxf%2F2mU%2F%2F5rwTO4JR0X%2BO4uK7g%2FTQKDXV8MuGLL3WFac%2B84Luiyrc9weWPjAKEti5v04I5S2fXi46v%2F1sCKtZae7M4dPYaJrTd0ShOt%2FCutOEGwKsMCi1H%2BYlkKwvguOrwxPrQAnynmDiYH9BsE%2Fr7bCa3fBvvUnqtlxXDS6moNxwyxtzOCzBP21iBbF2cQMKBItX91zxk5RJ1e8chxITERIOUqT7Qbdn967qpT0GQP6jelaET9ZjEPEcxGvVKmz%2B6SBIc9wAUUAcbOB2UKMfFpXTKFUysaIXi%2BnycK0Pt%2FnSMZX8KbO3bUW1hsLLCDZ0Z7zku8e7QXDn77XapxSizRhlC2M4uCieAR5j2PYmPkddXP9zRpLhLjFiPFF8NDjGInOooGVFbfY2tWuA7pvUeB2uWy8%2BWtFpgRWCF%2BVt6e2eMeuR0hHJnogXfE6%2B6dYM%2BesgQcRIaICr%2BdAWl%2BMlhkr%2BBR1o8Nm5T6FHbFELkz6irBXI91RSEsi63YlMQTmFGq1zBwx9Om3VvWRwE7p3p1nbZAEYTbKBt48cM11gA695QvxEDtVyO75WH9jYl6iN9Bz2Ao6XyIj2SXro55fKwMmGv0lcKwP8vZ4O0d2QAM2rHTJRdgymUZhO7SM0V%2B5LDyoFt0yVF7aDtJSxzo1E0jhNB7SwuUDdda203tWiivJPk8LdQHt%2BJvZdW%2Blka5haiFKF5vp2ti1l77PKVoGad%2ByEuVmias89Ve3EH1nk3tpxBLbaeGJnCgXEEVH0YVYq2iZgOREr9%2B0%2FCNqSyy45BoWGhY09NnRSTBaVqW3tMGeZ7Q6ax544S2sxtWE7wzcmzy31Q4BGIpCk3O3oh%2FDwfMNzguGaV%2BoKHEREffF66bxwAHwPew3TJ9xVpg2QSklTt9FNWrCOz%2BvFKMk0Yx9oQQ%3D%3D&catalog_product_id=MLA52362390&zip_code=5013
+                            - text: Mouse Inalámbrico Diseño Vertical Ergonómico Pro Reposamuñeca Superlight 124g Marca Carrello M925 Usb
+                          - generic [ref=e525]:
+                            - img [ref=e526]:
+                              - generic [ref=e527]: $
+                              - generic [ref=e528]: "71.999"
+                            - generic [ref=e529]:
+                              - img [ref=e530]:
+                                - generic [ref=e531]: $
+                                - generic [ref=e532]: "56.968"
+                              - generic [ref=e533]: 20% OFF
+                            - generic [ref=e534]:
+                              - text: 6 cuotas de
+                              - img [ref=e535]:
+                                - generic [ref=e536]: $
+                                - generic [ref=e537]: "10.867"
+                          - generic [ref=e538]: Envío gratispor ser tu primera compra
+                    - group [ref=e539]:
+                      - generic [ref=e540]:
+                        - img [ref=e542]
+                        - generic [ref=e543]:
+                          - link [ref=e544] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=ojhGDQsjQ1UOn4fG2vWMudqCe2K5AkGw%2BrMSEeW78JV%2BE2DaiJoELBeLxaXhs14u9%2FcuBY7aBnY4xrwv2YQe4JstsIFQPUB9bKhCC9PyD3pl5FDeJ69TYksSaOn7%2FqaaesJrZO6T3MuuDdn73qRMruE2SbuE%2B2MzXWPRiZFkVlZxcjyL0aUgvUoY2fccurTfX4aeiQgXmksoDP8CmsfFOA%2BpNoxN3MuBQrmcWTel%2BsWOyBJ1OQtTCcXTCpq9Hf8PBl7EslFtIxI2f0QjW5nSnNr35gkUwhJfmus3zfHRKnzoHjKV0YPKUXtjz2VIbTAU%2BqNsB7Iltxs8C8XdUuH3Ea0Uoa%2B42zDxtCAHaXkKWtzTHQmXDcYigf3bOsFKxUS6MaI5NLF7aSczgtPV%2FJ11AEFPwVgKvR9I%2BbVdZr%2FCEJHTi8w0jcFOW0U8xxtS4%2BVzn9Er7yuU%2BrN9HOMMTsYCfQON4kXUN%2BBmZ%2Fm2UFxyeA3bhxpjcTuEfj37qB5D1LXusmn4LN8ZeP6ooCk0BDVeugj%2FTVl4gcX55Uw5u4NYzecKlg4Hxn6KdjJVqk0bkmELHgVaXbMoVZWAHOwVt6TumD93Ijze2W90I%2B%2BQP6EOfBK14%2BVkce6YaTl%2BXCgn6B33HfrU9A6rVTfcy6JcOTg%2BiCfHS3Wo8P9iFsPdSxJTlZDFCbHopjTMBre9xD55cpwPgqXMsE6LnJlsUwyjxFj%2BnLppbpGb2t0nJDxMqo3Oj3OhYJ3jN86foZAoqx8ktkiXJOexE3%2BxqLFkphb%2BgL0NXsJaASQAh1ETJ9rzEQdY%2BjZvWAUxRSN5QqsXpq8h0MCK36ymkAB31h6lUHvIX1XNx5cRkZ4UcADqZ9lydD7MSGMKx%2F%2BHY%2BAAdgqENNEpBe3QJesiOi8sT4H37%2BSfoz9Jp4nowpNv6utT542jyzOiylo0UZ6r1cIrWIP9TWa9dVG6kU0WiKZXFEguYEDb4%2FsKX4i%2FiacG%2BYeZHYqyB5Cl3L5TPY23NYUoXfOJ9F1E0OBN3rw7&catalog_product_id=MLAU3543162310&zip_code=5013
+                            - text: Mouse Inalambrico Recargable Bluetooth Rgb Silencioso Slim Negro
+                          - generic [ref=e545]:
+                            - img [ref=e546]:
+                              - generic [ref=e547]: $
+                              - generic [ref=e548]: "17.000"
+                            - generic [ref=e549]:
+                              - img [ref=e550]:
+                                - generic [ref=e551]: $
+                                - generic [ref=e552]: "8.245"
+                              - generic [ref=e553]: 51% OFF
+                            - generic [ref=e554]:
+                              - text: 3 cuotas de
+                              - img [ref=e555]:
+                                - generic [ref=e556]: $
+                                - generic [ref=e557]: "3.418"
+                          - generic [ref=e558]: Envío gratispor ser tu primera compra
+                    - group [ref=e559]:
+                      - generic [ref=e560]:
+                        - img [ref=e562]
+                        - generic [ref=e563]:
+                          - link [ref=e564] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=cW%2BW3jTTasADRqvhQv04dqm1Ug8HxNQql37eg%2BkVwUOJkL4cz4OYJR6fsVnAcADAOdCC5q8HLzqRqPpLStPjCxHhJIdkxBNU%2FThq3d3RxrUWItvJgVBcS%2F8yvHNX5D39S%2B4Kkk%2FIMuzLvneDsUzLV70%2FKgLEhPh38FZNKgXEbRZTiK8hv3MO%2B2fIW7Kzj%2FU1v4sRiT2lxxMgm9JUqAXTTeLAFFCabMv3tYXHoFYo6yO4fBoVTPUhQK7%2FApyiV77aw78XG%2FZPvJGevIS3frtPWUoQZM40l0NP7UE6UTE1ZmqK7B%2Fiui%2FasZt89dRXdyL0K1DxTU2BpPXXfvgv%2FdGaa%2FpZSUnzYvewIE2J1jnVtjNoHshcCChKmtiWXmL87M6lchw7L%2Buf%2FDG7CWlckBQ6S533OS%2FKICbYbHF8TBPDzUwxFho%2FuiAlwVzVxAIR4xw7P1pSzvAH0DZ41Q0jP8c%2F1HHurYyySx5JtENhDLNkUYy5G7Wr6UGFCu6w59SAi1NyD67BXbVlA9N7beZa%2FYFXud5jLLzWqLUHmjWIvmrBRxMULNB0s2hAlphAQFtNLbYC%2Fbhw2gq7OHthor2ywmLLJXKKDBAfvjG5yYUxjop5BLTbdCsMwUo4h7NpqIQ48HBLP9fKKIqBrkKruCmb5aYciUc9angNFMO1LeF%2Ft%2BM13nZ%2F7LF8YSBEJSjgT%2FNgPyGPQcl10%2BwZitReshtfX%2BKUlJ8QHGuUWYm8Sa77TzeF33dkdYGnkJGH7%2B4lW2R0whQysU1rvAuo4fB5eVw2feb2Pem5W8yiYRLanhNvzeI8lWVtNkJWtWswpT%2Fj2rTd6hwpyar4zb0s7QdWJgkgY7zak3WQ2TjsipE3jLxSiZyFa%2BaPPzHShD%2BMdiRFpkjcunx%2B65fMV2lYQF0NZK4RdRsNf7AAJy5eLyTnF5qMIu3jwfEHnJgDLJ%2BIqDJ%2BLJhpkZuoDIoWfJ1JuGfq3Z%2BuYpwNQTw1kbrfF4NCZqRHQ3q1dFCzNXZ2zNEWQWmdDW%2FU3Rt3ym%2BNY4QnPw0dHuqVQtIbJR3B3W2jCMn7XFO6vM5qYN4uvMVwk0sdMQ%3D%3D&catalog_product_id=MLA40163593&zip_code=5013
+                            - text: Ratón Inalámbrico Ergonómico Gris Para Juegos Zelotes F26c Rgb
+                          - generic [ref=e565]:
+                            - img [ref=e566]:
+                              - generic [ref=e567]: $
+                              - generic [ref=e568]: "75.000"
+                            - generic [ref=e569]:
+                              - img [ref=e570]:
+                                - generic [ref=e571]: $
+                                - generic [ref=e572]: "59.250"
+                              - generic [ref=e573]: 21% OFF
+                            - generic [ref=e574]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e575]:
+                                - generic [ref=e576]: $
+                                - generic [ref=e577]: "9.875"
+                          - generic [ref=e578]: Envío gratispor ser tu primera compra
+                    - group [ref=e579]:
+                      - generic [ref=e580]:
+                        - img [ref=e582]
+                        - generic [ref=e583]:
+                          - link [ref=e584] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=TZDyG2odUFnoGVy2uNNYHGjORryzVbDwt62fybFyTXx7Q0N4yHFE2Tavv%2BVrLmSSB14LZYUqxk6aOvDp6lWqUOtJIFvjCaNF3QI5cJYIaIK4scDDFiBjid5OSGksXuLWA%2BHGBLW2XNFW4WI0KGweZjipHUkk8sgxNrOh6j3WGaubWL%2BrG40ZBOiyRnI%2FVVe9C2VaSyqS4DZaTLiYwO73pShlIozYWVRDSR6NKZ6CWmK4bDDRFw2P4U89Ww3S9Po%2B%2Bmoqna8lFdbuN3kCTYrYQW9McT%2BIgKD%2BaVawh8jvd0Jr%2F9VMckrSOHZbvyAz4TAF2EoNv%2FJExZ6%2Bsr6m7Mt3jEuGtIrd%2F4vgB6S3Fl56k7hJtESCIxUyKKdFKg3NKoRf10abWpbWjxEKdyQyifFQAF8JbSHiHr5W6ZiPr8W9A5DIKA5OA%2BqTiedDHVN5xIR4F%2F%2F5BgG0UpZiZg%2BiFdp4%2FVDQMiJcnNSNoRVnpNmcelAI9u7bMBeLbofY6GzDO7xwjwrDGo28mItGuxqLag3lt5fS7tFGLrW%2BoZXWaBHjt1NrnUtMNUIl4FyObSlmCdjwak9M1VtGUme1P83wnwEoGanpTgZgCOeWAU1xTThyh2da2ukQCCl5K1z2YbYSRyPZdjvHbPvr%2Bc7OgmoWL0vhALYvoNIa3hlGg50kUZxPiaAgXrZzpNd3m0gRMhw%2FquG%2FoTH4iJrGLAcG%2Bq3sVr0WC06XPNaMWx5JB%2F14TnCIq%2BAD6FU2VW3ZREmf2i85xwvhBfWD1vIVk8SQOcUzOnvBFVAtJkpNT0gMJkoqVbvVzluggbqqZhvBHFtne6LeDlCV1XsAh5enJRs9yu3dQhiwQUMUhC%2BziqufmBajSmxNZJeLTMi6W9%2BqlvaPTCJJExz4JvvMlOFiuMNbIpyneHB%2FT5Gu19r8gFOg5K7M6UNFjdMdusJO8LdsTUtfZ7MSiw1%2F2bEAHfj4A6mFImjMWo0ypL2VYatGdVGCNAeFBXEqMOltoHGKBoJCKv9ineB%2FXmXYfB6kl1n3tI0Y8IPS16Bf0kn4aRrDw9Rt5UArL%2Fe%2Bwmt5eaqyAg4%3D&catalog_product_id=MLA44509769&zip_code=5013
+                            - text: Mouse Inalámbrico Gamer De Juego Onikuma Cw905 Con Luz Rgb
+                          - generic [ref=e585]:
+                            - img [ref=e586]:
+                              - generic [ref=e587]: $
+                              - generic [ref=e588]: "38.349"
+                            - generic [ref=e589]:
+                              - img [ref=e590]:
+                                - generic [ref=e591]: $
+                                - generic [ref=e592]: "27.599"
+                              - generic [ref=e593]: 28% OFF
+                            - generic [ref=e594]:
+                              - text: 3 cuotas de
+                              - img [ref=e595]:
+                                - generic [ref=e596]: $
+                                - generic [ref=e597]: "11.444"
+                          - generic [ref=e598]: Envío gratispor ser tu primera compra
+                    - group [ref=e599]:
+                      - generic [ref=e600]:
+                        - img [ref=e602]
+                        - generic [ref=e603]:
+                          - link [ref=e604] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Yq4HiOCiP8QOxWudFns4%2FLXyjkZSxV4xg3m8Kk03BprTwWb31Ax8LJHtiXEa2tgnAAmZCc%2F6vfsEg4N4xzdGG3kF3kw%2FpYlga0p2Oor8cn9L8DPr000gLdLCuWyboYsj9EYPVQA00JJc%2FukMgXxYraWUYbH5YTQulqo5o9REB9%2FVAXw5PNgiD9iEJ6tzYQlZTISlI0p6X%2Ba%2BT8k4jzkSjsfwejcSJTmwsgk6KRW%2FNCRdpY1bR6p3pN76QWdf86Hwy0B76HGx13O70XjsPfa1aVrgfoXzfFJvWSkKlH%2FSbpJjBtLBm7tO3zvXK5J8MTLbRB0%2Fj0u52hRo8%2FvbGCKMwW2WZR1%2FXHqUWjmAEztYqAumt45XxS%2Bw5GEoD26amct7vrq3K37t1T2mFIA1RncghctZPDc78aU5o6D91gD8VLhBs3xwMnhOCZetXr37ahLHMeiudQW%2BQDZT32hP1%2Bmha50xl2wmafLgiKNIgSmN1rAfISF92x5Jy6yep1Z8HLW%2Bsb%2B8aH2FgZPaC5WKBkE4RcVCOYRoA7izw3MTdgbRQ%2BeEGK8GWuJTNO6WjkTif9vPd1d6kc8Uq52L%2BUm6ExPvT37OUZTU0rthxZx66TTs51KuEJtotZAsbdX54Izw0uurD8AsA6SxXvyNWG0rlSI51iPhTlBPqYFAq%2FqmF2Dq%2FHcS8sy1HZeYTy1ztk0nBhnEOjqv8EzKqfx8lkjYyd%2BUI1%2FgWYr0X0pDwdyRcnUiUkheid2i5PTtZ9mAoIdHniWWdtzgyvOn%2Bt5UGrhXvm2AfbZeTV8PZngcknuFxOsNuTK2AB3rMCHywZ0NCdV3hAhdm6Zl6grTWr8UP9Dzx2yptF7jVv18jWmGmhkgckSD5YIRiShJAYPeeeROweKm0d3jUDGDMIOh%2FCk1nKsf9PY%2FvcCiE6a7j989hnjWXca65hh6A1dD%2Ff1i2LDFPEorMjcwSgudwv6M1XmzF0KyFCR56M2eD4WV%2B0Ydc%2BdyV70j5MRGEgiZBZcBZnHZ1G8QooqCaBTgUqa32gGEoFf9XXbP40qlQJtCTQJVjL2TzmdFsoY61HSR16I%2BzuDd&catalog_product_id=MLAU3417559501&zip_code=5013
+                            - text: Mouse Gamer Onikuma Cw917-rgb 6 Botones+3600 Dpi Pro Gaming Negro
+                          - generic [ref=e605]:
+                            - img [ref=e607]:
+                              - generic [ref=e608]: $
+                              - generic [ref=e609]: "36.000"
+                            - generic [ref=e610]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e611]:
+                                - generic [ref=e612]: $
+                                - generic [ref=e613]: "6.000"
+                          - generic [ref=e614]: Envío gratispor ser tu primera compra
+                    - group [ref=e615]:
+                      - generic [ref=e616]:
+                        - img [ref=e618]
+                        - generic [ref=e619]:
+                          - link [ref=e620] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Bnjkm4PfRaRKoj4kTs7hu83Gou3Neb1kNzq8ftXk7V52GboKKBP1POtYNOOZINTPweXNe1zVrVPD9g9BKjAMcKJveAo0Mq5eBmAhvMiRqK9q49Lj%2FS9VGSKn2tyJ3jH2MNXYbVdTHKda6KNGKy7vt1YVWeaw9DgE%2BSZUXPyep8oBzj8T2G2kgVhpn5atkVnqDca8EcCwwvx%2BPZV%2BNf9BqvPZMrToke4UkbPW%2FNc8UA%2FQ4Im1RrV4iZ%2BoE1zXvBuBq6frlL%2B5XkAOQxqyju655%2BmPJEEW7kAOB2ovD453VKcoFZRKLU9HoiCiTnu9Y8EppEUwpUq%2FIfgIHgryCirMJQTq1FzPfC1vhJSfn8wKmSJ5%2FVLBRrVyKAGbY4GKevYfre1fI1%2Bxi8Wtwj7QEV%2FmPowiN7MPU9CQZNwo3OCiDxe3uRsntv9u7jaWFrPOQCwq9qO%2F0UlEs8y%2FFPRFs5JTVQmdrO%2BqppcKYFAkEdfWdcwkCs0nF4dLz0GBsLr5qX%2Fr6R3IUOe%2FyNvM3qRp1qw3M3YwAw%2FvKFoGXT2bY84Q56%2Bn2UFLK92vyfrNoFeLwP0UGLehP14cZsC5E5NGEydQcijw%2F6pDSyLohIFFtTyHakREj73jtHZ9iO6A6ylq3apB5vX6qs0chGMpCDFaBK9zmiROt3DRk2jpe0JTcsQm62q1GHfSlyeXFyRPn1JuzwH6Glg5w1YMZoa%2B6ttax%2BSdff0%2FULSo3dzZuvUzCXwH4u2FiFe9nv6mpOQ2%2FHKJabmxONiMqah8GARIwUG0Mr75D%2F85i2CnnDxLggU%2Fn%2FZzvE6FP%2FaVGjJyfifNkHGYl8fp1mEOUkL9WhtHdc2rgUBUvI0e7ny0%2FbsMRbj1AB3hIvcT0UIBHPEuwViW07CjNwsMfgVtfE10fb9NFwMOtRbYoa3GLeSowK7AZJSIaRss5uJmZXU8zkb35xrNOTxyAja2p887pwK4IzuSbb%2BZCbuYS6NYGjb2VukR4RvYpyKP7XhbtKIma5sWHCKemDUwrINd%2FxkX%2BaT8mN%2B0H%2F3EX07UZmjsBNA6KmUuk1OOlWg%3D&catalog_product_id=MLA22981748&zip_code=5013
+                            - text: Mouse Inalámbrico Multidispositivo Hp 430, 3b4q2aa
+                          - generic [ref=e621]:
+                            - img [ref=e622]:
+                              - generic [ref=e623]: $
+                              - generic [ref=e624]: "59.999"
+                            - generic [ref=e625]:
+                              - img [ref=e626]:
+                                - generic [ref=e627]: $
+                                - generic [ref=e628]: "44.299"
+                              - generic [ref=e629]: 26% OFF
+                            - generic [ref=e630]:
+                              - text: 3 cuotas de
+                              - img [ref=e631]:
+                                - generic [ref=e632]: $
+                                - generic [ref=e633]: "18.369"
+                          - generic [ref=e634]: Envío gratispor ser tu primera compra
+                    - group [ref=e635]:
+                      - generic [ref=e636]:
+                        - img [ref=e638]
+                        - generic [ref=e639]:
+                          - link [ref=e640] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=VCXrX6sU9nLXCQtLqwUlvQMa15eKayjMkezheOtJ95O7YNNA31hqdS64ZBWeTn4XoiPb2AlX74tHrsFepDRudri2aTlMz4Exd6QpZU409pRxDc1e3TcBIKmEgm4%2BZEm%2FMwdSzKBdYTd%2BDxkcniW43dLJXJMjiN4jPqt03yFDIhQp6gGvjynMQ5LsqAkjPfhAqQEstkaiiyQE%2B3aBnSWNpwlWBeyDMK9j7zquJkWBgaqMSmMWEfbWKZUBkB%2F7riD19qQOCq%2F%2FzR4L9L4Wf1kG4Ct7eycmfvQBEqjeqIiaZP9e7nNKahc%2BjW3Gew3Hi5huZg9L%2BUBrZqqnx1OEzlRNxizjUfANCLqusYc9Fn9xzL8ltNt2kU%2BL1eqynGiev0HkgHjYkhNYIcHxynC06%2BJjpspxeHQu2OSDmdj4CbxMTgFs6ofTApcdlgbHa8qjR07tnh4bJdrqzfblZIxdlCPp9ayjdTOps%2FEsMpmLjokz2tai%2BDgkUgGZmmjcpZYjTv5%2FJpCYoqE5rwmNii4Jljmj9nnO12S%2Bv1Gt0C2Mf%2BWpWkuu3StxqLLzQk%2FC72zArEZnsSnGTNyGRlAaNb3hKw%2BOHCV62D4YErKh5ya6AeOiCt7avjnP1fVAxFvZLO7v%2FT%2FdSsWF2TzzIDdQnNTVyCQqoVxG%2Flfbppuw6fNNjNnOab56AeB9TYcXABMMNAnbNy%2BFgdX4db74jdO0ZILY3E2DnQ2ulwY8%2BvoonA0hIsb%2FHLvTDAVYZVvxbcFdbVMdTEh8obtWfDQVXAkIiHGyCYpl5lhS6bkgM2d69dtwJA7laf3K3b9NdYvVTdhpSTTaakgaDOiz5ThJFRwefsUr6mix8OaonqLVyG%2BoTpOSeMS2ESIv1awXabTS46MXvY55q9snk19lvFaQHxl1ePPdoUdWv73YIQ6Rxq1gkcslEgWcH2gxTuAGjckGRUp4e4OsOH8vrWnlej63%2BeiHs4cASExGbYQSGBtIeJqUdgZ5vP%2BxOK%2BpddIfqkYlq7ogFmiorr%2BGvOwxlj2z2R1L09rhJBqewr%2F4WDGLwPOZQLYwCPRYPVQiZ5R0B5ZtITl%2Bdl7XIJE1WeeWVoBeeSDQ5QbIalGvQj0DnjNrGFYRoYTfBf3Kl1gPRyfALm3HV9mUxyf5pYU59UO5PNsIjecjBa2cUyimbUvh6w%3D%3D&catalog_product_id=MLA41460243&zip_code=5013
+                            - text: Mouse Inalambrico Dexior Dk1 Recargable Bluetooth Luz Rgb Silencioso 2.4g Portatil Ultra Slim Fino Para Pc / Notebook / Tablet Color Negro
+                          - generic [ref=e641]:
+                            - img [ref=e643]:
+                              - generic [ref=e644]: $
+                              - generic [ref=e645]: "11.599"
+                            - generic [ref=e646]:
+                              - text: 3 cuotas de
+                              - img [ref=e647]:
+                                - generic [ref=e648]: $
+                                - generic [ref=e649]: "4.809"
+                          - generic [ref=e650]: Envío gratispor ser tu primera compra
+                    - group [ref=e651]:
+                      - generic [ref=e652]:
+                        - img [ref=e654]
+                        - generic [ref=e655]:
+                          - link [ref=e656] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Liui06mzuVLRcJd68prGVlmkiAH5ceD6LX7trsEWGYAUQroHishmk9vQDG%2B6Haxh3bke79oQWKWGrgNrAXSsXvz8lqhjmJq2klrt7TxZW2z13BUnAAIviETnEYTFbitBHSSR9izmnTXjNbot6i94C7%2BOTggDTa4B5Q5Hzz2GcXFyatn4f3DUJAL5tFTxKjFnnUEoqyIjrSYyTVLJdafECbk1%2FSOh2Eq80ZQXcfccLnDK2Ed%2FHArbAKTybPz7W0YDZOC6Ch%2FGNlMZ%2FlakvzIrqmOKvix7Olc1SYS0btKl8ms%2FLN7aZZhaIDNzSXTZqSbaYQOPxkskd5aj3qLcOKGKOxfnHvtgAZObXkH7jjujNM0QO21qx6rfrQKlYbWNtnbcIZuqOKJ0RGDM5ybRYz%2FqMW2b3S%2FSKqrMLAke2cD%2F16v33Q10PHf625FL3bhfDUSfraHLu3t2krYEFPzkd5XI4u3bLL95SNQNHN%2F4bwoSRYfpFVHfOemclCrJX21GV4QxLCB87TwqcU%2FrOMfVjdzF%2FDBTZRo8DL%2BKnOUCe6lsmFSbkh9pnz8K5Gn4wU%2BNmA%2F9h4eyjs4dNqDv7wUQwLsGCoIFgRxgTIzooWM27i9BYjWb2ZKRxzBoWgGdekgEuqBjP1vgmnSYQyM%2F%2FXW9pbZsIBkY9X9ScuusZfToGqPvPYEneLWyuMTImTP0LsQptlY2pTthgsKIrSiJRQpn5WFFqtojbloCc94fveKFpWuKE7NvNKZ8tllFPXNGK%2BuNvdINdUDKbq1KIWXqdv2k9g3ynDtzs8uJz4Bf2wPfhd%2B1dBjDHmtHaB21g0BlKyNadekMB2yLko9P8ZJuDA%2FDCDU5zU6QTh2HUFQCi%2FqPbzdthJo9Qu%2BI%2FOYQ5R1NCYAXAtMCGY9Rm9JV0mQ5MXIEsviRmQabF%2BW9Q4azWM9D2%2Bk4BIdy%2BJBLLTKMhFC8iWzZtUW5eRNdC7xiWGp0XFof1lXjKvji47IGgZPo33LgLuT3%2FTuKaQ14enLdC7ud2eDyGBAFjG9wjAOdF2WE7MsrIvX7l7AZrXdMTdfuIMoh089EuIBCxG2PY6Hn4ve0YFytYVbnWKfU%2FcMOKRYHd2l3qLRktnbxmKe4hdH1hsOImToQEp7CJS3QkcwOZbjRSRAhCoHlg24L5oQ2%2F3hgbGyF&catalog_product_id=MLA53859744&zip_code=5013
+                            - text: Mouse Gamer Rgb Gm21 2023 Meetion Usb 12000dpi 60ips Aceleracion 20g Respuesta 1ms 6 Botones Software Pc Notebook Color Negro Hf
+                          - generic [ref=e657]:
+                            - img [ref=e659]:
+                              - generic [ref=e660]: $
+                              - generic [ref=e661]: "22.036"
+                            - generic [ref=e662]:
+                              - text: 3 cuotas de
+                              - img [ref=e663]:
+                                - generic [ref=e664]: $
+                                - generic [ref=e665]: "9.138"
+                          - generic [ref=e666]: Envío gratispor ser tu primera compra
+                    - group [ref=e667]:
+                      - generic [ref=e668]:
+                        - img [ref=e670]
+                        - generic [ref=e671]:
+                          - link [ref=e672] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=y%2BiyzoLo1zTIWkk%2B8u2Gs%2BMHVUrYjNvx0uSu3vj%2FI%2BkNsOnhTkdrzA7koO1WhCukfxURDv4Wq40EKiaeG2MqxC9fy14HGztdUUtvRt%2BE%2B2a7H9ZM85xdHVFVFlRZ2ZKtfzghCTuqJ97mIu1Mi%2FbxK9N6HZYHFrXMr2xN8L5t64u9vDR13bsB7Sp9s6GiTs8IV8ACzsF2CQI%2BxJsgl4y5uEELLEZOMYaYlNzmhhhx4NinKImb%2FlodNVOmCpejBeEnWArP8aoS1VFFlo9ZX8Uc%2Fo4xMYMF2D9yMhpTpDjIBhPrTNZdl2zzGM8v19IXehf6ja4km7n40y84D5aie4Z2dUHVUSpalf0e44FaII8SK%2FEyrUGDYFVL4fNHOHkfT2VAlM0cNiJyLjPZ99e7XmTARMBlHvxEhckiL%2B5pTGD0X50q7M644k4wbifKSQJ2Im6eMWYPjadTf0aPQsYSoI%2BIEWou3b0I65fc%2FUl1SJst44mT5orr6Nsl3Wf%2Fc6blvSZKD7Fr2AgMLWG%2F25GjEHppirA%2BOJ40eSBle1ndYDNp8a55yxX1%2Bhg6OWH3YwcwdeHfRIvGO9SVLW0HjHIzF0CONndpn53x1EaGhESA6e%2BX1ajQL8l%2Bq7e%2Fl6xoVLjK9gZkMwQPsEEnz%2FDWkMCfAWzB%2B2Cx7PlNpo93OSOD7gSdzGUuQKvQWEEvWfUIVyQ778BqpPc31BSKXu1fR%2BNBymz7JSIrHP7VP0JUw%2F5XFYooTRP11Y64YOxHJrYYeYTo0N3mSCudz3TjocQur%2B%2BqA%2F6QYC3%2B%2FdVDMaL%2Bga2pqNm%2FoCE%2By7Vq7hug%2FesdyFUNze2Oh9J3dXQK6eihzmSG8Kkmu15t7dCmdf6XmP9gV2Ft5CRMAXWm0kncewUkER29WL3u5obtwsITbTXBphV2ZjkfbSAyW663Z6FXqkI4XhehYD1ugblTvhfNeuyPbF3hNGhNiSpHzP0hfefD2N8nVe0%3D
+                            - text: Mouse Inalámbrico Philips Recargable Wifi Bluetooth Ergo
+                          - generic [ref=e673]:
+                            - img [ref=e674]:
+                              - generic [ref=e675]: $
+                              - generic [ref=e676]: "42.320"
+                            - generic [ref=e677]:
+                              - img [ref=e678]:
+                                - generic [ref=e679]: $
+                                - generic [ref=e680]: "31.282"
+                              - generic [ref=e681]: 26% OFF
+                            - generic [ref=e682]:
+                              - text: 3 cuotas de
+                              - img [ref=e683]:
+                                - generic [ref=e684]: $
+                                - generic [ref=e685]: "12.971"
+                          - generic [ref=e686]: Envío gratispor ser tu primera compra
+                    - group [ref=e687]:
+                      - generic [ref=e688]:
+                        - img [ref=e690]
+                        - generic [ref=e691]:
+                          - link [ref=e692] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=PvnPodTXN3A5E2CHcYpQfhbJz1Zu1KqwIrJzPn3FdR%2B1pVg5fvf2gMKZKeMIgh%2B053u1soQi78GYiQxzNOA8IXas%2FDbB8s11cnO6paiyLAKm7LwU6I30ciU4qIBHi%2BxrLom280gAaZM7q9Z2mGjpfo9dD7Ydz6Y9wyIXNTYygrDVLaEVf0UCjhlN0K35hBb2ohOew%2FANI7uSxUB6no8HBn0sA9tCpXZzNiWJ1oAPne1sNVLtJif0EwhJT0NbC%2Be3HLaNSpjKINAxQa5y1GHghcKt7sHy2BCDkgO7qVXlhJBQvuEO4dLPlA4DGZ3JKHdUnBZEYlawSp%2FgwkctOpcJ7DIim9POtwrt5vqe40FnUr5X4uYXxzthhams5gMoQzOHYHDq5CWKO5cyWGe1%2FG4QLs8yjh5DnPBvH7GLs5jnDLZyiWrd3u6Org9EV6qU49XZSb1Xcafz7u8GUHafQU0NjqpFIFqpr1eED1AsrcdlN%2BwiLsCUCMT9rVHcv23LhpZ%2FF46NrjUWacLlC2evYm1bBGXoegZmgeZoKp%2Bn8mZlaWuz%2F4MrCpRb5PFlP%2Bdt1RPZF1%2Bv1heHNqtOk0loitCY0iYmuGDjKoS4ZpH6ciBIMp%2FlpnyerbigzNzXoFrGVHjjKaV4xTymhuxCpUNmJSGhKzX5JJebKiKx4r5L%2FBaZawzKGddxTajyyQxdwodk2f%2F4HYOOLODYU18tAMw6YD2qZv7H4%2F7JATWBAZfgkdaQg9A8dTS%2FGU7vhYMnMYMKRFBfChL9E4A72UIzR3Yau2GX1yk3ExVSqZzsXoK5O1tisBvttS4RJOMpy16sjWuuqhkTywlvXqGUK3yfp9InDaPJtUEvuuFIequ1gfU%2Bs3LJPwEJ%2BBY%2BlRLKR2Gh0jHvZ9wwvD93isq1u8Txb9GixLimeKowhW9A8zC8KM4z2hr6nmDeattNtvOHVhcq3NkXflAkmbaeAK9K7b6aNGZ9N0xkuaS%2B%2FC3%2BNvUO%2FKBYty9kb0s0TVYk1Ae4zwSMz7X2vnARz%2FigkCSWYn5edKktYi8dTo9h6DUhTe8yyIBvPInT0m8ScdhLbO4%3D&catalog_product_id=MLA45018614&zip_code=5013
+                            - text: Mouse Gamer Hyperx Pulsefire Haste 2 Mini Wireless Blanco
+                          - generic [ref=e693]:
+                            - img [ref=e694]:
+                              - generic [ref=e695]: $
+                              - generic [ref=e696]: "139.444"
+                            - generic [ref=e697]:
+                              - img [ref=e698]:
+                                - generic [ref=e699]: $
+                                - generic [ref=e700]: "104.274"
+                              - generic [ref=e701]: 25% OFF
+                            - generic [ref=e702]:
+                              - text: 3 cuotas de
+                              - img [ref=e703]:
+                                - generic [ref=e704]: $
+                                - generic [ref=e705]: "43.238"
+                          - generic [ref=e706]: Envío gratispor ser tu primera compra
+                    - group [ref=e707]:
+                      - generic [ref=e708]:
+                        - img [ref=e710]
+                        - generic [ref=e711]:
+                          - link [ref=e712] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=s8MtxLRC7uVPy5p%2FpYMDmFfe89cgMh7%2FNUGkbGNQfExhK%2B1KUZ%2B3qtrxFGJwCf7WcHykO2eHikReOspLE4r54kN2XqgBfcLbFajKPE0xwzbjl3uVKOgdsZJOlxH%2BiVRvfde54gB6C5u%2BIYnAMHlfksIw4Q9Zgfo8Ag4CY3WsvQAZFCv6zzatrLGypjrtL8qTFgRfkwkpbD3bE7QFfRq%2B6LoOZyTrhevuyfLS59ha6f9LvC%2BPAkSrSiwQ20y16fGGyWRpS%2BSRUDJDjQUjvy1peg7jFmb2nvjpMN%2FAhfrdMNjp1RnZRkC4YYPue%2BsYezohch5RetMDILKVnZUwSZM6wHm7wt%2BPrs1us%2Fl1WJuIh9cb0w6bNtMaKx2jaAIHNYK%2FBiLZrPzSLza%2FwQbGokW%2BxYMr7DC0BS%2FVgKWqguJd%2BmhWdXsaiDYw1IbZXTgMWk8GE0IJyYAXqzti0dhOF8UN%2BSI%2FB5GmsC1954d8nPn5ypkb7rPn6vgdp5ee1EJN2Fgi9Cy9uuwsQ7YmrzcZ8b6pc0bWd9FgNJI3rqieRJPBE8uYxdKqWHk4WUjAtm%2Bi%2BOtz7UqiLAiPhWHpP56lU3jQH9OOOZBWRXmhR49%2FK4vRmiv2mi%2BgvPCeqwb8cjjAiebdsRZ1bCUEBEXRcJekozxGh9CTQQqQyMj77JjyMKE5I1kqWejvQgoFCWkGcU8IiG6GGeron78HrXpYOul7fZwHJIp9ce%2FMfdElE4nbsOG0f28cpCc2C%2FqbJeosc0NOLwZoZNXyqwAJN%2BOe8b%2FAohIc8%2B8KoIJEiGqUCo8Sr0nHM00E5JlCKADsFq%2FljPkZDTlY7XsK9gCiS1GLAFaA0alo0sNzIk16CQFTXL%2BwtOTsHqLZY%2F6X%2Bcmt2oCHcS8qjkGTsw%2Fh1OqTBAnXQm8AkbqhR7cg6sGPB46j1yoDi%2BluBIUA6E3kBXaFzVNqp9gM4YHDDkDhRGWKyPsHIkgFcT4sde%2Ftwi%2BNIbZ1R5c%2BYD8qiALiYDSi&catalog_product_id=MLAU3392146249&zip_code=5013
+                            - text: Mouse Inalambrico Vertical Ergonomico Pro Negro
+                          - generic [ref=e713]:
+                            - img [ref=e714]:
+                              - generic [ref=e715]: $
+                              - generic [ref=e716]: "78.000"
+                            - generic [ref=e717]:
+                              - img [ref=e718]:
+                                - generic [ref=e719]: $
+                                - generic [ref=e720]: "64.311"
+                              - generic [ref=e721]: 17% OFF
+                            - generic [ref=e722]:
+                              - text: 6 cuotas de
+                              - img [ref=e723]:
+                                - generic [ref=e724]: $
+                                - generic [ref=e725]: "12.268"
+                          - generic [ref=e726]: Envío gratispor ser tu primera compra
+                    - group [ref=e727]:
+                      - generic [ref=e728]:
+                        - img [ref=e730]
+                        - generic [ref=e731]:
+                          - link [ref=e732] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=7da8ojUV%2BIRcQgIHC79T8ReeZJUiitJNJZZWT3fF40xXs%2BHTc1y4bj8tHcqBbSuIIw9kMUs9uLQYiWVkcafGCjWWYzlyiDsToE2Xr%2BuF8MICcObwVIscXh8XpDjRDRhRZ2z%2F5Rn%2FFFWiZRZ4zh%2Fw58PFgMBe2%2Brq5On%2B54kpbcZsZAe0yKMhGrzlKNln5eB1qOFIYIWsJezvbA70d5yu5QmRRwsyHmjBlmeMQ%2FKG8jI6n4HrVi%2BsPdhKkoE9N4oCZnYLtKgWk2vY1K1NckR1U%2Bw4eQCjUH43IskpbGvT%2BQeSc5utFXwwGMtB6lQXvvBfULNmNcNx%2BmOnOXVGyO1ptGzhACB0VwIHG8%2BlKfDnTbcfwZjdAoyxfIHOqFJ5ty96mAdMDjb6UeXQqwvVuBv1RPgX3CBp28pFuhF74hse1Sl74q4oaoz1KKQYd6rrlINIcAODReepbNT4BtOkWKQDe4tSW24K8e4JBL6snDdwmqtsYr%2BDeMaHQ%2FsEJmsdzfaFS0jcd58nhfrSHdrx9%2Fz1HkxgKsPGQ8AC1CoTu1qindxekhlAcOoa8wSa5kalY6lbkML4SM6AuO619rXnSovG3bFEKEw6eFH86O6LLDykf%2Fa6pW%2B%2FhGv%2FTWLoUJ%2BLKDxsqJnz5lHDeqyyw2E%2BdAcXg0Zquy8cP%2Fp6QAiaLZxEN12rsyCZ9WnnXDOkJ37rvSFnnwC7lnboG8Achz4NGJfQeDSg8am7y35mfeHXEjCbJxYzlhLM%2BabWeB9OsnVFJXnqVKd53ak8wBOTCL2Bb4rFcehRAwszzNJBCBxH%2FqSwNQpxj11ZKef8MD%2B5bZ5D62woix2ccpTA1%2Fs2307v4PDKHpf2D4YoAqBIyTnswrCdkEUaIV5SeogkStgpwAcp1G3VlzuTdTbi2Uk9AJ3dBY8OeRtr3CRGgR748ZXLKg4W0439uTOM%2BBZWWGJJ5USujdfpY4sVjuTIefa5X6etANSHhzQZwwF6tskqNKjRz7erL25prcRKagmZJcqTIoMLzyt46Q6%2F67w%3D&catalog_product_id=MLAU3268985661&zip_code=5013
+                            - text: Mouse Gamer Con Cable Womier G705 V2 Rgb 12000 Dpi 6 Botones Blanco
+                          - generic [ref=e733]:
+                            - img [ref=e734]:
+                              - generic [ref=e735]: $
+                              - generic [ref=e736]: "74.500"
+                            - generic [ref=e737]:
+                              - img [ref=e738]:
+                                - generic [ref=e739]: $
+                                - generic [ref=e740]: "62.580"
+                              - generic [ref=e741]: 16% OFF
+                            - generic [ref=e742]:
+                              - text: 6 cuotas de
+                              - img [ref=e743]:
+                                - generic [ref=e744]: $
+                                - generic [ref=e745]: "11.938"
+                          - generic [ref=e746]: Envío gratispor ser tu primera compra
+                    - group [ref=e747]:
+                      - generic [ref=e748]:
+                        - img [ref=e750]
+                        - generic [ref=e751]:
+                          - link [ref=e752] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=m%2FxRDHjMUKPyyZFEOr8ten6T9BV1XoCmFDhXH8VsvTqLTY31jMyUOWjSZZXfw%2BvZKzlv7LbagQySBsTsWc4yPxMP9aS%2BzqiSuv0AEId4E2hOtu%2BTaUYm9NZ566VB2xenYshFuvsr2nXOPQXkOjUOx7zrwQXpLFS%2FT5dFcIXrw8nkDWn%2Box6Uc8lTEigoSdXGoSlG22aFvTehPV8TPi9ECerIOg30seBLbUR%2BbEEQMoL8bVhCj9EdEaLrPGl6Ms8jE0BK7x0Mq%2Be9nWnpxCacpRrOQbKstSyLRLjDgML8CzWTmEmmd%2B4E9b2iDk7ikCkpdoNsQH0H5zvn8tZRHOLn%2FXgJx6%2BOiaeNR6CHvl14QQ9TxXIkIZGyAtTitwLO1fLAP6ktVg2ab2QZlJ7ApEUrFzZE2qeq3PsdOX5J2HIVVDELCCO6I%2B6NyZo7hBvG4uVmsQyqIin53pvkbrpKtLhKYdeExooMdGg1yKkrUt4k1xZ%2B%2FhXMG1Zc%2FMLxgiw8iOVpNfbEKIgT1D4V8DTlwXlxAcWCDL%2FaqWUMHGi%2Bjqyc6hYA9wQs%2Fes2hjsTaYRw0MZ2z1FjqW7pDXujdYwVgCqx1TH34PlNYo4uf48wK18EqtJZ43nJN1paxhl%2B%2FKuJxVhaOg5okQj27KvTBjUT%2BoQJoA3GlVu%2BbbTK0FT6WuTJHzIIzxHfhXvaJQejOynMXUX2qQ1bsg90UUHGgcn7Nz%2Fw3lmLCYnIid8oZxaD6CiqF4Dv%2FUH0ykKzVjyXMyHb%2Fi55NHosxaLCGa4jI2I%2FmC8%2Bj%2F7xK7ewVXfEXY0FD0w3A63OZJQbtKWj4XIIbqA6IOeWDVZGuLWRWR3z6IqoywLCC1cUMXUL111YQBVgknJdnc9aXNZ7%2B61bpBbA1YIlRUOr8oyYyKhTZa1M7P1OBED0yPGAuYZpvgbJnlBjsj0aREjE3aFk1YVr47wub7cOTGBWjH0bVyOwOMUawcoeAmJGJG%2BD99DqBesJ%2BBnd%2B8AMe5hNrVYKj1FP9oOb4tgfA74wD5IWqBE%3D&catalog_product_id=MLAU3412440432&zip_code=5013
+                            - text: Mouse Inalambrico Anillo De Dedo Inteligente Mini Tactil Pro Negro
+                          - generic [ref=e753]:
+                            - img [ref=e754]:
+                              - generic [ref=e755]: $
+                              - generic [ref=e756]: "49.900"
+                            - generic [ref=e757]:
+                              - img [ref=e758]:
+                                - generic [ref=e759]: $
+                                - generic [ref=e760]: "39.920"
+                              - generic [ref=e761]: 20% OFF
+                            - generic [ref=e762]:
+                              - text: 3 cuotas de
+                              - img [ref=e763]:
+                                - generic [ref=e764]: $
+                                - generic [ref=e765]: "16.553"
+                          - generic [ref=e766]: Envío gratispor ser tu primera compra
+                    - group [ref=e767]:
+                      - generic [ref=e768]:
+                        - img [ref=e770]
+                        - generic [ref=e771]:
+                          - link [ref=e772] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=hFbQaMyeqezcOz%2Bwnv%2F%2FKwywrKZbQ7UMkjCTvMGl1fqcPThq1CtnwBS2L0FVNzbkifwbe0tEiHAVoNdkbwBmxTYkQ4IHUMmpX5LR8jLk9kF1lAVnE6Ez5PVsfKJG6d4EUqh6DBhwKSmbxs%2BNF%2Ff77DM0iXEUdoDqfRJJCO4NtaQuSotxQCa8JQLiObY9pCa%2FHF%2BmAOcAyS%2Fb6tydur05n5yPulPULpm9Wm%2FXAvzmq%2ByxetrjHOEVIsO%2FfvPFAlGKo6gYHy%2BPigz1QsuGdMTlElGww9sJ3jXUrYHDZl4%2FS6eNH2ndQgQgfMzF56AXu4FvcnNloZIfQLl%2Fex4YCm7wS23%2FDBO4nGLMYddKGbwI6GCV1Nzh3MqG2owS7BM%2Fcj8k%2BB32IFmDZEK9JHnH%2BQ7dq%2F4YdJ2ir17l98rmi8Ad3gM615FD17TBp498219eMjinKfI9suXZtGy3bV8LTdVNc%2FtQUa15gnYqt8w62gCGYnvnLFDpNh54mYvXT8Hdw%2FkEelxAnC7Q29Zt9l5JL9E%2Boxb6LjHIBjGoNR2V5QT%2FbHVGCRGfY9%2FmVtHBfVuiUlYbg%2FeLqUyL4cxL9cO%2F4uVUTa7AreywqYHyL%2B4J5NU0D%2B09H20POC5DyJsF1vnbn0Ab4WS9Uj6n%2B7yooJrN8yvXw7NqKRLlvOUh8KKSJAedgpOVHwZN5XQFdrUiOBtwBMGeP2%2FnV%2Bwtu%2B4HkXQ%2BYmk6la4Yh2%2Bmccjn2RvAsb%2FWXftSGHHyZpClG6YTorrG%2F%2F4tGC%2B7G4jHJrp8VLTC3aUxy%2F%2FDF%2FUr7tXqQyc%2BrxL9P7ATefhM2vrYtiN4bpbQk0GcTeLDzu1%2BUVlLP4%2FifxBfAumICQSEGGgFwVIwUz%2BYCXQL827ozNU%2BQYp9UAZ4RJ1XO4EOuRAvnfQhtw4j0xtGZGJTLTFXXx6cvATpeVG8iGf0zJveMwqYzYIi0HkzD9Nwrxfw25cdusU1JcGOlVnu3W6L8BzFmg2Yu6BtN1HypEu8%2FxWwJed%2F8WUkuygTgSVeJ9tSo2EbTmSlNbIEZd2xRhmBzrlLHyPdIMQ2JLdWYfrczkAICY8qpg%3D%3D&catalog_product_id=MLA28294809&zip_code=5013
+                            - text: Mouse Gamer Inalámbrico Logitech G Pro X Superlight 2 Rosa 2
+                          - generic [ref=e773]:
+                            - img [ref=e774]:
+                              - generic [ref=e775]: $
+                              - generic [ref=e776]: "231.241"
+                            - generic [ref=e777]:
+                              - img [ref=e778]:
+                                - generic [ref=e779]: $
+                                - generic [ref=e780]: "206.499"
+                              - generic [ref=e781]: 10% OFF
+                            - generic [ref=e782]:
+                              - text: 3 cuotas de
+                              - img [ref=e783]:
+                                - generic [ref=e784]: $
+                                - generic [ref=e785]: "85.628"
+                          - generic [ref=e786]: Envío gratispor ser tu primera compra
+                    - group [ref=e787]:
+                      - generic [ref=e788]:
+                        - img [ref=e790]
+                        - generic [ref=e791]:
+                          - link [ref=e792] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=P2TEAs7YktPKaRz0k7z30wcPexebxSIDjGgM1YGDS8hivFYRU3qzVMp1R0YJ6jEezZNxGyb9ZuT4fdYhTduOGqqAZid6HL6FeICHpq%2BjLNUeLYDC9VO3gBi01rPkwbBKX3TTM87%2FnMCtMaSEONXDoxN%2FBn72qbA0gP8yteymFkTXdrDTvb4ybMf6ex9OsQRufp%2B4MGjFJ6zSrwvk9iZ6%2BKANIfHMSJg8rFC9xP82xPNFRjwVTXDrD%2FU1E2fkE2ULA93U%2BmhSkWuyphoAdpxSjvROmcS9wTySQxsCwo746%2BHpkVZN8x5TLmCXuGSYcV8GD7F0VD1MJJzZ0HNhx4X6BRo4DbWq%2Fz0IwJ8Hb32fkoRy4p6CDykHfGclh9nQfraIQt3V5z5HYGi57c8XunZF8uiYNC4BpfkPkyVub71w1kPSfJFDwyQgwmFui5J94b%2BhkuTIZ6H61nq5NtHszksj4nQyD1A%2BRHOd3zq0TLiY8PsafMfnXvW7sTwVIMh0SiFPnZws5LcqnpRqCxe22WcyIQbB2u1MLxLOwiLtw3Z1cYOcx%2B4MsB2lnx3PRyF3Gu%2B%2B3XhEoA0qZtWs3tJrr9pDfIQAwXsc2vyfk6tsSFbk6ksuTFJe%2FsJhRewzV8fIro8bTkvRC99v%2BgzhLDKZq1mHwIHSQxXhOpZHTQZoX249%2FYAnjml9d%2FsQgEBNSO2GuAw7XouGJl2Gn4FicK25E9Ek%2FoAyTkou7y4WYj9fUYWZzdhJoUF0uq4vddIy1Hagc1jTy8WXx0ipd4aPARF%2Bo0%2F3tYT97Ow9m0cgIdAe3uBTZmPrbIAULkkj7fCgGJh8%2FdIBhoNISKnzNmZ%2Fr20byKszdCtAICxPAr4tDZHzcDY0D%2BmG61Ap5xa8pAiWQTJlsKeNfBdFjIK5mkxdf%2FD5he9qzflUWjhj5%2BrSJG89gBhJ%2Fv88aXFJoXEHEReYQQNWQ06lm0qxj16xRsM7r9CKdhHA3F3oZq7GB5AYC6ONQDxOmxb%2FC2M2oHhGcFsjppFCHPBrUyMDsS9eXYX4ANOW%2B5RRI7Dq0DU5lACmWzKErE0ZzxYHVK6q7cih312Ub0RouofgW%2B2IbEU4RkE%3D&catalog_product_id=MLA39361807&zip_code=5013
+                            - text: Mouse Gamer Machenike L8 Max Paw3395 26000dpi Tri-modal Color L8 Max Negro
+                          - generic [ref=e793]:
+                            - img [ref=e794]:
+                              - generic [ref=e795]: $
+                              - generic [ref=e796]: "84.999"
+                            - generic [ref=e797]:
+                              - img [ref=e798]:
+                                - generic [ref=e799]: $
+                                - generic [ref=e800]: "74.999"
+                              - generic [ref=e801]: 11% OFF
+                            - generic [ref=e802]:
+                              - text: 3 cuotas de
+                              - img [ref=e803]:
+                                - generic [ref=e804]: $
+                                - generic [ref=e805]: "31.099"
+                          - generic [ref=e806]: Envío gratispor ser tu primera compra
+                    - group [ref=e807]:
+                      - generic [ref=e808]:
+                        - img [ref=e810]
+                        - generic [ref=e811]:
+                          - link [ref=e812] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=O5Mkg2ut1hlHqIayFCEnjMWR3g5cV9eKG17L78oSF6U%2Bk%2F%2BLo83VCMR7HPI%2BRF0Ixa5s0jYUEkvto5z3W16H4uSpwNIew9H0QNLxa19dpyA5fDICzJueC74Qaww2nKoj%2BTCy9vVqyd9wT%2F7ua2zL4sH%2FpR4gq6Cz6SoF0DLhH8aDoPeoJ3xFQNv%2B8x%2BQexRM3dipDL5uqOPzNpMgZdCvIExn9ZjsMk1Eos2Fw%2BuMOHflemKuW6rKjtlPKOvgOTagUVBrI%2FSF5oisbnha8kSW%2FviTNJC10bItxRJRzerKgPcTJ9yr%2FdeTE2DLC6gIb5c8Pxs71iZxRQt%2FtygvCV1bl4yIQpG%2B1E3U3WsaAWN8J4UtEUVeVC5FOv9zBrvM%2Fsi%2BW%2FTUnZ%2FEez4gGpZ8%2Fxy903omOwxPoCkjr5jz0w0JJh%2FGJ77B4k5qYcoedUagoR7TChnO7kKODRkO%2FY2Y%2BL1xfgvVYhI0TLYM3lICciElzUbqdwVsixB59Him3%2FfeNsUjr2%2FM3eUqJQ5%2Bz2bD6zuqKeCsbjnIvTLHn0g3OFAOPSu0BuqcSyH27ZhUhr5j9woph12J3LxBVqBuQYNiiTBcQBjIxVK5aXrb9i9AXafxedBU%2FNyU%2BaBlsRAuHmZBv6I8e6gvZwQHzEk%2FYGn2lE0X2iNOMNjTtnKgodswn5l4cF5br8YofbDxF54Rsmzdxo8M4Eq3XABwLD4RC8X4zJwHuH4SZZU0GX87r1le2SgW6VCN72RfgUP3RsxNA8wpEn43JQxLt%2BJsR4lLuIOFeClDA6pM2kmOHRzKpiuB9gSO11PSLNtbzOCJ9WmJbFh4mM1Oe9LmUa3K2AeJ0I8ZqjbNVVuiXnOjPY8ZSPQcobrooboxC3wS4we5eD8yduytRbtzrCqHOSvTYyt7Zs6bdVuKWUqQnp6iJ3riebr%2BqqLyxlzCywhlgh2ugBHbhiq5okmFQqWrNj8vnx0GU80b3UeVKgxX4WaLMldirJIBE2kwvDxnhzdNqhd%2B7BiexR49m3j7svMWDcVdxGw7fBa9ONMkiaKDmGgSh0%2FTt%2BapfXjCQjjQeP5vhvL%2BaZE5a2dnLltmUPMeuvvmhavfK%2FQ%2BUrlPRhmc3iy5EX1m31Zvt00%2FDwH3o2m4e5J22s93R99R%2BdSSe86%2FSkJkND1vYi8%2BlIGu3rIbMkqN8nrRH9dvZmYkzg%3D%3D&catalog_product_id=MLA53839378&zip_code=5013
+                            - text: Mouse Gamer Rgb Hera G3330 Meetion Usb 8000dpi 150ips Aceleracion 30g Respuesta 1ms Sensor Pmw3330 8 Botones Software Pc Notebook Color Negro Hf
+                          - generic [ref=e813]:
+                            - img [ref=e815]:
+                              - generic [ref=e816]: $
+                              - generic [ref=e817]: "41.880"
+                            - generic [ref=e818]:
+                              - text: 3 cuotas de
+                              - img [ref=e819]:
+                                - generic [ref=e820]: $
+                                - generic [ref=e821]: "17.366"
+                          - generic [ref=e822]: Envío gratispor ser tu primera compra
+                    - group [ref=e823]:
+                      - generic [ref=e824]:
+                        - img [ref=e826]
+                        - generic [ref=e827]:
+                          - link [ref=e828] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=31zekQ7DT4TySfE3j0Az2tuWPqG69G1or7oQ3il58iY3qUOH%2B6Jh%2BvrKncLfAbFkWDYxNMVHcjG2Xl0xmj%2F99MEpBLlgu3UoesVqcWJpoJoi8VNIfXRGFgWGABkslfaDAcrw0iC3%2FuxDXKL3mpVpTnc04ZYYfQthnIOjCtQSdC72nm9ZS45LAfDhE5YND3mrhA1NWr2ueUgm8PwJMipvav1y8CkyuxLibs%2FkDwuBOOhIRBAVPa0J5UU6w3aHU4nR6D6ielCB5M%2B0Z%2FBfVAinzbecShKkBL3SvwbwfMDiiKau63nYs6DQQ4EiauJNXK8MQfssIAXJ3eghdCt%2Fwdm4oCfINKf3GSHTNhkMNZmxZlZ7Zgzb78Zvb8JcuJ4NQeKhAdxPY%2BAeEDVqLxz15OgVxjDT6bC4DXWupLKswGU9F1L2%2BsfYOAVEGKpONMgN75DwPcW4fciTkM4jtV9o1zDahVxbcsKyXMz9wiLMOvhEWmrseAKGBRBo%2FUowp07t%2BYJp6%2BxqysEI%2BpIXQxAHqrooSTTQLCVZwYWXUFeOR3Z9P1D3tZNCS6Ipf6IHRVvDAF6VcJjp2Qx4qZaBaZVuYu7Km0QQr%2BKkfuOpV79Dxt7fibg46BsI7gm4keWY6yyQO9zi0p4YNut1rjN5Y%2F3TliJsHO%2FQukLmz1z8nWdlZGvqcZLZ4%2BeD8nyjEGje35FNbiGQthswp47ok9FStwKNlh%2Fo0tHcstOuWMhWnj0ixCgm%2BpsXnPpK%2BG3MibMtyeboLdqWhF21cAnzpVV7%2BZ%2BiNr5EuxLxnIFj2RHJsYUErk9q1mEJHxTvAZ%2FvpGO4NXAQvvV%2FzZTglIAjrYThoCu1F1a9ILCdtA7JrMB%2BmoYmFim%2B%2BX6siUSPS8ksv7fkbYIWCrspdhJUX66zXFruSS4fOi3YPsIkm%2FtjlTImQoMEW%2FdVgWBYgzhJ14wPACMYjhPHSI1o9gGB1l49oLhN9FPy%2BFfVTuO4s%2Fk%2FvKrV9RxvWIOdqJVBMCkPygtTK6LEM9GoUmB2Qx5r1GI%3D&catalog_product_id=MLAU3406405897&zip_code=5013
+                            - text: Mouse Vertical Ergonomico Con Cable - Rgb Con 9 Botones Pro Negro
+                          - generic [ref=e829]:
+                            - img [ref=e830]:
+                              - generic [ref=e831]: $
+                              - generic [ref=e832]: "78.000"
+                            - generic [ref=e833]:
+                              - img [ref=e834]:
+                                - generic [ref=e835]: $
+                                - generic [ref=e836]: "46.800"
+                              - generic [ref=e837]: 40% OFF
+                            - generic [ref=e838]:
+                              - text: 3 cuotas de
+                              - img [ref=e839]:
+                                - generic [ref=e840]: $
+                                - generic [ref=e841]: "19.406"
+                          - generic [ref=e842]: Envío gratispor ser tu primera compra
+                    - group [ref=e843]:
+                      - generic [ref=e844]:
+                        - img [ref=e846]
+                        - generic [ref=e847]:
+                          - link [ref=e848] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=T5wfiRG4m0TtC6dDHqq2%2BQ5kOCGn6FGaAFQLlzrTL3ZZ%2FkaDaHnYTt2mqJwkv3m%2Bb1hvWR02%2BWuvKIyM26McCtQ9nNN8V2CNsA6aIruKHGEl3%2Brs0FniagFYpnmpQZq8RGwPg7PEEuq4jQnFb0Ck0G%2BCQUhA6C76v%2B8aBUCemZqs%2FDyS%2FNpl8%2FuTash1agdiI3XJfbBSvhljAPFwXShBAJlvIhTW4gUngaN2n98%2B1ffjMqAW4wdYj0oSiMuoIxP%2BOo8Cx7hKHvDJaaGQZ0MgeAwjSnp44mGD4ofbcyQal139vpXsQ87kBkasYvEXA%2FC8mbiK7r8w%2FM7oB7J%2FdblyoIdhSdDfQvYy3arsAItIfJwgwfa3Lyq%2BzNyzBPzi3hMoNmRd1AMdaIpUGDyiiEhvudmPTCn36DKcasL9%2FcobSSp2wAP%2BKhFJZU3rT4a2hPsrqSUE6UFhbOe6vrb3dev2JKcIX8%2BL3eJgkAvm4gMQ7ychRp59qhFq0xI4wS8H9aBLxniSPByA6LOVEn8PiaFiZsnxxJ0XPe9on2emf%2BklTTgwSh9mFs7UJcFsjshkJ5JxAYtzI6POJH95h0esIi62oOSVFWc%2FTNXFw2GewlAWTBj3CXYkx1T6o2MnUvD0KONOYq2%2B%2BFgTfpmYmbYtDXueTbeXoOT7UYKPWJeI6BRLMSoEcztCMVANZbC8q2reP%2FhhOmJnAwuI9%2BBI8S6ZJ6EaG551RA5XNr3FPtemAU4AdYDjyKXolau39ImKSKtxrvTlNVDHdaIPqp89zJWCloWTMjux2Z2VgAwShGKXahLA22RrO0mENNTqe5gubP66AVI2OSkswJnVgrn0Q1RCl1BjIdPcSFLMOP56cKOXlBxCjnD73LQs5VUBs7DJm%2Fm96ZXhXVpENF9m3CZZKrvZJjj4mLZ0ScInD3q6m2UcTFbDVemZeeUgAvf2LDu6oRhW8%2BOpJlQXuHt3sN2BlaPQNfu1fzCD9ACajcoyP8krU3YuK08cUohLiq86nFZ%2B8umsdrCmrfp4NTQpR3p1ZmuUe5zrh1kXLModV3wr45MqRFN%2F28ADkfzO%2BXtLHVaGyCgjKrVrSls2bdABMsmS&catalog_product_id=MLA58818224&zip_code=5013
+                            - text: Mouse Inalambrico Genius Ergo 8200s Silent 1200dpi 5 Botones Color Chocolate
+                          - generic [ref=e849]:
+                            - img [ref=e850]:
+                              - generic [ref=e851]: $
+                              - generic [ref=e852]: "15.200"
+                            - generic [ref=e853]:
+                              - img [ref=e854]:
+                                - generic [ref=e855]: $
+                                - generic [ref=e856]: "14.476"
+                              - generic [ref=e857]: 4% OFF
+                            - generic [ref=e858]:
+                              - text: 3 cuotas de
+                              - img [ref=e859]:
+                                - generic [ref=e860]: $
+                                - generic [ref=e861]: "6.002"
+                    - group [ref=e862]:
+                      - generic [ref=e863]:
+                        - img [ref=e865]
+                        - generic [ref=e866]:
+                          - link [ref=e867] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=hnoeJe7R3vGlM59fP3fxEao0IgV0rPHKybXCTyJDNkCmYWnEh1AYvw874m%2B9DG8GMGS6KdLUVY7T9DM1sM6fL0NafaIBAVH5%2Bbnz4SU6bVUOHqdj%2FuIZL9b9NqOINH7BdCTo%2F68qmzLHFiMsXpv0st9xy%2FbEMSkNjBtdITJQpNAV4wTb45ebzqkEJ0vhYKuTlEN%2FaQAQ4Y%2Ffeszng4Rj1YZHDNKYFF%2FmxZrGVhJhuw6u9ZKAOlozPQj8Sarm7uhGMhLHFwGSpkNUWagT36giaLfskQC7Tiw89Jig%2FJTRfeiPaNxRgDDrfhETchVhInGdzL32v5059QRncKxX3JENJqXYDI%2BsC1amPj6LTuW2pKXqCWE2VyQce%2Fzv4JG3%2BXl6H631xcf3Z33Z0arscM6grhkAoxEyRClitp2yyXieEdQkYh9d9AdjnZ3n3qMVTwlJiiNZ%2BWRRPFjeWnpH9uezy%2BMaLHji2TyzdQ9nRNpBKnoH9vXjQVvuSJ%2FNzVZqR97fNVS8W6uFgFIYf1AaTtXBabtCUCpQzajb2mwrr6X%2Fusj29AxDqBkzGOSeTXaGf33eydxw5XZ8Hl3kktKv%2Fnu5tKyXF7MQV0uR0ni48FL1QFd41Ju9%2BVS393LACI8pHCI80Zj69wVE6QmqdxrApE%2B%2BYvFkEt6aRvIYkGESvvSLJRcvG%2BVwwKtnPqYe4Gxnftl%2F%2BhT7uZcdAFlZ5pBUvVkWS0lgJj818k%2B5Bzp0BwoXhfkCmckhQ5fNtJ7fEkTG5NZ%2BT%2FOQCHmK0Qjl%2FwUEni0iV2ncgC%2Fjofox0aMu7tf6ioDqOS1mzBYPkKuP5f7obD%2Bvinu50bJ8gBnw925GHrCgndAZ6aT2Og2dxWDibAah2hoUo31fhbq%2Bo06%2BwPtwG5heM9CZ93K5rdZPyLw8WeeTuafZTynAJzbxYHmzoL7zUsmq7lN%2Ffh%2BdGzyW7hatNffKL0ayFDC3zGlfIaohaiyxWpmAwTPlsBs3irgXLfU9xKItRkAiVJNlXnXtnVNmT3Vg5fbCoEkHt1cjuupizwJC0%2FsTnHRlvr%2FTzEkYQCyTr9C%2F17Q8s7ZYNA%3D%3D&catalog_product_id=MLA51204136&zip_code=5013
+                            - text: Mouse Genius Nx-8080s Bt Azul 7 Botones Silencioso 1600 Dpi
+                          - generic [ref=e868]:
+                            - img [ref=e869]:
+                              - generic [ref=e870]: $
+                              - generic [ref=e871]: "21.900"
+                            - generic [ref=e872]:
+                              - img [ref=e873]:
+                                - generic [ref=e874]: $
+                                - generic [ref=e875]: "20.805"
+                              - generic [ref=e876]: 5% OFF
+                            - generic [ref=e877]:
+                              - text: 3 cuotas de
+                              - img [ref=e878]:
+                                - generic [ref=e879]: $
+                                - generic [ref=e880]: "8.627"
+                          - generic [ref=e881]: Envío gratispor ser tu primera compra
+                    - group [ref=e882]:
+                      - generic [ref=e883]:
+                        - img [ref=e885]
+                        - generic [ref=e886]:
+                          - link [ref=e887] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=sItDUXbHOp5jos94ADNoXVp05LSBKTMnJ5mgJ8rIVq5%2Fa58Si055pp3b8JQladhOR1jQbq0AxfL%2F3%2BwJh2mLvHYPsX6cDbkRwLCniP%2BMMUWTamipD6CbhwcdQ4hSX%2FhP4ExZCIJJpxY5quIR6AwHavO1PufzEk63pT58ZIE9oZEHSL3te9FtdXBEhIFJjeRbQ2vOAhJzolFy1GyNk023v0Uyiip2lG2pyRqYoxzHDf3ozfoAi8ZiNjKciueJcCC0bNJoLdfA4A1%2BZUbQNfR0u2PofH9%2F%2BbJPTJqxryLm0tdgipuGFpNs8v6rU%2BODYtrgEpgDNQBImObXtvGHQwywuLnwqc1QL5PKqoCPNg6OvtMP28Pp0tkaTKjSslKp0YyiEK3Pb51gPyVsH7wPLAfW6LvLBynxb2zufcltAp6avYyJZBJPdsdPwgDB0X7oIZT3kjjlloxC32HFtKkOO%2FV3nWNHjRlXL56%2FFyL52gisFj5o%2B9JzErJjzxGq3dAHBsegQc6YoodTFctDgf6byNwobOpNX01QhSl2NuiNhCV3UAmnXSgr%2BGGyM4rMcok4%2BI%2F5j4Zq1KKnSRvQaLbGZIluPr9P7MjU%2BecdL7NVaAMkJKO9atSMGHuOwubGbVIzvLYTOWdzU8uYui1njyzI0JpUliwqxUhZIeS63FQEJTd%2F2uE%2F%2B8ppi1tjtptGm8OVNjaaxIYrUorKBkvGm9aGhhzm7Dg0ysVfVMZMSz035wt%2BnKizyhsYtUguBOnTuWClMA%2FaDICsxbGqMtjzThLLpwWQLG6sReRV3QSDZ8%2FHVUr4XWCdLMeDIQqQChpTiJDOXnx1dbOEuMFGmLxIA%2BU%2Ffol1WiPChnI0D3m1jTPFao0aazaUT62IR1t%2Bk3z0%2BzfCK2%2Bcf5hfBoemOXkOo3NY%2BYxwTChZmebQiqsY%2FJcXE7vVJ4sfEUPGNtT0QSSKg6vhsYnGjCun%2BY6RjIr%2BkhW1vW%2FX0oq2%2FQDb8FgOpGJreCIpsyaTv0hBIBLzbOCuDJ%2F72IdwAeQ3uBiXgDdqqBKUeYt51WhVCDqYMNxzBawLFJ7TXx%2BSWXeneRxkoNs%3D&catalog_product_id=MLA48414084&zip_code=5013
+                            - text: Mouse Inalámbrico Ai5g Con Forma De Coche Deportivo 1600 Dpi
+                          - generic [ref=e888]:
+                            - img [ref=e889]:
+                              - generic [ref=e890]: $
+                              - generic [ref=e891]: "79.800"
+                            - generic [ref=e892]:
+                              - img [ref=e893]:
+                                - generic [ref=e894]: $
+                                - generic [ref=e895]: "72.019"
+                              - generic [ref=e896]: 9% OFF
+                            - generic [ref=e897]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e898]:
+                                - generic [ref=e899]: $
+                                - generic [ref=e900]: "12.003"
+                          - generic [ref=e901]: Envío gratispor ser tu primera compra
+                    - group [ref=e902]:
+                      - generic [ref=e903]:
+                        - img [ref=e905]
+                        - generic [ref=e906]:
+                          - link [ref=e907] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=kBMLts%2BtaDotD3l4nR9bSXK%2FlXHPe%2BsJJk9DSH8LI%2B0T1SL%2FmiRQuzhUhgCVMnEtc%2BLAdEkbdsB1OizXzDegLN16rUBP3CfIUJvyC9dAoIMq9ffx4sElnr%2BSgfI8Nqo1PA5YYiXnjNadqnHwC3wist20NlRsJOmuNrOKEtIQrRQS2SksJIfH9uqfqps4234i908WDGzAKa6Lhlcc5Gw54xbeFaf%2FA6oZpGBv%2FIvKSZOzt0g3aRQRG%2BQf8ypbZDHZJOYp3oNodMwuuBvkFTcudEc8%2FLvEIEuehITvaWnC5kXHZ0Uqj16Ij4kkA3YmqKTRjGE%2BDe9yb1jszbjcfDlfrX8tQvtXdxS%2FZGhR8kCb4GPg53dxZPJzjcxQiuTXnDdQNREMkCcSWzmzmcAmH6Pl8PkSm70Crohrla%2B4XO2fhUApNfy01dxsGgADgRRdgWpXor6JnSwbPUA61GSCupkFkeQoy26BeXbAU%2FjCPH3xT3Rs4NLkcU0LGGjBI%2Bxnp72Zwzs%2FdlAidCu7fcyxHZfdxh4QDifHlQ6C2KLrX54Qn7kvI5kCBuGcURP%2BVS%2BPNLCN%2BTDulaaUS4Rmu9ICO%2BUPq%2FDNIzoXm4vwkvvkqQsFMFVq6IVRy1LAWSnumn3fBTQZpYzXIofU49I2%2F8D97OrxTtLmB5Gm5jnaopVO6N5aSLQWFn9wd2SV5XS1jCdPl6F4qgkuU%2Brc9RmYMr6A7FT5%2BQDE4OpqzBPnXHshg04zvaZYVl3Vu9pUKoSlbCNwGzyQwQcizn62MQl4KAcUmphrBWchKa%2FvvTnbLw1nJ3sLN%2F1ugLDvYKDEapjnZT841abF34ugH8k6LWsqcvbsfZNDHYzcG2e4ZdqgmRvtKhwDKORlmb5pRm9C0jmcaCzmcxzPYR2lbyQEHEkY5k9yOzTN8PsR62Bohlq7XVCdJ%2Bc%2B4Oq1nSfiCyTA17G4x3gXVHLQyIDkg0GlfMiD57wsgcHyohFGQuyeh%2BVnxuW7dBU84dcMVEjs0Ilq4nk8Y4kJm0XOiGyHNRp7%2FPLyp7sSXU%2Bf&catalog_product_id=MLA21482798&zip_code=5013
+                            - text: Ratón Inalámbrico 2.4g Hp S1000 Plus
+                          - generic [ref=e908]:
+                            - img [ref=e910]:
+                              - generic [ref=e911]: $
+                              - generic [ref=e912]: "19.999"
+                            - generic [ref=e913]:
+                              - text: 6 cuotas de
+                              - img [ref=e914]:
+                                - generic [ref=e915]: $
+                                - generic [ref=e916]: "3.815"
+                          - generic [ref=e917]: Envío gratispor ser tu primera compra
+                    - group [ref=e918]:
+                      - generic [ref=e919]:
+                        - img [ref=e921]
+                        - generic [ref=e922]:
+                          - link [ref=e923] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=%2FMHDXwlxmwotfVIn%2BUcZS6lxzVhACBgfaAUU6YhCBdHO1XjI%2Bu03cqeLOTB9UnLC9h3aw%2FKXW4M7plFgNLXoBQeZyNlYjEuOYPBqvBxkxzpwdnZn02bQ0pzTZ6lo20HE43VI7iIjdofmAryygvD6s6nyDN8jn2fnXzfij0wEokYltTpUSyBaybCg0PUeGtFjQZx0uBcRDOnw8%2BsCj9Y6sy8y3me6f2%2BNgJmi%2Bhc2Ilk5JLhMs2vhWAHjkDRqiQfnXvf1iBv8Bop0ApccjiIkWmB6jtETAe4tPk5nfSsX2E4jzogND7QBohc3D1i6hlD5sclmrv3XuTm%2BoV24Ok765077%2BfdLIVoJOBXIYxbOYcgXDz31Chx5%2FX2bGRTn1fHin4%2F4WLmoRwp%2BAkJ5Ap8WcyNb5ML2wVlyJryR%2BJeytbKkffSkKk8F47Db2j5DwwUimN9a1PEnnUy%2FxLqdhgEwDbwyeX95U0nGFsoVREfl8np39IvOoDziCSNboekoMANeJYk1JmKY0iLXS8LkaclkEx2ErXjO87xafz8iiNPW5Pgi1GTrOEY5hIN55mRB%2FPCSAQI2GIpYGt0L%2Bq9fgTFbYeFH7Usrgmm0Tmn%2BajDRes6r6pxOq%2Fu0vTaKLIJG96et1VC0nMFEW2No4%2FxxU1h4GXZq%2BP0MQziuUz4ebdNMwJdliRg7%2FUBC5Ku4C48sUfKxWZYVqdFShAqDOuhu%2BPknUI7dOtbkcn7z%2FTHXPv4fyC4%2BFD%2BKqDhYD2wjZlv3VjYFax%2B5Tqunx2lxTi57kBlV4vqM6Q34e%2BLpZu9iHeTX87%2Fyy4jdcy%2BARZz%2BdvZIp2cW0JMcxUmJoTPFFquys8L3eHyQNUql7NYC%2B4IpZ2qIZ4I8tv6TSW84asTfkiXMmaoRdbOL3KXxlf2%2BoNgAKFAYiVCGKyb%2FfliI%2BKgCf9VPl40ztFyoOR5Os%2F87H5fKplrSYo3ddjmk3X3PIr%2B%2B8pbqBoXwKDq1AyT0WPOQZVhUokd2Mu8o8zI6S7DmVesW0PRTE7uWIzZCSnURSyoR0uKqD7YSPUT5Amkzj3Sr%2BrVesAtgyeTdTYK5zlb2xcdi&catalog_product_id=MLA46042907&zip_code=5013
+                            - text: Mouse Ergonómico Inalambrico Recargable Jertech Jr322 Color Negro
+                          - generic [ref=e924]:
+                            - img [ref=e926]:
+                              - generic [ref=e927]: $
+                              - generic [ref=e928]: "24.154"
+                            - generic [ref=e929]:
+                              - text: 3 cuotas de
+                              - img [ref=e930]:
+                                - generic [ref=e931]: $
+                                - generic [ref=e932]: "10.015"
+                          - generic [ref=e933]: Envío gratispor ser tu primera compra
+                    - group [ref=e934]:
+                      - generic [ref=e935]:
+                        - img [ref=e937]
+                        - generic [ref=e938]:
+                          - link [ref=e939] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=MSqCcIQ2SRJFzOaYZvHAtVgGShJf7%2FKC3tIQV8gLv01J8ZpclhwZkoczHvpdjAYtqP3fXmMC2QSNjPuaQYwdWsbIs3RHPlLXtHo3XvYJe5Zq5dC7Huz2PPUfjYq4PYKaSZA%2B%2F3mSXVtNPJ9WiH62hjelasFz9tuZBkDExSJsv6EMIb233JHHcAVVIahNWPYD6iHdySdyJ3SPdVLxUVtsJ3WpRHS6qu9hWQIvlY%2FaZF4J5H39tk0UtjFFurEgUWG4BovCDMiYmKUzKx2f8WJ%2FlXLKg1yhXrJ%2BuvLx29OZao1TvmoIi1DrtOBVYe4dXnY3FrJGXVv6tPzYGvcTk%2FdGTkZExWkerwwxiXqkzX8QijvotOxdnOfetvUYzZUHWMiHUiWMYIS%2B23vakevuFokdqKbOW%2FxdMHEdZ%2F6z0opNn4kf4KnWpisPHak2HP9QZCSzcjrsd1cCCIvPY%2BugFZTYWlNeH0ppgZmoS%2BqhDWiW%2FXf0ou5WIsx%2FFkK02bPD5tT4M0lLvUhfxaXRR75N2Cp7mZnhRZyiABVMPCb%2FkgQ0Sd1AfLfP1wEzbSu0lH1K0bg%2FYXmfW42jsrzXQryEReqYnKI82PPGwVshi5uZjPt%2FigW7stWHk3d9TaxRQaz52fEd1CDmbYkuclgsjXablQodB1rj5ix1cpWfP6u8cH2A29QsZvD%2FB%2FV1pp8hFsjXzjX%2BcuB7IGYUPzNHC%2BN9z6ExrGfJ8vQCoFD%2F2r1dnGlU9jzo9hNY8k3xfjZU5HjrZhlflLFno1ZI5e6YOSn6KY%2FjXokXgVvIdVfdcPVisDIzbSnCtTgaEvuh6NmFZ3G8QY7QeRZOVsoG1JGRTT4z9o9Ct0RXp1%2F7jaBpv37FsPs9Uq%2Ff%2BUl3US3oJoTLvcv492lDmaOpDQBPvZrYoAR2vMCiMN0wx7z1REtA7yCyZsr9ucIowXj8w071fpFyzlgcmLSc8wZEEQ%3D%3D
+                            - text: Mouse Led Inalámbrico Recargable Usb + Bluetooth
+                          - generic [ref=e940]:
+                            - img [ref=e941]:
+                              - generic [ref=e942]: $
+                              - generic [ref=e943]: "12.000"
+                            - generic [ref=e944]:
+                              - img [ref=e945]:
+                                - generic [ref=e946]: $
+                                - generic [ref=e947]: "7.682"
+                              - generic [ref=e948]: 35% OFF
+                            - generic [ref=e949]:
+                              - text: 3 cuotas de
+                              - img [ref=e950]:
+                                - generic [ref=e951]: $
+                                - generic [ref=e952]: "3.185"
+                          - generic [ref=e953]: Envío gratispor ser tu primera compra
+                    - group [ref=e954]:
+                      - generic [ref=e955]:
+                        - img [ref=e957]
+                        - generic [ref=e958]:
+                          - link [ref=e959] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=42QVx48Xv8C5OywqcqMyNmEK%2B4wZVQ8ioo%2F7uCkxfiLu8dFAdSD%2FJTH5ntR00o5WOxPEYzFX67c40w4zJbmzOiPHc2AVtpM023b%2B3w6RDTMioZT0Dcs5SdlmX4hUJzt75rkFkuOnLul%2Bu5yU695SWoGT2%2BsSvl1s1lXfByrrBB7waEg4lmlPwZZkQNK6tuzCLJuCs5DSCu7U8Z8BYGT8XxgR%2BcV16Iwk5Y%2FCsSF2Beg9SbwIaZl%2F2GPYrV1yG%2BSAUbKazaTAlMRLqHeT1jQfxMknNRtjIJ2BRf2uNhxtQvKdqHnV01Mp6MSSRYjBw3rFRIu4pvUdnX15MyZ6UuoBVE4YBJqzCq%2Fi%2BoQE8SU2xfpWq%2Ffykr0uLca0D%2FKiRA3iWhYAipX1qut4StgEul6zBQTnsYuCjxp80grMNp5w%2BhzPo5qZvZoMoYUbvjqmpwz6%2FytDyrlm9ls5%2BmGEvBahPGWIJW%2FF89a6PmXvn8lho8DybRARYpzHXNpcYCMzjp0cW8IqHYor7I9ttSnQQjXGqRTJSKNZ6T%2Fd4k6VSM3%2B5ioyjMxoQtxMA%2FX%2B0NHO9PPrU5I0HSx%2FLpR3T0KFCKvnqeVSR3C2GWDcBQHgiaNysYmhWDLj2xTuDXMZ1CJEXeNXytTl7kEzbxKUQi0mFkqjJUitngVaMhcNYc5sefblBc3PavnPKrgBhKc8PE1sqcKMS79zPjva4khgQJzmhwsCFDcLlyNkl4RLaeHe3%2FPByxI6rv1%2FwNA0JUwcfK4np4sTnN44ei6znMMn%2FZGZhtWkG5EiMjsUtocw9gFk2kdhNfhVP48glxPbplDN7EFXLmjMnvHnGq8i9h4P2NjW4fxRl8sD6ALcuPt87kwro7g2vU5Ozfcc2rZraw7gUsaPXp2U6v4LSa0NmGkKzgJOZ5vR8AdyjnqwuhwKD80qptbAaKAF6JnXBDUV2c%2F9zCL7bBB6E1cOIv2Z5EW7d5baGw7gX7Z668T2L2tZoFNsrggnUJd6pJ1cTXszN8dwC%2B0gg82JRqXdqGoXzw%3D%3D
+                            - text: Mouse Ergonomico Vertical Bluetooth 2.4g/bt Recarga Oficina
+                          - generic [ref=e960]:
+                            - img [ref=e961]:
+                              - generic [ref=e962]: $
+                              - generic [ref=e963]: "115.000"
+                            - generic [ref=e964]:
+                              - img [ref=e965]:
+                                - generic [ref=e966]: $
+                                - generic [ref=e967]: "105.800"
+                              - generic [ref=e968]: 8% OFF
+                            - generic [ref=e969]:
+                              - text: 6 cuotas de
+                              - img [ref=e970]:
+                                - generic [ref=e971]: $
+                                - generic [ref=e972]: "20.183"
+                          - generic [ref=e973]: Envío gratispor ser tu primera compra
+                    - group [ref=e974]:
+                      - generic [ref=e975]:
+                        - img [ref=e977]
+                        - generic [ref=e978]:
+                          - link [ref=e979] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=ARHGn1W1osGZHFzVLTUrCc%2FhEO9T8xVxL1SnNwTdGNfq7x57I1D0Iuy3JYQSVQg5agTXbyjudA9DEQTAoTDUmnFRI0oIo01KQWeBxLcE7ovMMVBmPeEn%2FgCw%2BcFPnpSvJ4QnL0ag1Tyj9RiVciuDasKsr%2FuaPDOoNfwJyf53kMcQpxWydWEUf6ETn9aQnUZvOfbXSuAglb5iUZGUhqKERjCtpkGdAtk645f6TKVZK4so9MKoWs%2B8b7cqxaxBDAyAmOhfKLk%2FCL98pPntpHhYF8FBdbgXaFlGuLaoZjJXUNTzxtdyCL7U4vWf4PPIAwzGwbhO5KtrxdlBRj4XxDUN4JYJNkIwFZjoGQ7R8wmoutGvyx2fGcly7HRRsp3DMNuqjJsJWq94MgL36%2FXipJqjtTbmodfQL%2FRLgmXgMXWKX1QHmp%2FZyCYwS5quCsHRiPXR8t0HzTjS8dOJ8eR6GbyGe2EK3NKI91hzayEfDqQ6Cs03pUiUYmOoXwc9ggyTvIvoSNkgL98EYH6tOPeXeFI8HPi8HA%2B5QuOjOQpxk3Py6UucUWfXqy2kIo1qrPTObTitR0is%2B%2Fjv%2BLJGl7okRZeECHUvamz31QDhgnS4csiDj%2BqkN7I4%2FcuUIsNlHXkrbySuN3FmewK9hmujmqf1A7YW9abLXWjqgNPDcnv4gGkgxqEninitK6bMHjbs8LpM1Lo7MZvsKksfoV9XtB%2BAf3bTgZJWYEolte%2BQMVyOdKTFjpT1nNXXaK4KwU6zFnwsPQG6mztw1HnsPBR8xvPCX3NBK1oZBSvRxwtw9EKTY3KHxtXChTCFuHATMGlCPr0kgHMMN3PBln2lqgeD2pMMQY8OkmWR26cT0o1iJGSrUO4VO0TRzxfZyuhIo5PZfTj%2BIKQnWNsbsFvHFwgw3le2mMUzcVevC0S7kw9eS8djIzXEmp9%2FyjcnBB5qC1yaXBuTS2%2Bah2gEJGzpoLi1
+                            - text: Mouse Optico Vertical Ergonomico Inalambrico Usb (90795)
+                          - generic [ref=e980]:
+                            - img [ref=e981]:
+                              - generic [ref=e982]: $
+                              - generic [ref=e983]: "21.655"
+                            - generic [ref=e984]:
+                              - img [ref=e985]:
+                                - generic [ref=e986]: $
+                                - generic [ref=e987]: "20.572"
+                              - generic [ref=e988]: 5% OFF
+                            - generic [ref=e989]:
+                              - text: 3 cuotas de
+                              - img [ref=e990]:
+                                - generic [ref=e991]: $
+                                - generic [ref=e992]: "8.530"
+                          - generic [ref=e993]: Envío gratispor ser tu primera compra
+                    - group [ref=e994]:
+                      - generic [ref=e995]:
+                        - img [ref=e997]
+                        - generic [ref=e998]:
+                          - link [ref=e999] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=9PICZuu7SAY0HHE8Koh47a8zG2yP%2Blma%2BM7pL6rnKbHnBjLXUwnkes22DrO%2FifnDjNtfgJotYb8ytC3%2BFvXNXiC%2FvjC%2FrNJOw0Bq107OcSkJXYfBR8GX41PyHgYWDEmWpldlxnLPNl7NkZ0J9yiYaomsyFDMj0E%2BCdtsP64pGkX2yeSEKA0VWRYmb13l%2FsIaABCnoNGWTEctnr7CbQlqzE80APw1S6OjpT3XQbE%2BgtwAQnCh6pZMNNnWWpPmM8l%2BZxLm9hYEmG5fEGy%2B8emKEoO6GBH8LwSFBeVtPLL9o9n3%2BvHIcSX1o0utcxpbuHsQNuHUk9ivG5eD5WUxPGgzE5XMZlDPuCaUkkMo%2BSxZVem5kpJKFnwUY3a7%2FM8LCXMd4o1vfuxMl4djMF1EWbDt6uB3MxsdfJMzj0c9GwNczny8Lm2RR2FQ%2F53iA1MBiSvJwjj2brD1hIbTBd85cx%2FQf%2B4t6mSqOJaSwItYjDY6lXFxkuvBGSZ2sG7WhfObXhvsW84atKpTh9RUikkhbdF%2Bk1ji22%2ByHl03cFw5ztf2c%2F2k4Ptxda3d084blo0ZUGdc4fGdth907yhdzCJ2%2FdmmoxH1cdQrCWgpLxPrwnVLi33r9FlGLNfXkHIDjOtVCO5wTdt7SbIokmrF%2Bf3R%2BclMl0cB50rNR%2F6cXjf2aPnmAGIJOUvO%2BH%2FsKgNnwyPfIAdvGjcQR%2F5wwbm1p7yVntTlSoOkZ3rtlhvP0WxnqnrUZTUzaG5OPwBT1eyxg6%2Btzi8%2BESHI9Sck8oM0cxsxBNVdl7RU7F777fnY1YL7OALDkNRuMqhEZYvYuPeRRyG3eCDgPA5le8iUBsrTqihz7t40IPwjQFSUjtTFEaSDE92Diea%2FtSZHBHpGhPgbDvyiLg0GK3B3c3IXxRvTx3Ya7RJYK8yuwznvebfeFaF6SmaxsmX6DAfWMgAlW6FTrxtLBLj4DDuZsoO%2FE44DsBE1pd7q%2BjdaRZmZDo%2FvhxQxF4GLsTEAqxaKsv6AGzVGRKS0zHUjJ9wM2RBw71YYhjcTKJ%2B4UZ%2FkY%2FIVvdFXMxnBxTqVK1BDdSUoVBTNCPd8iztSPHE%3D&catalog_product_id=MLA54926575&zip_code=5013
+                            - text: Mouse Inalámbrico Philips 3000 Series 1200 Dpi Wifi 2.4g Color Negro
+                          - generic [ref=e1000]:
+                            - img [ref=e1001]:
+                              - generic [ref=e1002]: $
+                              - generic [ref=e1003]: "15.813"
+                            - generic [ref=e1004]:
+                              - img [ref=e1005]:
+                                - generic [ref=e1006]: $
+                                - generic [ref=e1007]: "12.385"
+                              - generic [ref=e1008]: 21% OFF
+                            - generic [ref=e1009]:
+                              - text: 3 cuotas de
+                              - img [ref=e1010]:
+                                - generic [ref=e1011]: $
+                                - generic [ref=e1012]: "5.136"
+                          - generic [ref=e1013]: Envío gratispor ser tu primera compra
+                    - group [ref=e1014]:
+                      - generic [ref=e1015]:
+                        - img [ref=e1017]
+                        - generic [ref=e1018]:
+                          - link [ref=e1019] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=19K38E10fmlh5YMbLgiLTOW9S%2B3mr11o8Bkir7aYAalZVOuOSMhiIXSov%2BDs2pVMqHr3nbazszs96nTcjedV9sPe9V%2BgkYWmOqw4nmAieuUpzI2U%2BSZkk1u9gTWzQNoIg5gqEFDLxo2%2BBbDMkjwzTwbMZHw%2B3v%2BOprXspgQGyxQydLSCFEcQopBPYrSuQJZWwkYBgxyQtI1ijMdqDnX%2BDMbiCRt4gPjE2MCkIoEFCyDxu3mhxlQW95MSdh7vcQ36SLuts4E%2B0cdHCrm2SnBB5g3TolITrN9c4aa4cmEzJXFnqQIE65AuU56y%2Bv9Yg%2FkCG7m9gqW%2FYE4XU4NsCWQOWrPcQsCCpV64OSSI0xoqUi3vnVLOu0aBXe0fh8qyksZBZIfszCluShnL5bCOUo%2Bh0bXDaIPGh9HRWkXrGHCd62yf%2FakssgwF0uV094ULcx%2BKoI9ZtD02%2B1g2flSSR0vJC3PmoTZ9eXR4NmZ081ki71Z%2FkOzx9NdJ45zxlkq9sCYV3seAaK6nCeJbOOs3esnspFAYbFWdoQQH%2FwZcHLvYUStlo1zk3%2BqKrvEQuj1yr4PknLIigORxnPvgjJgJdd2e11E95rgS2MhHYK9HD5unWS5gthhSe41UmnARa20zgJO9EctvWefmyyEY3IaDypbqKr%2FYj7PBqYHn0oyY8RQdpZkrTkCevhpv0nicoRPkQSbwhjXxZBlokqVaG5QLo3%2FMsFfn5kNR%2BUCOXns%2F0NH%2BQ%2FV3dTnV48blEHy3u8F94d8LSZCAr%2B%2FAQWj9UsTAOTEQ34V86LVCoMl%2FCDP1HYoLTdzGMoKOKZObBiAoBMPS8KgMz%2B9NufZXGNZdqTUjsM8CzxJ6JXhCT%2BySp4qsTCVq6EFjaViDt%2FZYdz2zFJkuwOUeEf%2BOw0poPX3nzO2o3o%2Fw1fVwKBA3sdPk7S5hjGFJ3stE39TkLfWsFehm1aj1CUdY6n4rEF3lz3GAewqNa9gjWYgM8HFaFP3RGiUuKiYxFxLOv%2FQ%2BigJNB3jvsZSkRnytv3gEbb7Uf8T4q58q12LA3SPiyPDsE%2BNDPnc8805zDiQKR7k%2BnAjdUys%3D&catalog_product_id=MLA23892907&zip_code=5013
+                            - text: Mouse Óptico Inalámbrico Para Notebooks Verbatim Color Azul
+                          - generic [ref=e1020]:
+                            - img [ref=e1022]:
+                              - generic [ref=e1023]: $
+                              - generic [ref=e1024]: "15.000"
+                            - generic [ref=e1025]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1026]:
+                                - generic [ref=e1027]: $
+                                - generic [ref=e1028]: "2.500"
+                          - generic [ref=e1029]: Envío gratispor ser tu primera compra
+                    - group [ref=e1030]:
+                      - generic [ref=e1031]:
+                        - img [ref=e1033]
+                        - generic [ref=e1034]:
+                          - link [ref=e1035] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=gFLQsRQvd45whPidflWRKn0%2FkocgbR5jjnFO%2Fg7IPdM6GXBeftML%2BjO7MO%2FHgkGqRfqi6XENRWwYBV4TNbEK1BwTs3F5M7NlwPZAlkDHBrFlU5Piq6oMpIta5oxt0LZiC7O1x2n9b19NJL9vCNnpd0sODLRCrTKe3oyxWQ0%2FE%2BAqUkAuXR%2BW2D2sT9u%2FGLcRJuXfXi3JsL6kRQAKADnnRuZ7%2BZDS2ZPQB%2Fc6MkKUwQd6Iyj56yrF%2B0T0XDDTg%2BXzBULaWFh%2BLcJMDEhlVzftlUVIZYWoUNWweJOH6kLQ4DycSLVGZN%2BSuQZsDp8TUZ3hWo6F7xk7YEas7OLjWYqdTbsoUcFStYwrj8sLa6S42Zor30KooeIay7svx5ZZovbKWIRXWa9Lm1gr%2FuwY8HDe6fimifbPp%2BbbrZvVuLKbPyWKn29iZS84GlDJbxKFMvzCgODv0lOFdbBcGBeG98ZpAkbBcZz3q%2FsXqmvMx3iJXKR60uI%2B3MGBCopzutcP6kUY1Cri2hdoYFgUxju7d%2FXh2zrlWqM45vzU3Sieew%2Bk31WiXZUsQAa8R4gxZN%2F4o86K584KtiZrdDXsJBRqD5wtQW4FNm1NSwNkZM902rjFCmz9Kw8ZVz2UxtfBSGx9QxFrKTlnbcOGQfh0L08xpfsIbcAGli%2BH4pQ08PiotoftqNZd9yqGg3tEA6v62yUiVtc2jRez6pHFP%2FVYtTrpcB3pxtF4eZRmu7LjAIBheofFijgI1bcArFcVm4maLPx6BzMxpdB4r%2BFDACzDXmoKVeqiH7WU3p%2Bw5JQtkZSl2DnJkHZ8aZ3sdZq0Y8yc7KbpK9p2czAbUDRdSRXsobO%2BHLmAqMlTwQVj983hmILQNCD57RohYiQbDQA%2BIhNoF85wnPZucn%2BvA%2Ft%2B1b3ZfECGbCmrHYO241Fluscb1kz%2BENW%2F8%2Fd8lyDOdp0WW2DqKbinVGlcpA9Uf3oNZC5Bk%2BMsJrT%2FQri1cTohl3qSkPve9I6bM6gV3RLiutB6aSZ0wbPfQHi%2BVLYiaXmqYkqOl5q5Y%2BJZz%2Fdv%2FT8ZGTSjABVOb5U9yeqWrTo%3D&catalog_product_id=MLA19722578&zip_code=5013
+                            - text: Mouse Inalámbrico Trust Puck Ultrafino Recargable Negro
+                          - generic [ref=e1036]:
+                            - img [ref=e1037]:
+                              - generic [ref=e1038]: $
+                              - generic [ref=e1039]: "41.895"
+                            - generic [ref=e1040]:
+                              - img [ref=e1041]:
+                                - generic [ref=e1042]: $
+                                - generic [ref=e1043]: "33.739"
+                              - generic [ref=e1044]: 19% OFF
+                            - generic [ref=e1045]:
+                              - text: 3 cuotas de
+                              - img [ref=e1046]:
+                                - generic [ref=e1047]: $
+                                - generic [ref=e1048]: "13.990"
+                          - generic [ref=e1049]: Envío gratispor ser tu primera compra
+                    - group [ref=e1050]:
+                      - generic [ref=e1051]:
+                        - img [ref=e1053]
+                        - generic [ref=e1054]:
+                          - link [ref=e1055] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=y003kEwhshlg5oPIvIMSV%2Fa2L2F1Gg7XIA4wB4PgjUNSr7f9Mgw4fHxneMFTy%2BT3Ug%2Fhrj5OmX0up8ehxmEm3fU5cpIW%2BeaATFrX21QfAoUF%2F%2Fmp2HgPRyLunzRDqS0GWU%2BhI50relMeqUeRRgjUIqtelkl7boMV2zpSMcCmQkHu4s56HtqjyQUu%2FYG6yNOOQ6KpJgHRTIHKlkusWmbPQWK2wcaZtdQncIvQcH6l1aAsPjE%2Fs1y4tcfallzHnUQetIrKnVjSINx7rwPeD9%2FTjq%2BhoMXd197ohIkjBVY1rschZw1AZ2IKZAZu9UqFWzNXm7cL%2BAiLklNONqnHR2%2FEya2hSSA8OkdiCJt5KE958ippmPBXqU1k9XxjqUe4adMHCkpann226Oecl6vgSlA0co54XByIPQMLRCSHcIPdU3Pm7b44KIyfF%2FqOxAL2NKrqSp8VHRyg%2BZr%2FmDvhXnOVDrooUF9iqB6rUs%2F1VkBgorAvz%2F4OgmgTZ%2Byvu8M1h3rGvaJPiVds0dsIWNSZie9We3LoddFqKcZvbofggNvIiyx%2FQ%2BdcsL7%2BIQ3%2FhLIdDNU4OntDIMlJ8L23UP40w56ksi%2F4P%2BboK9j%2FJR5IHxLg3YP97ihqHxR9dHk2AlubxTBQWNqSCaE9Wi7pOZJwXOMCWMiz1brDZ9crMX%2Bapnldr8u54sJwqmTufkxF9Lh2cGMtpes1k4%2B8IvVAD3S2AGUhAotgfn67%2FXAgsYm1Elp4vqWf2Q4%2FrqALsYGaHGqx1vtNveLffvckusAbONyi1KcNzdDjfMhBnxF%2BWmbNBrybDPamkKlqnUJVlz1RgxrpyQlSch6YnjBnKL6bosbAGF6GDtANGAYnQha1CEYhEBOjwxkVvf%2BO%2BVArOKRfTxN1kbOJXTVq1%2FgOYGPNp%2Bfm73N3u8HUJLS2ZsmuzQI5WEC6yMrk1tK64mu%2FLG%2FuWtjZcFELsLZPm09QSZHndu9UVvomxeiZ12wFbs%2Fesww8ZWr8dEHsNcyjdUwZ%2B80g4UZeVh01PBh9%2BnMPrc7%2Bu23Nko6SWAIo%2FUu7Jyo8Gi9C6C6OYGBUfhM%3D&catalog_product_id=MLA47230315&zip_code=5013
+                            - text: Ratón Usb Inalámbrico Redragon R Office Bm-2463 Negro
+                          - generic [ref=e1056]:
+                            - img [ref=e1057]:
+                              - generic [ref=e1058]: $
+                              - generic [ref=e1059]: "26.549"
+                            - generic [ref=e1060]:
+                              - img [ref=e1061]:
+                                - generic [ref=e1062]: $
+                                - generic [ref=e1063]: "19.314"
+                              - generic [ref=e1064]: 27% OFF
+                            - generic [ref=e1065]:
+                              - text: 3 cuotas de
+                              - img [ref=e1066]:
+                                - generic [ref=e1067]: $
+                                - generic [ref=e1068]: "8.009"
+                          - generic [ref=e1069]: Envío gratispor ser tu primera compra
+                    - group [ref=e1070]:
+                      - generic [ref=e1071]:
+                        - img [ref=e1073]
+                        - generic [ref=e1074]:
+                          - link [ref=e1075] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=jFjwlDZjEvvJZFPQ4AsvCdd8lM%2BqwZKinRo7UOEYOhbqDUCm7682XTDIeldcBGRv9OpZZQA7E6JLSqTg3PTvy5etSh6olZuZfQhr%2FNq4GNchtPQdyyzIV8ZgsaPcZzjF9lvX7XxMKOjR3EKuT6crlwm7NjCW9JpNy5ZWyOyX3CxVrI6N4Om3K83Ank%2Buefr9fyWfNMws02m3w0TjjBBUpVe6ulT5R%2F%2FKUc%2FE0ZV0JCvva29F1f6npGF5PWKGzgodbS%2B1cWPZZ7kqAxQBLS%2F%2FAnVJZi3%2Bu7w3Fb0JW1Ya4taoHVkMGbZCjtfdkz%2BtYK0uPl7K%2FBe7aeNbsz6ydTctlfrdgCJZjgpbWjPA0EbaX3PgLcmeCpv6Yss126Nc%2F%2BrrJ8vk24oFGY0U4vVgt%2F7A5XSNSX7jcYz8AUp9aq%2F4S3GkHaJoYlfoAHG8RDQB05X3WBkGMcg05Vrt3QGzfdgJsD3JZDJe1MBlgLytMeaJAWjR6wBWH5QHJ%2FtCI8sKPeINroZquYn1oC6bcVWHgSGiFk%2F4HK2W7nyPzAAmECdCHC95IOhechvb%2FME4GkIq3rHvf4NgHP0VUanC3%2BbaW1iX8Tr%2FsOUqOewEzVp21rKNJuJBjGDud8E11nsdhORZcVup1SBFyByvkjZ2OcMYuRpchmxWxVw1hIz%2B0pN7u8LTkI4ZnDuVKjq3lM1Y9o2ukkpFnSjxks7yc3aO9BD1PpKzKfeoTCJFWEF8ZRQl8X%2BZnK6e2QtOg2FESTRD%2FN4q1CkvkyVED1BBgxcywlpkBYkmnJiTtNmCyQmyH7zJV7DZPxQFLkjtWaLoTPYXzU9B5QLBqpXa3uRppAnBp%2FTpx4Uxaq0kW7bB%2Bf9gL5yKV5FbpgoJNZYAYwuW5u9Ia1is8oh0hSuP%2BZexsxhYYoKKnxZsMoJ1pPSITAuyr9r2BZeK6BqBF%2B4m3Yvz5yijMzDnGHSEvZKRrRy7v944ExMi7Ceflf7u4EFpz%2BCsW9uatYggVL8A2%2BJRLib3ZCBIAs%2Bo82UL%2Bfv0w4gva%2BO7YlU9%2BAJwViEeWY05V2Wcy%2B%2BUa1fijTwkrcTSR%2B%2F%2F8iHAgA6t1H0D%2Fts%3D&catalog_product_id=MLA40341350&zip_code=5013
+                            - text: Mouse Inalambrico Gamer Optico Machenike M7 Pro Wireless 8000 Dpi Rgb
+                          - generic [ref=e1076]:
+                            - img [ref=e1077]:
+                              - generic [ref=e1078]: $
+                              - generic [ref=e1079]: "44.999"
+                            - generic [ref=e1080]:
+                              - img [ref=e1081]:
+                                - generic [ref=e1082]: $
+                                - generic [ref=e1083]: "37.999"
+                              - generic [ref=e1084]: 15% OFF
+                            - generic [ref=e1085]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1086]:
+                                - generic [ref=e1087]: $
+                                - generic [ref=e1088]: "6.333"
+                          - generic [ref=e1089]: Envío gratispor ser tu primera compra
+                    - group [ref=e1090]:
+                      - generic [ref=e1091]:
+                        - img [ref=e1093]
+                        - generic [ref=e1094]:
+                          - link [ref=e1095] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=dztbgKiVi1DD4HuFs3YsxAouQju6H%2Buajt7de%2Bniu%2BVB4qUdLAZ6SJ8%2BVv4OgIxoryODthK7o7b21%2BIu92QXVHFvpmxNzfr66L8JV7sbMDhsxJXLk6LWmsv4QdIRxLe8ulkPmUSL6rev3v8o%2FD7UNcTvgE9laJSr7On6Mn9A%2BBvyoJLuN0yiFERLMNutoFuQLPU4Ax8EEE2mOzCCrP%2BkJBkBhhaLnWQOmvsMoDmLPyPBIyrFga4AI86H5KhNf47LezM%2FTAxXqFbx3SCVmaOPiFb9oOl2RwBHAAqR8n%2FTrS9x%2FiLffPYZ8E%2FgC1BhfNSpifR5J56l7WsVFl%2B0rWzDb5oufBZHYVkfrw1lgwrdTpPrWp0lDuTyUB%2BXluvRd6IliRLl0UTibBSLBQDGliXQhBs2iCG8JMFjO9EHDRUT%2BdVk8Gx3%2FMq2BL4%2FEbIuCywMHx8%2FnUYnjoLV4x5y84PE%2B86ngRrAskThNKz%2BkDSlSY0e7WG%2FLLxIHYKUQV0oBg1qMR8yxG0woQocXauMKoylUkrezgKlCywIPkfKDNy2DG%2FhmKYXqOWd07wSJ6nql2893tmDc3pLzy9%2BtVB0Z8ERzVzqX2TQAf7o6%2BUZk4KZCZTj6FDA27gHh1qv%2Buh8Nil6bvb1ALOoL9CYQwyHYZnlurd8RSaNI7zj%2Fg2U1c5%2FoISVCzAwHlA2Zlzyd40ei7%2BjW1SxTn9szB9VSQowxWQfXwilHyX2bJv9YC2bFeun9IjxZ4%2BZetvMU08LPGSWo9CWa7%2BGOyfNtOeReJz0mXvwwpfVQj1wOv%2BWjeg3SiXQf9CKS%2FA8BZablTT0e0Ad4JoMEBsnH68piQehEvGgdQ0nZ4xz3XsC3uxYu5ugsVodByc7wM2VjhQ4gN1HY2hfT38isYgUeFnlQb2r6NedVXuPkIMzGxZCkci8FzUX%2BpNUAK0NxMJeMZbI6dw5QAIiqfct%2BGQfpKMXabrmWvefaCjbJUAAB%2FkjIVgL7hC9FJTIzSsQUPzNZ72IBpE7VvMrbAMxI3wspFzsfxxYAlK%2BWcaN5jVfDUTHvdII5g8%3D&catalog_product_id=MLA14141317&zip_code=5013
+                            - text: Mouse Gamer De Juego Hyperx Pulsefire Core Negro
+                          - generic [ref=e1096]:
+                            - img [ref=e1098]:
+                              - generic [ref=e1099]: $
+                              - generic [ref=e1100]: "56.965"
+                            - generic [ref=e1101]:
+                              - text: 3 cuotas de
+                              - img [ref=e1102]:
+                                - generic [ref=e1103]: $
+                                - generic [ref=e1104]: "23.621"
+                          - generic [ref=e1105]: Envío gratispor ser tu primera compra
+                    - group [ref=e1106]:
+                      - generic [ref=e1107]:
+                        - img [ref=e1109]
+                        - generic [ref=e1110]:
+                          - link [ref=e1111] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=zcXMpZAkaL4SuQsbpkvaFCTBAK%2FSpXsBL4VrVVJmG%2BuBSwJb8X9vu3xvmhCBChnWs5y9NTPAuCpy%2F%2Bk1y1VJ0ZcmYGpbq3Wj6SL9KVPXVE6%2FfY9Sw%2Fy9v5rzkF6nrqrsjgM86zREl3EB7qt9nB5Fk06iDHGt9JF3%2Fxi9C4rdYiNKDnkJk%2BjaTiY4KfVe8TtQIru%2Bs25z06VnqFJP3chRUN0eaMTccXEwcuGmZUt0sd%2F8Tzfqj5hClj4pNZ2lBLrl%2FBNYzr9rlOPX1YvSomg%2FBWaJhPrd2U5eTcGaEawgMEh70sTVhGYrqOmAd8WEaqM42kkOBVBI5dT0Lsaa%2B2brJTLDjlLMTR1ogEkqwhDm3rxzRHIm4B%2BqZ8Og7v5miMHLUCuQARxDGIMiR4CFlbGLa42HbRQQ3AnmAQlRWzTD77ZbjHxxV1rTBlzLM9jFZJPsCq5aL4KpSxAv9FR1IiZLl4uegDyfE9ej2qkAapy6K%2Bd%2FaWJP93s6yKLmDZo14sgQj0NgNtLbSTM96su3GA7HiXmlhAdLDn%2FqMWr1IJPfP4KK50pyhHT9AkC0mgH7%2F4oKaZP2hFdoqtKVLX6wb6E2SZnmuuC%2BZpfT8A8X%2BC0bLb8CuQLrf%2BRdi0QI3bWWBUktv5iODuxTAOt%2F0iTB8VnxHYvn75rXO3GVjJrmaxD6y5JNaM0I7skU8zdgWxKxyRGp9HuJi5eeioBZkD0VC2%2BvP4G94ki%2FICSI2z2ezG42%2FxiEWJ84az7FKwXl1rnFOX1HXv9LHmp2F%2FyLzgkZoB3glbuce7eXUzM4F9KqH0JDr5FVYkfxN3vL60nVTjZC6zuvb%2BPCQdAHSU4O6n59%2BPCAw6lgFXhyTTY4MVLzFwWdOVutLxyfqFZKjVlQirc8JMWK9PZo6DAsdn5xqWKSYzWopfr0b49883JikL73%2Bbw3%2FVe%2Bh3XxZqDB5W6pKBNwUMYkxTGYDm%2FL9UGGGBcDwmNLm%2FQncgpWZPzTVPAUeiHP02JkpcdTk2QI5i1E11huRiKAPHIr1s01Plgmyh5yYmoUB22yXKwrXUiOMIJbY3cFPBYqH3WuUgUqADo%3D&catalog_product_id=MLA45901251&zip_code=5013
+                            - text: Mouse Gamer Gaming Marvo Luz Led Capo 20 M292bk Color Blanco
+                          - generic [ref=e1112]:
+                            - img [ref=e1114]:
+                              - generic [ref=e1115]: $
+                              - generic [ref=e1116]: "19.999"
+                            - generic [ref=e1117]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1118]:
+                                - generic [ref=e1119]: $
+                                - generic [ref=e1120]: "3.333"
+                          - generic [ref=e1121]: Envío gratispor ser tu primera compra
+                    - group [ref=e1122]:
+                      - generic [ref=e1123]:
+                        - img [ref=e1125]
+                        - generic [ref=e1126]:
+                          - link [ref=e1127] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=fS%2F4rrmuiDQxtnStZpiUi%2Bnucv7rk901nfHmYxfH86p3IHwTxS2h5eBqvIEHihfZwzKMvSpcTqoPUeG24gFpOj3mlo4P36ZauzYIyvmcFmjsjs8%2Fn0DMSRFZ%2B1ayN%2FITUvHU4%2BFuSOrj%2FRDlmyzH65UNr%2BaG53rfhoBEL1OmU9uqHYd5XdMk9avBp0pu8G9xmBrOJUnw45%2B848JuWL3Wmj3xEI3bZDlEEvG8vbHJ%2B3nKbHTLaVla9sydhYdrVEGU1BXYINW2WKV8%2FKg%2BIbhp8tWSbnLwPp0QWQO30yDaybO%2FIkk9zEzSwQuhmdfANUbJqpgzDnYwYrhN%2FwxGB6tIpNL0ahusHAkbQdqg9rIhoPjCTpNfY3WQ6ByBWzYKu%2BfrpmxlYu0TCLhjujUXGdA34PZY3PvpN9t7bli0048H9Z26ZL1PFBsHXTqel%2Fo%2BcGbKcauYNr%2BtU76a6HuuVNfozFmvy9H%2Bd9jvgwS%2FWqSid1JCBE61EFFOi%2BH5TDMdEB9t9dAXJnpqkJosjJfmnwdilPnxcoXNDSd2fUegBfMMlvg32pbTE7JH2xeOO71c9eqK8zdpS0c3V8gX0sg9sH8cOwAqqhhSd6wMMlPzi2IR%2FAHBpDJP1W6g3LugeDew1YNdK3lEjJom68eaKT4kVI1BNgNLLWoaP%2F9ODtvCw7nWI7B9%2Froq0%2F%2FsjfCZGaOADEL7QL3Im2zaIFmeZKF6tVaUCRZo4v%2FQvWPJJYR21RORI55H7BQB2w3yoIuzCui9fcjq2L0Vpompafa6gjKg1%2FIleYS6WL9EWHWEEdJNx3Xn%2FRvPMj8q2v5zfWVSxso09wr0az6m7%2FMJL3WALiS9oOVMGsYyumtZYtdHjfg%2F424WuqwnqETcSaizCw38tvGVKN6pdBdlOhSbw9tPS%2Bk09yE6L2kPWJjX5Ywu3iOupgjDygLDmoFUQSKPK7jVi7PDT83PFqada8%2Bx8X2j6um19XJ7MCd86h98sO0Jaf5tOvu73DLDfTVOnGBMbRPUGA2Bp3GoYOZRQXF7FJeBEW47k%2Fppu%2FGkWt4iB%2BLEDPaNF12nX%2BM2h2Gj&catalog_product_id=MLA21085518&zip_code=5013
+                            - text: Mouse Innalambrico Logitech G502 X Plus Lightspeed Blanco
+                          - generic [ref=e1128]:
+                            - img [ref=e1129]:
+                              - generic [ref=e1130]: $
+                              - generic [ref=e1131]: "319.746"
+                            - generic [ref=e1132]:
+                              - img [ref=e1133]:
+                                - generic [ref=e1134]: $
+                                - generic [ref=e1135]: "293.069"
+                              - generic [ref=e1136]: 8% OFF
+                            - generic [ref=e1137]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1138]:
+                                - generic [ref=e1139]: $
+                                - generic [ref=e1140]: "48.844"
+                          - generic [ref=e1141]: Envío gratispor ser tu primera compra
+                    - group [ref=e1142]:
+                      - generic [ref=e1143]:
+                        - img [ref=e1145]
+                        - generic [ref=e1146]:
+                          - link [ref=e1147] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=DDCoRDikgYqWREbKZjSsMsDLc%2FxGR7PfwaS7TNG5mqajDjWeBDixl42A1glBbUwUkXwP8LCOiq%2FjUQ%2BauNnCk5bPguHiifZXXqocAKTUXtMGrPwksgjS1sYNFEQmUD7GaYXidOsdUBfq6uSFgGNvUqQck5ht2euBtOmhvkJvOYEUjPjxT%2Bn%2B14ZYVRarW5FQqsRmfsPqs0DTKRw5n0K%2BmeaavLcJ%2F3%2FPvcfcY5bRItF4qwIZ4NWyOwNtX%2BPQStXH9vDMU6cSXIAvEzcgQOoQ2kidm3E1kMBdB8Nt2qtzV87X47h4TdoI9cBPLQPUAHRjZ0thLjQDjBlR0gjQZhPAtdoOMMKAX9nAM%2BOXsDtTSPm39YK2cCgaIkRWeCPQyIA2YZ1qM2CfLetS77qDnq3myP%2F0rrzoN0EIKRRRqYfWTrYx9PhmTsIUb2kM13cwH0SMtmYg800PcpbhaexA3u%2FbiNEXe0l9gQe54UTrpuoKxMvUtV6JrV0ByBWTA8s1QyG3tcc%2BIkVkbIMq5r8NBcpgs4BGrR8Q4n8tuF7InDAHl6q2cKzSTL9aNMTbHTOHjAsRqWy4fqHHd0oGeDRMqyrTGc3KdfaRZjXTH7y7V24%2FQG4KprYvDsGqEI4nsP%2FB%2BWKPQfSAZmMkjtsp883TKBlX6txQ1qFxKAArRIhtuUiEZjHH7oyIiUMP1uouKzJKzgum1ecR8sZ6ogAHrxHeb5YbQVIh1gW7Wa%2Bq9feQEWoCS4tI3b44gcYbKL7SHR%2B%2F2ZEIG%2Bpv1C6XqLPFO9Yhx7BNn44H4bBCy1F07gZgYEEuqV0VHkISBXKvMI0u9fzkXJD0W8Bc2YStev5%2FU8Wz3tUGbJUapx3fSDDw4sveUiV2SYi3BLDy%2FnPo430yyak%2F4uCXdQQZk2CnGfQX%2BAQTPuAorLDvhpKkGu6%2BKrj4nDAPDnUiglnBy%2FQNbOQwVCo2CGMyDvIO8J0AhagxCrwIJozVGT1FBlzDvHr5mN7K8Ku%2BI4tsmJFViQh4ELAinNh%2BN%2Bu2W4SuJHDwJ5SUYxmsjGYqcQ%2FChZ3%2FPGiYnbRrPBJbo7U8HV47Lt0cPaRnGuMx0NbCdaW9&catalog_product_id=MLA45888186&zip_code=5013
+                            - text: Mouse Inalámbrico Philips 6000 Series Ergo Wifi Bluetooth Color Negro
+                          - generic [ref=e1148]:
+                            - img [ref=e1150]:
+                              - generic [ref=e1151]: $
+                              - generic [ref=e1152]: "34.499"
+                            - generic [ref=e1153]:
+                              - text: Mismo precio 6 cuotas de
+                              - img [ref=e1154]:
+                                - generic [ref=e1155]: $
+                                - generic [ref=e1156]: "5.749"
+                          - generic [ref=e1157]: Envío gratispor ser tu primera compra
+                    - group [ref=e1158]:
+                      - generic [ref=e1159]:
+                        - img [ref=e1161]
+                        - generic [ref=e1162]:
+                          - link [ref=e1163] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=pvw1LcqrFGS9sEIJoIF4h1cKVN4ZUScAthMT4iGn0CS4qMXhmkMecYcaV9hgPSOSiBiCntBaNC5r8%2B8fSdQVEqOgVLML9ikIJlznS5xOEMtWXHB1CGsGggneBF6Q03PaddvscZfm89klDuHNmLok0gt8qELB%2FC%2Fh9aHpEhPmrIV16B2K64Q7xFT6gzOEfI8iPyalIoGtlBS2KJy%2FVuTKZOfAm6oN62OlZhD7ISyuGgrlFimxdm40QmkogfIQW76CjnhaQF%2BHl4W17PI83lP908UbM0CJc%2BYsyKDTiJWicq1CHZ1cTMKiPN4nh1u9fTnbxoT%2BbMNykrXd4x1hys81TzJIXER7DK2nq0w0eNeUMIFcApBwRDOCFzXTTj2%2BvHhdChTQmI%2Bikw0w8q7Qu3rTpS3HL0682QZ2ohCzdk%2F9RZH%2BGFlkpaAsZAyViKIzbruOYSEL%2FhweNJTOabF%2BQWssTL625%2F9wbewQu9YWmgnt2x8CFd1FXB1M%2BqLE6ziU32i%2F9btA8fAp1qtGVIQrUq0n9UUK3QPyYnJlz%2BjxYXuhDECg4NGn%2FQgqANqQYDE6JCw28z5ZwidCem%2F62qgN1n%2BtmCODl0c3eL5El2RdRZzEJECdvxE8mj%2BnnqnELyAtMNenhouUM0IAnXjPaxFu%2FTQbCPZRRanaBkcIzeSasAHUa%2FXHlNcTkjrnE4ke97x6T5SJ%2FNDfrYEoSnCBvMI7R9CQWnpufA1%2BJTdw3oxjs6H8%2BFT327KhpCTkCFZM1fLzVk3irP3HD8rN7hzKPnAraTIuBxjitTNVa3Jy3u%2FR9QrBqDuCkyWpLPSAZBs116SIEtTUuQ%2F7kXMf2QO%2BEZBWvJsHobgTET%2BOGlI4XveiyJBjrIhLrtMHi9BhAyGG5JO%2BdCwiFEWve6k3MAY%2F9reAycC5TWfXgUwaegOcSQiEXGiQ31XbmzWJ9DLe9dI%2FLcWkuY5ozDg9MB5QUgGJJQBGW9zbsveGLxJ4xdR4i6iPzuNkbCGg%2BqCO9hNIiKeqorz6VW2mM8M2JmiA79n4mWEIRaQA0Sb6pe9GfLRZyuPmBd1P1Z1xIA%3D%3D&catalog_product_id=MLA43326452&zip_code=5013
+                            - text: Mouse Trust Bayo Ii Alámbrico Diseño Vertical Blanco
+                          - generic [ref=e1164]:
+                            - img [ref=e1165]:
+                              - generic [ref=e1166]: $
+                              - generic [ref=e1167]: "55.595"
+                            - generic [ref=e1168]:
+                              - img [ref=e1169]:
+                                - generic [ref=e1170]: $
+                                - generic [ref=e1171]: "40.999"
+                              - generic [ref=e1172]: 26% OFF
+                            - generic [ref=e1173]:
+                              - text: 3 cuotas de
+                              - img [ref=e1174]:
+                                - generic [ref=e1175]: $
+                                - generic [ref=e1176]: "17.000"
+                          - generic [ref=e1177]: Envío gratispor ser tu primera compra
+                    - group [ref=e1178]:
+                      - generic [ref=e1179]:
+                        - img [ref=e1181]
+                        - generic [ref=e1182]:
+                          - link [ref=e1183] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=3tOc5ofL7a2XaytW%2BxRXJvpPevK%2BQCkGKWOfedPPfJuxt9NTZrPFaHM8ZcKouyOwGSC2mGVsNVMnXSJUxKbfn463%2Fzm2b7Jst6%2BprgQKOEzn0%2BMzcSGR%2B1I%2BYtQbO%2BQ%2FTDTvJ996EEbzMr9G9erie0Q5e3E60bZ5FE31oWqx%2BXt04S1vZX4cmFHe9Q7R%2BWWJvBVhX20Nbg1szVnhgXAYC4J3bBPC1ckUSry%2Bcmn8fFQdGwrn3R5VBFpx2kcwHvZ56XMmH1ZRGk7TVPNqQubsep85A8wpjmQ03ZQJZRDS0bhpiXtqELO5YPC5n4Z2263MNMSC6efwovNR70nP4hLdaQ91wL0SqMl%2FtDESQh2wqYN7GgzTHcD0j%2F9FKwVQUfkZ8D5f58U1MmGTK%2ByCS4Wn08nVWKnJlkurOzn%2Ba8Tx3XdpP3J%2F2Z8zwuyH04O5cXcaC4dNeVEOJLH0brai27czUZdoL2G5PJWQZu%2B%2Bs29P7etxD%2BdajYeVtUOXq2Pj4aXPaCz3PiR6kz3%2FdmBUHyIy38rz%2F3sdWJ4SB35vEcgZPVYjZJ2GzDM3HoCMK0J1pHJatw6Rl%2FxX6FC70%2FO1Zq4MXzHjdys3npzxrR%2BX5YuFfurL%2FghJadhIGnj96902D9HuwXN7DCb0Gy8daEODZA21SCNkWG82TAcxTGlE1LwBg4nRHP5ygn1OD561U%2FIS%2FZt%2F729yCy0wet7Vsmwzmpds%2F6ZmraHwnDtaXTCVuDujsXf%2BUeVpa4K3XvT8KBHkCinLm6hpjCUoPzYC9uG9zFGnlLtlGMjomlBEdcVL1Trd4yI0Q%2Fh2iVcGmPnmt32GrFfqvusxbbMCXBoa%2BBOL2ibMin%2BDBpTZvnemU7uMyLeKWZLdQxUUVhIqL0JtRabrUjywUYHcSNC8civ%2BK9FfXiehbsayFIyQTNwNI2cQAUQ4xMhgiBgM%2FuoFCggE%2FC0OE7I88u50HQ%3D%3D
+                            - text: Mouse Ultradelgado Ratón Óptico Inalámbrico 2,4 G.
+                          - generic [ref=e1184]:
+                            - img [ref=e1186]:
+                              - generic [ref=e1187]: $
+                              - generic [ref=e1188]: "10.450"
+                            - generic [ref=e1189]:
+                              - text: 3 cuotas de
+                              - img [ref=e1190]:
+                                - generic [ref=e1191]: $
+                                - generic [ref=e1192]: "4.333"
+                          - generic [ref=e1193]: Envío gratispor ser tu primera compra
+                    - group [ref=e1194]:
+                      - generic [ref=e1195]:
+                        - img [ref=e1197]
+                        - generic [ref=e1198]:
+                          - link [ref=e1199] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=SaOuyVJ63tN0kpSOJ1BGbHicrRUuHTlyskjOg5JlJ7Ni09Vq0yU3jjTy7hoY9z1H8beFBr%2Bql70dFGzEGne3HLFK5RqGFcrVvlsB6k5Ki3vJU9MYjdwOYHslafer%2B7aaozqwEBTUmYGX9PwKhiJtsw5UykHndYI7ZI17W5n9uTvLVwP1v8HsnnTVE4LkVRQ5l5AtqGX5vNU2Za1qRUvaNznS1aGuVhys74%2BHPQ1oCC%2BU%2BMT2VOaLbrZvSAuh0%2BwTxpFs8SiUzGfLJkoXuHUUxZ9XRryEo%2F108YnXMnv7MnY6MTnMowGIwea%2FvSFx7h6qSLY2uN9cznKVlUGLWcT3NoIaUHQbCyzqFdCOVybyz25GDDC%2Fl3C2eZol1PtuQ9PYTMf%2BxZyyyYBfA9mA%2BH4Q583gitLW%2BBst6YVZfmZe3CAbd5nOBXqMCDkZMYuqE0tlAfkJFWejQE4Iew4leu3wgb0mUIm%2FatBQNbDcTxwlIlKn1fYlwTWqfaaQRPXw4Mn8qOlEhjXuHlIa1qC0cWakF4u8W2jCtaIOdYM2AooYRHX7%2Fgea3tjD%2FNeWH6W8krwwja6koWlXZJ0uyb3J7hK6IajoULgVioT8l%2BSpwiSnpp39k%2FR%2BL0o6SX02QSZy2IVTWLF23S02dMrl163JwLDLprVJNS28gRrIqs8UjLD5%2FzmkvYtzTj0fwhhFwqd3nFOL6%2B%2B5kdZeoapzbuXVCo6SYX9FurNP5yBX9K4xWtalXbOGcwGnENadqwvb%2F0PxG72tpLWsO2j6mhk2whstnAJzvfc7a8IWwa%2BDVqHZ56j%2B%2F4uEbISyeIiWDzASi8HnFmte6KjzMxiU2oWmCPosBsFHhgUv2cCI3D7EQfEN%2BRJQKYdWgPWwOgTOZoDFEAO4eIwE2oSjqkVf969kcUEVO5f7Rmc4EKGH4sRdMQbni1nOMREi8%2F8ndSjFPtYrQ7E7l7VEHfSYf8NGIIzvad4i5wZdvMumVVGzZ06JsKx3QcxM8LVeZiJwKeBXN3iArxM2JkjXxSc8qOZEBTPPZVFlPXpEzjLMo8u53WAodJJ4N7gZQAH1jooO69yFmv2ytraE%2BkM%3D&catalog_product_id=MLA21325480&zip_code=5013
+                            - text: Mouse Alámbrico Klip Xtreme Kmo-201wh 4 Botones 1600dpi Usb Blanco
+                          - generic [ref=e1200]:
+                            - img [ref=e1201]:
+                              - generic [ref=e1202]: $
+                              - generic [ref=e1203]: "10.800"
+                            - generic [ref=e1204]:
+                              - img [ref=e1205]:
+                                - generic [ref=e1206]: $
+                                - generic [ref=e1207]: "8.799"
+                              - generic [ref=e1208]: 18% OFF
+                            - generic [ref=e1209]:
+                              - text: 3 cuotas de
+                              - img [ref=e1210]:
+                                - generic [ref=e1211]: $
+                                - generic [ref=e1212]: "3.648"
+                          - generic [ref=e1213]: Envío gratispor ser tu primera compra
+                    - group [ref=e1214]:
+                      - generic [ref=e1215]:
+                        - img [ref=e1217]
+                        - generic [ref=e1218]:
+                          - link [ref=e1219] [cursor=pointer]:
+                            - /url: https://click1.mercadolibre.com.ar/mclics/clicks/external/MLA/count?a=Jrnz%2FiTqj6Y%2F3PdcKjYp7i%2B%2B9cO1NKWOYH0WgqeFEV75z2TRdCbfNVjv%2FJmhvneXL7GxxEaE4I0juaOJ9PtOvy9pLwWzCcxifrA0j83NnYzQffUp0C%2BIK62LzvJXmrmM%2FWQzZhQ1ScLHiHi%2F3fGH2fcC6L0oK8LZjMRIigBCa6XPj7eja1QR7WSSRcPFb%2Bg4xkocibDJwvIX7z3XOV0o16eZxYhRILOQAqK1SkB1nTK%2BFU5d9WT6%2Fx767AY7BL0TNOvM7w9hC%2FDOD2ZhyQnuUXnanBb4iOBrbFuJEmx%2FJVQO3q1b%2FkMhNRXOWwrAm21iRiic6%2BfqAzcrVSvLA0EgEYYljYjWypTy2lpfPBa2rN2L2LD3iGlRV7LIS8XJjb7y3J6sIz9iSVgHl8WLXoEMk7AwBmTPo7je9%2FRvMqtjYg59foDg%2BLX%2FXi7hxAUZn6xglFXbLD7Svix21BAziIlpQ4EYXwmsp0xIgpfmQYzxT2mOliM3muMzPXoMA8UB%2BfnppgdqsM4VyDpFmelNr%2BqPYUOJWY4U2yFeNiC5pXg83PWyiVhkgeOVakOWQuJIPWPUh3cVQ3WE2YKDTl1ILC4TjVRYugGnGzU9HarkomUbI5mft7S1Jy9I59xfWm%2F0Wfz9BxY3S9Ppn6JC6uHChJQy5XMhRCPEoZmVEjxiXMD0JBQ8s9MF3Ge6vshUAs3mqisIV5rpF1O5DpTP7yU%2FEE9iwCZhBt1mrBQGkz%2BednjbqsjBvtGBdO6%2Fq0aX8HmnhT7jIV5mIxcv41a8ncohdqlZZiK8EXmTmlYGsEuLXVuW%2BOWMDZ%2F5ZWhd%2BqzTRAgDY7LR2iqBrOCfR%2FCWHPqbcYuWgiZJnPBSvPeDU8b6UtzDu2xxK59nUIHY2g0v9vam1PnO0IV3gSf51cEw5CeGdllbuA%2F5K1te830O%2BGduExB6cgaJMnYoS72K%2B7VV964ICjxOBD40rLl8ZwJ6Q%2B0mNoRW5p46LCOjwJ46%2BBcs4kFC3%2FeoqlM09lyGyjXvmqUlAKA71a1085uA29bSazLI0BQNb4%2BfblgqbIfu31Pb2g%3D%3D&catalog_product_id=MLA18491851&zip_code=5013
+                            - text: Mouse Lenovo 600 Silent Gy50x88832 Gris Hierro
+                          - generic [ref=e1220]:
+                            - img [ref=e1222]:
+                              - generic [ref=e1223]: $
+                              - generic [ref=e1224]: "59.900"
+                            - generic [ref=e1225]:
+                              - text: 3 cuotas de
+                              - img [ref=e1226]:
+                                - generic [ref=e1227]: $
+                                - generic [ref=e1228]: "24.838"
+                          - generic [ref=e1229]: Envío gratispor ser tu primera compra
+                  - button "Siguiente" [ref=e1230] [cursor=pointer]:
+                    - img [ref=e1231]
+            - generic [ref=e1235]:
+              - heading "Características del producto" [level=2] [ref=e1237]
+              - generic [ref=e1239]:
+                - generic [ref=e1240]:
+                  - generic [ref=e1242]:
+                    - img [ref=e1244]
+                    - paragraph [ref=e1246]:
+                      - generic [ref=e1247]: "Tipo de mouse:"
+                      - generic [ref=e1248]: De juego
+                  - generic [ref=e1250]:
+                    - img [ref=e1252]
+                    - paragraph [ref=e1254]:
+                      - generic [ref=e1255]: "Resolución del sensor:"
+                      - generic [ref=e1256]: 8000 dpi
+                - generic [ref=e1257]:
+                  - generic [ref=e1259]:
+                    - img [ref=e1261]
+                    - paragraph [ref=e1263]:
+                      - generic [ref=e1264]: "Tipo de sensor:"
+                      - generic [ref=e1265]: Óptico
+                  - generic [ref=e1267]:
+                    - img [ref=e1269]
+                    - paragraph [ref=e1271]:
+                      - generic [ref=e1272]: "Es inalámbrico:"
+                      - generic [ref=e1273]: "No"
+              - generic [ref=e1275]:
+                - generic [ref=e1277]:
+                  - generic [ref=e1278]:
+                    - generic [ref=e1279]:
+                      - heading "Características generales" [level=3] [ref=e1280]
+                      - table [ref=e1281]:
+                        - rowgroup [ref=e1282]:
+                          - row "Marca Logitech" [ref=e1283]:
+                            - rowheader "Marca" [ref=e1284]:
+                              - generic [ref=e1285]: Marca
+                            - cell "Logitech" [ref=e1286]:
+                              - generic [ref=e1287]: Logitech
+                          - row "Línea G Series" [ref=e1288]:
+                            - rowheader "Línea" [ref=e1289]:
+                              - generic [ref=e1290]: Línea
+                            - cell "G Series" [ref=e1291]:
+                              - generic [ref=e1292]: G Series
+                          - row "Modelo Lightsync" [ref=e1293]:
+                            - rowheader "Modelo" [ref=e1294]:
+                              - generic [ref=e1295]: Modelo
+                            - cell "Lightsync" [ref=e1296]:
+                              - generic [ref=e1297]: Lightsync
+                          - row "Modelo alfanumérico G102" [ref=e1298]:
+                            - rowheader "Modelo alfanumérico" [ref=e1299]:
+                              - generic [ref=e1300]: Modelo alfanumérico
+                            - cell "G102" [ref=e1301]:
+                              - generic [ref=e1302]: G102
+                          - row "Color Negro" [ref=e1303]:
+                            - rowheader "Color" [ref=e1304]:
+                              - generic [ref=e1305]: Color
+                            - cell "Negro" [ref=e1306]:
+                              - generic [ref=e1307]: Negro
+                          - row "Modelo detallado 910-005790" [ref=e1308]:
+                            - rowheader "Modelo detallado" [ref=e1309]:
+                              - generic [ref=e1310]: Modelo detallado
+                            - cell "910-005790" [ref=e1311]:
+                              - generic [ref=e1312]: 910-005790
+                    - generic [ref=e1313]:
+                      - heading "Sensor" [level=3] [ref=e1314]
+                      - table [ref=e1315]:
+                        - rowgroup [ref=e1316]:
+                          - row "Tipo de sensor Óptico" [ref=e1317]:
+                            - rowheader "Tipo de sensor" [ref=e1318]:
+                              - generic [ref=e1319]: Tipo de sensor
+                            - cell "Óptico" [ref=e1320]:
+                              - generic [ref=e1321]: Óptico
+                          - row "Tecnología del sensor Óptico" [ref=e1322]:
+                            - rowheader "Tecnología del sensor" [ref=e1323]:
+                              - generic [ref=e1324]: Tecnología del sensor
+                            - cell "Óptico" [ref=e1325]:
+                              - generic [ref=e1326]: Óptico
+                          - row "Resolución del sensor 8.000 dpi" [ref=e1327]:
+                            - rowheader "Resolución del sensor" [ref=e1328]:
+                              - generic [ref=e1329]: Resolución del sensor
+                            - cell "8.000 dpi" [ref=e1330]:
+                              - generic [ref=e1331]: 8.000 dpi
+                    - generic [ref=e1332]:
+                      - heading "Tecnología" [level=3] [ref=e1333]
+                      - table [ref=e1334]:
+                        - rowgroup [ref=e1335]:
+                          - row "Con Bluetooth No" [ref=e1336]:
+                            - rowheader "Con Bluetooth" [ref=e1337]:
+                              - generic [ref=e1338]: Con Bluetooth
+                            - cell "No" [ref=e1339]:
+                              - generic [ref=e1340]: "No"
+                          - row "Con interruptor de ahorro de energía No" [ref=e1341]:
+                            - rowheader "Con interruptor de ahorro de energía" [ref=e1342]:
+                              - generic [ref=e1343]: Con interruptor de ahorro de energía
+                            - cell "No" [ref=e1344]:
+                              - generic [ref=e1345]: "No"
+                    - generic [ref=e1346]:
+                      - heading "Otros" [level=3] [ref=e1347]
+                      - table [ref=e1348]:
+                        - rowgroup [ref=e1349]:
+                          - row "Con cable Sí" [ref=e1350]:
+                            - rowheader "Con cable" [ref=e1351]:
+                              - generic [ref=e1352]: Con cable
+                            - cell "Sí" [ref=e1353]:
+                              - generic [ref=e1354]: Sí
+                          - row "Con cable retráctil No" [ref=e1355]:
+                            - rowheader "Con cable retráctil" [ref=e1356]:
+                              - generic [ref=e1357]: Con cable retráctil
+                            - cell "No" [ref=e1358]:
+                              - generic [ref=e1359]: "No"
+                          - row "Con rueda de desplazamiento Sí" [ref=e1360]:
+                            - rowheader "Con rueda de desplazamiento" [ref=e1361]:
+                              - generic [ref=e1362]: Con rueda de desplazamiento
+                            - cell "Sí" [ref=e1363]:
+                              - generic [ref=e1364]: Sí
+                          - row "Con luces Sí" [ref=e1365]:
+                            - rowheader "Con luces" [ref=e1366]:
+                              - generic [ref=e1367]: Con luces
+                            - cell "Sí" [ref=e1368]:
+                              - generic [ref=e1369]: Sí
+                          - row "Incluye pilas No" [ref=e1370]:
+                            - rowheader "Incluye pilas" [ref=e1371]:
+                              - generic [ref=e1372]: Incluye pilas
+                            - cell "No" [ref=e1373]:
+                              - generic [ref=e1374]: "No"
+                          - row "Incluye mousepad No" [ref=e1375]:
+                            - rowheader "Incluye mousepad" [ref=e1376]:
+                              - generic [ref=e1377]: Incluye mousepad
+                            - cell "No" [ref=e1378]:
+                              - generic [ref=e1379]: "No"
+                  - generic [ref=e1380]:
+                    - generic [ref=e1381]:
+                      - heading "Especificaciones" [level=3] [ref=e1382]
+                      - table [ref=e1383]:
+                        - rowgroup [ref=e1384]:
+                          - row "Tipo de mouse De juego" [ref=e1385]:
+                            - rowheader "Tipo de mouse" [ref=e1386]:
+                              - generic [ref=e1387]: Tipo de mouse
+                            - cell "De juego" [ref=e1388]:
+                              - generic [ref=e1389]: De juego
+                          - row "Orientación de la mano Diestro" [ref=e1390]:
+                            - rowheader "Orientación de la mano" [ref=e1391]:
+                              - generic [ref=e1392]: Orientación de la mano
+                            - cell "Diestro" [ref=e1393]:
+                              - generic [ref=e1394]: Diestro
+                          - row "Sistemas operativos compatibles Chrome OS, Windows 7, macOS 10.13" [ref=e1395]:
+                            - rowheader "Sistemas operativos compatibles" [ref=e1396]:
+                              - generic [ref=e1397]: Sistemas operativos compatibles
+                            - cell "Chrome OS, Windows 7, macOS 10.13" [ref=e1398]:
+                              - generic [ref=e1399]: Chrome OS, Windows 7, macOS 10.13
+                          - row "Con conexión USB Sí" [ref=e1400]:
+                            - rowheader "Con conexión USB" [ref=e1401]:
+                              - generic [ref=e1402]: Con conexión USB
+                            - cell "Sí" [ref=e1403]:
+                              - generic [ref=e1404]: Sí
+                          - row "Es inalámbrico No" [ref=e1405]:
+                            - rowheader "Es inalámbrico" [ref=e1406]:
+                              - generic [ref=e1407]: Es inalámbrico
+                            - cell "No" [ref=e1408]:
+                              - generic [ref=e1409]: "No"
+                          - row "Velocidad máxima 150 ips" [ref=e1410]:
+                            - rowheader "Velocidad máxima" [ref=e1411]:
+                              - generic [ref=e1412]: Velocidad máxima
+                            - cell "150 ips" [ref=e1413]:
+                              - generic [ref=e1414]: 150 ips
+                          - row "Cantidad de botones 6" [ref=e1415]:
+                            - rowheader "Cantidad de botones" [ref=e1416]:
+                              - generic [ref=e1417]: Cantidad de botones
+                            - cell "6" [ref=e1418]:
+                              - generic [ref=e1419]: "6"
+                          - row "Interfaces USB" [ref=e1420]:
+                            - rowheader "Interfaces" [ref=e1421]:
+                              - generic [ref=e1422]: Interfaces
+                            - cell "USB" [ref=e1423]:
+                              - generic [ref=e1424]: USB
+                          - row "Tipo de alimentación inalámbrica Pilas" [ref=e1425]:
+                            - rowheader "Tipo de alimentación inalámbrica" [ref=e1426]:
+                              - generic [ref=e1427]: Tipo de alimentación inalámbrica
+                            - cell "Pilas" [ref=e1428]:
+                              - generic [ref=e1429]: Pilas
+                          - row "Radio frecuencia 2,4 GHz" [ref=e1430]:
+                            - rowheader "Radio frecuencia" [ref=e1431]:
+                              - generic [ref=e1432]: Radio frecuencia
+                            - cell "2,4 GHz" [ref=e1433]:
+                              - generic [ref=e1434]: 2,4 GHz
+                          - row "Alcance máximo 2,1 m" [ref=e1435]:
+                            - rowheader "Alcance máximo" [ref=e1436]:
+                              - generic [ref=e1437]: Alcance máximo
+                            - cell "2,1 m" [ref=e1438]:
+                              - generic [ref=e1439]: 2,1 m
+                          - row "Es ergonómica Sí" [ref=e1440]:
+                            - rowheader "Es ergonómica" [ref=e1441]:
+                              - generic [ref=e1442]: Es ergonómica
+                            - cell "Sí" [ref=e1443]:
+                              - generic [ref=e1444]: Sí
+                          - row "Es recargable No" [ref=e1445]:
+                            - rowheader "Es recargable" [ref=e1446]:
+                              - generic [ref=e1447]: Es recargable
+                            - cell "No" [ref=e1448]:
+                              - generic [ref=e1449]: "No"
+                    - generic [ref=e1450]:
+                      - heading "Peso y dimensiones" [level=3] [ref=e1451]
+                      - table [ref=e1452]:
+                        - rowgroup [ref=e1453]:
+                          - row "Largo 11,66 cm" [ref=e1454]:
+                            - rowheader "Largo" [ref=e1455]:
+                              - generic [ref=e1456]: Largo
+                            - cell "11,66 cm" [ref=e1457]:
+                              - generic [ref=e1458]: 11,66 cm
+                          - row "Ancho 6,21 cm" [ref=e1459]:
+                            - rowheader "Ancho" [ref=e1460]:
+                              - generic [ref=e1461]: Ancho
+                            - cell "6,21 cm" [ref=e1462]:
+                              - generic [ref=e1463]: 6,21 cm
+                          - row "Altura 3,82 cm" [ref=e1464]:
+                            - rowheader "Altura" [ref=e1465]:
+                              - generic [ref=e1466]: Altura
+                            - cell "3,82 cm" [ref=e1467]:
+                              - generic [ref=e1468]: 3,82 cm
+                          - row "Peso 85 g" [ref=e1469]:
+                            - rowheader "Peso" [ref=e1470]:
+                              - generic [ref=e1471]: Peso
+                            - cell "85 g" [ref=e1472]:
+                              - generic [ref=e1473]: 85 g
+                - button "Ver todas las características" [ref=e1474] [cursor=pointer]:
+                  - text: Ver todas las características
+                  - img [ref=e1475]
+            - generic [ref=e1481]:
+              - heading "Imágenes del producto" [level=2] [ref=e1482]
+              - generic [ref=e1483]:
+                - link "Imagen 1 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e1485] [cursor=pointer]:
+                  - /url: https://http2.mlstatic.com/D_Q_NP_915747-MLA99491869062_112025-F.webp
+                  - img "Imagen 1 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e1486]
+                - link "Imagen 2 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e1488] [cursor=pointer]:
+                  - /url: https://http2.mlstatic.com/D_Q_NP_633670-MLA99492365550_112025-F.webp
+                  - img "Imagen 2 de 4 de Mouse Logitech G203 Lightsync, Color Negro" [ref=e1489]
+              - button "Ver más imágenes" [ref=e1490] [cursor=pointer]:
+                - paragraph [ref=e1492]: Ver más imágenes
+            - generic [ref=e1495]:
+              - generic [ref=e1497]:
+                - heading "Descripción" [level=2] [ref=e1498]
+                - paragraph [ref=e1499]: Logitech diseña productos y experiencias que ocupan un lugar cotidiano en la vida de las personas, poniendo foco en la innovación y la calidad. Su objetivo es crear momentos verdaderamente únicos y significativos para sus usuarios. Los mouses Logitech se adaptan a la forma de tu mano para proporcionarte horas de comodidad. Sin necesidad de mover el brazo para deslizar el cursor, tu mano se fatigará menos. Son ideales para cualquier espacio de trabajo y quienes tienen la mesa llena de diversos objetos. Adaptado a tus movimientos El mouse de juego te ofrecerá la posibilidad de marcar la diferencia y sacar ventajas en tus partidas. Su conectividad y sensor suave ayudará a que te desplaces rápido por la pantalla. La funcionalidad al alcance de tu mano El sistema de detección de movimiento óptico te permitirá mover el cursor de una manera más precisa y sensible que en los sistemas tradicionales. Apto para fácil traslado Navega rápidamente por documentos y páginas web gracias su diseño ultra delgado, ergonómico, liviano y conveniente para llevar a donde quieras o viajar.
+              - link "Ver descripción completa" [ref=e1500] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/description
+                - text: Ver descripción completa
+                - img [ref=e1501]
+          - generic [ref=e1504]:
+            - generic [ref=e1506]:
+              - paragraph [ref=e1511]:
+                - generic [ref=e1512]: Llega gratis
+                - text: entre el viernes y el sábado con tu carrito
+              - generic [ref=e1515]:
+                - paragraph [ref=e1516]:
+                  - text: Llega entre el viernes y el sábado por
+                  - img "5722 pesos con 79 centavos" [ref=e1518]:
+                    - generic [ref=e1519]: $
+                    - generic [ref=e1520]: "5.722"
+                    - generic [ref=e1521]: ","
+                    - generic [ref=e1522]: "79"
+                  - 'img "Antes: 7765 pesos con 99 centavos" [ref=e1524]':
+                    - generic [ref=e1525]: $
+                    - generic [ref=e1526]: "7.765"
+                    - generic [ref=e1527]: ","
+                    - generic [ref=e1528]: "99"
+                  - text: comprando solo este producto
+                - link "Más detalles y formas de entrega" [ref=e1532] [cursor=pointer]:
+                  - generic [ref=e1533]: Más detalles y formas de entrega
+              - paragraph [ref=e1536]: Stock disponible
+              - generic [ref=e1537]:
+                - combobox [ref=e1541] [cursor=pointer]:
+                  - generic [ref=e1542]:
+                    - generic [ref=e1543]: "Cantidad:"
+                    - generic [ref=e1544]: 1 unidad
+                    - img [ref=e1546]
+                    - generic [ref=e1548]: (+25 disponibles)
+                - paragraph [ref=e1550]:
+                  - generic [ref=e1551]: Podés comprar hasta 8 unidades
+              - generic [ref=e1553]:
+                - button "Comprar ahora" [ref=e1554] [cursor=pointer]:
+                  - generic [ref=e1555]: Comprar ahora
+                - button "Cart A2C Agregar al carrito" [ref=e1556] [cursor=pointer]:
+                  - generic [ref=e1557]:
+                    - img "Cart A2C" [ref=e1559]
+                    - text: Agregar al carrito
+              - generic [ref=e1562]:
+                - img "American Computers" [ref=e1564]
+                - generic [ref=e1565]:
+                  - button "Tienda oficial American Computers" [ref=e1568] [cursor=pointer]:
+                    - text: Tienda oficial
+                    - generic [ref=e1569]: American Computers
+                  - generic [ref=e1570]:
+                    - paragraph [ref=e1571]: +100mil ventas
+                    - paragraph [ref=e1572]: Hace Factura A
+              - list [ref=e1573]:
+                - listitem [ref=e1574]:
+                  - generic [ref=e1575]:
+                    - figure [ref=e1576]:
+                      - img [ref=e1577]
+                    - generic [ref=e1580]:
+                      - link "Devolución gratis." [ref=e1584] [cursor=pointer]:
+                        - /url: https://articulo.mercadolibre.com.ar/noindex/freeReturn/fashion?itemId=MLA1988606518&quantity=1&new_version=true&modal=false&controlled=true
+                      - text: Tenés 30 días desde que lo recibís.
+                - listitem [ref=e1585]:
+                  - generic [ref=e1586]:
+                    - figure [ref=e1587]:
+                      - img [ref=e1588]
+                    - generic [ref=e1591]:
+                      - link "Compra Protegida Se abrirá en una nueva ventana" [ref=e1592] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/compra-protegida
+                        - text: Compra Protegida
+                        - generic [ref=e1593]: Se abrirá en una nueva ventana
+                      - text: . Recibí el producto que esperabas o te devolvemos tu dinero.
+                - listitem [ref=e1594]:
+                  - generic [ref=e1595]:
+                    - figure [ref=e1596]:
+                      - img [ref=e1597]
+                    - generic [ref=e1600]: 30 días de garantía de fábrica.
+              - button "Agregar a una lista" [ref=e1603] [cursor=pointer]:
+                - generic [ref=e1604]: Agregar a una lista
+                - img [ref=e1606]
+            - generic [ref=e1608]:
+              - generic [ref=e1609]:
+                - link "Ir a la tienda oficial" [ref=e1614] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/american-computers?item_id=MLA1988606518&category_id=MLA1714&official_store_id=105502&client=recoview-selleritems&recos_listing=true#origin=pdp&component=sellerData&typeSeller=official_store
+                  - generic [ref=e1616]:
+                    - img [ref=e1617]
+                    - generic [ref=e1618]: Ir a la tienda oficial
+                - generic [ref=e1621]:
+                  - generic [ref=e1622]:
+                    - generic [ref=e1623]:
+                      - heading "American Computers" [level=2] [ref=e1625]
+                      - button "Seguir tienda oficial" [ref=e1627] [cursor=pointer]:
+                        - generic [ref=e1628]: Seguir
+                    - generic [ref=e1629]:
+                      - heading "Tienda oficial de Mercado Libre" [level=3] [ref=e1630]
+                      - img [ref=e1631]
+                  - generic [ref=e1635]:
+                    - paragraph [ref=e1636]:
+                      - generic [ref=e1637]: "+1000"
+                      - text: Seguidores
+                    - paragraph [ref=e1638]:
+                      - generic [ref=e1639]: "+1000"
+                      - text: Productos
+                - generic [ref=e1641]:
+                  - generic [ref=e1644]:
+                    - paragraph [ref=e1645]: MercadoLíder Platinum
+                    - paragraph [ref=e1646]: ¡Uno de los mejores del sitio!
+                  - list [ref=e1647]:
+                    - listitem [ref=e1648]
+                    - listitem [ref=e1649]
+                    - listitem [ref=e1650]
+                    - listitem [ref=e1651]
+                    - listitem [ref=e1652]
+                  - generic [ref=e1653]:
+                    - generic [ref=e1654]:
+                      - paragraph [ref=e1655]: +100mil
+                      - paragraph [ref=e1656]: Ventas
+                    - paragraph [ref=e1659]: Buena atención
+                    - paragraph [ref=e1662]: Entrega a tiempo
+                - link "Ir a la tienda oficial" [ref=e1665] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/tienda/american-computers?item_id=MLA1988606518&category_id=MLA1714&official_store_id=105502&client=recoview-selleritems&recos_listing=true#origin=pdp&component=sellerData&typeSeller=official_store
+                  - generic [ref=e1666]: Ir a la tienda oficial
+              - generic [ref=e1667]:
+                - heading "Otras opciones de compra" [level=2] [ref=e1668]
+                - list [ref=e1669]:
+                  - listitem [ref=e1670]:
+                    - generic [ref=e1671]:
+                      - img "40690 pesos" [ref=e1677]:
+                        - generic [ref=e1678]: $
+                        - generic [ref=e1679]: "40.690"
+                      - generic [ref=e1680]: Llega mañana
+                    - list [ref=e1681]:
+                      - listitem [ref=e1682]:
+                        - list [ref=e1683]:
+                          - listitem [ref=e1684]:
+                            - paragraph [ref=e1685]: Pagá en hasta 3 cuotas
+                          - listitem [ref=e1686]:
+                            - paragraph [ref=e1687]:
+                              - generic [ref=e1688]: Llega gratis el viernes
+                              - text: por ser tu
+                              - generic [ref=e1689]: primera compra
+                              - img [ref=e1691]
+                      - listitem
+                      - listitem [ref=e1693]:
+                        - generic [ref=e1696]:
+                          - button "Vendido porWOL633" [ref=e1699] [cursor=pointer]
+                          - generic [ref=e1700]:
+                            - paragraph [ref=e1701]: +1000 ventas
+                            - paragraph [ref=e1702]: Hace Factura A
+                      - listitem [ref=e1703]:
+                        - generic [ref=e1706]:
+                          - button "Comprar ahora" [ref=e1707] [cursor=pointer]:
+                            - generic [ref=e1708]: Comprar ahora
+                          - button "Cart A2C Agregar al carrito" [ref=e1709] [cursor=pointer]:
+                            - generic [ref=e1710]:
+                              - img "Cart A2C" [ref=e1712]
+                              - text: Agregar al carrito
+                  - listitem [ref=e1714]:
+                    - generic [ref=e1715]:
+                      - img "44704 pesos con 48 centavos" [ref=e1721]:
+                        - generic [ref=e1722]: $
+                        - generic [ref=e1723]: "44.704"
+                        - generic [ref=e1724]: ","
+                        - generic [ref=e1725]: "48"
+                      - generic [ref=e1726]: En cuotas
+                    - list [ref=e1727]:
+                      - listitem [ref=e1728]:
+                        - list [ref=e1729]:
+                          - listitem [ref=e1730]:
+                            - paragraph [ref=e1731]: Mismo precio en 6 cuotas
+                          - listitem [ref=e1732]:
+                            - paragraph [ref=e1733]:
+                              - generic [ref=e1734]: Llega gratis el viernes
+                              - text: por ser tu
+                              - generic [ref=e1735]: primera compra
+                          - listitem [ref=e1736]:
+                            - paragraph [ref=e1737]:
+                              - generic [ref=e1738]: Retirá gratis
+                              - text: a partir del viernes en correos y otros puntos
+                      - listitem
+                      - listitem [ref=e1739]:
+                        - generic [ref=e1741]:
+                          - img "ALNI SHOP" [ref=e1743]
+                          - generic [ref=e1744]:
+                            - button "Tienda oficial ALNI SHOP" [ref=e1747] [cursor=pointer]:
+                              - text: Tienda oficial
+                              - generic [ref=e1748]: ALNI SHOP
+                            - generic [ref=e1749]:
+                              - paragraph [ref=e1750]: +10mil ventas
+                              - paragraph [ref=e1751]: Hace Factura A
+                      - listitem [ref=e1752]:
+                        - generic [ref=e1755]:
+                          - button "Comprar ahora" [ref=e1756] [cursor=pointer]:
+                            - generic [ref=e1757]: Comprar ahora
+                          - button "Cart A2C Agregar al carrito" [ref=e1758] [cursor=pointer]:
+                            - generic [ref=e1759]:
+                              - img "Cart A2C" [ref=e1761]
+                              - text: Agregar al carrito
+                - link "Ver más opciones desde 31488 pesos" [ref=e1764] [cursor=pointer]:
+                  - generic [ref=e1765]:
+                    - generic [ref=e1766]: Ver más opciones desde
+                    - img "31488 pesos" [ref=e1768]:
+                      - generic [ref=e1769]: $
+                      - generic [ref=e1770]: "31.488"
+              - generic [ref=e1781]:
+                - heading "Medios de pago" [level=2] [ref=e1782]
+                - generic [ref=e1783]:
+                  - paragraph [ref=e1784]: Cuotas sin Tarjeta
+                  - img "Mercado Crédito" [ref=e1788]
+                  - paragraph [ref=e1789]: Tarjetas de crédito
+                  - generic [ref=e1790]:
+                    - img "Visa" [ref=e1793]
+                    - img "American Express" [ref=e1796]
+                    - img "Mastercard" [ref=e1799]
+                    - img "Naranja" [ref=e1802]
+                  - paragraph [ref=e1803]: Tarjetas de débito
+                  - generic [ref=e1804]:
+                    - img "Visa Débito" [ref=e1807]
+                    - img "Maestro" [ref=e1810]
+                    - img "Cabal Débito" [ref=e1813]
+                    - img "Mastercard Débito" [ref=e1816]
+                  - paragraph [ref=e1817]: Efectivo
+                  - generic [ref=e1818]:
+                    - img "PagoFacil" [ref=e1821]
+                    - img "Rapipago" [ref=e1824]
+                - link "Conocé otros medios de pago" [ref=e1828] [cursor=pointer]:
+                  - /url: https://articulo.mercadolibre.com.ar/noindex/services/MLA1988606518/payments?new_version=true&modal=false&newIndex=true
+        - generic [ref=e1830]:
+          - generic [ref=e1833]:
+            - heading "Preguntas" [level=2] [ref=e1834]
+            - generic [ref=e1837]:
+              - textbox "Escribí tu pregunta..." [ref=e1841]
+              - button "Preguntar" [ref=e1843] [cursor=pointer]:
+                - generic [ref=e1845]:
+                  - img [ref=e1846]
+                  - generic [ref=e1848]: Preguntar
+            - link "Ver todas las preguntas" [ref=e1854] [cursor=pointer]:
+              - /url: https://articulo.mercadolibre.com.ar/noindex/questions/MLA1988606518?scroll_to_question=1&new_version=true&modal=false&parent_origin=undefined
+          - generic [ref=e1859]:
+            - heading "Opiniones del producto" [level=2] [ref=e1862]
+            - generic [ref=e1863]:
+              - generic [ref=e1864]:
+                - generic [ref=e1865]:
+                  - generic [ref=e1866]:
+                    - paragraph [ref=e1868]: "4.9"
+                    - generic [ref=e1869]:
+                      - generic [ref=e1871]:
+                        - img [ref=e1872]
+                        - img [ref=e1874]
+                        - img [ref=e1876]
+                        - img [ref=e1878]
+                        - img [ref=e1880]
+                        - paragraph [ref=e1882]: Calificación 4.9 de 5. 1144 opiniones.
+                      - paragraph [ref=e1884]: 1.144 calificaciones
+                  - list [ref=e1886]:
+                    - listitem [ref=e1887]:
+                      - generic [ref=e1892]:
+                        - generic [ref=e1893]: "5"
+                        - img [ref=e1895]
+                    - listitem [ref=e1897]:
+                      - generic [ref=e1902]:
+                        - generic [ref=e1903]: "4"
+                        - img [ref=e1905]
+                    - listitem [ref=e1907]:
+                      - generic [ref=e1912]:
+                        - generic [ref=e1913]: "3"
+                        - img [ref=e1915]
+                    - listitem [ref=e1917]:
+                      - generic [ref=e1921]:
+                        - generic [ref=e1922]: "2"
+                        - img [ref=e1924]
+                    - listitem [ref=e1926]:
+                      - generic [ref=e1931]:
+                        - generic [ref=e1932]: "1"
+                        - img [ref=e1934]
+                - generic [ref=e1936]:
+                  - paragraph [ref=e1937]: Calificación de características
+                  - table [ref=e1938]:
+                    - rowgroup [ref=e1939]:
+                      - row "Relación precio-calidad Calificación 4.7 de 5" [ref=e1940]:
+                        - cell "Relación precio-calidad" [ref=e1941]
+                        - cell "Calificación 4.7 de 5" [ref=e1942]:
+                          - generic [ref=e1943]:
+                            - img [ref=e1944]
+                            - img [ref=e1946]
+                            - img [ref=e1948]
+                            - img [ref=e1950]
+                            - img [ref=e1952]
+                            - paragraph [ref=e1954]: Calificación 4.7 de 5
+                      - row "Comodidad Calificación 4.7 de 5" [ref=e1955]:
+                        - cell "Comodidad" [ref=e1956]
+                        - cell "Calificación 4.7 de 5" [ref=e1957]:
+                          - generic [ref=e1958]:
+                            - img [ref=e1959]
+                            - img [ref=e1961]
+                            - img [ref=e1963]
+                            - img [ref=e1965]
+                            - img [ref=e1967]
+                            - paragraph [ref=e1969]: Calificación 4.7 de 5
+                      - row "Calidad de los materiales Calificación 4.6 de 5" [ref=e1970]:
+                        - cell "Calidad de los materiales" [ref=e1971]
+                        - cell "Calificación 4.6 de 5" [ref=e1972]:
+                          - generic [ref=e1973]:
+                            - img [ref=e1974]
+                            - img [ref=e1976]
+                            - img [ref=e1978]
+                            - img [ref=e1980]
+                            - img [ref=e1982]
+                            - paragraph [ref=e1984]: Calificación 4.6 de 5
+                      - row "Silencioso Calificación 4.4 de 5" [ref=e1985]:
+                        - cell "Silencioso" [ref=e1986]
+                        - cell "Calificación 4.4 de 5" [ref=e1987]:
+                          - generic [ref=e1988]:
+                            - img [ref=e1989]
+                            - img [ref=e1991]
+                            - img [ref=e1993]
+                            - img [ref=e1995]
+                            - img [ref=e1997]
+                            - paragraph [ref=e1999]: Calificación 4.4 de 5
+              - generic [ref=e2000]:
+                - generic [ref=e2001]:
+                  - heading "Opiniones con fotos" [level=3] [ref=e2002]
+                  - region "Fotos del producto compartidas por los compradores" [ref=e2003]:
+                    - generic [ref=e2004]:
+                      - generic [ref=e2006]:
+                        - group "1 de 8" [ref=e2007] [cursor=pointer]:
+                          - generic [ref=e2008]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 1 de 8" [ref=e2009]
+                        - group "2 de 8" [ref=e2010] [cursor=pointer]:
+                          - generic [ref=e2011]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 2 de 8" [ref=e2012]
+                        - group "3 de 8" [ref=e2013] [cursor=pointer]:
+                          - generic [ref=e2014]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 3 de 8" [ref=e2015]
+                        - group "4 de 8" [ref=e2016] [cursor=pointer]:
+                          - generic [ref=e2017]:
+                            - generic:
+                              - generic "Calificación 5 de 5":
+                                - generic: "5"
+                                - img
+                            - img "Foto del producto compartida por el comprador 4 de 8" [ref=e2018]
+                        - group [ref=e2019] [cursor=pointer]:
+                          - generic [ref=e2020]:
+                            - generic:
+                              - generic:
+                                - generic: "5"
+                                - img
+                            - img [ref=e2021]
+                        - group [ref=e2022] [cursor=pointer]:
+                          - generic [ref=e2023]:
+                            - generic:
+                              - generic:
+                                - generic: "5"
+                                - img
+                            - img [ref=e2024]
+                        - group [ref=e2025] [cursor=pointer]:
+                          - generic [ref=e2026]:
+                            - generic:
+                              - generic:
+                                - generic: "5"
+                                - img
+                            - img [ref=e2027]
+                        - group [ref=e2028] [cursor=pointer]:
+                          - generic [ref=e2029]:
+                            - img [ref=e2030]
+                            - generic:
+                              - generic: "+6"
+                      - button "Siguiente" [ref=e2031] [cursor=pointer]:
+                        - img [ref=e2032]
+                - generic [ref=e2034]:
+                  - generic [ref=e2035]:
+                    - button "Ordenar" [ref=e2038] [cursor=pointer]:
+                      - generic [ref=e2039]:
+                        - text: Ordenar
+                        - img [ref=e2040]
+                    - button "Calificación" [ref=e2044] [cursor=pointer]:
+                      - generic [ref=e2045]:
+                        - text: Calificación
+                        - img [ref=e2046]
+                  - generic [ref=e2048]:
+                    - heading "Opiniones destacadas" [level=3] [ref=e2049]
+                    - generic [ref=e2050]: 368 comentarios
+                    - generic [ref=e2051]:
+                      - paragraph [ref=e2053]: El mouse ofrece una excelente relación preciocalidad, destacándose por su diseño compacto, liviano y cómodo, ideal para largas horas de uso. Su sensibilidad y precisión son notables, con un sensor de alta precisión que alcanza hasta 8000 dpi, y el sistema lightsync RGB añade un toque visual atractivo. Además, es fácil de configurar y se adapta a diferentes estilos de uso, lo que lo convierte en una opción confiable para gamers y trabajos de edición.
+                      - generic [ref=e2054]:
+                        - img [ref=e2055]
+                        - generic [ref=e2058]: Resumen de opiniones generado por IA
+                    - generic [ref=e2059]:
+                      - article [ref=e2061]:
+                        - generic [ref=e2063]:
+                          - generic [ref=e2064]:
+                            - img [ref=e2065]
+                            - img [ref=e2067]
+                            - img [ref=e2069]
+                            - img [ref=e2071]
+                            - img [ref=e2073]
+                            - paragraph [ref=e2075]: Calificación 5 de 5
+                          - generic [ref=e2076]: 21 abr. 2025
+                        - group "1 de 1" [ref=e2082] [cursor=pointer]:
+                          - img "Foto del producto compartida por el comprador 1 de 1" [ref=e2084]
+                        - text: 10/10 en la net del gobierno ahora puedo oneshotear con la ak en el counter mientras me tomo un matesito con polenta anashei.
+                        - generic [ref=e2085]:
+                          - switch "Marcar como útil, 90 personas marcaron esta opinión como útil." [ref=e2087] [cursor=pointer]:
+                            - generic [ref=e2088]:
+                              - generic [ref=e2089]: Es útil
+                              - img [ref=e2090]
+                              - paragraph [ref=e2092]: "90"
+                          - button "Más opciones" [ref=e2095] [cursor=pointer]:
+                            - button "Más opciones" [ref=e2097]
+                      - article [ref=e2102]:
+                        - generic [ref=e2104]:
+                          - generic [ref=e2105]:
+                            - img [ref=e2106]
+                            - img [ref=e2108]
+                            - img [ref=e2110]
+                            - img [ref=e2112]
+                            - img [ref=e2114]
+                            - paragraph [ref=e2116]: Calificación 5 de 5
+                          - generic [ref=e2117]: 01 feb. 2025
+                        - group "1 de 1" [ref=e2123] [cursor=pointer]:
+                          - img "Foto del producto compartida por el comprador 1 de 1" [ref=e2125]
+                        - text: Una nave. Por 25 lucas me solucionó lo manco. Por ahora sin fallos. Se puede customizar el rgb.
+                        - generic [ref=e2126]:
+                          - switch "Marcar como útil, 17 personas marcaron esta opinión como útil." [ref=e2128] [cursor=pointer]:
+                            - generic [ref=e2129]:
+                              - generic [ref=e2130]: Es útil
+                              - img [ref=e2131]
+                              - paragraph [ref=e2133]: "17"
+                          - button "Más opciones" [ref=e2136] [cursor=pointer]:
+                            - button "Más opciones" [ref=e2138]
+                      - article [ref=e2143]:
+                        - generic [ref=e2145]:
+                          - generic [ref=e2146]:
+                            - img [ref=e2147]
+                            - img [ref=e2149]
+                            - img [ref=e2151]
+                            - img [ref=e2153]
+                            - img [ref=e2155]
+                            - paragraph [ref=e2157]: Calificación 5 de 5
+                          - generic [ref=e2158]: 24 sep. 2025
+                        - generic [ref=e2163]:
+                          - group "1 de 2" [ref=e2164] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 1 de 2" [ref=e2166]
+                          - group "2 de 2" [ref=e2167] [cursor=pointer]:
+                            - img "Foto del producto compartida por el comprador 2 de 2" [ref=e2169]
+                        - text: Muy bueno, se siente muy muy bien, es otro cantar. Voten a milei abrazo.
+                        - generic [ref=e2170]:
+                          - switch "Marcar como útil, 15 personas marcaron esta opinión como útil." [ref=e2172] [cursor=pointer]:
+                            - generic [ref=e2173]:
+                              - generic [ref=e2174]: Es útil
+                              - img [ref=e2175]
+                              - paragraph [ref=e2177]: "15"
+                          - button "Más opciones" [ref=e2180] [cursor=pointer]:
+                            - button "Más opciones" [ref=e2182]
+                      - article [ref=e2187]:
+                        - generic [ref=e2189]:
+                          - generic [ref=e2190]:
+                            - img [ref=e2191]
+                            - img [ref=e2193]
+                            - img [ref=e2195]
+                            - img [ref=e2197]
+                            - img [ref=e2199]
+                            - paragraph [ref=e2201]: Calificación 5 de 5
+                          - generic [ref=e2202]: 29 mar. 2025
+                        - text: Compré el g203 porque había dejado de funcionar la ruedita de mi g203 que ya tenía 7 años. ¿cuando vuelva a tener algún problema en otros 7 años? voy a volver a comprar el g203 porque es, sencillamente, el mouse más versátil del mercado.
+                        - button
+                        - generic [ref=e2203]:
+                          - switch "Marcar como útil, 10 personas marcaron esta opinión como útil." [ref=e2205] [cursor=pointer]:
+                            - generic [ref=e2206]:
+                              - generic [ref=e2207]: Es útil
+                              - img [ref=e2208]
+                              - paragraph [ref=e2210]: "10"
+                          - button "Más opciones" [ref=e2213] [cursor=pointer]:
+                            - button "Más opciones" [ref=e2215]
+                      - article [ref=e2220]:
+                        - generic [ref=e2222]:
+                          - generic [ref=e2223]:
+                            - img [ref=e2224]
+                            - img [ref=e2226]
+                            - img [ref=e2228]
+                            - img [ref=e2230]
+                            - img [ref=e2232]
+                            - paragraph [ref=e2234]: Calificación 5 de 5
+                          - generic [ref=e2235]: 26 oct. 2024
+                        - text: Despues de unos meses, el mouse funciona bien. Con el software se puede personalizar la sensibilidad y la funcionalidad de los botones, lo que es bastante util y flexible. El laser es infrarojo, por lo que tengan cautela mirando la parte de abajo del mouse. Si tienen gatos, el mouse es mas propenso comportarse raro si sus pelos se meten en el lente, pero es relativamente facil de quitarlos si eso ocurre. La altura de detección de superficie es corta, lo que es bueno ya que apenas requiere levantar el mouse un poco para reajustarlo sin que el movimiento levantado mueva el cursor/mira. Buen mouse para juegos y para uso diario.
+                        - button
+                        - generic [ref=e2236]:
+                          - switch "Marcar como útil, 9 personas marcaron esta opinión como útil." [ref=e2238] [cursor=pointer]:
+                            - generic [ref=e2239]:
+                              - generic [ref=e2240]: Es útil
+                              - img [ref=e2241]
+                              - paragraph [ref=e2243]: "9"
+                          - button "Más opciones" [ref=e2246] [cursor=pointer]:
+                            - button "Más opciones" [ref=e2248]
+                - button "Mostrar todas las opiniones" [ref=e2253] [cursor=pointer]
+      - generic [ref=e2258]:
+        - generic [ref=e2260]:
+          - paragraph [ref=e2261]:
+            - text: Publicación
+            - generic [ref=e2262]: "#1988606518"
+          - link "Denunciar Se abrirá en una nueva ventana" [ref=e2263] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/noindex/denounce?item_id=MLA1988606518&element_type=ITM
+            - generic [ref=e2264]: Denunciar
+            - generic [ref=e2265]: Se abrirá en una nueva ventana
+        - generic [ref=e2268]:
+          - heading "Quienes vieron este producto también compraron" [level=2] [ref=e2272]
+          - region "Quienes vieron este producto también compraron" [ref=e2273]:
+            - generic [ref=e2274]:
+              - generic [ref=e2276]:
+                - group "1 de 20" [ref=e2277]:
+                  - generic [ref=e2278]:
+                    - img [ref=e2280]
+                    - generic [ref=e2281]:
+                      - link "Mouse Gamer De Juego Logitech Gg Series G203 Lightsync Blanco" [ref=e2282] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-logitech-gg-series-g203-lightsync-blanco/p/MLA16211423#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=0&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA896778759&sid=recos
+                      - generic [ref=e2283]:
+                        - 'img "Antes: 39481 pesos argentinos" [ref=e2284]':
+                          - generic [ref=e2285]: $
+                          - generic [ref=e2286]: "39.481"
+                        - generic [ref=e2287]:
+                          - 'img "Ahora: 35999 pesos argentinos" [ref=e2288]':
+                            - generic [ref=e2289]: $
+                            - generic [ref=e2290]: "35.999"
+                          - generic [ref=e2291]: 8% OFF
+                        - generic [ref=e2292]:
+                          - text: 3 cuotas de
+                          - img "14927 pesos argentinos" [ref=e2293]:
+                            - generic [ref=e2294]: $
+                            - generic [ref=e2295]: "14.927"
+                      - generic [ref=e2296]: Envío gratispor ser tu primera compra
+                - group "2 de 20" [ref=e2297]:
+                  - generic [ref=e2298]:
+                    - img [ref=e2300]
+                    - generic [ref=e2301]:
+                      - link "Mouse Gamer Inalámbrico Logitech Lightspeed G305 Pcreg Color Blanco" [ref=e2302] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-inalambrico-logitech-lightspeed-g305-pcreg-color-blanco/p/MLA26516709#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=1&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1991009082&sid=recos
+                      - generic [ref=e2303]:
+                        - img "62689 pesos argentinos" [ref=e2305]:
+                          - generic [ref=e2306]: $
+                          - generic [ref=e2307]: "62.689"
+                        - generic [ref=e2308]:
+                          - text: 3 cuotas de
+                          - img "25995 pesos argentinos" [ref=e2309]:
+                            - generic [ref=e2310]: $
+                            - generic [ref=e2311]: "25.995"
+                      - generic [ref=e2312]: Envío gratispor ser tu primera compra
+                - group "3 de 20" [ref=e2313]:
+                  - generic [ref=e2314]:
+                    - img [ref=e2316]
+                    - generic [ref=e2317]:
+                      - link "Ratón Inalámbrico De 2,4 G, Ultrafino, Recargable, *" [ref=e2318] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/-raton-inalambrico-de-24-g-ultrafino-recargable/p/MLA2027147351#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=2&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA2587548776&sid=recos
+                      - generic [ref=e2319]:
+                        - 'img "Antes: 26344 pesos argentinos" [ref=e2320]':
+                          - generic [ref=e2321]: $
+                          - generic [ref=e2322]: "26.344"
+                        - generic [ref=e2323]:
+                          - 'img "Ahora: 25019 pesos argentinos" [ref=e2324]':
+                            - generic [ref=e2325]: $
+                            - generic [ref=e2326]: "25.019"
+                          - generic [ref=e2327]: 5% OFF
+                      - generic [ref=e2328]: COMPRA INTERNACIONAL
+                - group "4 de 20" [ref=e2329]:
+                  - generic [ref=e2330]:
+                    - img [ref=e2332]
+                    - generic [ref=e2333]:
+                      - link "Ratón Razer Essential Deathadder Negro" [ref=e2334] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/raton-razer-essential-deathadder-negro/p/MLA6214305#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=3&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1437442241&sid=recos
+                      - generic [ref=e2335]:
+                        - 'img "Antes: 42363 pesos argentinos" [ref=e2336]':
+                          - generic [ref=e2337]: $
+                          - generic [ref=e2338]: "42.363"
+                        - generic [ref=e2339]:
+                          - 'img "Ahora: 37227 pesos argentinos" [ref=e2340]':
+                            - generic [ref=e2341]: $
+                            - generic [ref=e2342]: "37.227"
+                          - generic [ref=e2343]: 12% OFF
+                        - generic [ref=e2344]:
+                          - text: 3 cuotas de
+                          - img "15436 pesos argentinos" [ref=e2345]:
+                            - generic [ref=e2346]: $
+                            - generic [ref=e2347]: "15.436"
+                      - generic [ref=e2348]: Envío gratispor ser tu primera compra
+                - group "5 de 20" [ref=e2349]:
+                  - generic [ref=e2350]:
+                    - img [ref=e2352]
+                    - generic [ref=e2353]:
+                      - link "Batería Ergonómica Óptica Inalámbrica De 2,4 Ghz Para Ratón" [ref=e2354] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/laptop-mouse-24ghz-wireless-optical-ergonomics-battery/p/MLA2019560595#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=4&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA2556990752&sid=recos
+                      - generic [ref=e2355]:
+                        - 'img "Antes: 31114 pesos argentinos" [ref=e2356]':
+                          - generic [ref=e2357]: $
+                          - generic [ref=e2358]: "31.114"
+                        - generic [ref=e2359]:
+                          - 'img "Ahora: 17240 pesos argentinos" [ref=e2360]':
+                            - generic [ref=e2361]: $
+                            - generic [ref=e2362]: "17.240"
+                          - generic [ref=e2363]: 44% OFF
+                      - generic [ref=e2364]: COMPRA INTERNACIONAL
+                - group [ref=e2365]:
+                  - generic [ref=e2366]:
+                    - img [ref=e2368]
+                    - generic [ref=e2369]:
+                      - link [ref=e2370] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-serie-g-lightspeed-g305-white/p/MLA11259956#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1382555297&sid=recos
+                        - text: Mouse Gamer Logitech Serie G Lightspeed G305 White
+                      - generic [ref=e2371]:
+                        - img [ref=e2372]:
+                          - generic [ref=e2373]: $
+                          - generic [ref=e2374]: "69.990"
+                        - generic [ref=e2375]:
+                          - img [ref=e2376]:
+                            - generic [ref=e2377]: $
+                            - generic [ref=e2378]: "53.280"
+                          - generic [ref=e2379]: 23% OFF
+                        - generic [ref=e2380]:
+                          - text: 3 cuotas de
+                          - img [ref=e2381]:
+                            - generic [ref=e2382]: $
+                            - generic [ref=e2383]: "22.093"
+                      - generic [ref=e2384]: Envío gratispor ser tu primera compra
+                - group [ref=e2385]:
+                  - generic [ref=e2386]:
+                    - img [ref=e2388]
+                    - generic [ref=e2389]:
+                      - link [ref=e2390] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-redragon-griffin-m607-negro/p/MLA11259937#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=6&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1111521892&sid=recos
+                        - text: Mouse Gamer De Juego Redragon Griffin M607 Negro
+                      - generic [ref=e2391]:
+                        - img [ref=e2392]:
+                          - generic [ref=e2393]: $
+                          - generic [ref=e2394]: "28.580"
+                        - generic [ref=e2395]:
+                          - img [ref=e2396]:
+                            - generic [ref=e2397]: $
+                            - generic [ref=e2398]: "24.954"
+                          - generic [ref=e2399]: 12% OFF
+                        - generic [ref=e2400]:
+                          - text: 3 cuotas de
+                          - img [ref=e2401]:
+                            - generic [ref=e2402]: $
+                            - generic [ref=e2403]: "10.347"
+                      - generic [ref=e2404]: Envío gratispor ser tu primera compra
+                - group [ref=e2405]:
+                  - generic [ref=e2406]:
+                    - img [ref=e2408]
+                    - generic [ref=e2409]:
+                      - link [ref=e2410] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-redragon-invader-m719-rgb-negro/p/MLA14701424#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=7&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA905118219&sid=recos
+                        - text: Mouse Gamer De Juego Redragon Invader M719-rgb Negro
+                      - generic [ref=e2411]:
+                        - img [ref=e2413]:
+                          - generic [ref=e2414]: $
+                          - generic [ref=e2415]: "39.883"
+                        - generic [ref=e2416]:
+                          - text: Mismo precio 6 cuotas de
+                          - img [ref=e2417]:
+                            - generic [ref=e2418]: $
+                            - generic [ref=e2419]: "6.647"
+                      - generic [ref=e2420]: Envío gratispor ser tu primera compra
+                - group [ref=e2421]:
+                  - generic [ref=e2422]:
+                    - img [ref=e2424]
+                    - generic [ref=e2425]:
+                      - link [ref=e2426] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-redragon-k1ng-1k-m-724w-12400dpi-con-cable-blanco/p/MLA41315875#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=8&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1982231150&sid=recos
+                        - text: Mouse Redragon K1ng 1k M-724w 12400dpi Con Cable Blanco
+                      - generic [ref=e2427]:
+                        - img [ref=e2429]:
+                          - generic [ref=e2430]: $
+                          - generic [ref=e2431]: "25.875"
+                        - generic [ref=e2432]:
+                          - text: 3 cuotas de
+                          - img [ref=e2433]:
+                            - generic [ref=e2434]: $
+                            - generic [ref=e2435]: "10.729"
+                      - generic [ref=e2436]: Envío gratispor ser tu primera compra
+                - group [ref=e2437]:
+                  - generic [ref=e2438]:
+                    - img [ref=e2440]
+                    - generic [ref=e2441]:
+                      - link [ref=e2442] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/ergonomic-rgb-mouse-for-laptop/p/MLA2049384785#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=9&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA2579511640&sid=recos
+                        - text: Ratón Óptico Vertical Con Cable Ergonómico Para Pc/portátil
+                      - generic [ref=e2443]:
+                        - img [ref=e2444]:
+                          - generic [ref=e2445]: $
+                          - generic [ref=e2446]: "70.538"
+                        - generic [ref=e2447]:
+                          - img [ref=e2448]:
+                            - generic [ref=e2449]: $
+                            - generic [ref=e2450]: "66.999"
+                          - generic [ref=e2451]: 5% OFF
+                      - generic [ref=e2452]: Envío gratispor ser tu primera compra
+                      - generic [ref=e2453]: COMPRA INTERNACIONAL
+                - group [ref=e2454]:
+                  - generic [ref=e2455]:
+                    - img [ref=e2457]
+                    - generic [ref=e2458]:
+                      - link [ref=e2459] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-logitechg-series-hero-g502-negro/p/MLA17485023#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=10&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1730839696&sid=recos
+                        - text: Mouse Gamer De Juego Logitechg Series Hero G502 Negro
+                      - generic [ref=e2460]:
+                        - img [ref=e2461]:
+                          - generic [ref=e2462]: $
+                          - generic [ref=e2463]: "90.999"
+                        - generic [ref=e2464]:
+                          - img [ref=e2465]:
+                            - generic [ref=e2466]: $
+                            - generic [ref=e2467]: "77.979"
+                          - generic [ref=e2468]: 14% OFF
+                        - generic [ref=e2469]:
+                          - text: 3 cuotas de
+                          - img [ref=e2470]:
+                            - generic [ref=e2471]: $
+                            - generic [ref=e2472]: "32.335"
+                      - generic [ref=e2473]: Envío gratispor ser tu primera compra
+                - group [ref=e2474]:
+                  - generic [ref=e2475]:
+                    - img [ref=e2477]
+                    - generic [ref=e2478]:
+                      - link [ref=e2479] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-inalambrico-m280-logitech-color-negro/p/MLA6072946#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=11&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA896333258&sid=recos
+                        - text: Mouse Inalámbrico M280 Logitech Color Negro
+                      - generic [ref=e2480]:
+                        - img [ref=e2481]:
+                          - generic [ref=e2482]: $
+                          - generic [ref=e2483]: "21.999"
+                        - generic [ref=e2484]:
+                          - img [ref=e2485]:
+                            - generic [ref=e2486]: $
+                            - generic [ref=e2487]: "19.850"
+                          - generic [ref=e2488]: 9% OFF
+                        - generic [ref=e2489]:
+                          - text: 3 cuotas de
+                          - img [ref=e2490]:
+                            - generic [ref=e2491]: $
+                            - generic [ref=e2492]: "8.231"
+                      - generic [ref=e2493]: Envío gratispor ser tu primera compra
+                - group [ref=e2494]:
+                  - generic [ref=e2495]:
+                    - img [ref=e2497]
+                    - generic [ref=e2498]:
+                      - link [ref=e2499] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-inalambrico-recargable-24g-mouse-inalambrico/p/MLA2052422222#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=12&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA2593578686&sid=recos
+                        - text: Mouse Inalámbrico Recargable, 2.4g Mouse Inalambrico
+                      - img [ref=e2502]:
+                        - generic [ref=e2503]: $
+                        - generic [ref=e2504]: "18.706"
+                      - generic [ref=e2505]: COMPRA INTERNACIONAL
+                - group [ref=e2506]:
+                  - generic [ref=e2507]:
+                    - img [ref=e2509]
+                    - generic [ref=e2510]:
+                      - link [ref=e2511] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-redragon-impact-m908-negro/p/MLA14702445#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=13&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA906926613&sid=recos
+                        - text: Mouse Gamer De Juego Redragon Impact M908 Negro
+                      - generic [ref=e2512]:
+                        - img [ref=e2513]:
+                          - generic [ref=e2514]: $
+                          - generic [ref=e2515]: "79.999"
+                        - generic [ref=e2516]:
+                          - img [ref=e2517]:
+                            - generic [ref=e2518]: $
+                            - generic [ref=e2519]: "37.837"
+                          - generic [ref=e2520]: 52% OFF
+                        - generic [ref=e2521]:
+                          - text: 3 cuotas de
+                          - img [ref=e2522]:
+                            - generic [ref=e2523]: $
+                            - generic [ref=e2524]: "15.689"
+                      - generic [ref=e2525]: Envío gratispor ser tu primera compra
+                - group [ref=e2526]:
+                  - generic [ref=e2527]:
+                    - img [ref=e2529]
+                    - generic [ref=e2530]:
+                      - link [ref=e2531] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-alambrico-razer-deathadder-essential-ergonomico-color-negro/p/MLA46189345#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=14&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1439177217&sid=recos
+                        - text: Mouse Gamer Alámbrico Razer Deathadder Essential Ergonómico Color Negro
+                      - generic [ref=e2532]:
+                        - img [ref=e2533]:
+                          - generic [ref=e2534]: $
+                          - generic [ref=e2535]: "40.637"
+                        - generic [ref=e2536]:
+                          - img [ref=e2537]:
+                            - generic [ref=e2538]: $
+                            - generic [ref=e2539]: "36.132"
+                          - generic [ref=e2540]: 11% OFF
+                        - generic [ref=e2541]:
+                          - text: 3 cuotas de
+                          - img [ref=e2542]:
+                            - generic [ref=e2543]: $
+                            - generic [ref=e2544]: "14.983"
+                      - generic [ref=e2545]: Envío gratispor ser tu primera compra
+                - group [ref=e2546]:
+                  - generic [ref=e2547]:
+                    - img [ref=e2549]
+                    - generic [ref=e2550]:
+                      - link [ref=e2551] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-redragon-cobra-white-m711-w-white/p/MLA16236118#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=15&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1110785972&sid=recos
+                        - text: Mouse Gamer Redragon Cobra White M711-w White
+                      - generic [ref=e2552]:
+                        - img [ref=e2553]:
+                          - generic [ref=e2554]: $
+                          - generic [ref=e2555]: "31.000"
+                        - generic [ref=e2556]:
+                          - img [ref=e2557]:
+                            - generic [ref=e2558]: $
+                            - generic [ref=e2559]: "26.273"
+                          - generic [ref=e2560]: 15% OFF
+                        - generic [ref=e2561]:
+                          - text: 3 cuotas de
+                          - img [ref=e2562]:
+                            - generic [ref=e2563]: $
+                            - generic [ref=e2564]: "10.894"
+                      - generic [ref=e2565]: Envío gratispor ser tu primera compra
+                - group [ref=e2566]:
+                  - generic [ref=e2567]:
+                    - img [ref=e2569]
+                    - generic [ref=e2570]:
+                      - link [ref=e2571] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/raton-inalambrico-redragon-king-pro-negro-m916-pro/p/MLA37650032#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=16&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1469814259&sid=recos
+                        - text: Ratón Inalámbrico Redragon King Pro Negro M916-pro
+                      - generic [ref=e2572]:
+                        - img [ref=e2573]:
+                          - generic [ref=e2574]: $
+                          - generic [ref=e2575]: "69.999"
+                        - generic [ref=e2576]:
+                          - img [ref=e2577]:
+                            - generic [ref=e2578]: $
+                            - generic [ref=e2579]: "59.999"
+                          - generic [ref=e2580]: 14% OFF
+                        - generic [ref=e2581]:
+                          - text: 3 cuotas de
+                          - img [ref=e2582]:
+                            - generic [ref=e2583]: $
+                            - generic [ref=e2584]: "24.879"
+                      - generic [ref=e2585]: Envío gratispor ser tu primera compra
+                - group [ref=e2586]:
+                  - generic [ref=e2587]:
+                    - img [ref=e2589]
+                    - generic [ref=e2590]:
+                      - link [ref=e2591] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/vertical-wired-mouse-usb-4-adjustable-dpi-silent-click/p/MLA2051881022#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=17&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA2550973360&sid=recos
+                        - text: Ratón Vertical Con Cable Usb 4 Dpi Ajustable Silent Click
+                      - generic [ref=e2592]:
+                        - img [ref=e2593]:
+                          - generic [ref=e2594]: $
+                          - generic [ref=e2595]: "52.112"
+                        - generic [ref=e2596]:
+                          - img [ref=e2597]:
+                            - generic [ref=e2598]: $
+                            - generic [ref=e2599]: "24.333"
+                          - generic [ref=e2600]: 53% OFF
+                      - generic [ref=e2601]: COMPRA INTERNACIONAL
+                - group [ref=e2602]:
+                  - generic [ref=e2603]:
+                    - img [ref=e2605]
+                    - generic [ref=e2606]:
+                      - link [ref=e2607] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-razer-deathadder-essential-6400-dpi-5-botones-negro/p/MLA36531123#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=18&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA2010328200&sid=recos
+                        - text: Mouse Razer Deathadder Essential 6400 Dpi 5 Botones Negro
+                      - generic [ref=e2608]:
+                        - img [ref=e2609]:
+                          - generic [ref=e2610]: $
+                          - generic [ref=e2611]: "42.363"
+                        - generic [ref=e2612]:
+                          - img [ref=e2613]:
+                            - generic [ref=e2614]: $
+                            - generic [ref=e2615]: "37.279"
+                          - generic [ref=e2616]: 12% OFF
+                        - generic [ref=e2617]:
+                          - text: 3 cuotas de
+                          - img [ref=e2618]:
+                            - generic [ref=e2619]: $
+                            - generic [ref=e2620]: "15.458"
+                      - generic [ref=e2621]: Envío gratispor ser tu primera compra
+                - group [ref=e2622]:
+                  - generic [ref=e2623]:
+                    - img [ref=e2625]
+                    - generic [ref=e2626]:
+                      - link [ref=e2627] [cursor=pointer]:
+                        - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-redragon-centrophorus2-m601-rgb-black/p/MLA17743447#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p_rh&reco_model=coldstart_high_exposition&reco_client=pdp-v2p&reco_item_pos=19&reco_backend_type=low_level&reco_id=4207f804-251f-41c1-8f06-c057d30b39c6&wid=MLA1115187600&sid=recos
+                        - text: Mouse Gamer De Juego Redragon Centrophorus2 M601-rgb Black
+                      - generic [ref=e2628]:
+                        - img [ref=e2630]:
+                          - generic [ref=e2631]: $
+                          - generic [ref=e2632]: "24.899"
+                        - generic [ref=e2633]:
+                          - text: 3 cuotas de
+                          - img [ref=e2634]:
+                            - generic [ref=e2635]: $
+                            - generic [ref=e2636]: "10.324"
+                      - generic [ref=e2637]: Envío gratispor ser tu primera compra
+              - button "Siguiente" [ref=e2638] [cursor=pointer]:
+                - img [ref=e2639]
+      - generic [ref=e2645]:
+        - heading "Destacado en Computación" [level=2] [ref=e2647]
+        - generic [ref=e2648]:
+          - generic [ref=e2649]:
+            - heading "Tablet" [level=4] [ref=e2650]:
+              - link "Tablet" [ref=e2651] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/tablet#headterms
+            - list [ref=e2652]:
+              - listitem [ref=e2653]:
+                - link "Ipad" [ref=e2654] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad#headterms
+              - listitem [ref=e2655]:
+                - link "Ipad 9 generacion" [ref=e2656] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-9-generacion#headterms
+              - listitem [ref=e2657]:
+                - link "Ipad 10" [ref=e2658] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-10#headterms
+              - listitem [ref=e2659]:
+                - link "Ipad mini" [ref=e2660] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-mini#headterms
+              - listitem [ref=e2661]:
+                - link "Ipad pro" [ref=e2662] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-pro#headterms
+              - listitem [ref=e2663]:
+                - link "Lenovo tab m10" [ref=e2664] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo-tab-m10#headterms
+              - listitem [ref=e2665]:
+                - link "Lenovo tab p11 pro" [ref=e2666] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo-tab-p11-pro#headterms
+            - button "Ver todo" [ref=e2667] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e2668]
+          - generic [ref=e2670]:
+            - heading "Impresoras" [level=4] [ref=e2671]:
+              - link "Impresoras" [ref=e2672] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/impresoras#headterms
+            - list [ref=e2673]:
+              - listitem [ref=e2674]:
+                - link "Brother hl 1212w" [ref=e2675] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/brother-hl-1212w#headterms
+              - listitem [ref=e2676]:
+                - link "Epson ecotank" [ref=e2677] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/epson-ecotank#headterms
+              - listitem [ref=e2678]:
+                - link "Hp laser 107w" [ref=e2679] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/hp-laser-107w#headterms
+              - listitem [ref=e2680]:
+                - link "Hp smart tank 520" [ref=e2681] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/hp-smart-tank-520#headterms
+              - listitem [ref=e2682]:
+                - link "Impresora 3d" [ref=e2683] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/impresora-3d#headterms
+              - listitem [ref=e2684]:
+                - link "Impresora a3 sistema continuo" [ref=e2685] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/impresora-a3-sistema-continuo#headterms
+              - listitem [ref=e2686]:
+                - link "Impresora brother" [ref=e2687] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/impresora-brother#headterms
+            - button "Ver todo" [ref=e2688] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e2689]
+          - generic [ref=e2691]:
+            - heading "Monitor" [level=4] [ref=e2692]:
+              - link "Monitor" [ref=e2693] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/monitor#headterms
+            - list [ref=e2694]:
+              - listitem [ref=e2695]:
+                - link "Monitor 144hz" [ref=e2696] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-144hz#headterms
+              - listitem [ref=e2697]:
+                - link "Monitor 24 pulgadas" [ref=e2698] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-24-pulgadas#headterms
+              - listitem [ref=e2699]:
+                - link "Monitor 240hz" [ref=e2700] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-240hz#headterms
+              - listitem [ref=e2701]:
+                - link "Monitor 27 pulgadas" [ref=e2702] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-27-pulgadas#headterms
+              - listitem [ref=e2703]:
+                - link "Monitor 4k" [ref=e2704] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-4k#headterms
+              - listitem [ref=e2705]:
+                - link "Monitor curvo" [ref=e2706] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-curvo#headterms
+              - listitem [ref=e2707]:
+                - link "Monitor dell 27" [ref=e2708] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-dell-27#headterms
+            - button "Ver todo" [ref=e2709] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e2710]
+          - generic [ref=e2712]:
+            - heading "Placas de video" [level=4] [ref=e2713]:
+              - link "Placas de video" [ref=e2714] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/placas-de-video#headterms
+            - list [ref=e2715]:
+              - listitem [ref=e2716]:
+                - link "Gtx 1050 ti" [ref=e2717] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1050-ti#headterms
+              - listitem [ref=e2718]:
+                - link "Gtx 1650" [ref=e2719] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1650#headterms
+              - listitem [ref=e2720]:
+                - link "Gtx 1660" [ref=e2721] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1660#headterms
+              - listitem [ref=e2722]:
+                - link "Gtx 1660 super" [ref=e2723] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1660-super#headterms
+              - listitem [ref=e2724]:
+                - link "Rtx 2060" [ref=e2725] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/rtx-2060#headterms
+              - listitem [ref=e2726]:
+                - link "Rtx 3060" [ref=e2727] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/rtx-3060#headterms
+              - listitem [ref=e2728]:
+                - link "Rtx 3060 ti" [ref=e2729] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/rtx-3060-ti#headterms
+            - button "Ver todo" [ref=e2730] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e2731]
+          - generic [ref=e2733]:
+            - heading "Notebook" [level=4] [ref=e2734]:
+              - link "Notebook" [ref=e2735] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/notebook#headterms
+            - list [ref=e2736]:
+              - listitem [ref=e2737]:
+                - link "Alienware" [ref=e2738] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/alienware#headterms
+              - listitem [ref=e2739]:
+                - link "Asus rog zephyrus" [ref=e2740] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/asus-rog-zephyrus#headterms
+              - listitem [ref=e2741]:
+                - link "Asus vivobook" [ref=e2742] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/asus-vivobook#headterms
+              - listitem [ref=e2743]:
+                - link "Galaxy book 3" [ref=e2744] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/galaxy-book-3#headterms
+              - listitem [ref=e2745]:
+                - link "Hp omen" [ref=e2746] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/hp-omen#headterms
+              - listitem [ref=e2747]:
+                - link "Lenovo" [ref=e2748] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo#headterms
+              - listitem [ref=e2749]:
+                - link "Lenovo ideapad" [ref=e2750] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo-ideapad#headterms
+            - button "Ver todo" [ref=e2751] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e2752]
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e2754] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e2755]: 
+  - contentinfo [ref=e2756]:
+    - generic [ref=e2758]:
+      - generic [ref=e2759]:
+        - generic [ref=e2760]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e2761]:
+          - list [ref=e2762]:
+            - listitem [ref=e2763]:
+              - link "Trabajá con nosotros" [ref=e2764] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e2765]:
+              - link "Términos y condiciones" [ref=e2766] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e2767]:
+              - link "Promociones" [ref=e2768] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e2769]:
+              - link "Cómo cuidamos tu privacidad" [ref=e2770] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e2771]:
+              - link "Accesibilidad" [ref=e2772] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e2773]:
+              - link "Información al usuario financiero" [ref=e2774] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e2775]:
+              - link "Ayuda" [ref=e2776] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e2777]:
+              - link "Defensa del Consumidor" [ref=e2778] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e2779]:
+              - link "Información sobre seguros" [ref=e2780] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e2781]:
+              - link "Libro de quejas online" [ref=e2782] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e2783]:
+              - link "Programa de Afiliados" [ref=e2784] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e2785]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e2786] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+```

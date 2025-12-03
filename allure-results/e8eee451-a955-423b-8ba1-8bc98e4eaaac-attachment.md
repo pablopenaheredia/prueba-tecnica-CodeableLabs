@@ -1,0 +1,1841 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region [ref=e2]:
+    - generic [ref=e3]:
+      - paragraph [ref=e5]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e6] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/privacidad#tech-and-cookies
+      - generic [ref=e7]:
+        - button "Aceptar cookies" [ref=e8] [cursor=pointer]
+        - button "Configurar cookies" [ref=e9] [cursor=pointer]
+  - banner [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - navigation "Menú de métodos abreviados" [ref=e13]:
+          - heading "Saltar a" [level=2]
+          - list "Saltar a" [ref=e14]:
+            - listitem:
+              - link "Saltar el contenido" [ref=e15] [cursor=pointer]:
+                - /url: "#root-app"
+            - listitem:
+              - link "Comentar sobre accesibilidad" [ref=e16] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad/feedback
+          - separator [ref=e17]
+          - heading "Métodos abreviados de teclado" [level=2]
+          - list "Métodos abreviados de teclado" [ref=e18]:
+            - listitem:
+              - link "Buscar /" [ref=e19] [cursor=pointer]:
+                - /url: "#cb1-edit"
+                - generic:
+                  - generic: Buscar
+                  - generic [ref=e21]: /
+            - listitem:
+              - link "Mis compras P" [ref=e22] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list
+                - generic:
+                  - generic: Mis compras
+                  - generic [ref=e24]: P
+            - listitem:
+              - link "Carrito C" [ref=e25] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/gz/cart
+                - generic:
+                  - generic: Carrito
+                  - generic [ref=e27]: C
+            - listitem:
+              - link "Saltar a filtros y resultados F" [ref=e28] [cursor=pointer]:
+                - /url: "#results"
+                - generic:
+                  - generic: Saltar a filtros y resultados
+                  - generic [ref=e30]: F
+            - listitem:
+              - link "Abrir/cerrar el menú de métodos abreviados Z" [ref=e31] [cursor=pointer]:
+                - /url: "#"
+                - generic:
+                  - generic: Abrir/cerrar el menú de métodos abreviados
+                  - generic [ref=e33]: Z
+          - generic [ref=e36]: Para moverte entre elementos, usa las flechas arriba o abajo del teclado.
+        - link "Mercado Libre Argentina - Donde comprar y vender de todo" [ref=e37] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.ar
+      - search [ref=e39]:
+        - generic [ref=e40]: Ingresá lo que quieras encontrar
+        - textbox "Ingresá lo que quieras encontrar" [ref=e41]:
+          - /placeholder: Buscar productos, marcas y más…
+          - text: mouse logitech g203 lightsync, color negro
+        - button "en todo Mercado Libre" [ref=e42]:
+          - generic: en todo Mercado Libre
+        - button "Buscar" [ref=e44] [cursor=pointer]:
+          - img "Buscar" [ref=e45]: 
+      - link "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e47] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/suscripciones/melimas?#origin=bannermenu-acq-melimas&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N1A5_BNR_MENU_349&me.flow=146&me.logic=campaigns&me.position=0
+        - img "Meli+ | Envíos gratis en tus compras desde $3.490" [ref=e48]
+      - link " Enviar a Córdoba 5013" [ref=e51] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.ar/navigation/addresses-hub?go=https%3A%2F%2Flistado.mercadolibre.com.ar%2Fmouse-logitech-g203-lightsync%252C-color-negro
+        - text: 
+        - generic [ref=e52]: Enviar a
+        - generic [ref=e53]: Córdoba 5013
+      - list [ref=e56]:
+        - listitem [ref=e57]:
+          - button "Categorías" [ref=e58] [cursor=pointer]
+        - listitem [ref=e59]:
+          - link "Ofertas" [ref=e60] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas#nav-header
+        - listitem [ref=e61]:
+          - link "Cupones" [ref=e62] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/cupones?source_page=mperfil#nav-header
+        - listitem [ref=e63]:
+          - link "Supermercado" [ref=e64] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ofertas/supermercadolibre#nav-header
+        - listitem [ref=e65]:
+          - link "Moda" [ref=e66] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header
+        - listitem [ref=e67]:
+          - link "Mercado Play Gratis" [ref=e68] [cursor=pointer]:
+            - /url: https://play.mercadolibre.com.ar/?origin=navigation_menu_web#nav-header
+            - text: Mercado Play
+            - generic [ref=e69]: Gratis
+        - listitem [ref=e70]:
+          - link "Vender" [ref=e71] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/syi/core/list#nav-header
+        - listitem [ref=e72]:
+          - link "Ayuda" [ref=e73] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.ar/ayuda#nav-header
+      - generic [ref=e74]:
+        - navigation "Menú de usuario" [ref=e75]:
+          - list [ref=e76]:
+            - listitem [ref=e77]:
+              - generic [ref=e80] [cursor=pointer]:
+                - generic [ref=e83]: P
+                - generic [ref=e84]: Pablo
+            - listitem [ref=e86]:
+              - link "Mis compras" [ref=e87] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.ar/purchases/list#nav-header
+              - button "Favoritos" [ref=e88] [cursor=pointer]:
+                - generic [ref=e89]: Favoritos
+              - button "Notificaciones" [ref=e90] [cursor=pointer]:
+                - generic [ref=e91]: 
+            - listitem
+        - link "" [ref=e92] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.ar/gz/cart/v2
+          - generic [ref=e93]: 
+          - generic [ref=e94]: "2"
+  - main [ref=e95]:
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - complementary [ref=e98]:
+          - generic [ref=e99]:
+            - list [ref=e100]:
+              - listitem [ref=e101]:
+                - link "Computación" [ref=e102] [cursor=pointer]:
+                  - /url: https://www.mercadolibre.com.ar/c/computacion
+                - img [ref=e103]
+              - listitem [ref=e105]:
+                - link "Periféricos de PC" [ref=e106] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/
+                - img [ref=e107]
+              - listitem [ref=e109]:
+                - link "Mouses y Teclados" [ref=e110] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/
+                - img [ref=e111]
+              - listitem [ref=e113]:
+                - link "Mouses" [ref=e114] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/
+            - heading "Mouse logitech g203 lightsync, color negro" [level=1] [ref=e115]
+          - generic [ref=e117]: 54 resultados
+          - link "Saltar a resultados" [ref=e118] [cursor=pointer]:
+            - /url: "#results"
+          - heading "Filtros" [level=2] [ref=e119]
+          - generic [ref=e120]:
+            - generic [ref=e121]:
+              - generic [ref=e122]: Logitech
+              - button "Quitar el filtro de Marca Logitech" [ref=e123] [cursor=pointer]:
+                - img [ref=e125]
+            - generic [ref=e127]:
+              - generic [ref=e128]: Negro
+              - button "Quitar el filtro de Color Negro" [ref=e129] [cursor=pointer]:
+                - img [ref=e131]
+          - generic [ref=e133]:
+            - list [ref=e135]:
+              - listitem [ref=e136] [cursor=pointer]:
+                - link "Llega mañana" [ref=e138]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_TiempoEnvio_ProximoDia_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dshipping_time_highlighted_nextday%26applied_filter_name%3DTiempo+de+entrega%26applied_filter_order%3D1%26applied_value_id%3Dnextday%26applied_value_name%3DLlega+en+menos+de+24+hs%26applied_value_order%3D1%26applied_value_results%3D7%26is_custom%3Dfalse
+                  - generic [ref=e139]:
+                    - switch "Llega mañana" [ref=e140]
+                    - generic [ref=e142]: Llega mañana
+            - list [ref=e144]:
+              - listitem [ref=e145] [cursor=pointer]:
+                - link "full te da envío gratis En carritos desde $ 33.000" [ref=e147]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Envio_Full_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dshipping_highlighted_fulfillment%26applied_filter_name%3DEnv%C3%ADo%26applied_filter_order%3D2%26applied_value_id%3Dfulfillment%26applied_value_name%3DFull%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse
+                  - generic [ref=e148]:
+                    - switch "full te da envío gratis En carritos desde $ 33.000" [ref=e149]
+                    - generic [ref=e150]:
+                      - generic [ref=e151]:
+                        - img "full" [ref=e152]
+                        - text: te da envío gratis
+                      - generic [ref=e154]: En carritos desde $ 33.000
+            - list [ref=e156]:
+              - listitem [ref=e157] [cursor=pointer]:
+                - link "Compra Internacional Miles de productos del mundo a tu casa" [ref=e159]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_SHIPPING*ORIGIN_10215069#applied_filter_id%3DSHIPPING_ORIGIN_HIGHLIGHTED%26applied_filter_name%3DOrigen+del+env%C3%ADo%26applied_filter_order%3D3%26applied_value_id%3D10215069%26applied_value_name%3DInternacional%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse
+                  - generic [ref=e160]:
+                    - switch "Compra Internacional Miles de productos del mundo a tu casa" [ref=e161]
+                    - generic [ref=e162]:
+                      - img "Compra Internacional" [ref=e164]
+                      - generic [ref=e166]: Miles de productos del mundo a tu casa
+            - list [ref=e168]:
+              - listitem [ref=e169] [cursor=pointer]:
+                - link "Envío gratis" [ref=e171]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_CostoEnvio_Gratis_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dshipping_cost_highlighted_free%26applied_filter_name%3DCosto+de+env%C3%ADo%26applied_filter_order%3D4%26applied_value_id%3Dfree%26applied_value_name%3DGratis%26applied_value_order%3D1%26applied_value_results%3D48%26is_custom%3Dfalse
+                  - generic [ref=e172]:
+                    - switch "Envío gratis" [ref=e173]
+                    - generic [ref=e175]: Envío gratis
+            - list [ref=e177]:
+              - listitem [ref=e178] [cursor=pointer]:
+                - link "Mejor precio en cuotas Al mismo precio o con bajo interés" [ref=e180]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Installments_GoodFinancing_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dinstallments_highlighted_good_financing%26applied_filter_name%3DCuotas%26applied_filter_order%3D5%26applied_value_id%3Dgood_financing%26applied_value_name%3DMejor+precio+en+cuotas%26applied_value_order%3D1%26applied_value_results%3D17%26is_custom%3Dfalse
+                  - generic [ref=e181]:
+                    - switch "Mejor precio en cuotas Al mismo precio o con bajo interés" [ref=e182]
+                    - generic [ref=e183]:
+                      - generic [ref=e184]: Mejor precio en cuotas
+                      - generic [ref=e185]: Al mismo precio o con bajo interés
+            - generic [ref=e186]:
+              - heading "Condición" [level=3] [ref=e187]
+              - list [ref=e188]:
+                - listitem [ref=e189]:
+                  - link "Nuevo, 49 resultados" [ref=e190] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/nuevo/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D6%26applied_value_id%3D2230284%26applied_value_name%3DNuevo%26applied_value_order%3D1%26applied_value_results%3D49%26is_custom%3Dfalse
+                    - generic [ref=e191]: Nuevo
+                    - generic [ref=e192]: (49)
+                - listitem [ref=e193]:
+                  - link "Usado, 5 resultados" [ref=e194] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/usado/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D6%26applied_value_id%3D2230581%26applied_value_name%3DUsado%26applied_value_order%3D2%26applied_value_results%3D5%26is_custom%3Dfalse
+                    - generic [ref=e195]: Usado
+                    - generic [ref=e196]: (5)
+            - generic [ref=e197]:
+              - heading "Costo de envío" [level=3] [ref=e198]
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - link "Gratis, 48 resultados" [ref=e201] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_CostoEnvio_Gratis_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dshipping_cost%26applied_filter_name%3DCosto+de+env%C3%ADo%26applied_filter_order%3D7%26applied_value_id%3Dfree%26applied_value_name%3DGratis%26applied_value_order%3D1%26applied_value_results%3D48%26is_custom%3Dfalse
+                    - generic [ref=e202]: Gratis
+                    - generic [ref=e203]: (48)
+            - generic [ref=e204]:
+              - heading "Envío" [level=3] [ref=e205]
+              - list [ref=e206]:
+                - listitem [ref=e207]:
+                  - link "Full, 1 resultados" [ref=e208] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Envio_Full_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dshipping%26applied_filter_name%3DEnv%C3%ADo%26applied_filter_order%3D8%26applied_value_id%3Dfulfillment%26applied_value_name%3DFull%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - img "full" [ref=e209]
+                    - generic [ref=e211]: (1)
+            - generic [ref=e212]:
+              - heading "Tiempo de entrega" [level=3] [ref=e213]
+              - list [ref=e214]:
+                - listitem [ref=e215]:
+                  - link "Llega en menos de 24 hs, 7 resultados" [ref=e216] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_TiempoEnvio_ProximoDia_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dshipping_time%26applied_filter_name%3DTiempo+de+entrega%26applied_filter_order%3D9%26applied_value_id%3Dnextday%26applied_value_name%3DLlega+en+menos+de+24+hs%26applied_value_order%3D1%26applied_value_results%3D7%26is_custom%3Dfalse
+                    - generic [ref=e217]: Llega en menos de 24 hs
+                    - generic [ref=e218]: (7)
+            - generic [ref=e219]:
+              - heading "Origen del envío" [level=3] [ref=e220]
+              - list [ref=e221]:
+                - listitem [ref=e222]:
+                  - link "Local, 51 resultados" [ref=e223] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_SHIPPING*ORIGIN_10215068#applied_filter_id%3DSHIPPING_ORIGIN%26applied_filter_name%3DOrigen+del+env%C3%ADo%26applied_filter_order%3D10%26applied_value_id%3D10215068%26applied_value_name%3DLocal%26applied_value_order%3D2%26applied_value_results%3D51%26is_custom%3Dfalse
+                    - generic [ref=e224]: Local
+                    - generic [ref=e225]: (51)
+                - listitem [ref=e226]:
+                  - link "Internacional, 3 resultados" [ref=e227] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_SHIPPING*ORIGIN_10215069#applied_filter_id%3DSHIPPING_ORIGIN%26applied_filter_name%3DOrigen+del+env%C3%ADo%26applied_filter_order%3D10%26applied_value_id%3D10215069%26applied_value_name%3DInternacional%26applied_value_order%3D1%26applied_value_results%3D3%26is_custom%3Dfalse
+                    - generic [ref=e228]: Internacional
+                    - generic [ref=e229]: (3)
+            - generic [ref=e230]:
+              - heading "Descuentos" [level=3] [ref=e231]
+              - list [ref=e232]:
+                - listitem [ref=e233]:
+                  - link "Desde 5% OFF, 6 resultados" [ref=e234] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Discount_5-100_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Ddiscount%26applied_filter_name%3DDescuentos%26applied_filter_order%3D11%26applied_value_id%3D5-100%26applied_value_name%3DDesde+5%25+OFF%26applied_value_order%3D1%26applied_value_results%3D6%26is_custom%3Dfalse
+                    - generic [ref=e235]: Desde 5% OFF
+                    - generic [ref=e236]: (6)
+                - listitem [ref=e237]:
+                  - link "Desde 10% OFF, 4 resultados" [ref=e238] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Discount_10-100_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Ddiscount%26applied_filter_name%3DDescuentos%26applied_filter_order%3D11%26applied_value_id%3D10-100%26applied_value_name%3DDesde+10%25+OFF%26applied_value_order%3D2%26applied_value_results%3D4%26is_custom%3Dfalse
+                    - generic [ref=e239]: Desde 10% OFF
+                    - generic [ref=e240]: (4)
+                - listitem [ref=e241]:
+                  - link "Desde 15% OFF, 2 resultados" [ref=e242] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Discount_15-100_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Ddiscount%26applied_filter_name%3DDescuentos%26applied_filter_order%3D11%26applied_value_id%3D15-100%26applied_value_name%3DDesde+15%25+OFF%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse
+                    - generic [ref=e243]: Desde 15% OFF
+                    - generic [ref=e244]: (2)
+            - list [ref=e246]:
+              - listitem [ref=e247]:
+                - heading "Precio |" [level=3] [ref=e248]
+              - listitem [ref=e249]:
+                - link "Hasta $ 40.000 (11)" [ref=e250] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_PriceRange_0ARS-40000ARS_Color-Principal_Negro_NoIndex_True
+                  - generic [ref=e251]: Hasta $ 40.000
+                  - generic [ref=e252]: (11)
+              - listitem [ref=e253]:
+                - link "$ 40.000 a $ 55.000 (33)" [ref=e254] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_PriceRange_40000ARS-55000ARS_Color-Principal_Negro_NoIndex_True
+                  - generic [ref=e255]: $ 40.000 a $ 55.000
+                  - generic [ref=e256]: (33)
+              - listitem [ref=e257]:
+                - link "Más de $ 55.000 (19)" [ref=e258] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_PriceRange_55000ARS-0ARS_Color-Principal_Negro_NoIndex_True
+                  - generic [ref=e259]: Más de $ 55.000
+                  - generic [ref=e260]: (19)
+              - listitem [ref=e261]:
+                - generic [ref=e262]:
+                  - textbox "Mínimo" [ref=e266]
+                  - generic [ref=e267]: —
+                  - textbox "Máximo" [ref=e271]
+                  - generic [ref=e272]:
+                    - button "Aplicar" [disabled]:
+                      - img
+            - generic [ref=e273]:
+              - heading "Cuotas" [level=3] [ref=e274]
+              - list [ref=e275]:
+                - listitem [ref=e276]:
+                  - link "Mismo precio en cuotas, 15 resultados" [ref=e277] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Installments_NoInterest_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dinstallments%26applied_filter_name%3DCuotas%26applied_filter_order%3D13%26applied_value_id%3Dno_interest%26applied_value_name%3DMismo+precio+en+cuotas%26applied_value_order%3D2%26applied_value_results%3D15%26is_custom%3Dfalse
+                    - generic [ref=e278]: Mismo precio en cuotas
+                    - generic [ref=e279]: (15)
+                - listitem [ref=e280]:
+                  - link "Cuota promocionada, 2 resultados" [ref=e281] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Installments_CampaignCoFunded_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dinstallments%26applied_filter_name%3DCuotas%26applied_filter_order%3D13%26applied_value_id%3Dcampaign_co_funded%26applied_value_name%3DCuota+promocionada%26applied_value_order%3D1%26applied_value_results%3D2%26is_custom%3Dfalse
+                    - generic [ref=e282]: Cuota promocionada
+                    - generic [ref=e283]: (2)
+            - generic [ref=e284]:
+              - heading "Tiendas oficiales" [level=3] [ref=e285]
+              - list [ref=e286]:
+                - listitem [ref=e287]:
+                  - link "Solo tiendas oficiales, 20 resultados" [ref=e288] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Tienda_all_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dofficial_store%26applied_filter_name%3DTiendas+oficiales%26applied_filter_order%3D14%26applied_value_id%3Dall%26applied_value_name%3DSolo+tiendas+oficiales%26applied_value_order%3D1%26applied_value_results%3D20%26is_custom%3Dfalse
+                    - generic [ref=e289]: Solo tiendas oficiales
+                    - generic [ref=e290]: (20)
+            - generic [ref=e291]:
+              - heading "Tipo de mouse" [level=3] [ref=e292]
+              - list [ref=e293]:
+                - listitem [ref=e294]:
+                  - link "De juego, 43 resultados" [ref=e295] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/de-juego/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DCOMPUTER_MOUSE_TYPE%26applied_filter_name%3DTipo+de+mouse%26applied_filter_order%3D15%26applied_value_id%3D7852105%26applied_value_name%3DDe+juego%26applied_value_order%3D2%26applied_value_results%3D43%26is_custom%3Dfalse
+                    - generic [ref=e296]: De juego
+                    - generic [ref=e297]: (43)
+                - listitem [ref=e298]:
+                  - link "Convencional, 7 resultados" [ref=e299] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/convencional/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DCOMPUTER_MOUSE_TYPE%26applied_filter_name%3DTipo+de+mouse%26applied_filter_order%3D15%26applied_value_id%3D192740%26applied_value_name%3DConvencional%26applied_value_order%3D1%26applied_value_results%3D7%26is_custom%3Dfalse
+                    - generic [ref=e300]: Convencional
+                    - generic [ref=e301]: (7)
+                - listitem [ref=e302]:
+                  - link "GAMER, 2 resultados" [ref=e303] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/tipo-de-mouse-gamer/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DCOMPUTER_MOUSE_TYPE%26applied_filter_name%3DTipo+de+mouse%26applied_filter_order%3D15%26applied_value_id%3D16516017%26applied_value_name%3DGAMER%26applied_value_order%3D3%26applied_value_results%3D2%26is_custom%3Dfalse
+                    - generic [ref=e304]: GAMER
+                    - generic [ref=e305]: (2)
+            - generic [ref=e306]:
+              - heading "Tipo de sensor" [level=3] [ref=e307]
+              - list [ref=e308]:
+                - listitem [ref=e309]:
+                  - link "Óptico, 53 resultados" [ref=e310] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/optico/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DSENSOR_TYPE%26applied_filter_name%3DTipo+de+sensor%26applied_filter_order%3D16%26applied_value_id%3D109003%26applied_value_name%3D%C3%93ptico%26applied_value_order%3D1%26applied_value_results%3D53%26is_custom%3Dfalse
+                    - generic [ref=e311]: Óptico
+                    - generic [ref=e312]: (53)
+            - generic [ref=e313]:
+              - heading "Orientación de la mano" [level=3] [ref=e314]
+              - list [ref=e315]:
+                - listitem [ref=e316]:
+                  - link "Diestro, 26 resultados" [ref=e317] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/diestro/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DHAND_ORIENTATION%26applied_filter_name%3DOrientaci%C3%B3n+de+la+mano%26applied_filter_order%3D17%26applied_value_id%3D96533%26applied_value_name%3DDiestro%26applied_value_order%3D2%26applied_value_results%3D26%26is_custom%3Dfalse
+                    - generic [ref=e318]: Diestro
+                    - generic [ref=e319]: (26)
+                - listitem [ref=e320]:
+                  - link "Ambidiestro, 13 resultados" [ref=e321] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/ambidiestro/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DHAND_ORIENTATION%26applied_filter_name%3DOrientaci%C3%B3n+de+la+mano%26applied_filter_order%3D17%26applied_value_id%3D2862903%26applied_value_name%3DAmbidiestro%26applied_value_order%3D1%26applied_value_results%3D13%26is_custom%3Dfalse
+                    - generic [ref=e322]: Ambidiestro
+                    - generic [ref=e323]: (13)
+            - generic [ref=e324]:
+              - heading "Otras características" [level=3] [ref=e325]
+              - list [ref=e326]:
+                - listitem [ref=e327]:
+                  - link "Incluye mousepad, 1 resultados" [ref=e328] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/incluye-mousepad/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DINCLUDES_MOUSEPAD%26applied_filter_name%3DOtras+caracter%C3%ADsticas%26applied_filter_order%3D17%26applied_value_id%3D242085%26applied_value_name%3DIncluye+mousepad%26applied_value_order%3D5%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - generic [ref=e329]: Incluye mousepad
+                    - generic [ref=e330]: (1)
+                - listitem [ref=e331]:
+                  - link "Es ergonómica, 32 resultados" [ref=e332] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/es-ergonomica/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DIS_ERGONOMIC%26applied_filter_name%3DOtras+caracter%C3%ADsticas%26applied_filter_order%3D17%26applied_value_id%3D242085%26applied_value_name%3DEs+ergon%C3%B3mica%26applied_value_order%3D3%26applied_value_results%3D32%26is_custom%3Dfalse
+                    - generic [ref=e333]: Es ergonómica
+                    - generic [ref=e334]: (32)
+                - listitem [ref=e335]:
+                  - link "Es gamer, 52 resultados" [ref=e336] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_IS*GAMER_242085_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DIS_GAMER%26applied_filter_name%3DOtras+caracter%C3%ADsticas%26applied_filter_order%3D17%26applied_value_id%3D242085%26applied_value_name%3DEs+gamer%26applied_value_order%3D4%26applied_value_results%3D52%26is_custom%3Dfalse
+                    - generic [ref=e337]: Es gamer
+                    - generic [ref=e338]: (52)
+                - listitem [ref=e339]:
+                  - link "Con luces, 52 resultados" [ref=e340] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/con-luces/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DWITH_LIGHTS%26applied_filter_name%3DOtras+caracter%C3%ADsticas%26applied_filter_order%3D17%26applied_value_id%3D242085%26applied_value_name%3DCon+luces%26applied_value_order%3D1%26applied_value_results%3D52%26is_custom%3Dfalse
+                    - generic [ref=e341]: Con luces
+                    - generic [ref=e342]: (52)
+                - listitem [ref=e343]:
+                  - link "Con rueda de desplazamiento, 52 resultados" [ref=e344] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/con-rueda-desplazamiento/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DWITH_SCROLL%26applied_filter_name%3DOtras+caracter%C3%ADsticas%26applied_filter_order%3D17%26applied_value_id%3D242085%26applied_value_name%3DCon+rueda+de+desplazamiento%26applied_value_order%3D2%26applied_value_results%3D52%26is_custom%3Dfalse
+                    - generic [ref=e345]: Con rueda de desplazamiento
+                    - generic [ref=e346]: (52)
+                - listitem [ref=e347]:
+                  - link "Con conexión USB, 38 resultados" [ref=e348] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/es-inalambrico-usb/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True#applied_filter_id%3DWITH_USB_CONNECTION%26applied_filter_name%3DOtras+caracter%C3%ADsticas%26applied_filter_order%3D17%26applied_value_id%3D242085%26applied_value_name%3DCon+conexi%C3%B3n+USB%26applied_value_order%3D0%26applied_value_results%3D38%26is_custom%3Dfalse
+                    - generic [ref=e349]: Con conexión USB
+                    - generic [ref=e350]: (38)
+            - generic [ref=e351]:
+              - heading "Retiro gratis" [level=3] [ref=e352]
+              - list [ref=e353]:
+                - listitem [ref=e354]:
+                  - link "Capital Federal, 16 resultados" [ref=e355] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUENBUGw3M2E1#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUENBUGw3M2E1%26applied_value_name%3DCapital+Federal%26applied_value_order%3D5%26applied_value_results%3D16%26is_custom%3Dfalse
+                    - generic [ref=e356]: Capital Federal
+                    - generic [ref=e357]: (16)
+                - listitem [ref=e358]:
+                  - link "Bs.As. G.B.A. Sur, 6 resultados" [ref=e359] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUEdSQXJlMDNm#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUEdSQXJlMDNm%26applied_value_name%3DBs.As.+G.B.A.+Sur%26applied_value_order%3D4%26applied_value_results%3D6%26is_custom%3Dfalse
+                    - generic [ref=e360]: Bs.As. G.B.A. Sur
+                    - generic [ref=e361]: (6)
+                - listitem [ref=e362]:
+                  - link "Córdoba, 5 resultados" [ref=e363] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUENPUmFkZGIw#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUENPUmFkZGIw%26applied_value_name%3DC%C3%B3rdoba%26applied_value_order%3D8%26applied_value_results%3D5%26is_custom%3Dfalse
+                    - generic [ref=e364]: Córdoba
+                    - generic [ref=e365]: (5)
+                - listitem [ref=e366]:
+                  - link "Catamarca, 1 resultados" [ref=e367] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUENBVGFiY2Fm#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUENBVGFiY2Fm%26applied_value_name%3DCatamarca%26applied_value_order%3D6%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - generic [ref=e368]: Catamarca
+                    - generic [ref=e369]: (1)
+                - listitem [ref=e370]:
+                  - link "Chaco, 1 resultados" [ref=e371] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUENIQW8xMTNhOA#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUENIQW8xMTNhOA%26applied_value_name%3DChaco%26applied_value_order%3D7%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - generic [ref=e372]: Chaco
+                    - generic [ref=e373]: (1)
+                - listitem [ref=e374]:
+                  - link "Bs.As. Costa Atlántica, 1 resultados" [ref=e375] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUENPU2ExMmFkMw#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUENPU2ExMmFkMw%26applied_value_name%3DBs.As.+Costa+Atl%C3%A1ntica%26applied_value_order%3D1%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - generic [ref=e376]: Bs.As. Costa Atlántica
+                    - generic [ref=e377]: (1)
+                - listitem [ref=e378]:
+                  - link "Bs.As. G.B.A. Norte, 1 resultados" [ref=e379] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUEdSQWU4ZDkz#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUEdSQWU4ZDkz%26applied_value_name%3DBs.As.+G.B.A.+Norte%26applied_value_order%3D2%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - generic [ref=e380]: Bs.As. G.B.A. Norte
+                    - generic [ref=e381]: (1)
+                - listitem [ref=e382]:
+                  - link "Bs.As. G.B.A. Oeste, 1 resultados" [ref=e383] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_Color-Principal_Negro_NoIndex_True_pickup*state_TUxBUEdSQWVmNTVm#applied_filter_id%3Dpickup_state%26applied_filter_name%3DRetiro+gratis%26applied_filter_order%3D19%26applied_value_id%3DTUxBUEdSQWVmNTVm%26applied_value_name%3DBs.As.+G.B.A.+Oeste%26applied_value_order%3D3%26applied_value_results%3D1%26is_custom%3Dfalse
+                    - generic [ref=e384]: Bs.As. G.B.A. Oeste
+                    - generic [ref=e385]: (1)
+            - generic [ref=e386]:
+              - heading "Detalles de la publicación" [level=3] [ref=e387]
+              - list [ref=e388]:
+                - listitem [ref=e389]:
+                  - link "Mejores vendedores" [ref=e390] [cursor=pointer]:
+                    - /url: https://listado.mercadolibre.com.ar/computacion/perifericos-pc/mouses-teclados/mouses/logitech/mouse-logitech-g203-lightsync%2C-color-negro_BestSellers_YES_Color-Principal_Negro_NoIndex_True#applied_filter_id%3Dpower_seller%26applied_filter_name%3DFiltro+por+calidad+de+vendedores%26applied_filter_order%3D1%26applied_value_id%3Dyes%26applied_value_name%3DMejores+vendedores%26applied_value_order%3D1%26applied_value_results%3D34%26is_custom%3Dfalse
+                    - generic [ref=e391]: Mejores vendedores
+                    - generic [ref=e392]: (34)
+        - generic [ref=e393]:
+          - generic [ref=e397]:
+            - link "American Computers Ad Los mejores insumos al mejor precio y calidad Ir a la tienda" [ref=e399] [cursor=pointer]:
+              - /url: https://click1.mercadolibre.com.ar/brand_ads/clicks/MLA/count?a=no0wqeNTAmTMAK0HSAhi3kjC%2B%2BYKVPcOxha7gVEicSlMy8yS4GRa6ddNUTTZTpBKnbIFqaPGajlbBbvZfZeWTW7Ch2uYA0vzDITyWgLeuRueAHnf3DSfDhreOy5tfpj1szQuAE5WdFHZqSbXGGIqbP1ma%2BhVTPEpDy%2BFPTbOBtQgKg2BsnLjhz4RK6pjR64lMxfyTE0j%2Bk43cv1G%2BUmDk9ZFKAhk3kUCivFeuK6dOn457hGH4Ym7wZsytrvkLbfDVuY%2BVvuf3lSzGZV6Zg3C8%2BYSJY3oZ2tSP2WsTaWV2uVkn%2FAjy6zmiz4CeigacKHUg%2BHywbysBsJDLSxiqD2Ec%2BQ3ia7H5ZsppXGzeDfS5T6LotNRlANTKh6F%2BRS%2FDoYYvLbczRZ10d6GOEIplEt1s7Tw4WzWjnix5nfvJiPq%2FP2%2BWQLiGe65G7VfDNlMwFe%2FF%2FR%2BU%2BlcPoViL8fF07GNPfLhXaZMdNOkJsCfq0qX0Ce7xVK6ObVjlT69fUDpNXUGpEjGGDQfhiS080UUOh2SOG%2BVdS%2BIRCErDQVcWX1pf2OuZSDkn5SWHn%2FTv6zig4wOA4OHM0p11GOKsy5pzbc%2Bt9V0PMSwi%2BY3Kzvpk3ieEmmUPSq7jEpvjKryimHEshMoNIP1KN5AkmU2%2FoWJDbAQWVSc2kh%2FMAp5LS24JEkdSsGvYoDc4VvLc5%2Bo3kCfs0YnlgzzN1dLWRogW5cbe62gTPNxYHvizwVOfJV%2BXaJfv%2Fa4nwGfxTaAOtiyYzVeVfmwcU2BPYpcVb4VZyUoeWMeLzYnF376syP0K3j0%2BJWTwsH5eY89qM7iP9G7ld%2Fbg5IRMg65BzMCt5gTC00NwYkjFE99ukHeXyDPybsKrcM%2BpkK2UVAd%2FpraHKFwBsp%2FCsKd26G6x3fvLSIXcPPEytH5EK1qKGJXln43i8nPUCUYhe0q2qmFcUU1uM5iIMQ9nY5ygMiIvVkNPzuGxOsNi4hyL%2FN78dOLhr2iKmQppFFgKKK%2FAjtKkNtErxjFxR6k0iiYsx%2F1YhBeYV2GkGqyt8NAiNki40gYUy9B0m%2F7HAgnKe%2BfsqaWbUkF9kXvsVtXdLclIzQU5bn65WItI5TgpARAkWLRhnDPox9avDrdHXGrSCzEkGoZreTQkoxQW8rZpIOS%2F0yqcVyezLbqbyPU2KjoGRdf2SQOCKCJahFjT3n5DrWrwr82dvhEc4a91lqJTEPoz%2BKg2yEvQOSvgW%2BTSLQ%2FEZjVeRFgj%2FprSqLw68yC%2B4iIfiKCMORGaGdAZSFa%2BLsJ6f9XpOqCJQFkb%2Bc3y72cYcoi%2BZx%2BzVQbKdJrmkquC6hNGwlF04RtoYFuBr0FROU01H%2FIQJfRRbgiKUvMshdTbQkE06zoMx1uEPsyH4o9uFfK3Q9zZsxKY468FRdH6XuDyQ4Jr7UWiyKWAh17im76kTWHgFp6hVBPPG8qM0zlL%2FwaedFD73OZ84msnEjIlJLUoGw1ZNdln%2BCQll27obmraspcLNjze%2BKIif%2BjBBK29IWkUBMho9WPKtrqWtA4ntgH%2FTYXxjSzSb89i2wn9fZoQxUaiHDwpbtQ76ElYYxg1PFA%2B32T%2B%2BKwgSN6EUi5%2FZf9FfdbuGrdJ6u1IM0ulXzwyIijb1rMAupf610d9wyahMiUiqFH623r63fdxBpRrEnix7LFerAIA3mHw9G7UA1ePQbp22Jjja55O%2B0QmZ9HWv7EqPbdS%2B621hFsc2qYD%2FigbmxlbS91X%2FLiRBp33p7el2jDUQo%3D
+              - generic [ref=e400]:
+                - img "American Computers" [ref=e402]
+                - generic [ref=e404]:
+                  - heading "Ad" [level=2] [ref=e405]
+                  - heading "Los mejores insumos al mejor precio y calidad" [level=3] [ref=e407]
+                  - generic [ref=e408]:
+                    - generic [ref=e409]: Ir a la tienda
+                    - img [ref=e411]
+            - generic [ref=e415]:
+              - link "Mouse Logitech M170 Inalambrico Usb - Negro Mouse Logitech M170 Inalambrico Usb - Negro" [ref=e416] [cursor=pointer]:
+                - /url: https://click1.mercadolibre.com.ar/brand_ads/clicks/MLA/count?a=bKbbemWuCLyxNSDOHdypT%2FkZwANmD1Gk2tLW3c%2B2RDcQ6xWm%2Fz9%2Fs%2BOe%2Fy3PXmphCvJr9Zx5%2Fv3Vg7XKgV7ne6VnpE6VOG%2BxIWCoOozqTSBHT16eFG69AlXnGY8q%2Bm6lwuSkqMmZyY6O5lZ5j0zFsWI2nZk56tow3e8M3SAVFybsAOE5blOz6ulzsv9AUKgZEtTQ5iICP2wKkc4uNCjnQxqY4WzxIJMaH%2FDbKzdx4YFWTuzWnDCj5RpocHvxm6REImGZhTNm4goQSFtg5FCXnxAUGx1lPTnR8FGpx%2BtJ2Vlhp%2FCHE2zEmbtEbZUJteFvo%2FgpgbGXaQ4n9vvU9SibyPA8FWLEGTYHOOohZ8vs%2BAdvWPMqjqzPHdXgQ%2BaTX2SL7eSCNv%2FWy6My4qokIeANa0w7xq1CeuyF4v2nWcteRPn70tBcIM5h0QwJaY9RQhRGdrEgzEVsHm0C6pugD%2FyBE7%2Baa5%2BHh63PedBVV0UGE4xpQt1M7uhvt%2FPcJE75WT79%2FaHqDJqOmTvxgC1nxE5rsLBw93b3BVm2cwlDnsXeXZfLWlajswHnz4IE4Lwv16vlsjjDz89bbsajxDJMzn%2FF2Vu96YETPTc1Mpe7ss2K2%2Ba3rFwyTzSwCcAb2QGSm2Nmh1RYMQnkjXUdsDEx3n%2FKmpc3wNASwBxoCJTIHfSAkEH7EJuptUe%2F7WfInIyKIz0N%2FBYlt7TV857KMNq71%2BNL7rYIFhoAorSrxK6IH3RmErF58%2FdPbteEeKXtcGh0Y9BGNYAfI7nmGFQhYCYBCoO%2FgNX1lbA5sEGOLN%2BWIbsci7c1sWXsWPTAhvzUnhFBTNEU3RDuKakc8LsB8MR9iZX4y3CYCUHlLth7Qse3Y6I0OZ%2Bdco3fhPiONyo%2FwcxS92GgVBch2F6CqOy%2Bccme9aLlbY1xsuuFZHAiYKztPooEQGRNTP7H3340x2bdY89ScZwHxcZiaRw2CmqecSR3wXhAaLikmPQbDaf5Ig1sw%2Ffa0SedtrUX7x3GzUHLcMz4naqzH%2BVXR9hBM2jPnFKQQ7EtIWRuuNASN0pocXo7YaE5X4cMQEgJ09Txez5ofVHCam6Hvd3kcmo%2FIRIrVPcy98M7W274Hi0rdLFpWa5INKxJN04nREMDYCg3RAhMUYuKQmiuAfoM9MgLLOZZGCTk28hBB7AILEduHIx0uoK5o36gYBbGjQwOalGsE7qRNKVXWXJCGmWTbSGvRwNvyC8ff9w2bYGAu1ewiBU%2BfZrxZhTQ4yLsBIu4NDGcjnJ%2B%2BqjDBS%2FyFanMZZO1LMlC6pqCBLw7%2ByC7H7Vu33J3bP3gUlNB81PYzGSdfvzqfg1Jffk%2B%2Fviu2VLpSomz
+                - img "Mouse Logitech M170 Inalambrico Usb - Negro" [ref=e418]
+                - paragraph [ref=e419]: Mouse Logitech M170 Inalambrico Usb - Negro
+              - link "Mouse Inalambrico Logitech M170 - Color Rosa Mouse Inalambrico Logitech M170 - Color Rosa" [ref=e420] [cursor=pointer]:
+                - /url: https://click1.mercadolibre.com.ar/brand_ads/clicks/MLA/count?a=AxTNIsZLJOzykfuEpSMfRQADh%2FbV3IxYnJ%2Fwg0WmZGBI0tp3e3gouvbwFm9IXTgNYJXJ50hz5VVb1qgQKH5VxPz5vJCU3DDl4KfZvpSYCvJP00oDciSOPpF8xhmFQw2pS6vXYa%2FQoC7QPKYxoBIWl3ZQVLZZWzaaXQ0fbj8r%2FhlqJxfl4mUxevrH435U0gY71QnQA9TUfFD%2Fag7TJN5Q1IUNeVrZCkiYoo%2BpNDwsFMbMEP%2BKsNFNwGp7EAKVam%2FEpRMqKeryuCWS031RyJvbBx5xOcEwLRSOsdIS2yy9Lttv9s6KIMd0y5ilme%2BNGhYfKs7YOdwVvMg6B%2F9UPuGYW5EsAJUIoFwstJ7ynhZ60S1B%2Fi0JcMsaCgsDiw%2BKwtRWBCOiAFSyZVKxSWYxykjbSxw%2Fi4P8raqmtLXJ1p8%2F9l%2B%2B6LP9MhqO41HVh9ghR09%2BiD7wUo9g3o4Fva99wS3JBFc5PHAxAfV8N3t2kBNb1tzMg7qa8mg8ml%2BKQ9IZpmTE%2FBZN98yMdhfoXRR9Y9aD2dbDIJT2QyyjxxnRc10LBO7DXC8qiDbdoLxbKwurTEByQ7DAuuzz1bxuZfnyvFfSqj0d1whRNirtbW%2BTxu2I7DCBF3aMx0L48cUFv%2BDHljZl%2BHAXtB1JMTxEYP5vHPvkJcvuoWAM0MjdGeiTyFJZHDlx3mEf4W7eUEt7cAS3Iyt1RGFrErsiyefXK0MS7nsLjV%2FCCpJvFs9e3FLPC3XW9gle37wPRxCnj5DCedyGmovNUP4NTAxckZcAco0QXD4DZWOGFrCB%2F1IO6viFxWaQPKHQJr799VeJO7R72ctvM2iBDz5OD%2Fv8Eree5AXfkYtn5Wbm%2Be6GgfGQoZADK%2BZuOlN3MvIoAmpOeBU86PJW5xA5uC1DucB2TN91JNL8%2BGFm%2Fn0%2FB0wqlTW3%2Bq7NHy6rN8gUf2RyoVrCDtmh%2FaZRA6V6OE1RFEGI8ahp6RTWeUPPr9LtUPOs8VomzvpOEhDyiUDt6Hhf165o2T76xyOqVEM7BiJJLFJ7Rg1MoUrBiL5PZvw%2FTik9ZWH9E5kzlXbfuwRJgapNE0NOWWBlrT38az18d8uSEhVCn9wWbi0RLvmck38D9ZMzEvlEjppgunPcX29huZivctuHX2tDAIRTRXyQLBwFN0y%2B2ue3NKiLKaXscmT4CqfFElvQJo7gqJEnb4%2BpFOOurGwmwjieNBte9yAEWZdLglsGsDvlfN%2Fc1zTxS7684cDI7yb%2FjsHSGSLvVE5jQbWY%2FISkBg1AiGiZEke%2BKrzW%2FkIrn%2BJ8lGi5gr%2FX%2B0gWx2IJ8usKwnCBPM24ONWz5aBhlEWmSPqtGBWJI%2BpVspeNi5%2By8w%3D%3D
+                - img "Mouse Inalambrico Logitech M170 - Color Rosa" [ref=e422]
+                - paragraph [ref=e423]: Mouse Inalambrico Logitech M170 - Color Rosa
+              - link "Mouse Logitech G203 Lightsync, Color Negro Mouse Logitech G203 Lightsync, Color Negro" [ref=e424] [cursor=pointer]:
+                - /url: https://click1.mercadolibre.com.ar/brand_ads/clicks/MLA/count?a=GfiZOG%2FupYpOtX85e%2BOyyHFhIqmXCCzi%2BHWEphyp7A4nLDwIkdbRAui2CqYpIA4%2BYRHQHw28xFzKOQHq0lHmQIHu7D8S7KlpHePUIoSDu4andme6jHYfKJ3JzXZRb9BxpJqKDgLe4lJzz2c%2B15yUlVkir5iBQYT8DVxBcjZtY0Y5n%2Fwtv%2BoDh%2BAAsxZafYg8BX3r1uzdemDoBflftpCTN47fofgGBXLskNp68sv6ynM%2B0DFFVAfRbX%2BICCPbTXyzF3Z2oIsLJ%2FiGc%2BoA7k4IeeOmYsJxQZJoaqfr7wi%2FARP9wORtap5jcg8Z5WhIssS9Ojsdz%2FJGoxQXSgtRypg3jUYh3GweJFio6JWZT%2BzHgHwHVPwp%2Fxj2rVK1twuZWNshH%2B5Vog5wACdc%2FjhL03TZw6As4qC8YNqRg7px0dyh6oS0Tx0CoqItlaeLs%2BXuKlbj4M0QsXqk2kWyS6PCiF9kPNsp%2FsamgdRQ9OIPmcb7y0D9QkS3z96ZV157mB0YGovI6oTxT4pON%2BAJFHXAJmwXOS1%2Bmtn945HBTXY2JdpmqsijGMABFkcXwWasACAPBPOW%2BtxOIwI1KDSyzNbul7rPwrqafTFtm0eCzX37cvS1zJfLIT1XDdUcNtyv7Q60drI2%2FURye6zQpNWdcndhDbqfKUGH5gEZ9TEen7szczuyFSXIlPHVhwNJPU5eer%2FooMiwq7jRl4I7VhLr%2BNXS9FdAUG86OuyELKdklw72hhxpoNHypGcfFXkS%2BW4oWt2OfB6PCq2ecB1I0o95mntmTP5L1RZd8oeUbH5mWZwtIDujsg%2Bt7Yg8qz4hlmCUfTzbtTx1F1HkzMMRL%2Bh7U2YZ4%2BtfCjjVhlz66spdoqtS%2FdlDCANkHco9l9tf7In9NGdW8lLXpd%2F8KaIrQutpnKPkrJ7JKyIsHHuWnENM44JeXnPx8lcLX5O2G9ga5Qacyo6Sh68OHqNJRDdsVhyKm6yLuizrJ55LwHfhjfSOxy7b9DKuX11IsK%2Fz%2FStAdL63BRdEZgA11ne%2FUPzNqi8ICA4vGSZQIUBOayNvkkYFNnqRljh%2BFXKrNmChBq6TXYKhmnBPfWowM1MPivNdUTUDt1ctnOFwvzs%2B04Abr6lQ1Cw%2BdAImeqm76eDcApDhVK%2BYlyPQ7Jz8d6YTtIPIYRQz%2BZlyV7ociYCfkZL05q4xND9C9MXrCXX85H%2FMgVRtICZ8P1hGks2odWAmT1ndLs0%2B1UkvGHeR8XHmLX%2FQ5WyRHughTzCOju1pgU%2BwM9Pq4RQd3CJOtfmU6V4Uj%2Fx%2FASUqZ2kzBCs0x5YZFeVlO4twDGsPBMs6bLPQotq5FfFYnF2g5uU07Cuhm1RShwV5
+                - img "Mouse Logitech G203 Lightsync, Color Negro" [ref=e426]
+                - paragraph [ref=e427]: Mouse Logitech G203 Lightsync, Color Negro
+          - generic [ref=e428]:
+            - heading "Resultados" [level=2] [ref=e429]
+            - generic [ref=e432]:
+              - generic [ref=e433]: Ordenar por
+              - button "Más relevantes" [ref=e437] [cursor=pointer]:
+                - generic [ref=e438]: Más relevantes
+                - img [ref=e440]
+          - list [ref=e442]:
+            - listitem [ref=e443]:
+              - generic [ref=e445]:
+                - img [ref=e448]
+                - generic [ref=e449]:
+                  - generic [ref=e450]: MÁS VENDIDO
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro" [level=3] [ref=e451]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro" [ref=e452] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-color-negro/p/MLA24566685#polycard_client=search-nordic&search_layout=stack&position=1&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1988606518&sid=search
+                  - generic [ref=e453]:
+                    - text: American Computers
+                    - img "Tienda oficial" [ref=e454]
+                  - generic [ref=e456]:
+                    - generic [ref=e457]:
+                      - img "31488 pesos argentinos" [ref=e460]:
+                        - generic [ref=e461]: $
+                        - generic [ref=e462]: "31.488"
+                      - generic [ref=e463]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 4.9 de 5 estrellas. Más de 5mil productos vendidos." [ref=e465]:
+                      - img [ref=e466]
+                      - text: 4.9 | +5mil vendidos
+                - switch "Favorito" [ref=e469] [cursor=pointer]:
+                  - img [ref=e470]
+                  - img
+            - listitem [ref=e472]:
+              - generic [ref=e474]:
+                - img [ref=e477]
+                - generic [ref=e478]:
+                  - heading "Ratón Gaming Logitech G203, 8000 Dpi, Rgb, 6 Botones" [level=3] [ref=e479]:
+                    - link "Ratón Gaming Logitech G203, 8000 Dpi, Rgb, 6 Botones" [ref=e480] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/logitech-g102-g-series-raton-para-juegos-color-negro/p/MLA2005978787#polycard_client=search-nordic&search_layout=stack&position=2&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2602205042&sid=search
+                  - img "73094 pesos argentinos" [ref=e483]:
+                    - generic [ref=e484]: $
+                    - generic [ref=e485]: "73.094"
+                  - generic [ref=e486]: Envío gratis
+                  - generic [ref=e487]: COMPRA INTERNACIONAL
+                  - generic [ref=e488]: Envío desde USA
+                - switch "Favorito" [ref=e490] [cursor=pointer]:
+                  - img [ref=e491]
+                  - img
+            - listitem [ref=e493]:
+              - generic [ref=e495]:
+                - img [ref=e498]
+                - generic [ref=e499]:
+                  - heading "Logitech Mouse Gamer G203 Lightsync Usb Negro" [level=3] [ref=e500]:
+                    - link "Logitech Mouse Gamer G203 Lightsync Usb Negro" [ref=e501] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/logitech-mouse-gamer-g203-lightsync-usb/up/MLAU3435788232#polycard_client=search-nordic&search_layout=stack&position=3&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2378623718&sid=search
+                  - generic [ref=e502]:
+                    - text: Epitrónica
+                    - img "Tienda oficial" [ref=e503]
+                  - generic [ref=e505]:
+                    - generic [ref=e506]:
+                      - img "43000 pesos argentinos" [ref=e509]:
+                        - generic [ref=e510]: $
+                        - generic [ref=e511]: "43.000"
+                      - generic [ref=e512]: Envío gratispor ser tu primera compra
+                    - generic "2 vendidos" [ref=e514]
+                - switch "Favorito" [ref=e516] [cursor=pointer]:
+                  - img [ref=e517]
+                  - img
+            - listitem [ref=e519]:
+              - generic [ref=e521]:
+                - img [ref=e524]
+                - generic [ref=e525]:
+                  - heading "Logitech Mouse Gamer G203 Lightsync Usb Negro" [level=3] [ref=e526]:
+                    - link "Logitech Mouse Gamer G203 Lightsync Usb Negro" [ref=e527] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/logitech-mouse-gamer-g203-lightsync-usb/up/MLAU3442154595#polycard_client=search-nordic&search_layout=stack&position=4&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2396081066&sid=search
+                  - generic [ref=e528]:
+                    - generic [ref=e529]:
+                      - generic [ref=e530]:
+                        - img "49999 pesos argentinos" [ref=e532]:
+                          - generic [ref=e533]: $
+                          - generic [ref=e534]: "49.999"
+                        - generic [ref=e535]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "8333 pesos argentinos" [ref=e536]:
+                            - generic [ref=e537]: $
+                            - generic [ref=e538]: "8.333"
+                      - generic [ref=e539]: Envío gratispor ser tu primera compra
+                    - generic "1 vendido" [ref=e541]
+                - switch "Favorito" [ref=e543] [cursor=pointer]:
+                  - img [ref=e544]
+                  - img
+            - listitem [ref=e546]:
+              - generic [ref=e548]:
+                - img [ref=e551]
+                - generic [ref=e552]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro Negro" [level=3] [ref=e553]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro Negro" [ref=e554] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-color-negro/up/MLAU3262287366#polycard_client=search-nordic&search_layout=stack&position=5&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2141563864&sid=search
+                  - generic [ref=e555]:
+                    - text: TECNOENLINEA
+                    - img "Tienda oficial" [ref=e556]
+                  - generic [ref=e558]:
+                    - img "66160 pesos argentinos" [ref=e560]:
+                      - generic [ref=e561]: $
+                      - generic [ref=e562]: "66.160"
+                    - generic [ref=e563]:
+                      - text: Mismo precio 9 cuotas de
+                      - img "7351 pesos argentinos" [ref=e564]:
+                        - generic [ref=e565]: $
+                        - generic [ref=e566]: "7.351"
+                  - generic [ref=e567]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e569] [cursor=pointer]:
+                  - img [ref=e570]
+                  - img
+            - listitem [ref=e572]:
+              - generic [ref=e574]:
+                - img [ref=e577]
+                - generic [ref=e578]:
+                  - heading "Mouse Logitech G203 Gaming Lightsync Blue Azul" [level=3] [ref=e579]:
+                    - link "Mouse Logitech G203 Gaming Lightsync Blue Azul" [ref=e580] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-gaming-lightsync-blue/up/MLAU906934539#polycard_client=search-nordic&search_layout=stack&position=6&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1448197325&sid=search
+                  - img "56684 pesos argentinos" [ref=e583]:
+                    - generic [ref=e584]: $
+                    - generic [ref=e585]: "56.684"
+                  - generic [ref=e586]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e588] [cursor=pointer]:
+                  - img [ref=e589]
+                  - img
+            - listitem [ref=e591]:
+              - generic [ref=e593]:
+                - img [ref=e596]
+                - generic [ref=e597]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro" [level=3] [ref=e598]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro" [ref=e599] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-2341128890-mouse-logitech-g203-lightsync-color-negro-_JM?searchVariation=185326077786#polycard_client=search-nordic&searchVariation=185326077786&search_layout=stack&position=7&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - img "40000 pesos argentinos" [ref=e602]:
+                    - generic [ref=e603]: $
+                    - generic [ref=e604]: "40.000"
+                  - generic [ref=e605]: Envío gratis
+                - switch "Favorito" [ref=e607] [cursor=pointer]:
+                  - img [ref=e608]
+                  - img
+            - listitem [ref=e610]:
+              - generic [ref=e612]:
+                - img [ref=e615]
+                - generic [ref=e616]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro Negro" [level=3] [ref=e617]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro Negro" [ref=e618] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-color-negro/up/MLAU3165461551#polycard_client=search-nordic&search_layout=stack&position=8&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1496202419&sid=search
+                  - generic [ref=e619]:
+                    - text: BIGMARKETSHOP
+                    - img "Tienda oficial" [ref=e620]
+                  - generic [ref=e622]:
+                    - generic [ref=e623]:
+                      - img "47014 pesos argentinos" [ref=e626]:
+                        - generic [ref=e627]: $
+                        - generic [ref=e628]: "47.014"
+                      - generic [ref=e629]: Envío gratispor ser tu primera compra
+                    - generic "2 vendidos" [ref=e631]
+                - switch "Favorito" [ref=e633] [cursor=pointer]:
+                  - img [ref=e634]
+                  - img
+            - listitem [ref=e636]:
+              - generic [ref=e638]:
+                - img [ref=e641]
+                - generic [ref=e642]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Color Negro Negro" [level=3] [ref=e643]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Color Negro Negro" [ref=e644] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-color-negro/up/MLAU2813453801#polycard_client=search-nordic&search_layout=stack&position=9&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1961415658&sid=search
+                  - generic [ref=e645]:
+                    - text: TECNOENLINEA
+                    - img "Tienda oficial" [ref=e646]
+                  - generic [ref=e648]:
+                    - generic [ref=e649]:
+                      - generic [ref=e650]:
+                        - 'img "Antes: 49355 pesos argentinos" [ref=e651]':
+                          - generic [ref=e652]: $
+                          - generic [ref=e653]: "49.355"
+                        - generic [ref=e654]:
+                          - 'img "Ahora: 43664 pesos argentinos" [ref=e655]':
+                            - generic [ref=e656]: $
+                            - generic [ref=e657]: "43.664"
+                          - generic [ref=e658]: 11% OFF
+                        - generic [ref=e659]:
+                          - text: 6 cuotas de
+                          - img "8329 pesos argentinos" [ref=e660]:
+                            - generic [ref=e661]: $
+                            - generic [ref=e662]: "8.329"
+                      - generic [ref=e663]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 5.0 de 5 estrellas. Más de 5 productos vendidos." [ref=e665]:
+                      - img [ref=e666]
+                      - text: 5.0 | +5 vendidos
+                - switch "Favorito" [ref=e669] [cursor=pointer]:
+                  - img [ref=e670]
+                  - img
+            - listitem [ref=e672]:
+              - generic [ref=e674]:
+                - img [ref=e677]
+                - generic [ref=e678]:
+                  - heading "Mouse Gamer De Juego Logitech Gg Series G203 Lightsync Negro Negro" [level=3] [ref=e679]:
+                    - link "Mouse Gamer De Juego Logitech Gg Series G203 Lightsync Negro Negro" [ref=e680] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-de-juego-logitech-gg-series-g203-lightsync-negro/up/MLAU3227599534#polycard_client=search-nordic&search_layout=stack&position=10&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1503540251&sid=search
+                  - generic [ref=e681]:
+                    - text: ALNI SHOP
+                    - img "Tienda oficial" [ref=e682]
+                  - generic [ref=e684]:
+                    - generic [ref=e685]:
+                      - generic [ref=e686]:
+                        - img "44704 pesos argentinos" [ref=e688]:
+                          - generic [ref=e689]: $
+                          - generic [ref=e690]: "44.704"
+                        - generic [ref=e691]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "7450 pesos argentinos" [ref=e692]:
+                            - generic [ref=e693]: $
+                            - generic [ref=e694]: "7.450"
+                      - generic [ref=e695]: Envío gratispor ser tu primera compra
+                    - generic "1 vendido" [ref=e697]
+                - switch "Favorito" [ref=e699] [cursor=pointer]:
+                  - img [ref=e700]
+                  - img
+            - listitem [ref=e702]:
+              - generic [ref=e704]:
+                - img [ref=e707]
+                - generic [ref=e708]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro Negro" [level=3] [ref=e709]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro Negro" [ref=e710] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-color-negro/up/MLAU3618901790#polycard_client=search-nordic&search_layout=stack&position=11&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2591348720&sid=search
+                  - img "20000 pesos argentinos" [ref=e713]:
+                    - generic [ref=e714]: $
+                    - generic [ref=e715]: "20.000"
+                  - generic [ref=e716]: Envío gratispor ser tu primera compra
+                  - generic [ref=e717]: Usado
+                - switch "Favorito" [ref=e719] [cursor=pointer]:
+                  - img [ref=e720]
+                  - img
+            - listitem [ref=e722]:
+              - generic [ref=e724]:
+                - img [ref=e727]
+                - generic [ref=e728]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro" [level=3] [ref=e729]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro" [ref=e730] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-2587733850-mouse-logitech-g203-lightsync-color-negro-_JM?searchVariation=187297795776#polycard_client=search-nordic&searchVariation=187297795776&search_layout=stack&position=12&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e731]:
+                    - img "30052 pesos argentinos" [ref=e733]:
+                      - generic [ref=e734]: $
+                      - generic [ref=e735]: "30.052"
+                    - generic [ref=e736]:
+                      - text: Mismo precio 6 cuotas de
+                      - img "5008 pesos argentinos" [ref=e737]:
+                        - generic [ref=e738]: $
+                        - generic [ref=e739]: "5.008"
+                  - generic [ref=e740]: Usado
+                - switch "Favorito" [ref=e742] [cursor=pointer]:
+                  - img [ref=e743]
+                  - img
+            - listitem [ref=e745]:
+              - generic [ref=e747]:
+                - img [ref=e750]
+                - generic [ref=e751]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro" [level=3] [ref=e752]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro" [ref=e753] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1567517003-mouse-logitech-g203-lightsync-color-negro-_JM?searchVariation=186565502636#polycard_client=search-nordic&searchVariation=186565502636&search_layout=stack&position=13&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - img "25000 pesos argentinos" [ref=e756]:
+                    - generic [ref=e757]: $
+                    - generic [ref=e758]: "25.000"
+                  - generic [ref=e759]: Envío gratispor ser tu primera compra
+                  - generic [ref=e760]: Usado
+                - switch "Favorito" [ref=e762] [cursor=pointer]:
+                  - img [ref=e763]
+                  - img
+            - listitem [ref=e765]:
+              - generic [ref=e767]:
+                - img [ref=e770]
+                - generic [ref=e771]:
+                  - heading "Mouse Logitech G203 Lightsync, Color Negro Negro" [level=3] [ref=e772]:
+                    - link "Mouse Logitech G203 Lightsync, Color Negro Negro" [ref=e773] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-color-negro/up/MLAU3553251324#polycard_client=search-nordic&search_layout=stack&position=14&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1577517721&sid=search
+                  - img "25000 pesos argentinos" [ref=e776]:
+                    - generic [ref=e777]: $
+                    - generic [ref=e778]: "25.000"
+                  - generic [ref=e779]: Envío gratispor ser tu primera compra
+                  - generic [ref=e780]: Usado
+                - switch "Favorito" [ref=e782] [cursor=pointer]:
+                  - img [ref=e783]
+                  - img
+            - listitem [ref=e785]:
+              - generic [ref=e787]:
+                - img [ref=e790]
+                - generic [ref=e791]:
+                  - heading "Combo Logitech Gamer Mouse G203 Rgb 8k Dpi + Mousepad G240 Negro" [level=3] [ref=e792]:
+                    - link "Combo Logitech Gamer Mouse G203 Rgb 8k Dpi + Mousepad G240 Negro" [ref=e793] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/combo-logitech-gamer-mouse-g203-rgb-8k-dpi--mousepad-g240/up/MLAU157753168#polycard_client=search-nordic&search_layout=stack&position=15&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1308110084&sid=search
+                  - generic [ref=e794]:
+                    - generic [ref=e795]:
+                      - generic [ref=e796]:
+                        - 'img "Antes: 62584 pesos argentinos" [ref=e797]':
+                          - generic [ref=e798]: $
+                          - generic [ref=e799]: "62.584"
+                        - generic [ref=e800]:
+                          - 'img "Ahora: 57577 pesos argentinos" [ref=e801]':
+                            - generic [ref=e802]: $
+                            - generic [ref=e803]: "57.577"
+                          - generic [ref=e804]: 8% OFF
+                      - generic [ref=e805]: Envío gratispor ser tu primera compra
+                    - generic "Más de 5 productos vendidos." [ref=e807]: +5 vendidos
+                - switch "Favorito" [ref=e809] [cursor=pointer]:
+                  - img [ref=e810]
+                  - img
+            - listitem [ref=e812]:
+              - generic [ref=e814]:
+                - generic [ref=e815]:
+                  - generic:
+                    - generic: Disponible en 2 colores
+                  - img [ref=e817]
+                - generic [ref=e818]:
+                  - heading "Mouse Logitech G203 Lightsync" [level=3] [ref=e819]:
+                    - link "Mouse Logitech G203 Lightsync" [ref=e820] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-2439496328-mouse-logitech-g203-lightsync-_JM?searchVariation=186177504704#polycard_client=search-nordic&searchVariation=186177504704&search_layout=stack&position=16&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e821]:
+                    - generic [ref=e822]:
+                      - img "44953 pesos argentinos" [ref=e825]:
+                        - generic [ref=e826]: $
+                        - generic [ref=e827]: "44.953"
+                      - generic [ref=e828]: Envío gratis
+                    - generic "4 vendidos" [ref=e830]
+                - switch "Favorito" [ref=e832] [cursor=pointer]:
+                  - img [ref=e833]
+                  - img
+            - listitem [ref=e835]:
+              - generic [ref=e837]:
+                - img [ref=e840]
+                - generic [ref=e841]:
+                  - heading "Ratón Para Juegos Con Cable Logitech G203 Lightsync, 8,000 D" [level=3] [ref=e842]:
+                    - link "Ratón Para Juegos Con Cable Logitech G203 Lightsync, 8,000 D" [ref=e843] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/raton-para-juegos-con-cable-logitech-g203-lightsync-8000-d/p/MLA44843697#polycard_client=search-nordic&search_layout=stack&position=17&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2293680558&sid=search
+                  - generic [ref=e844]:
+                    - text: TECNOENLINEA
+                    - img "Tienda oficial" [ref=e845]
+                  - generic [ref=e847]:
+                    - generic [ref=e848]:
+                      - generic [ref=e849]:
+                        - 'img "Antes: 44971 pesos argentinos" [ref=e850]':
+                          - generic [ref=e851]: $
+                          - generic [ref=e852]: "44.971"
+                        - generic [ref=e853]:
+                          - 'img "Ahora: 41658 pesos argentinos" [ref=e854]':
+                            - generic [ref=e855]: $
+                            - generic [ref=e856]: "41.658"
+                          - generic [ref=e857]: 7% OFF
+                        - generic [ref=e858]:
+                          - text: 3 cuotas de
+                          - img "17274 pesos argentinos" [ref=e859]:
+                            - generic [ref=e860]: $
+                            - generic [ref=e861]: "17.274"
+                      - generic [ref=e862]: Envío gratispor ser tu primera compra
+                      - generic [ref=e863]:
+                        - generic [ref=e864] [cursor=pointer]: Otra opción de compra
+                        - 'link "Antes: 62140 pesos argentinos Ahora: 50964 pesos argentinos 17% OFF Mismo precio 6 cuotas de 8494 pesos argentinos" [ref=e865] [cursor=pointer]':
+                          - /url: https://www.mercadolibre.com.ar/raton-para-juegos-con-cable-logitech-g203-lightsync-8000-d/p/MLA44843697?offer_type=BEST_INSTALLMENTS#wid=MLA2299655510&sid=search
+                          - generic [ref=e866]:
+                            - 'img "Antes: 62140 pesos argentinos" [ref=e867]':
+                              - generic [ref=e868]: $
+                              - generic [ref=e869]: "62.140"
+                            - generic [ref=e870]:
+                              - 'img "Ahora: 50964 pesos argentinos" [ref=e871]':
+                                - generic [ref=e872]: $
+                                - generic [ref=e873]: "50.964"
+                              - generic [ref=e874]: 17% OFF
+                            - generic [ref=e875]:
+                              - text: Mismo precio 6 cuotas de
+                              - img "8494 pesos argentinos" [ref=e876]:
+                                - generic [ref=e877]: $
+                                - generic [ref=e878]: "8.494"
+                    - generic "Calificación 4.5 de 5 estrellas. Más de 25 productos vendidos." [ref=e880]:
+                      - img [ref=e881]
+                      - text: 4.5 | +25 vendidos
+                - switch "Favorito" [ref=e884] [cursor=pointer]:
+                  - img [ref=e885]
+                  - img
+            - listitem [ref=e887]:
+              - generic [ref=e889]:
+                - img [ref=e892]
+                - generic [ref=e893]:
+                  - heading "Combo Gamer Logitech Mouse G203 Rgb Negro + Pad Mouse Negro" [level=3] [ref=e894]:
+                    - link "Combo Gamer Logitech Mouse G203 Rgb Negro + Pad Mouse Negro" [ref=e895] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/combo-gamer-logitech-mouse-g203-rgb-negro--pad-mouse/up/MLAU3648608858#polycard_client=search-nordic&search_layout=stack&position=18&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2618911390&sid=search
+                  - generic [ref=e896]:
+                    - text: Logitech G
+                    - img "Tienda oficial" [ref=e897]
+                  - generic [ref=e899]:
+                    - img "80000 pesos argentinos" [ref=e901]:
+                      - generic [ref=e902]: $
+                      - generic [ref=e903]: "80.000"
+                    - generic [ref=e904]:
+                      - text: 3 cuotas de
+                      - img "33173 pesos argentinos" [ref=e905]:
+                        - generic [ref=e906]: $
+                        - generic [ref=e907]: "33.173"
+                  - generic [ref=e908]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e910] [cursor=pointer]:
+                  - img [ref=e911]
+                  - img
+            - listitem [ref=e913]:
+              - generic [ref=e915]:
+                - img [ref=e918]
+                - generic [ref=e919]:
+                  - heading "Mouse Logitech G203 Lightsync Gaming Black" [level=3] [ref=e920]:
+                    - link "Mouse Logitech G203 Lightsync Gaming Black" [ref=e921] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/logitech-g203-wired-gaming-mouse-8000-dpi-rainbow-opti/p/MLA2001419324#polycard_client=search-nordic&search_layout=stack&position=19&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1976446778&sid=search
+                  - img "75620 pesos argentinos" [ref=e924]:
+                    - generic [ref=e925]: $
+                    - generic [ref=e926]: "75.620"
+                  - generic [ref=e927]: Envío gratis
+                  - generic [ref=e928]: COMPRA INTERNACIONAL
+                  - generic [ref=e929]: Envío desde USA
+                - switch "Favorito" [ref=e931] [cursor=pointer]:
+                  - img [ref=e932]
+                  - img
+            - listitem [ref=e934]:
+              - generic [ref=e936]:
+                - generic [ref=e937]:
+                  - generic:
+                    - generic: Disponible en 2 colores
+                  - img [ref=e939]
+                - generic [ref=e940]:
+                  - heading "Mouse Gamer Logitech Lightsync G203 8000 Dpi 1ms Usb Rgb" [level=3] [ref=e941]:
+                    - link "Mouse Gamer Logitech Lightsync G203 8000 Dpi 1ms Usb Rgb" [ref=e942] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-929629336-mouse-gamer-logitech-lightsync-g203-8000-dpi-1ms-usb-rgb-_JM?searchVariation=91204190269#polycard_client=search-nordic&searchVariation=91204190269&search_layout=stack&position=20&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e943]:
+                    - text: POSVENT SOLUCIONES EN PUNTOS D
+                    - img "Tienda oficial" [ref=e944]
+                  - generic [ref=e946]:
+                    - generic [ref=e947]:
+                      - img "45566 pesos argentinos" [ref=e950]:
+                        - generic [ref=e951]: $
+                        - generic [ref=e952]: "45.566"
+                      - generic [ref=e953]: Envío gratispor ser tu primera compra
+                      - generic [ref=e954]:
+                        - text: Enviado por
+                        - img "FULL" [ref=e955]
+                    - generic "Calificación 4.9 de 5 estrellas. Más de 100 productos vendidos." [ref=e958]:
+                      - img [ref=e959]
+                      - text: 4.9 | +100 vendidos
+                - switch "Favorito" [ref=e962] [cursor=pointer]:
+                  - img [ref=e963]
+                  - img
+            - listitem [ref=e965]:
+              - generic [ref=e967]:
+                - img [ref=e970]
+                - generic [ref=e971]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Rgb 8000 Dpi 6 Botones Negro" [level=3] [ref=e972]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Rgb 8000 Dpi 6 Botones Negro" [ref=e973] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-rgb-8000-dpi-6-botones/up/MLAU1488502082#polycard_client=search-nordic&search_layout=stack&position=21&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2606558190&sid=search
+                  - generic [ref=e974]:
+                    - generic [ref=e975]:
+                      - generic [ref=e976]:
+                        - img "37990 pesos argentinos" [ref=e978]:
+                          - generic [ref=e979]: $
+                          - generic [ref=e980]: "37.990"
+                        - generic [ref=e981]:
+                          - text: 3 cuotas de
+                          - img "15753 pesos argentinos" [ref=e982]:
+                            - generic [ref=e983]: $
+                            - generic [ref=e984]: "15.753"
+                      - generic [ref=e985]: Envío gratispor ser tu primera compra
+                      - generic [ref=e986]:
+                        - generic [ref=e987] [cursor=pointer]: Otra opción de compra
+                        - link "42990 pesos argentinos Mismo precio 6 cuotas de 7165 pesos argentinos" [ref=e988] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-rgb-8000-dpi-6-botones/up/MLAU1488502082?offer_type=BEST_INSTALLMENTS#wid=MLA2091248998&sid=search
+                          - generic [ref=e989]:
+                            - img "42990 pesos argentinos" [ref=e991]:
+                              - generic [ref=e992]: $
+                              - generic [ref=e993]: "42.990"
+                            - generic [ref=e994]:
+                              - text: Mismo precio 6 cuotas de
+                              - img "7165 pesos argentinos" [ref=e995]:
+                                - generic [ref=e996]: $
+                                - generic [ref=e997]: "7.165"
+                    - generic "Calificación 5.0 de 5 estrellas. 2 vendidos" [ref=e999]:
+                      - img [ref=e1000]
+                      - text: 5.0 | 2 vendidos
+                - switch "Favorito" [ref=e1003] [cursor=pointer]:
+                  - img [ref=e1004]
+                  - img
+            - listitem [ref=e1006]:
+              - generic [ref=e1008]:
+                - img [ref=e1011]
+                - generic [ref=e1012]:
+                  - heading "Mouse Logitech G203 Gaming Lightsync Black" [level=3] [ref=e1013]:
+                    - link "Mouse Logitech G203 Gaming Lightsync Black" [ref=e1014] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-906976127-mouse-logitech-g203-gaming-lightsync-black-_JM#polycard_client=search-nordic&search_layout=stack&position=22&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA906976127&sid=search
+                  - generic [ref=e1015]:
+                    - generic [ref=e1016]:
+                      - generic [ref=e1017]:
+                        - img "59579 pesos argentinos" [ref=e1019]:
+                          - generic [ref=e1020]: $
+                          - generic [ref=e1021]: "59.579"
+                        - generic [ref=e1022]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "9929 pesos argentinos" [ref=e1023]:
+                            - generic [ref=e1024]: $
+                            - generic [ref=e1025]: "9.929"
+                      - generic [ref=e1026]: Envío gratispor ser tu primera compra
+                    - generic "1 vendido" [ref=e1028]
+                - switch "Favorito" [ref=e1030] [cursor=pointer]:
+                  - img [ref=e1031]
+                  - img
+            - listitem [ref=e1033]:
+              - generic [ref=e1035]:
+                - img [ref=e1038]
+                - generic [ref=e1039]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Rgb 8000 Dpi Negro Negro" [level=3] [ref=e1040]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Rgb 8000 Dpi Negro Negro" [ref=e1041] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-rgb-8000-dpi-negro/up/MLAU299824582#polycard_client=search-nordic&search_layout=stack&position=23&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA877446227&sid=search
+                  - generic [ref=e1042]:
+                    - text: STARKO
+                    - img "Tienda oficial" [ref=e1043]
+                  - generic [ref=e1045]:
+                    - generic [ref=e1046]:
+                      - generic [ref=e1047]:
+                        - img "41340 pesos argentinos" [ref=e1049]:
+                          - generic [ref=e1050]: $
+                          - generic [ref=e1051]: "41.340"
+                        - generic [ref=e1052]:
+                          - text: 3 cuotas de
+                          - img "17142 pesos argentinos" [ref=e1053]:
+                            - generic [ref=e1054]: $
+                            - generic [ref=e1055]: "17.142"
+                      - generic [ref=e1056]: Envío gratispor ser tu primera compra
+                      - generic [ref=e1057]:
+                        - generic [ref=e1058] [cursor=pointer]: Otra opción de compra
+                        - link "53151 pesos argentinos Mismo precio 6 cuotas de 8858 pesos argentinos" [ref=e1059] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-rgb-8000-dpi-negro/up/MLAU299824582?offer_type=BEST_INSTALLMENTS#wid=MLA877445374&sid=search
+                          - generic [ref=e1060]:
+                            - img "53151 pesos argentinos" [ref=e1062]:
+                              - generic [ref=e1063]: $
+                              - generic [ref=e1064]: "53.151"
+                            - generic [ref=e1065]:
+                              - text: Mismo precio 6 cuotas de
+                              - img "8858 pesos argentinos" [ref=e1066]:
+                                - generic [ref=e1067]: $
+                                - generic [ref=e1068]: "8.858"
+                    - generic "Calificación 4.0 de 5 estrellas. Más de 5 productos vendidos." [ref=e1070]:
+                      - img [ref=e1071]
+                      - text: 4.0 | +5 vendidos
+                - switch "Favorito" [ref=e1074] [cursor=pointer]:
+                  - img [ref=e1075]
+                  - img
+            - listitem [ref=e1077]:
+              - generic [ref=e1079]:
+                - img [ref=e1082]
+                - generic [ref=e1083]:
+                  - heading "Mouse Gamer Logitech G203 Gaming Rgb Lightsync 8000 Dpi Negro" [level=3] [ref=e1084]:
+                    - link "Mouse Gamer Logitech G203 Gaming Rgb Lightsync 8000 Dpi Negro" [ref=e1085] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-gaming-rgb-lightsync-8000-dpi/up/MLAU128662250#polycard_client=search-nordic&search_layout=stack&position=24&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA901658954&sid=search
+                  - generic [ref=e1086]:
+                    - generic [ref=e1087]:
+                      - generic [ref=e1088]:
+                        - img "39989 pesos argentinos" [ref=e1090]:
+                          - generic [ref=e1091]: $
+                          - generic [ref=e1092]: "39.989"
+                        - generic [ref=e1093]:
+                          - text: 3 cuotas de
+                          - img "16582 pesos argentinos" [ref=e1094]:
+                            - generic [ref=e1095]: $
+                            - generic [ref=e1096]: "16.582"
+                      - generic [ref=e1097]: Envío gratispor ser tu primera compra
+                      - generic [ref=e1098]:
+                        - generic [ref=e1099] [cursor=pointer]: Otra opción de compra
+                        - link "45587 pesos argentinos Mismo precio 6 cuotas de 7597 pesos argentinos" [ref=e1100] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-gaming-rgb-lightsync-8000-dpi/up/MLAU128662250?offer_type=BEST_INSTALLMENTS#wid=MLA2384115412&sid=search
+                          - generic [ref=e1101]:
+                            - img "45587 pesos argentinos" [ref=e1103]:
+                              - generic [ref=e1104]: $
+                              - generic [ref=e1105]: "45.587"
+                            - generic [ref=e1106]:
+                              - text: Mismo precio 6 cuotas de
+                              - img "7597 pesos argentinos" [ref=e1107]:
+                                - generic [ref=e1108]: $
+                                - generic [ref=e1109]: "7.597"
+                    - generic "Calificación 4.7 de 5 estrellas. Más de 100 productos vendidos." [ref=e1111]:
+                      - img [ref=e1112]
+                      - text: 4.7 | +100 vendidos
+                - switch "Favorito" [ref=e1115] [cursor=pointer]:
+                  - img [ref=e1116]
+                  - img
+            - listitem [ref=e1118]:
+              - generic [ref=e1120]:
+                - generic [ref=e1121]:
+                  - generic:
+                    - generic: Disponible en 2 colores
+                  - img [ref=e1123]
+                - generic [ref=e1124]:
+                  - heading "Mouse Gamer Logitech Lightsync G203 Usb Rgb 8000 Dpi 1ms" [level=3] [ref=e1125]:
+                    - link "Mouse Gamer Logitech Lightsync G203 Usb Rgb 8000 Dpi 1ms" [ref=e1126] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1297523237-mouse-gamer-logitech-lightsync-g203-usb-rgb-8000-dpi-1ms-_JM?searchVariation=176270261011#polycard_client=search-nordic&searchVariation=176270261011&search_layout=stack&position=25&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1127]:
+                    - generic [ref=e1128]:
+                      - img "45566 pesos argentinos" [ref=e1131]:
+                        - generic [ref=e1132]: $
+                        - generic [ref=e1133]: "45.566"
+                      - generic [ref=e1134]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 4.8 de 5 estrellas. Más de 100 productos vendidos." [ref=e1136]:
+                      - img [ref=e1137]
+                      - text: 4.8 | +100 vendidos
+                - switch "Favorito" [ref=e1140] [cursor=pointer]:
+                  - img [ref=e1141]
+                  - img
+            - listitem [ref=e1143]:
+              - generic [ref=e1145]:
+                - img [ref=e1148]
+                - generic [ref=e1149]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Rgb 8000dpi Negro Negro" [level=3] [ref=e1150]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Rgb 8000dpi Negro Negro" [ref=e1151] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-rgb-8000dpi-negro/up/MLAU310247852#polycard_client=search-nordic&search_layout=stack&position=26&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA922930549&sid=search
+                  - generic [ref=e1152]:
+                    - text: FEFOTEC
+                    - img "Tienda oficial" [ref=e1153]
+                  - generic [ref=e1155]:
+                    - generic [ref=e1156]:
+                      - generic [ref=e1157]:
+                        - img "63639 pesos argentinos" [ref=e1159]:
+                          - generic [ref=e1160]: $
+                          - generic [ref=e1161]: "63.639"
+                        - generic [ref=e1162]:
+                          - text: Mismo precio 9 cuotas de
+                          - img "7071 pesos argentinos" [ref=e1163]:
+                            - generic [ref=e1164]: $
+                            - generic [ref=e1165]: "7.071"
+                      - generic [ref=e1166]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 5.0 de 5 estrellas. Más de 25 productos vendidos." [ref=e1168]:
+                      - img [ref=e1169]
+                      - text: 5.0 | +25 vendidos
+                - switch "Favorito" [ref=e1172] [cursor=pointer]:
+                  - img [ref=e1173]
+                  - img
+            - listitem [ref=e1175]:
+              - generic [ref=e1177]:
+                - generic [ref=e1178]:
+                  - generic:
+                    - generic: Disponible en 4 colores
+                    - generic: "4"
+                  - img [ref=e1180]
+                - generic [ref=e1181]:
+                  - heading "Mouse Gamer Logitech G203 Rgb Lightsync Negro" [level=3] [ref=e1182]:
+                    - link "Mouse Gamer Logitech G203 Rgb Lightsync Negro" [ref=e1183] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-rgb-lightsync/up/MLAU3555900881#polycard_client=search-nordic&search_layout=stack&position=27&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2567650984&sid=search
+                  - generic [ref=e1184]:
+                    - text: TECNOENLINEA
+                    - img "Tienda oficial" [ref=e1185]
+                  - generic [ref=e1187]:
+                    - generic [ref=e1188]:
+                      - generic [ref=e1189]:
+                        - img "72380 pesos argentinos" [ref=e1191]:
+                          - generic [ref=e1192]: $
+                          - generic [ref=e1193]: "72.380"
+                        - generic [ref=e1194]:
+                          - text: Mismo precio 12 cuotas de
+                          - img "6031 pesos argentinos" [ref=e1195]:
+                            - generic [ref=e1196]: $
+                            - generic [ref=e1197]: "6.031"
+                      - generic [ref=e1198]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 4.9 de 5 estrellas. Más de 25 productos vendidos." [ref=e1200]:
+                      - img [ref=e1201]
+                      - text: 4.9 | +25 vendidos
+                - switch "Favorito" [ref=e1204] [cursor=pointer]:
+                  - img [ref=e1205]
+                  - img
+            - listitem [ref=e1207]:
+              - generic [ref=e1209]:
+                - generic [ref=e1210]:
+                  - generic:
+                    - generic: Disponible en 2 colores
+                  - img [ref=e1212]
+                - generic [ref=e1213]:
+                  - generic [ref=e1214]:
+                    - img [ref=e1215]
+                    - text: OFERTA IMPERDIBLE
+                  - heading "Mouse Gamer Logitech Lightsync G203 Rgb 8000 Dpi 1ms Usb" [level=3] [ref=e1217]:
+                    - link "Mouse Gamer Logitech Lightsync G203 Rgb 8000 Dpi 1ms Usb" [ref=e1218] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1297536378-mouse-gamer-logitech-lightsync-g203-rgb-8000-dpi-1ms-usb-_JM?searchVariation=176270417955#polycard_client=search-nordic&searchVariation=176270417955&search_layout=stack&position=28&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1219]:
+                    - generic [ref=e1220]:
+                      - generic [ref=e1221]:
+                        - 'img "Antes: 59934 pesos argentinos" [ref=e1222]':
+                          - generic [ref=e1223]: $
+                          - generic [ref=e1224]: "59.934"
+                        - generic [ref=e1225]:
+                          - 'img "Ahora: 50943 pesos argentinos" [ref=e1226]':
+                            - generic [ref=e1227]: $
+                            - generic [ref=e1228]: "50.943"
+                          - generic [ref=e1229]: 15% OFF
+                        - generic [ref=e1230]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "8490 pesos argentinos" [ref=e1231]:
+                            - generic [ref=e1232]: $
+                            - generic [ref=e1233]: "8.490"
+                      - generic [ref=e1234]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 5.0 de 5 estrellas. Más de 5 productos vendidos." [ref=e1236]:
+                      - img [ref=e1237]
+                      - text: 5.0 | +5 vendidos
+                - switch "Favorito" [ref=e1240] [cursor=pointer]:
+                  - img [ref=e1241]
+                  - img
+            - listitem [ref=e1243]:
+              - generic [ref=e1245]:
+                - generic [ref=e1246]:
+                  - generic:
+                    - generic: Disponible en 3 colores
+                  - img [ref=e1248]
+                - generic [ref=e1249]:
+                  - heading "Mouse Gamer Pc Logitech G203 Lightsync Rgb Usb 6 Botones" [level=3] [ref=e1250]:
+                    - link "Mouse Gamer Pc Logitech G203 Lightsync Rgb Usb 6 Botones" [ref=e1251] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-901291904-mouse-gamer-pc-logitech-g203-lightsync-rgb-usb-6-botones-_JM?searchVariation=70873989568#polycard_client=search-nordic&searchVariation=70873989568&search_layout=stack&position=29&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1252]:
+                    - text: PCREGISTRADA
+                    - img "Tienda oficial" [ref=e1253]
+                  - generic [ref=e1255]:
+                    - generic [ref=e1256]:
+                      - img "44686 pesos argentinos" [ref=e1259]:
+                        - generic [ref=e1260]: $
+                        - generic [ref=e1261]: "44.686"
+                      - generic [ref=e1262]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 4.8 de 5 estrellas. Más de 100 productos vendidos." [ref=e1264]:
+                      - img [ref=e1265]
+                      - text: 4.8 | +100 vendidos
+                - switch "Favorito" [ref=e1268] [cursor=pointer]:
+                  - img [ref=e1269]
+                  - img
+            - listitem [ref=e1271]:
+              - generic [ref=e1273]:
+                - img [ref=e1276]
+                - generic [ref=e1277]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync 8000dpi" [level=3] [ref=e1278]:
+                    - link "Mouse Gamer Logitech G203 Lightsync 8000dpi" [ref=e1279] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1941207134-mouse-gamer-logitech-g203-lightsync-8000dpi-_JM?searchVariation=181994796486#polycard_client=search-nordic&searchVariation=181994796486&search_layout=stack&position=30&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1280]:
+                    - generic [ref=e1281]:
+                      - img "42999 pesos argentinos" [ref=e1284]:
+                        - generic [ref=e1285]: $
+                        - generic [ref=e1286]: "42.999"
+                      - generic [ref=e1287]: Envío gratispor ser tu primera compra
+                    - generic "1 vendido" [ref=e1289]
+                - switch "Favorito" [ref=e1291] [cursor=pointer]:
+                  - img [ref=e1292]
+                  - img
+            - listitem [ref=e1294]:
+              - generic [ref=e1296]:
+                - img [ref=e1299]
+                - generic [ref=e1300]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Negro Negro" [level=3] [ref=e1301]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Negro Negro" [ref=e1302] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-lightsync-negro/up/MLAU306283280#polycard_client=search-nordic&search_layout=stack&position=31&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA907878759&sid=search
+                  - generic [ref=e1303]:
+                    - generic [ref=e1304]:
+                      - img "44999 pesos argentinos" [ref=e1307]:
+                        - generic [ref=e1308]: $
+                        - generic [ref=e1309]: "44.999"
+                      - generic [ref=e1310]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 5.0 de 5 estrellas. Más de 5 productos vendidos." [ref=e1312]:
+                      - img [ref=e1313]
+                      - text: 5.0 | +5 vendidos
+                - switch "Favorito" [ref=e1316] [cursor=pointer]:
+                  - img [ref=e1317]
+                  - img
+            - listitem [ref=e1319]:
+              - generic [ref=e1321]:
+                - generic [ref=e1322]:
+                  - generic:
+                    - generic: Disponible en 2 colores
+                  - img [ref=e1324]
+                - generic [ref=e1325]:
+                  - heading "Mouse Gamer Logitech Lightsync G203 Usb Rgb 8000 Dpi 1ms" [level=3] [ref=e1326]:
+                    - link "Mouse Gamer Logitech Lightsync G203 Usb Rgb 8000 Dpi 1ms" [ref=e1327] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-929623523-mouse-gamer-logitech-lightsync-g203-usb-rgb-8000-dpi-1ms-_JM?searchVariation=91200099017#polycard_client=search-nordic&searchVariation=91200099017&search_layout=stack&position=32&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1328]:
+                    - text: POSVENT SOLUCIONES EN PUNTOS D
+                    - img "Tienda oficial" [ref=e1329]
+                  - generic [ref=e1331]:
+                    - generic [ref=e1332]:
+                      - img "45566 pesos argentinos" [ref=e1335]:
+                        - generic [ref=e1336]: $
+                        - generic [ref=e1337]: "45.566"
+                      - generic [ref=e1338]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 5.0 de 5 estrellas. Más de 5 productos vendidos." [ref=e1340]:
+                      - img [ref=e1341]
+                      - text: 5.0 | +5 vendidos
+                - switch "Favorito" [ref=e1344] [cursor=pointer]:
+                  - img [ref=e1345]
+                  - img
+            - listitem [ref=e1347]:
+              - generic [ref=e1349]:
+                - img [ref=e1352]
+                - generic [ref=e1353]:
+                  - heading "Mouse Gamer Logitech Lightsync G203 Black Rgb 8000dpi Usb Negro" [level=3] [ref=e1354]:
+                    - link "Mouse Gamer Logitech Lightsync G203 Black Rgb 8000dpi Usb Negro" [ref=e1355] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-lightsync-g203-black-rgb-8000dpi-usb/up/MLAU3556168190#polycard_client=search-nordic&search_layout=stack&position=33&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1578971117&sid=search
+                  - img "49999 pesos argentinos" [ref=e1358]:
+                    - generic [ref=e1359]: $
+                    - generic [ref=e1360]: "49.999"
+                  - generic [ref=e1361]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e1363] [cursor=pointer]:
+                  - img [ref=e1364]
+                  - img
+            - listitem [ref=e1366]:
+              - generic [ref=e1368]:
+                - img [ref=e1371]
+                - generic [ref=e1372]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Negro" [level=3] [ref=e1373]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Negro" [ref=e1374] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-878101726-mouse-gamer-logitech-g203-lightsync-negro-_JM#polycard_client=search-nordic&search_layout=stack&position=34&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA878101726&sid=search
+                  - generic [ref=e1375]:
+                    - generic [ref=e1376]:
+                      - generic [ref=e1377]:
+                        - img "66342 pesos argentinos" [ref=e1379]:
+                          - generic [ref=e1380]: $
+                          - generic [ref=e1381]: "66.342"
+                        - generic [ref=e1382]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "11057 pesos argentinos" [ref=e1383]:
+                            - generic [ref=e1384]: $
+                            - generic [ref=e1385]: "11.057"
+                      - generic [ref=e1386]: Envío gratis
+                    - generic "Más de 5 productos vendidos." [ref=e1388]: +5 vendidos
+                - switch "Favorito" [ref=e1390] [cursor=pointer]:
+                  - img [ref=e1391]
+                  - img
+            - listitem [ref=e1393]:
+              - generic [ref=e1395]:
+                - img [ref=e1398]
+                - generic [ref=e1399]:
+                  - heading "Mouse Con Cable Logitech G203 Gaming Rgb Lightsync Negro" [level=3] [ref=e1400]:
+                    - link "Mouse Con Cable Logitech G203 Gaming Rgb Lightsync Negro" [ref=e1401] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1141066043-mouse-con-cable-logitech-g203-gaming-rgb-lightsync-negro-_JM?searchVariation=174607578261#polycard_client=search-nordic&searchVariation=174607578261&search_layout=stack&position=35&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - img "48777 pesos argentinos" [ref=e1404]:
+                    - generic [ref=e1405]: $
+                    - generic [ref=e1406]: "48.777"
+                  - generic [ref=e1407]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e1409] [cursor=pointer]:
+                  - img [ref=e1410]
+                  - img
+            - listitem [ref=e1412]:
+              - generic [ref=e1414]:
+                - img [ref=e1417]
+                - generic [ref=e1418]:
+                  - heading "Mouse Con Cable Logitech G203 Gaming Rgb Lightsync Negro" [level=3] [ref=e1419]:
+                    - link "Mouse Con Cable Logitech G203 Gaming Rgb Lightsync Negro" [ref=e1420] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1141040054-mouse-con-cable-logitech-g203-gaming-rgb-lightsync-negro-_JM?searchVariation=174607516007#polycard_client=search-nordic&searchVariation=174607516007&search_layout=stack&position=36&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1421]:
+                    - generic [ref=e1422]:
+                      - generic [ref=e1423]:
+                        - img "60172 pesos argentinos" [ref=e1425]:
+                          - generic [ref=e1426]: $
+                          - generic [ref=e1427]: "60.172"
+                        - generic [ref=e1428]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "10028 pesos argentinos" [ref=e1429]:
+                            - generic [ref=e1430]: $
+                            - generic [ref=e1431]: "10.028"
+                      - generic [ref=e1432]: Envío gratispor ser tu primera compra
+                    - generic "2 vendidos" [ref=e1434]
+                - switch "Favorito" [ref=e1436] [cursor=pointer]:
+                  - img [ref=e1437]
+                  - img
+            - listitem [ref=e1439]:
+              - generic [ref=e1441]:
+                - img [ref=e1444]
+                - generic [ref=e1445]:
+                  - heading "Mouse Logitech G203 Gaming Lightsync Black 910-005793 Negro" [level=3] [ref=e1446]:
+                    - link "Mouse Logitech G203 Gaming Lightsync Black 910-005793 Negro" [ref=e1447] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-gaming-lightsync-black-910005793/up/MLAU1359584514#polycard_client=search-nordic&search_layout=stack&position=37&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1914170714&sid=search
+                  - generic [ref=e1448]:
+                    - text: Rivera Hogar
+                    - img "Tienda oficial" [ref=e1449]
+                  - generic [ref=e1451]:
+                    - img "65499 pesos argentinos" [ref=e1453]:
+                      - generic [ref=e1454]: $
+                      - generic [ref=e1455]: "65.499"
+                    - generic [ref=e1456]:
+                      - text: Mismo precio 9 cuotas de
+                      - img "7277 pesos argentinos" [ref=e1457]:
+                        - generic [ref=e1458]: $
+                        - generic [ref=e1459]: "7.277"
+                  - generic [ref=e1460]: Envío gratis
+                - switch "Favorito" [ref=e1462] [cursor=pointer]:
+                  - img [ref=e1463]
+                  - img
+            - listitem [ref=e1465]:
+              - generic [ref=e1467]:
+                - img [ref=e1470]
+                - generic [ref=e1471]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Negro" [level=3] [ref=e1472]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Negro" [ref=e1473] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-878101722-mouse-gamer-logitech-g203-lightsync-negro-_JM#polycard_client=search-nordic&search_layout=stack&position=38&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA878101722&sid=search
+                  - generic [ref=e1474]:
+                    - generic [ref=e1475]:
+                      - img "52502 pesos argentinos" [ref=e1478]:
+                        - generic [ref=e1479]: $
+                        - generic [ref=e1480]: "52.502"
+                      - generic [ref=e1481]: Envío gratis
+                    - generic "Calificación 4.8 de 5 estrellas. Más de 100 productos vendidos." [ref=e1483]:
+                      - img [ref=e1484]
+                      - text: 4.8 | +100 vendidos
+                - switch "Favorito" [ref=e1487] [cursor=pointer]:
+                  - img [ref=e1488]
+                  - img
+            - listitem [ref=e1490]:
+              - generic [ref=e1492]:
+                - img [ref=e1495]
+                - generic [ref=e1496]:
+                  - heading "Combo Logitech Gamer Mouse G203 8k Dpi Rgb + Mousepad G240 Negro" [level=3] [ref=e1497]:
+                    - link "Combo Logitech Gamer Mouse G203 8k Dpi Rgb + Mousepad G240 Negro" [ref=e1498] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/combo-logitech-gamer-mouse-g203-8k-dpi-rgb--mousepad-g240/up/MLAU156956869#polycard_client=search-nordic&search_layout=stack&position=39&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1308065389&sid=search
+                  - generic [ref=e1499]:
+                    - img "88251 pesos argentinos" [ref=e1501]:
+                      - generic [ref=e1502]: $
+                      - generic [ref=e1503]: "88.251"
+                    - generic [ref=e1504]:
+                      - text: Mismo precio 6 cuotas de
+                      - img "14708 pesos argentinos" [ref=e1505]:
+                        - generic [ref=e1506]: $
+                        - generic [ref=e1507]: "14.708"
+                  - generic [ref=e1508]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e1510] [cursor=pointer]:
+                  - img [ref=e1511]
+                  - img
+            - listitem [ref=e1513]:
+              - generic [ref=e1515]:
+                - generic [ref=e1516]:
+                  - generic:
+                    - generic: Disponible en 2 colores
+                  - img [ref=e1518]
+                - generic [ref=e1519]:
+                  - heading "Mouse Gamer Logitech Lightsync G203 Rgb 8000 Dpi 1ms Usb" [level=3] [ref=e1520]:
+                    - link "Mouse Gamer Logitech Lightsync G203 Rgb 8000 Dpi 1ms Usb" [ref=e1521] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-929627386-mouse-gamer-logitech-lightsync-g203-rgb-8000-dpi-1ms-usb-_JM?searchVariation=91203428825#polycard_client=search-nordic&searchVariation=91203428825&search_layout=stack&position=40&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1522]:
+                    - text: POSVENT SOLUCIONES EN PUNTOS D
+                    - img "Tienda oficial" [ref=e1523]
+                  - generic [ref=e1525]:
+                    - generic [ref=e1526]:
+                      - generic [ref=e1527]:
+                        - img "59934 pesos argentinos" [ref=e1529]:
+                          - generic [ref=e1530]: $
+                          - generic [ref=e1531]: "59.934"
+                        - generic [ref=e1532]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "9989 pesos argentinos" [ref=e1533]:
+                            - generic [ref=e1534]: $
+                            - generic [ref=e1535]: "9.989"
+                      - generic [ref=e1536]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 4.8 de 5 estrellas. Más de 5 productos vendidos." [ref=e1538]:
+                      - img [ref=e1539]
+                      - text: 4.8 | +5 vendidos
+                - switch "Favorito" [ref=e1542] [cursor=pointer]:
+                  - img [ref=e1543]
+                  - img
+            - listitem [ref=e1545]:
+              - generic [ref=e1547]:
+                - img [ref=e1550]
+                - generic [ref=e1551]:
+                  - heading "Mouse De Juego Logitech G Series Lightsync G203 Negro Noaweb" [level=3] [ref=e1552]:
+                    - link "Mouse De Juego Logitech G Series Lightsync G203 Negro Noaweb" [ref=e1553] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1162870246-mouse-de-juego-logitech-g-series-lightsync-g203-negro-noaweb-_JM?searchVariation=175179756876#polycard_client=search-nordic&searchVariation=175179756876&search_layout=stack&position=41&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - img "54000 pesos argentinos" [ref=e1556]:
+                    - generic [ref=e1557]: $
+                    - generic [ref=e1558]: "54.000"
+                  - generic [ref=e1559]: Envío gratis
+                - switch "Favorito" [ref=e1561] [cursor=pointer]:
+                  - img [ref=e1562]
+                  - img
+            - listitem [ref=e1564]:
+              - generic [ref=e1566]:
+                - img [ref=e1569]
+                - generic [ref=e1570]:
+                  - heading "Mouse Gamer Logitech G Series Lightsync G203 Negro" [level=3] [ref=e1571]:
+                    - link "Mouse Gamer Logitech G Series Lightsync G203 Negro" [ref=e1572] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g-series-lightsync-g203/up/MLAU122539272#polycard_client=search-nordic&search_layout=stack&position=42&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1122902566&sid=search
+                  - generic [ref=e1573]:
+                    - img "68912 pesos argentinos" [ref=e1575]:
+                      - generic [ref=e1576]: $
+                      - generic [ref=e1577]: "68.912"
+                    - generic [ref=e1578]:
+                      - text: 3 cuotas de
+                      - img "28575 pesos argentinos" [ref=e1579]:
+                        - generic [ref=e1580]: $
+                        - generic [ref=e1581]: "28.575"
+                  - generic [ref=e1582]: Envío gratispor ser tu primera compra
+                - switch "Favorito" [ref=e1584] [cursor=pointer]:
+                  - img [ref=e1585]
+                  - img
+            - listitem [ref=e1587]:
+              - generic [ref=e1589]:
+                - img [ref=e1592]
+                - generic [ref=e1593]:
+                  - heading "Mouse Logitech G203 Gaming Lightsync Black 910-005793 Negro" [level=3] [ref=e1594]:
+                    - link "Mouse Logitech G203 Gaming Lightsync Black 910-005793 Negro" [ref=e1595] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-gaming-lightsync-black-910005793/up/MLAU180513773#polycard_client=search-nordic&search_layout=stack&position=43&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA1383580039&sid=search
+                  - generic [ref=e1596]:
+                    - text: Rivera Hogar
+                    - img "Tienda oficial" [ref=e1597]
+                  - generic [ref=e1599]:
+                    - generic [ref=e1600]:
+                      - img "50099 pesos argentinos" [ref=e1603]:
+                        - generic [ref=e1604]: $
+                        - generic [ref=e1605]: "50.099"
+                      - generic [ref=e1606]: Envío gratis
+                    - generic "Calificación 5.0 de 5 estrellas. 1 vendido" [ref=e1608]:
+                      - img [ref=e1609]
+                      - text: 5.0 | 1 vendido
+                - switch "Favorito" [ref=e1612] [cursor=pointer]:
+                  - img [ref=e1613]
+                  - img
+            - listitem [ref=e1615]:
+              - generic [ref=e1617]:
+                - img [ref=e1620]
+                - generic [ref=e1621]:
+                  - heading "Mouse Logitech G203 Lightsync Para Juegos Con Cable, Negro" [level=3] [ref=e1622]:
+                    - link "Mouse Logitech G203 Lightsync Para Juegos Con Cable, Negro" [ref=e1623] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1978147876-mouse-logitech-g203-lightsync-para-juegos-con-cable-negro-_JM#polycard_client=search-nordic&search_layout=stack&position=44&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - img "77771 pesos argentinos" [ref=e1626]:
+                    - generic [ref=e1627]: $
+                    - generic [ref=e1628]: "77.771"
+                  - generic [ref=e1629]: Envío gratis
+                  - generic [ref=e1630]: COMPRA INTERNACIONAL
+                  - generic [ref=e1631]: Envío desde USA
+                - switch "Favorito" [ref=e1633] [cursor=pointer]:
+                  - img [ref=e1634]
+                  - img
+            - listitem [ref=e1636]:
+              - generic [ref=e1638]:
+                - img [ref=e1641]
+                - generic [ref=e1642]:
+                  - heading "Mouse Logitech G203 Lightsync Blac Negro" [level=3] [ref=e1643]:
+                    - link "Mouse Logitech G203 Lightsync Blac Negro" [ref=e1644] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-blac/up/MLAU3076149959#polycard_client=search-nordic&search_layout=stack&position=45&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA2034220320&sid=search
+                  - generic [ref=e1645]:
+                    - text: Rivera Hogar
+                    - img "Tienda oficial" [ref=e1646]
+                  - generic [ref=e1648]:
+                    - generic [ref=e1649]:
+                      - generic [ref=e1650]:
+                        - img "50399 pesos argentinos" [ref=e1652]:
+                          - generic [ref=e1653]: $
+                          - generic [ref=e1654]: "50.399"
+                        - generic [ref=e1655]:
+                          - text: 3 cuotas de
+                          - img "20898 pesos argentinos" [ref=e1656]:
+                            - generic [ref=e1657]: $
+                            - generic [ref=e1658]: "20.898"
+                      - generic [ref=e1659]: Envío gratis
+                      - generic [ref=e1660]:
+                        - generic [ref=e1661] [cursor=pointer]: Otra opción de compra
+                        - link "65799 pesos argentinos Mismo precio 6 cuotas de 10966 pesos argentinos" [ref=e1662] [cursor=pointer]:
+                          - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-blac/up/MLAU3076149959?offer_type=BEST_INSTALLMENTS#wid=MLA2034278956&sid=search
+                          - generic [ref=e1663]:
+                            - img "65799 pesos argentinos" [ref=e1665]:
+                              - generic [ref=e1666]: $
+                              - generic [ref=e1667]: "65.799"
+                            - generic [ref=e1668]:
+                              - text: Mismo precio 6 cuotas de
+                              - img "10966 pesos argentinos" [ref=e1669]:
+                                - generic [ref=e1670]: $
+                                - generic [ref=e1671]: "10.966"
+                    - generic "Calificación 5.0 de 5 estrellas. 1 vendido" [ref=e1673]:
+                      - img [ref=e1674]
+                      - text: 5.0 | 1 vendido
+                - switch "Favorito" [ref=e1677] [cursor=pointer]:
+                  - img [ref=e1678]
+                  - img
+            - listitem [ref=e1680]:
+              - generic [ref=e1682]:
+                - img [ref=e1685]
+                - generic [ref=e1686]:
+                  - heading "Mouse Gamer Logitech G203 Prodigy 6000 Dpi Usb 32 Bit Arm Black" [level=3] [ref=e1687]:
+                    - link "Mouse Gamer Logitech G203 Prodigy 6000 Dpi Usb 32 Bit Arm Black" [ref=e1688] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-prodigy-6000-dpi-usb-32-bit-arm/up/MLAU256137255#polycard_client=search-nordic&search_layout=stack&position=46&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA655461827&sid=search
+                  - generic [ref=e1689]:
+                    - generic [ref=e1690]:
+                      - generic [ref=e1691]:
+                        - img "64009 pesos argentinos" [ref=e1693]:
+                          - generic [ref=e1694]: $
+                          - generic [ref=e1695]: "64.009"
+                        - generic [ref=e1696]:
+                          - text: Mismo precio 6 cuotas de
+                          - img "10668 pesos argentinos" [ref=e1697]:
+                            - generic [ref=e1698]: $
+                            - generic [ref=e1699]: "10.668"
+                      - generic [ref=e1700]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 4.8 de 5 estrellas. Más de 5 productos vendidos." [ref=e1702]:
+                      - img [ref=e1703]
+                      - text: 4.8 | +5 vendidos
+                - switch "Favorito" [ref=e1706] [cursor=pointer]:
+                  - img [ref=e1707]
+                  - img
+            - listitem [ref=e1709]:
+              - generic [ref=e1711]:
+                - img [ref=e1714]
+                - generic [ref=e1715]:
+                  - heading "Mouse Logitech G203 Lightsync Rgb Black Black" [level=3] [ref=e1716]:
+                    - link "Mouse Logitech G203 Lightsync Rgb Black Black" [ref=e1717] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-logitech-g203-lightsync-rgb-black/up/MLAU301548563#polycard_client=search-nordic&search_layout=stack&position=47&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA895916881&sid=search
+                  - generic [ref=e1718]:
+                    - generic [ref=e1719]:
+                      - img "47759 pesos argentinos" [ref=e1722]:
+                        - generic [ref=e1723]: $
+                        - generic [ref=e1724]: "47.759"
+                      - generic [ref=e1725]: Envío gratispor ser tu primera compra
+                    - generic "2 vendidos" [ref=e1727]
+                - switch "Favorito" [ref=e1729] [cursor=pointer]:
+                  - img [ref=e1730]
+                  - img
+            - listitem [ref=e1732]:
+              - generic [ref=e1734]:
+                - img [ref=e1737]
+                - generic [ref=e1738]:
+                  - heading "Mouse Logitech G203 Lightsync, Rgb Negro. (usado)" [level=3] [ref=e1739]:
+                    - link "Mouse Logitech G203 Lightsync, Rgb Negro. (usado)" [ref=e1740] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-1519626467-mouse-logitech-g203-lightsync-rgb-negro-usado-_JM?searchVariation=190375551743#polycard_client=search-nordic&searchVariation=190375551743&search_layout=stack&position=48&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - img "20000 pesos argentinos" [ref=e1743]:
+                    - generic [ref=e1744]: $
+                    - generic [ref=e1745]: "20.000"
+                  - generic [ref=e1746]: Usado
+                - switch "Favorito" [ref=e1748] [cursor=pointer]:
+                  - img [ref=e1749]
+                  - img
+            - listitem [ref=e1751]:
+              - generic [ref=e1753]:
+                - img [ref=e1756]
+                - generic [ref=e1757]:
+                  - heading "Mouse Gamer Logitech G203 Negro Negro" [level=3] [ref=e1758]:
+                    - link "Mouse Gamer Logitech G203 Negro Negro" [ref=e1759] [cursor=pointer]:
+                      - /url: https://www.mercadolibre.com.ar/mouse-gamer-logitech-g203-negro/up/MLAU303133332#polycard_client=search-nordic&search_layout=stack&position=49&type=product&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0&wid=MLA902108607&sid=search
+                  - generic [ref=e1760]:
+                    - generic [ref=e1761]:
+                      - img "46176 pesos argentinos" [ref=e1764]:
+                        - generic [ref=e1765]: $
+                        - generic [ref=e1766]: "46.176"
+                      - generic [ref=e1767]: Envío gratispor ser tu primera compra
+                    - generic "Calificación 5.0 de 5 estrellas. Más de 5 productos vendidos." [ref=e1769]:
+                      - img [ref=e1770]
+                      - text: 5.0 | +5 vendidos
+                - switch "Favorito" [ref=e1773] [cursor=pointer]:
+                  - img [ref=e1774]
+                  - img
+            - listitem [ref=e1776]:
+              - generic [ref=e1778]:
+                - img [ref=e1781]
+                - generic [ref=e1782]:
+                  - heading "Mouse Gamer Logitech G203 Lightsync Gaming Rgb 8000 Dpi" [level=3] [ref=e1783]:
+                    - link "Mouse Gamer Logitech G203 Lightsync Gaming Rgb 8000 Dpi" [ref=e1784] [cursor=pointer]:
+                      - /url: https://articulo.mercadolibre.com.ar/MLA-877490399-mouse-gamer-logitech-g203-lightsync-gaming-rgb-8000-dpi-_JM?searchVariation=78872056138#polycard_client=search-nordic&searchVariation=78872056138&search_layout=stack&position=50&type=item&tracking_id=ca8667eb-311e-49e0-b9c7-f748bbf46ce0
+                  - generic [ref=e1785]:
+                    - generic [ref=e1786]:
+                      - img "50424 pesos argentinos" [ref=e1789]:
+                        - generic [ref=e1790]: $
+                        - generic [ref=e1791]: "50.424"
+                      - generic [ref=e1792]: Envío gratispor ser tu primera compra
+                    - generic "Más de 5 productos vendidos." [ref=e1794]: +5 vendidos
+                - switch "Favorito" [ref=e1796] [cursor=pointer]:
+                  - img [ref=e1797]
+                  - img
+          - navigation "Paginación" [ref=e1800]:
+            - list [ref=e1801]:
+              - listitem [ref=e1802]:
+                - link "Ir a la página 1" [ref=e1803]:
+                  - /url: ""
+                  - text: "1"
+              - listitem [ref=e1804]:
+                - link "Ir a la página 2" [ref=e1805] [cursor=pointer]:
+                  - /url: ""
+                  - text: "2"
+              - listitem [ref=e1806]:
+                - link "Siguiente" [ref=e1807] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e1808]: Siguiente
+                  - img [ref=e1809]
+          - generic [ref=e1813]:
+            - img [ref=e1816]
+            - paragraph [ref=e1821]: El envío gratis está sujeto al peso, precio y la distancia del envío.
+      - generic [ref=e1829]:
+        - heading "Destacado en Computación" [level=3] [ref=e1831]
+        - generic [ref=e1832]:
+          - generic [ref=e1833]:
+            - heading "Tablet" [level=4] [ref=e1834]:
+              - link "Tablet" [ref=e1835] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/tablet#headterms
+            - list [ref=e1836]:
+              - listitem [ref=e1837]:
+                - link "Ipad" [ref=e1838] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad#headterms
+              - listitem [ref=e1839]:
+                - link "Ipad 9 generacion" [ref=e1840] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-9-generacion#headterms
+              - listitem [ref=e1841]:
+                - link "Ipad 10" [ref=e1842] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-10#headterms
+              - listitem [ref=e1843]:
+                - link "Ipad mini" [ref=e1844] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-mini#headterms
+              - listitem [ref=e1845]:
+                - link "Ipad pro" [ref=e1846] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/ipad-pro#headterms
+              - listitem [ref=e1847]:
+                - link "Lenovo tab m10" [ref=e1848] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo-tab-m10#headterms
+              - listitem [ref=e1849]:
+                - link "Lenovo tab p11 pro" [ref=e1850] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo-tab-p11-pro#headterms
+            - button "Ver todo" [ref=e1851] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1852]
+          - generic [ref=e1854]:
+            - heading "Impresoras" [level=4] [ref=e1855]:
+              - link "Impresoras" [ref=e1856] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/impresoras#headterms
+            - list [ref=e1857]:
+              - listitem [ref=e1858]:
+                - link "Brother hl 1212w" [ref=e1859] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/brother-hl-1212w#headterms
+              - listitem [ref=e1860]:
+                - link "Epson ecotank" [ref=e1861] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/epson-ecotank#headterms
+              - listitem [ref=e1862]:
+                - link "Hp laser 107w" [ref=e1863] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/hp-laser-107w#headterms
+              - listitem [ref=e1864]:
+                - link "Hp smart tank 520" [ref=e1865] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/hp-smart-tank-520#headterms
+              - listitem [ref=e1866]:
+                - link "Impresora 3d" [ref=e1867] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/impresora-3d#headterms
+              - listitem [ref=e1868]:
+                - link "Impresora a3 sistema continuo" [ref=e1869] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/impresora-a3-sistema-continuo#headterms
+              - listitem [ref=e1870]:
+                - link "Impresora brother" [ref=e1871] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/impresora-brother#headterms
+            - button "Ver todo" [ref=e1872] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1873]
+          - generic [ref=e1875]:
+            - heading "Monitor" [level=4] [ref=e1876]:
+              - link "Monitor" [ref=e1877] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/monitor#headterms
+            - list [ref=e1878]:
+              - listitem [ref=e1879]:
+                - link "Monitor 144hz" [ref=e1880] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-144hz#headterms
+              - listitem [ref=e1881]:
+                - link "Monitor 24 pulgadas" [ref=e1882] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-24-pulgadas#headterms
+              - listitem [ref=e1883]:
+                - link "Monitor 240hz" [ref=e1884] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-240hz#headterms
+              - listitem [ref=e1885]:
+                - link "Monitor 27 pulgadas" [ref=e1886] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-27-pulgadas#headterms
+              - listitem [ref=e1887]:
+                - link "Monitor 4k" [ref=e1888] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-4k#headterms
+              - listitem [ref=e1889]:
+                - link "Monitor curvo" [ref=e1890] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-curvo#headterms
+              - listitem [ref=e1891]:
+                - link "Monitor dell 27" [ref=e1892] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/monitor-dell-27#headterms
+            - button "Ver todo" [ref=e1893] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1894]
+          - generic [ref=e1896]:
+            - heading "Placas de video" [level=4] [ref=e1897]:
+              - link "Placas de video" [ref=e1898] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/placas-de-video#headterms
+            - list [ref=e1899]:
+              - listitem [ref=e1900]:
+                - link "Gtx 1050 ti" [ref=e1901] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1050-ti#headterms
+              - listitem [ref=e1902]:
+                - link "Gtx 1650" [ref=e1903] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1650#headterms
+              - listitem [ref=e1904]:
+                - link "Gtx 1660" [ref=e1905] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1660#headterms
+              - listitem [ref=e1906]:
+                - link "Gtx 1660 super" [ref=e1907] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/gtx-1660-super#headterms
+              - listitem [ref=e1908]:
+                - link "Rtx 2060" [ref=e1909] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/rtx-2060#headterms
+              - listitem [ref=e1910]:
+                - link "Rtx 3060" [ref=e1911] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/rtx-3060#headterms
+              - listitem [ref=e1912]:
+                - link "Rtx 3060 ti" [ref=e1913] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/rtx-3060-ti#headterms
+            - button "Ver todo" [ref=e1914] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1915]
+          - generic [ref=e1917]:
+            - heading "Notebook" [level=4] [ref=e1918]:
+              - link "Notebook" [ref=e1919] [cursor=pointer]:
+                - /url: https://listado.mercadolibre.com.ar/notebook#headterms
+            - list [ref=e1920]:
+              - listitem [ref=e1921]:
+                - link "Alienware" [ref=e1922] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/alienware#headterms
+              - listitem [ref=e1923]:
+                - link "Asus rog zephyrus" [ref=e1924] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/asus-rog-zephyrus#headterms
+              - listitem [ref=e1925]:
+                - link "Asus vivobook" [ref=e1926] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/asus-vivobook#headterms
+              - listitem [ref=e1927]:
+                - link "Galaxy book 3" [ref=e1928] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/galaxy-book-3#headterms
+              - listitem [ref=e1929]:
+                - link "Hp omen" [ref=e1930] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/hp-omen#headterms
+              - listitem [ref=e1931]:
+                - link "Lenovo" [ref=e1932] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo#headterms
+              - listitem [ref=e1933]:
+                - link "Lenovo ideapad" [ref=e1934] [cursor=pointer]:
+                  - /url: https://listado.mercadolibre.com.ar/lenovo-ideapad#headterms
+            - button "Ver todo" [ref=e1935] [cursor=pointer]:
+              - text: Ver todo
+              - img [ref=e1936]
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e1938] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e1939]: 
+  - contentinfo [ref=e1940]:
+    - generic [ref=e1942]:
+      - generic [ref=e1943]:
+        - generic [ref=e1944]: Copyright © 1999-2025 MercadoLibre S.R.L.
+        - navigation [ref=e1945]:
+          - list [ref=e1946]:
+            - listitem [ref=e1947]:
+              - link "Trabajá con nosotros" [ref=e1948] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e1949]:
+              - link "Términos y condiciones" [ref=e1950] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991
+            - listitem [ref=e1951]:
+              - link "Promociones" [ref=e1952] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/promociones
+            - listitem [ref=e1953]:
+              - link "Cómo cuidamos tu privacidad" [ref=e1954] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/privacidad
+            - listitem [ref=e1955]:
+              - link "Accesibilidad" [ref=e1956] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/accesibilidad
+            - listitem [ref=e1957]:
+              - link "Información al usuario financiero" [ref=e1958] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/18697
+            - listitem [ref=e1959]:
+              - link "Ayuda" [ref=e1960] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda
+            - listitem [ref=e1961]:
+              - link "Defensa del Consumidor" [ref=e1962] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014
+            - listitem [ref=e1963]:
+              - link "Información sobre seguros" [ref=e1964] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/23303
+            - listitem [ref=e1965]:
+              - link "Libro de quejas online" [ref=e1966] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/ayuda/4623
+            - listitem [ref=e1967]:
+              - link "Programa de Afiliados" [ref=e1968] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.ar/l/afiliados
+      - paragraph [ref=e1969]: Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+    - link "Mercado Libre" [ref=e1970] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop
+```
